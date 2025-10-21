@@ -1,0 +1,284 @@
+{
+  "id": "oct-9-20-2025",
+  "title": "October 9-20, 2025",
+  "date": "October 20, 2025",
+  "dateRange": "Oct 9-20, 2025",
+  "preview": "Google Veo 3.1 officially launches, Sora 2 removes watermarks, Higgsfield business concerns, attention span economics, and comprehensive technical workflows.",
+  "content": {
+    "sections": [
+      {
+        "title": "🚀 Major Tool Releases & Updates",
+        "items": [
+          {
+            "title": "Google Veo 3.1 Launch",
+            "links": [
+              {
+                "text": "Google Veo 3.1",
+                "url": "https://www.linkedin.com/posts/-garypalmer_another-day-another-stepwise-change-google-ugcPost-7381969261562478592-BolH"
+              },
+              {
+                "text": "Google Flow",
+                "url": "https://x.com/officiallogank/status/1978275361336045871"
+              }
+            ],
+            "content": "The biggest news of the period was the official release of Google Veo 3.1 on October 15th. The community had been anticipating this release since October 9th when teasers began appearing on platforms like Higgsfield. **Matthieu** noted the positioning difference: \"OpenAI's Sora2 is built for consumers. Google's Veo3 is built for professionals. Different goals, different end games.\"\n\nWhen Veo 3.1 went live in Google Flow, **PJ Accetturo** warned the community: \"Don't get suckered into all these API sites charging you $5 a clip.\" The release came with some technical specifications that sparked discussion - **Chris First** confirmed it \"renders at 720 and can upscale to 1080 on Flow,\" though **Jordan Daniel Chesney** noted disappointment about \"No 1080p for Veo 3.1.\" **Rourke** observed that Freepik was offering 1080p, suggesting they were using their own upscaler.\n\nInitial testing revealed unexpected issues. **Jordan** reported that \"music is on almost every gen\" and questioned if this was an intentional feature. The launch also experienced typical server strain, with users getting stuck at 99% generation progress and error messages stating \"This model is currently unavailable.\" **Chris First** noted that the main new feature appeared to be \"ingredients\" support, though **Rourke** clarified this wasn't actually new for Ultra Plan users who already had it on Veo 2.\n\nThere was significant confusion around fake Veo 3.1 API access. **Wavespeed** claimed to have Veo 3.1 API, which **Claire Xue** (who is with the Veo team) immediately debunked: \"No I'm with veo team now it's not out.\" **Jordan** questioned why they would make such a risky move: \"They're asking for a lawsuit it seems.\" **Max** and **Rourke** also identified suspicious Veo 3.1 clips that appeared to be stitched together with hidden cuts.",
+            "posters": ["Matthieu", "PJ Accetturo", "Chris First", "Jordan Daniel Chesney", "Rourke", "Claire Xue", "Max"]
+          },
+          {
+            "title": "Sora 2 & Sora 2 Pro Developments",
+            "content": "The Sora ecosystem saw significant discussion around the Pro tier. **Matthieu** asked about the difference between Sora 2 and Sora 2 Pro, which costs 4x in credits on Freepik. **Chris First** explained: \"High resolution, up to 15 seconds. 30 minutes to render.\" The 30-minute render time shocked the community, with **Chris** sharing his frustration: \"Took me like 30 min last night and then it failed. So wasted 30 min waiting lol.\"\n\n**Chad Nelson** provided practical guidance: \"Pro is great for cinema visuals… but not needed for most other things.\" The remix feature drew criticism from **Noah**: \"Also remix is a pain in the ass to use. You have to know the videos code. But no watermark so… hooray?\"\n\nA major quality-of-life improvement arrived on October 11th when **Billy Boman** confirmed: \"Confirm NO watermark in Sora 2! (as in the Open AI interface).\" This was significant because, as **Billy** noted, \"all API was without watermark from the beginning - slightly unintuitive imo consider the Sora 2 price tag.\"\n\n**Higgsfield** made waves by claiming to offer \"Sora 2 Pro Max +\" which **Chris First** mocked: \"Oh you didn't get the CPP invite?😂😭 I'm already on Sora 17 Pro Max +.\" He speculated: \"Its probably Sora with an upscaler in the pipeline between API and user, but it should just say that.\" **Jordan Daniel Chesney** summed up community sentiment: \"Higgsfield should probably just say a lot. 😂\"",
+            "posters": ["Matthieu", "Chris First", "Chad Nelson", "Noah", "Billy Boman", "Jordan Daniel Chesney"]
+          },
+          {
+            "title": "Figure 03 Humanoid Robot",
+            "links": [
+              {
+                "text": "Figure 03 humanoid robot",
+                "url": "https://www.instagram.com/reel/DPlutZkkWEG/?igsh=bXpiNGFqczExN2dh"
+              },
+              {
+                "text": "video from Justin Ryan",
+                "url": "https://x.com/justinryanio/status/1976296290343378977"
+              }
+            ],
+            "content": "The Figure 03 humanoid robot generated significant discussion. **Matthieu** questioned if it could talk, sharing a video from Justin Ryan. **Albert Bozesan** found the faceless design unsettling: \"Super impressive. But does anyone else find these faceless robots super creepy? I'm gonna at least need some friendly LED or screen eyes.\"\n\n**Matthieu** expressed deeper concerns about the anthropomorphic implications: \"I think the anthropological feeling I get is worse : we're going to enslave human like bodies + superintelligence within when they will have it. But I do love the design. But I felt a bit sad for him bcs he feels more human than machine.\"",
+            "posters": ["Matthieu", "Albert Bozesan"]
+          },
+          {
+            "title": "Other Tool Updates",
+            "content": "- **Karavideo**: Santiago asked if anyone had tested it, though no detailed responses followed\n- **Enhancor & WAN 2.2**: Rourke recommended these for character swapping and photo animation, noting \"Tried it on higgsfield and it was horseshit, but Enhancor broke it down nicely\"\n- **InfiniteTalk**: Emerged as a favorite for lip-syncing, with multiple community members praising it\n- **Nano Banana**: Significant discussion about quality differences across platforms, with Rourke and Blvckl!ght noting Freepik's compression issues",
+            "posters": ["Santiago", "Rourke", "Blvckl!ght"]
+          }
+        ]
+      },
+      {
+        "title": "💡 Industry Discussions & Insights",
+        "items": [
+          {
+            "title": "The Tilly AI Actress Controversy",
+            "links": [
+              {
+                "text": "the media storm",
+                "url": "https://x.com/venturetwins/status/1977095166680088875"
+              }
+            ],
+            "content": "The announcement of \"Tilly,\" an AI-generated actress in a film premiering at Zurich Film Festival, dominated industry discourse. **Matthieu** shared coverage showing the media storm around the project. **Albert Bozesan** provided context: \"It's wild. I haven't looked super deep into it but there isn't really much tech behind Tilly, right? It's basically stuff that's been possible for at least two years…? It's basically 'good' marketing and announcing it at Zurich Film Festival in front of the right journalists.\"\n\n**Matthieu** expressed frustration with the attention it was receiving: \"It's just that no one wants this no one cares about this. And still everyone is speaking about this. Now they just made that AI crap famous and of course it will work. Because they know it will make headlines if in a film.\"\n\n**Danny Perkins** offered a contrasting perspective on how the RealDreams community should position itself: \"It's actually a case study on how not to do things... You will get better press for sure - your empowered creatives rather than livelihood stealing avatars…\"\n\n**Henry** drew parallels to broader AI film debates: \"It's the same debate as AI films. Critics hate it but audience doesn't care… they just want to be entertained.\"",
+            "posters": ["Matthieu", "Albert Bozesan", "Danny Perkins", "Henry"]
+          },
+          {
+            "title": "Platform Economics & Business Models",
+            "content": "**Blvckl!ght** sparked discussion about the future of all-in-one platforms: \"The question is which all-in-one is going to offer it unlimited and eat the cost. My bet is higgs.\" He emphasized the need for integrated workflows: \"For clips of that length, I'd want the ability to assign characters and voices along with promp/scripting.\"\n\n**Chris First** agreed on the voice integration pain point: \"Key is AND voices I'm tired of moving it to another tool.\" **Blvckl!ght** shared his workflow frustration: \"Bro every single clip I'm doing right now is voice to voice cloning and the biggest pain in the ass bc most of the time I have to do it one clip at a time. Like all the tools exist to do it currently through an api, it's who is going to put all the pieces together first at the lowest cost.\"",
+            "posters": ["Blvckl!ght", "Chris First"]
+          },
+          {
+            "title": "Higgsfield Business Concerns",
+            "links": [
+              {
+                "text": "concerning post",
+                "url": "https://x.com/cfryant/status/1978159105765253448"
+              }
+            ],
+            "content": "Serious concerns emerged about Higgsfield's business practices. **Chris First** shared a concerning post and stated: \"I'm going to hop on a call with Alex and tell him to just hire me so I can fix his stupid company. Their marketing team, his community managers, his invoicers... Like you're going to see your company fail at this point.\"\n\n**Rourke** reported: \"Yep… hearing about creators who did brand deals for them 3 months ago and NEVER paid them. Just ignoring emails after they post videos for them. No bueno.\" **Chris** made a public call: \"If anyone has any issues with Higgsfield that are not resolved please reply to me here or DM me privately. I will speak with Alex this week.\"\n\n**Rourke** tried to balance the criticism: \"I love their tenacity, they work really hard, just needs more company structure! I personally like their platform for image gen 🥶\"",
+            "posters": ["Chris First", "Rourke"]
+          },
+          {
+            "title": "Attention Span Economics",
+            "content": "**Noah** shared striking data from political campaign work: \"We've been doing some testing. Works. Total adult brainrot but it works... I've done a by h of social work for political campaigns and we recently did a viewer attention breakdown. Since the election we've found we went from five seconds before the election, three seconds during, to less than one now, to grab attention.\"\n\nHe connected this to micro-content formats: \"The micro dramas are just that on the studio level. We're all dying in our brains right now. Quiby was just too early.\" Later he clarified the current standard: \"Yeah it's now down to having an image and a cut within the space of 1 second or ideally at the one second mark. I really hate it.\"\n\n**Blvckl!ght** provided platform-specific insights: \"The advantage tiktok has over instagram is that 16:9 can be flipped for viewing. I've had awesome numbers on even 6-7 min vids on tiktok in 16:9, but completely dies on ig bc it's too small on the screen. I've gone so far as early on telling people to click it and flip it. Plus it's harder to scroll away when they're in 16:9 viewing.\"\n\n**Albert Bozesan** discussed the economics of AI production: \"To make it viable AI needs to actually be cheaper than shooting it as cheaply as you possibly can, which is CRAZY cheap to do already. It's kind of counter-intuitive because you need really good AI folks who don't wanna do it 😂\"",
+            "posters": ["Noah", "Blvckl!ght", "Albert Bozesan"]
+          },
+          {
+            "title": "Platform Quality Comparisons",
+            "content": "**Rourke** raised concerns about Freepik's image compression: \"Correct me if I'm wrong but I feel like Freepik compress images so much, I will use nano banana on a photo realistic image and output looks like a game of snake on a Nokia phone 🤷‍♂️\"\n\n**Blvckl!ght** confirmed: \"I noticed the same. Nano on Krea is better... Im using nano a ton this month and have been comparing the outputs and noticed it a few days ago. Its like super muddy.\" **Julien Durand** offered an alternative: \"I will typically use Nano in Comfy directly personally.\"",
+            "posters": ["Rourke", "Blvckl!ght", "Julien Durand"]
+          }
+        ]
+      },
+      {
+        "title": "🎨 Creative Work Showcased",
+        "items": [
+          {
+            "title": "Ludovic's Major Project",
+            "links": [
+              {
+                "text": "2.5 months of work",
+                "url": "https://youtu.be/pReL4q1di_c?si=WJMnLPqL4jl4L3mO"
+              }
+            ],
+            "content": "Ludovic released a significant project after 2.5 months of work.",
+            "posters": ["Ludovic"]
+          },
+          {
+            "title": "Max's Google Belgium Launch Film",
+            "links": [
+              {
+                "text": "launch film for Google's new €5 billion investment in Belgium",
+                "url": "https://www.linkedin.com/posts/google-cloud_we-are-proud-to-announce-a-new-5-billion-activity-7383409682104754176-c-mL"
+              }
+            ],
+            "content": "Max announced a major commercial project: \"NEW WORK 💥 We are honored to have created the launch film for Google's new €5 billion investment in Belgium, a powerful step forward for Europe's digital and AI future. Grateful to the Google team for the trust and creative freedom on this incredible project. AI Artists: Max Larsson & Jennie Larsson. Music & Sound design: Nikodemus Lindhé\"",
+            "posters": ["Max Larsson", "Jennie Larsson"]
+          },
+          {
+            "title": "Davide Bianca's Music Video",
+            "links": [
+              {
+                "text": "metal music video",
+                "url": "https://www.linkedin.com/posts/davidebianca_grail-grail-voidndisorder-activity-7382088404672585728-C2xB"
+              }
+            ],
+            "content": "Davide shared his work on a metal music video: \"One for the metal heads dreamers in here.\"",
+            "posters": ["Davide Bianca"]
+          },
+          {
+            "title": "David Clark's Sora 2 Short",
+            "links": [
+              {
+                "text": "first Sora 2 short",
+                "url": "https://x.com/Diesol/status/1976937649311998203"
+              }
+            ],
+            "content": "David released his first Sora 2 short: \"Had fun with Tupac and Mr Rogers… now back to business.\"",
+            "posters": ["David Clark"]
+          },
+          {
+            "title": "Matthieu's Annual Short Film",
+            "links": [
+              {
+                "text": "early 2025 short film",
+                "url": "https://www.instagram.com/reel/DIcLLc9N7W3/?igsh=M3M1YmJta2RicW1v"
+              }
+            ],
+            "content": "Matthieu shared his early 2025 short film: \"For those who haven't seen it my annual short film from early 2025.\"",
+            "posters": ["Matthieu"]
+          },
+          {
+            "title": "Rory Flynn's Fight Scene",
+            "links": [
+              {
+                "text": "impressive fight scene",
+                "url": "https://www.instagram.com/reel/DPo0DnEDFt-/?igsh=MTl5YTIwc2N0eGp4dQ=="
+              }
+            ],
+            "content": "Rory showcased an impressive fight scene that drew community praise.",
+            "posters": ["Rory Flynn"]
+          },
+          {
+            "title": "Ramon Guthrie's Work",
+            "links": [
+              {
+                "text": "latest creation",
+                "url": "https://x.com/Ramonnavarro/status/1977483692000825756"
+              }
+            ],
+            "content": "Ramon shared his latest creation on October 12th.",
+            "posters": ["Ramon Guthrie"]
+          }
+        ]
+      },
+      {
+        "title": "🛠️ Technical Tips & Workflows",
+        "items": [
+          {
+            "title": "Sora Character Consistency Techniques",
+            "content": "**Dale** shared his workflow for achieving character consistency in Sora: \"Take a still from the first Sora video you generate, then I2V with a thorough prompt w/ consistent description of setting + character.\" He elaborated: \"Lately I'm leaning on LLMs I train more. I'll upload a still as I described, and request a new shot but with the LLM adding thorough descriptions of the appearances of the things I want to keep, in way that makes sense for the shot. Sora seems to respond, but sometimes messed with style a bit so it's usually a few rolls to get it perfect.\"\n\n**PJ Accetturo** shared an interesting thread on consistent characters: \"TLDR; basically if you upload a character sketch, you can get close to a consistent person\" using Nano Banana prompts.",
+            "links": [
+              {
+                "text": "thread on consistent characters",
+                "url": "https://x.com/rainisto/status/1977283831968227762"
+              }
+            ],
+            "posters": ["Dale", "PJ Accetturo"]
+          },
+          {
+            "title": "Lip-Sync Solutions",
+            "content": "**Kat Gellein Viken** asked about lip-sync tools, noting \"Kling seems to be worse at it than a few months ago.\" The community provided several solutions:\n\n- **Billy Boman**: \"I used Kling Speak here, worked well even for the fast rap parts mostly\"\n- **Albert Bozesan**: \"I've been getting great results with InfiniteTalk, but be aware it basically regenerates the whole thing (that's what makes the integration so good, though)\"\n- **Zack Abrams**: \"Sync.so works quite well\"\n- **Julien Durand**: Shared InfiniteTalk examples calling it \"amazing\"\n- **Jordan Daniel Chesney**: \"InfiniteTalk works well with mid and close up shots for video to video\"",
+            "links": [
+              {
+                "text": "ComfyUI workflow",
+                "url": "https://github.com/kijai/ComfyUI-WanVideoWrapper/blob/main/example_workflows/wanvideo_I2V_InfiniteTalk_example_03.json"
+              },
+              {
+                "text": "InfiniteTalk examples",
+                "url": "https://x.com/julienaiart/status/1976787531720278159"
+              },
+              {
+                "text": "test results",
+                "url": "https://x.com/jordandchesney/status/1964415082034807126"
+              }
+            ],
+            "posters": ["Kat Gellein Viken", "Billy Boman", "Albert Bozesan", "Zack Abrams", "Julien Durand", "Jordan Daniel Chesney"]
+          },
+          {
+            "title": "Child Voice Generation",
+            "content": "**Luka T** asked about generating child voices with 11Labs, reporting \"Keep getting 'nah bro' messages.\" Solutions offered:\n\n- **Melody Bossan**: \"That's a pain to generate child voices. Either you train one on your kids, either you use voice filters in post. You can try also prompting cartoony characters like little mouse, etc…\"\n- **Ryan Phillips**: \"Yeah I got for the youngest voice on open AI then do a pitch shift. CapCut has a good filter but it has very limited emotional range\"\n- **MetaPuppet**: \"I had success generating a child's dialogue through veo3 on Freepik, then bringing that audio into 11labs and creating a custom voice\"",
+            "posters": ["Luka T", "Melody Bossan", "Ryan Phillips", "MetaPuppet"]
+          },
+          {
+            "title": "WAN LoRA Training",
+            "content": "**Edmond Yang** asked about training WAN LoRAs, with **Albert Bozesan** pointing to **Seb Ungrad** as someone who \"has done a couple.\"",
+            "posters": ["Edmond Yang", "Albert Bozesan", "Seb Ungrad"]
+          }
+        ]
+      },
+      {
+        "title": "👥 Community Updates",
+        "items": [
+          {
+            "title": "New Member: JD Leroy",
+            "links": [
+              {
+                "text": "LinkedIn profile",
+                "url": "https://www.linkedin.com/in/jdleroy/"
+              }
+            ],
+            "content": "**Issa Sissoko** welcomed **JD Leroy** to the group: \"JD Leroy just joined the RealDreams chat. Product designer at Wonder, co-founded Playbook 3D. Clean taste, sharp instincts, zero fluff. Welcome JD. ✨\"\n\n**JD** introduced himself: \"Hi all, great to meet everyone 🙂 big fan of pairing highly controllable, parametric 3d workflows with diffusion models.\"",
+            "posters": ["Issa Sissoko", "JD Leroy"]
+          },
+          {
+            "title": "New Member: Jagger",
+            "content": "**Jagger** was also added to the group by **Claire Xue** on October 14th.",
+            "posters": ["Claire Xue", "Jagger"]
+          },
+          {
+            "title": "Job Posting: London Post House",
+            "content": "**Olly Ginelli** posted a job alert: \"🚨JOB ALERT 🚨 We have upcoming work with one of Londons biggest post houses and we need the following ops. Nuke, Flame, Houdini, cinema 4d, Maya etc. Please tell them to get in touch with us ASAP, sending updated CV's to bookings@nostropeople.com. Ideally they're someone you've worked with personally and can vouch for, so please tell them to mention that in their email to us.\" He added: \"Of course if they are incorporating AI workflows then even better...\"",
+            "posters": ["Olly Ginelli"]
+          },
+          {
+            "title": "Albert Bozesan's Wedding",
+            "content": "**Albert** shared personal news: \"Random question: I'm in SF for the next 24h (on my way to get married further north!)\" The community congratulated him, with **Blair** saying \"Congrats dude!! 💍\"",
+            "posters": ["Albert Bozesan", "Blair"]
+          },
+          {
+            "title": "Edmond Yang's Industry Connection",
+            "content": "**Edmond** shared that he met with someone who's \"about to direct a John Wick spinoff,\" sparking **Junie's** playful suggestion: \"Maybe we should ask him to invest in us 😇\"",
+            "posters": ["Edmond Yang", "Junie"]
+          },
+          {
+            "title": "Community Support",
+            "content": "**Seb Ungrad** praised **Chad Nelson**: \"Great going Chad Nelson. Love that you have everything in one simple interface and one pipeline.\"\n\n**Danny Perkins** expressed appreciation for the group: \"I'm a silent observer on heee usually - you guys are way smarter and doing much better work! Priveliged to have a front row seat in seeing you shape the future together.\"",
+            "posters": ["Seb Ungrad", "Chad Nelson", "Danny Perkins"]
+          }
+        ]
+      },
+      {
+        "title": "🔧 All New Releases & Tools Updated",
+        "items": [
+          {
+            "title": "Major Releases",
+            "content": "- **Google Veo 3.1** - Launched October 15th in Google Flow, 720p native with 1080p upscaling, ingredients support\n- **Sora 2 Watermark Removal** - Confirmed October 11th, watermark removed from official OpenAI interface\n- **Figure 03 Humanoid Robot** - Advanced humanoid with potential voice capabilities"
+          },
+          {
+            "title": "Platform Updates",
+            "content": "- **Higgsfield** - Claimed \"Sora 2 Pro Max +\" tier (authenticity questioned)\n- **Freepik** - Offering Veo 3.1 at 1080p (likely using custom upscaler)\n- **Wavespeed** - Falsely claimed Veo 3.1 API access (debunked by Google Veo team)\n- **Enhancor** - WAN 2.2 integration for character swapping\n- **InfiniteTalk** - Growing adoption for lip-sync workflows"
+          },
+          {
+            "title": "Tools Discussed",
+            "content": "- Karavideo (mentioned but not extensively tested)\n- Sync.so (lip-sync solution)\n- Nano Banana (quality varies by platform)\n- Kling Speak (lip-sync, mixed recent results)\n- ComfyUI with WAN Video Wrapper\n- 11Labs (voice generation and cloning)"
+          }
+        ]
+      }
+    ]
+  }
+}
+
