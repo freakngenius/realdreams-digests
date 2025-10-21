@@ -10,7 +10,7 @@
         "title": "🚀 Major Tool Releases & Updates",
         "items": [
           {
-            "title": "Google Veo 3.1 Launch",
+            "title": "🔗 Google Veo 3.1 Launch",
             "links": [
               {
                 "text": "Google Veo 3.1",
@@ -25,12 +25,12 @@
             "posters": ["Matthieu", "PJ Accetturo", "Chris First", "Jordan Daniel Chesney", "Rourke", "Claire Xue", "Max"]
           },
           {
-            "title": "Sora 2 & Sora 2 Pro Developments",
+            "title": "🎬 Sora 2 & Sora 2 Pro Developments",
             "content": "The Sora ecosystem saw significant discussion around the Pro tier. **Matthieu** asked about the difference between Sora 2 and Sora 2 Pro, which costs 4x in credits on Freepik. **Chris First** explained: \"High resolution, up to 15 seconds. 30 minutes to render.\" The 30-minute render time shocked the community, with **Chris** sharing his frustration: \"Took me like 30 min last night and then it failed. So wasted 30 min waiting lol.\"\n\n**Chad Nelson** provided practical guidance: \"Pro is great for cinema visuals… but not needed for most other things.\" The remix feature drew criticism from **Noah**: \"Also remix is a pain in the ass to use. You have to know the videos code. But no watermark so… hooray?\"\n\nA major quality-of-life improvement arrived on October 11th when **Billy Boman** confirmed: \"Confirm NO watermark in Sora 2! (as in the Open AI interface).\" This was significant because, as **Billy** noted, \"all API was without watermark from the beginning - slightly unintuitive imo consider the Sora 2 price tag.\"\n\n**Higgsfield** made waves by claiming to offer \"Sora 2 Pro Max +\" which **Chris First** mocked: \"Oh you didn't get the CPP invite?😂😭 I'm already on Sora 17 Pro Max +.\" He speculated: \"Its probably Sora with an upscaler in the pipeline between API and user, but it should just say that.\" **Jordan Daniel Chesney** summed up community sentiment: \"Higgsfield should probably just say a lot. 😂\"",
             "posters": ["Matthieu", "Chris First", "Chad Nelson", "Noah", "Billy Boman", "Jordan Daniel Chesney"]
           },
           {
-            "title": "Figure 03 Humanoid Robot",
+            "title": "🤖 Figure 03 Humanoid Robot",
             "links": [
               {
                 "text": "Figure 03 humanoid robot",
@@ -45,7 +45,7 @@
             "posters": ["Matthieu", "Albert Bozesan"]
           },
           {
-            "title": "Other Tool Updates",
+            "title": "🛠️ Other Tool Updates",
             "content": "- **Karavideo**: Santiago asked if anyone had tested it, though no detailed responses followed\n- **Enhancor & WAN 2.2**: Rourke recommended these for character swapping and photo animation, noting \"Tried it on higgsfield and it was horseshit, but Enhancor broke it down nicely\"\n- **InfiniteTalk**: Emerged as a favorite for lip-syncing, with multiple community members praising it\n- **Nano Banana**: Significant discussion about quality differences across platforms, with Rourke and Blvckl!ght noting Freepik's compression issues",
             "posters": ["Santiago", "Rourke", "Blvckl!ght"]
           }
