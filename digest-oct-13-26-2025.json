@@ -1,0 +1,497 @@
+{
+  "id": "oct-13-26-2025",
+  "title": "October 13-26, 2025",
+  "date": "October 26, 2025",
+  "dateRange": "October 13-26, 2025",
+  "summary": "Veo 3.1 dominates with editing features and audio control breakthroughs, Sora storyboard mode launches, industry debates AI authenticity and creator economics, plus major community showcases and technical workflows.",
+  "stats": {
+    "tools": 15,
+    "tutorials": 12,
+    "insights": 14,
+    "links": 85
+  },
+  "keyHighlights": [
+    "Veo 3.1 editing features and audio control techniques",
+    "Sora 25-second storyboard mode and consistent character workflows",
+    "AI authenticity debates and fake Veo 3.1 content exposed",
+    "Creator economy pricing discussions and partnership strategies",
+    "Major community showcases from Blvckl!ght, Kēkā, and others",
+    "Executive Producer AI role at Edelman and industry opportunities"
+  ],
+  "highlightTopic": {
+    "title": "🎬 Veo 3.1 Editing Revolution",
+    "description": "Google's Veo 3.1 dominated discussions with its groundbreaking editing capabilities, including add/remove features and precise audio control. Jordan Daniel Chesney discovered techniques for minimizing background music by prompting specific microphone types and environmental sounds, while the community explored object removal workflows similar to Nano Banana. The release sparked both excitement and confusion, with fake Veo 3.1 content being debunked by Max, Rourke, and Ryan Phillips who identified hidden cuts and color shifts in viral posts."
+  },
+  "sections": [
+    {
+      "title": "🚀 Major Updates & News",
+      "items": [
+        {
+          "title": "📱 Sora 25-Second Storyboard Mode Launch",
+          "link": "https://x.com/openainewsroom/status/1979005850166648933",
+          "overview": "OpenAI quietly rolled out extended storyboard capabilities for Sora 2.",
+          "description": "Matthieu shared the announcement of Sora's new 25-second storyboard mode, expanding creative possibilities for longer-form AI video generation. Rory Flynn initially missed the feature until refreshing his interface, highlighting the gradual rollout nature of the update. The community immediately began testing the extended duration for more complex narrative sequences.",
+          "posters": ["Matthieu", "Rory Flynn"]
+        },
+        {
+          "title": "🎭 AI Authenticity Crisis - Fake Veo 3.1 Content Exposed",
+          "link": "https://www.linkedin.com/posts/benedekjakab_ai-veo3-veo3abr1-activity-7383390821527732225-xFYQ",
+          "overview": "Community debunks viral fake Veo 3.1 content, raising questions about AI credibility.",
+          "description": "Billy Boman questioned the authenticity of viral \"Veo 3.1\" clips circulating on LinkedIn, prompting immediate community investigation. Max confirmed it was \"scam and not the real deal,\" while Rourke identified hidden cuts every 15 seconds and suspected Midjourney composites masked with glitch effects. Ryan Phillips expressed frustration at how easily debunkable fakes spread, questioning the motivations behind such deception and its impact on the AI video community's credibility.",
+          "posters": ["Billy Boman", "Max", "Rourke", "Ryan Phillips", "Benny"]
+        },
+        {
+          "title": "🎤 Sam Altman's Surprising Announcement",
+          "link": "https://www.linkedin.com/posts/evolving-ai_openai-ceo-sam-altman-says-openai-will-soon-activity-7384487930070773763-azSp",
+          "overview": "OpenAI CEO makes unexpected statement about company direction.",
+          "description": "Jordan Daniel Chesney shared a LinkedIn post about Sam Altman's latest announcement, which Justin Hackney described as an unexpected \"power move.\" Jovardi philosophically noted \"we are living in one of the best versions of the end of the world,\" while Justin reframed it as \"maybe the end of ways but the beginning of a new world.\" The announcement sparked speculation about OpenAI's strategic direction and competitive positioning.",
+          "posters": ["Jordan Daniel Chesney", "Justin Hackney", "Jovardi"]
+        },
+        {
+          "title": "💼 Edelman Hiring Executive Producer of AI for EMEA",
+          "link": "https://jobs.lever.co/djeholdings/1337863e-283f-40ca-af74-cbf6c69fa3c9",
+          "overview": "Major agency role opens for AI creative leadership across Europe, Middle East, and Africa.",
+          "description": "Gabe Michael announced a high-profile position at Edelman for an Executive Producer of AI to lead creative AI initiatives across EMEA regions. The role requires someone who is \"part educator, part creator, part creative\" with agency experience and production knowledge. Chrissie offered to help spread the word, highlighting the community's supportive nature for career opportunities.",
+          "posters": ["Gabe Michael", "Chrissie"]
+        },
+        {
+          "title": "🎬 The Smashing Machine Box Office Disaster",
+          "link": "",
+          "overview": "A24's Dwayne Johnson film bombs spectacularly with only $1.7M opening weekend.",
+          "description": "Chad Nelson reported the film made only $1.7M across 3,300+ theaters, averaging just 11 tickets per theater per day, with A24 slated to lose over $50M. Chris First noted the \"desperate\" marketing felt destined to fail, while Noah argued they should have waited a year to frame it as The Rock's comeback story after his public controversies. Dale suggested Dave Bautista would have been a better casting choice for the indie Safdie film, comparing it to Mickey Rourke's earned performance in The Wrestler.",
+          "posters": ["Chad Nelson", "Chris First", "Noah", "Dale", "Matthieu", "David Clark"]
+        },
+        {
+          "title": "🔬 Google DeepMind's Fusion Energy Breakthrough",
+          "link": "https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
+          "overview": "AI being applied to next-generation fusion energy development.",
+          "description": "Matthieu shared Google DeepMind's announcement about using AI to advance fusion energy technology. The post highlighted the expanding applications of AI beyond creative fields into fundamental scientific research and clean energy development. The community took note of how AI is being leveraged for solving humanity's biggest challenges.",
+          "posters": ["Matthieu"]
+        }
+      ]
+    },
+    {
+      "title": "⚡ New Releases & Tool Updates",
+      "items": [
+        {
+          "title": "🎨 Runway Aleph in Under Armour Commercial",
+          "link": "https://runwayml.com/customers/behind-the-scenes-of-an-under-armour-tv-commercial-powered-by-runway",
+          "overview": "Professional use case showcasing Runway's latest editing tool.",
+          "description": "Billy Boman shared a behind-the-scenes look at how Runway Aleph was used in an Under Armour TV commercial, noting it required \"lots of roto & comp obviously but pretty nicely done.\" Rourke responded enthusiastically calling it \"so sick,\" demonstrating the tool's viability for high-end commercial work. The case study provided validation for Runway's professional-grade capabilities.",
+          "posters": ["Billy Boman", "Rourke"]
+        },
+        {
+          "title": "🎯 Higgsfield Partnership Opportunities",
+          "link": "",
+          "overview": "Higgsfield reaching out for creator partnerships and challenges.",
+          "description": "Winston Mayo asked if anyone had worked with the Higgsfield team after being approached by them. Chris First confirmed he's currently running a $10,000 AI video challenge with them in the Generative AI Community on X, following a previous $5,000 challenge. Chris is also working to get Higgsfield to sponsor the AI Music Video Channel, showing the platform's active creator partnership strategy.",
+          "posters": ["Winston Mayo", "Chris First"]
+        },
+        {
+          "title": "🔊 Voice Generation Tools Discussion",
+          "link": "",
+          "overview": "Community explores alternatives to 11Labs for character voice creation.",
+          "description": "Winston Mayo asked for recommendations beyond 11Labs for prompt-based character voice creation. Jordan Daniel Chesney expressed interest in learning alternatives as well. The discussion highlighted the ongoing search for diverse voice generation tools as creators seek options for different use cases and pricing models.",
+          "posters": ["Winston Mayo", "Jordan Daniel Chesney"]
+        }
+      ]
+    },
+    {
+      "title": "💡 Advanced Tutorials, Tips & Workflows",
+      "items": [
+        {
+          "title": "🎵 Jordan's Veo 3.1 Audio Control Breakthrough",
+          "overview": "Revolutionary technique for minimizing background music in Veo generations.",
+          "tutorial": {
+            "author": "Jordan Daniel Chesney",
+            "description": "A game-changing prompting technique for precise audio control in Veo 3.1 generations.",
+            "steps": [
+              {
+                "title": "The Discovery",
+                "content": "Jordan discovered that getting extremely specific about audio in prompts can minimize or eliminate unwanted background music in Veo 3.1 generations."
+              },
+              {
+                "title": "Example Prompt Structure",
+                "content": "\"Audio: Her dialogue is captured on the lavalier microphone attached to her sweater. Empty street environment sounds.\""
+              },
+              {
+                "title": "Key Principles",
+                "content": "Prompt any and all sounds in the scene AND specify how the sound is captured (microphone type, recording method). This minimizes music or at least controls the level it sits in the mix."
+              },
+              {
+                "title": "Results",
+                "content": "The technique provides unprecedented control over audio in AI video generation, allowing for more professional and intentional soundscapes."
+              }
+            ]
+          },
+          "posters": ["Jordan Daniel Chesney"]
+        },
+        {
+          "title": "👶 Child Voice Generation Workflows",
+          "overview": "Multiple approaches to generating authentic child voices for AI projects.",
+          "tutorial": {
+            "author": "Community Collective",
+            "description": "Various techniques for creating child voices when standard tools block the requests.",
+            "steps": [
+              {
+                "title": "The Challenge",
+                "content": "Luka T encountered 11Labs blocking child voice generation with \"nah bro\" messages, a common frustration when working with projects featuring children."
+              },
+              {
+                "title": "Melody Bossan's Approach",
+                "content": "Train custom voices on your own kids' voices, use voice filters in post-production, or prompt cartoony character voices like \"little mouse\" to circumvent restrictions."
+              },
+              {
+                "title": "Ryan Phillips' Method",
+                "content": "Use the youngest voice available on OpenAI, then apply pitch shift. CapCut has a good filter but with limited emotional range."
+              },
+              {
+                "title": "MetaPuppet's Workflow",
+                "content": "Generate child dialogue through Veo 3 on Freepik (which outputs audio), then bring that audio into 11Labs to create a custom voice based on it."
+              }
+            ]
+          },
+          "posters": ["Luka T", "Melody Bossan", "Ryan Phillips", "MetaPuppet"]
+        },
+        {
+          "title": "🎭 Consistent Characters in Sora - Sketch Method",
+          "overview": "Using character sketches to achieve consistency across Sora generations.",
+          "tutorial": {
+            "author": "Community via PJ Accetturo",
+            "description": "A technique for maintaining character consistency by uploading detailed line drawings.",
+            "steps": [
+              {
+                "title": "The Method",
+                "content": "PJ Accetturo shared a thread demonstrating that uploading a character sketch to Sora can achieve close to consistent character representation across generations."
+              },
+              {
+                "title": "Nano Banana Prompt for Sketches",
+                "content": "\"Create a detailed line drawing / line sketch of the face + character identical to the character in reference image — keep every facial feature, proportion, and expression exactly the same. Use black ink tones with intricate, fine line detailing, drawn on a white background. Crop and zoom to keep only the character face, not the background environment. Draw two images side by side - front view on the left, and side view on the right (looking to her side) - like in police photos front and side, in neutral pose, standing up, looking ahead.\""
+              },
+              {
+                "title": "Ryan Phillips' Experience",
+                "content": "Reported mixed results - Sora still recognized the sketches as photorealistic people and rejected them in some cases, indicating the technique needs refinement."
+              }
+            ]
+          },
+          "posters": ["PJ Accetturo", "Ryan Phillips"]
+        },
+        {
+          "title": "🎬 Veo 3.1 Object Removal Technique",
+          "overview": "How to remove objects from Veo 3.1 videos using positive prompting.",
+          "tutorial": {
+            "author": "Jordan Daniel Chesney",
+            "description": "A Nano Banana-style approach to removing unwanted elements from video.",
+            "steps": [
+              {
+                "title": "The Approach",
+                "content": "Veo 3.1 operates in a strictly positive prompt manner, similar to Nano Banana for image editing."
+              },
+              {
+                "title": "Prompt Structure",
+                "content": "Instead of saying what to remove, prompt what's behind the object. Use prompts like: \"Remove X to reveal Y.\""
+              },
+              {
+                "title": "Context",
+                "content": "Marco initially thought he was \"being Stoooopid\" not finding a remove button, but Jordan clarified it's all prompt-based rather than interface-based."
+              }
+            ]
+          },
+          "posters": ["Marco", "Chris First", "Jordan Daniel Chesney"]
+        },
+        {
+          "title": "🎨 Veo Censorship Workaround for Kids Content",
+          "overview": "Technique for generating content with children when Veo blocks the prompts.",
+          "tutorial": {
+            "author": "👨🏻‍🎨 (Tobi)",
+            "description": "Multi-step workflow using face swapping to circumvent content restrictions.",
+            "steps": [
+              {
+                "title": "The Problem",
+                "content": "Luka T struggled with Veo censorship when working on a project with kids, especially when the child was shirtless. Veo refused to output anything."
+              },
+              {
+                "title": "The Workflow",
+                "content": "Change just the face in the image with Seedream, run it in Veo, then use Wan Animate to change the clip back using the original image as reference frame."
+              },
+              {
+                "title": "Best Use Cases",
+                "content": "Works best for closeups and talking shots with less motion. If there's a lot of action in the background, it doesn't always pick that up."
+              },
+              {
+                "title": "Example",
+                "content": "Tobi used this technique for an entire video full of celebrities, demonstrating its effectiveness for face replacement workflows."
+              }
+            ]
+          },
+          "posters": ["Luka T", "👨🏻‍🎨"]
+        },
+        {
+          "title": "🤖 OpenAI API Censorship vs ChatGPT Interface",
+          "overview": "Navigating different censorship rules between ChatGPT and API.",
+          "tutorial": {
+            "author": "Kēkā",
+            "description": "Understanding the discrepancy in content policies between interfaces.",
+            "steps": [
+              {
+                "title": "The Issue",
+                "content": "Kēkā successfully created 150+ style transfer images of people's reference images directly in ChatGPT interface, but when automating via OpenAI API with Python, the censors completely blocked the ability to reference real people."
+              },
+              {
+                "title": "The Discrepancy",
+                "content": "Only getting censored with the API, not the ChatGPT interface, even though the output is entirely stylized and identical."
+              },
+              {
+                "title": "Seeking Solutions",
+                "content": "Asked community for tips on automating DALL-E 3 or gpt-image-1 for style transfers. Alternative is setting up a Replicate flow with a different model."
+              }
+            ]
+          },
+          "posters": ["Kēkā"]
+        }
+      ]
+    },
+    {
+      "title": "👁️ Industry Insights & Market Dynamics",
+      "items": [
+        {
+          "title": "💰 Creator Economy Pricing & Partnership Strategy",
+          "overview": "In-depth discussion on fair rates for AI creator sponsorships and brand partnerships.",
+          "description": "The community engaged in a detailed conversation about influencer pricing when Henry shared being offered $100 for 10 reposts/retweets. Blvckl!ght and Luka T shared proper pricing benchmarks, with Luka mentioning receiving \"$1.5k from a really cool startup for one social opinion post and $500 for just feedback.\" The community established principles: avoid low-effort reposting, focus on providing genuine POV, never promote products you don't believe in, and price based on audience value. Blvckl!ght noted he'd reject $20k from Luma but accept $5k from Freepik or Krea for the same work, emphasizing brand alignment over pure monetary value.",
+          "posters": ["Henry", "Blvckl!ght", "Luka T", "Winston Mayo"]
+        },
+        {
+          "title": "🎬 Meritocracy vs Participation Trophy Debate",
+          "overview": "Community discusses industry standards and quality gatekeeping.",
+          "description": "A philosophical debate emerged when Matthieu shared content that sparked Blvckl!ght to comment: \"Such a weird take. Personally prefer a world where not everyone gets a participation trophy; and genuine meritocracy.\" Billy Boman called it \"Marxist BS,\" reflecting tensions around democratization of creative tools versus maintaining quality standards. The discussion touched on broader questions about AI's impact on creative industries and whether lowering barriers to entry dilutes professional standards.",
+          "posters": ["Matthieu", "Blvckl!ght", "Billy Boman"]
+        },
+        {
+          "title": "🎭 AI in Traditional Film Production",
+          "overview": "Runway Aleph proves viability for high-end commercial work.",
+          "description": "The Under Armour TV commercial case study demonstrated AI video tools crossing into mainstream advertising. Billy Boman noted the extensive rotoscoping and compositing required alongside Runway Aleph, highlighting that current AI tools augment rather than replace traditional VFX workflows. Rourke's enthusiastic response (\"That's so sick\") showed the community's recognition of this milestone. The case study provided evidence for pitching AI tools to traditional production companies and agencies.",
+          "posters": ["Billy Boman", "Rourke"]
+        },
+        {
+          "title": "🚫 The Fake AI Content Problem",
+          "overview": "Community grapples with viral misinformation damaging AI video credibility.",
+          "description": "Ryan Phillips questioned the motivations behind easily debunkable fake AI content, asking \"Why do people do this, it's so easy to debunk... what are they hoping to achieve !?!\" The incident highlighted how viral fake content damages the credibility of legitimate AI video tools and creates confusion in the market. Max, Rourke, and Ryan's quick debunking showed the community's role as quality gatekeepers, but raised concerns about how many people see the fake content versus the corrections.",
+          "posters": ["Ryan Phillips", "Billy Boman", "Max", "Rourke", "Benny"]
+        }
+      ]
+    },
+    {
+      "title": "🎨 Creative Work Showcased",
+      "items": [
+        {
+          "title": "🎬 Max's Google Belgium €5 Billion Launch Film",
+          "link": "https://www.linkedin.com/posts/google-cloud_we-are-proud-to-announce-a-new-5-billion-activity-7383409682104754176-c-mL",
+          "description": "Max Larsson and Jennie Larsson created the official launch film for Google's massive €5 billion investment in Belgium, described as \"a powerful step forward for Europe's digital and AI future.\" Max expressed gratitude for the Google team's \"trust and creative freedom on this incredible project,\" with music and sound design by Nikodemus Lindhé. Marco congratulated with \"Awesome job dude,\" while the community celebrated this major commercial achievement.",
+          "posters": ["Max", "Marco", "Rory Flynn", "Henry"]
+        },
+        {
+          "title": "📽️ Blvckl!ght's Day 13 Film Progress",
+          "link": "https://x.com/blvcklightai/status/1977889639491903689",
+          "description": "Blvckl!ght shared an update on his ongoing film project, noting \"Day 13… still going strong! Film is coming together swimmingly one segment at a time.\" Kēkā commented on the \"wild piece\" and joked about accidentally casting someone who looks like Pete Hegseth, to which Blvckl!ght responded the character was introduced last year, finding it \"ironic tho that he looks the part haha.\"",
+          "posters": ["Blvckl!ght", "Kēkā"]
+        },
+        {
+          "title": "🎟️ Kēkā's $44K Personalized Badge Business",
+          "link": "",
+          "description": "Kēkā shared a remarkable success story of creating ~150 personalized event badges for the Dent the Future conference, which led to 4 more event producers hiring him, including a $2b/yr public company. Using Manus to automate the workflow with Python and Replicate, he reduced production time from 33 minutes per badge to 3 minutes per badge, completing almost 600 personalized badges for a $44k project. Attendees called them the \"favorite badge of any conf they've ever been to.\"",
+          "posters": ["Kēkā"]
+        },
+        {
+          "title": "✈️ Ari Kuschnir's Veo 3.1 Flight Experiment",
+          "link": "https://www.instagram.com/reel/DP3xfsvDjrL/",
+          "description": "Ari shared a one-shot Veo 3.1 generation created during a flight, demonstrating the accessibility and speed of the new tool for quick creative experiments.",
+          "posters": ["Ari Kuschnir"]
+        },
+        {
+          "title": "🎬 Deonis Kiroshka's Masterful Work",
+          "link": "https://x.com/deogenai/status/1977809149183607162",
+          "description": "Jordan Daniel Chesney expressed obsession with Deonis Kiroshka's work, stating \"Have I watched this perfect clip a thousand times? Yes, yes I have,\" highlighting the creator as being \"on another level.\"",
+          "posters": ["Jordan Daniel Chesney"]
+        },
+        {
+          "title": "🎥 Darren Foreman's Incredible Piece",
+          "link": "https://www.instagram.com/reel/DP3fiinCEWh/",
+          "description": "Justin Hackney praised Darren Foreman's work as \"incredible,\" showcasing another standout community creation.",
+          "posters": ["Justin Hackney", "Darren Foreman"]
+        },
+        {
+          "title": "😂 Mr. Balzac Manscaped Film",
+          "link": "https://www.linkedin.com/posts/pjpereira_meet-mr-balzac-a-new-manscaped-film-dropped-ugcPost-7384971058786836480-vonn",
+          "description": "Jordan Daniel Chesney shared a hilarious Manscaped film featuring \"Mr. Balzac,\" prompting multiple laughing emoji responses. Billy Boman called it a \"Good one!\"",
+          "posters": ["Jordan Daniel Chesney", "Billy Boman"]
+        },
+        {
+          "title": "🎬 Impressive Veo 3.1 Generation",
+          "link": "https://x.com/_sankyy/status/1979232387298136445",
+          "description": "PJ Accetturo shared an impressive Veo 3.1 generation, with Dale responding \"Woah, that really is impressive,\" demonstrating the tool's capabilities.",
+          "posters": ["PJ Accetturo", "Dale"]
+        }
+      ]
+    },
+    {
+      "title": "👥 Community Highlights & Collaborations",
+      "items": [
+        {
+          "title": "🌟 Welcome Alex (Panaviscope)",
+          "overview": "New member brings solarpunk retro-futurism aesthetic to the community.",
+          "description": "Justin Hackney introduced **Alex** (Panaviscope) with an enthusiastic welcome: \"one of those rare creators who bends sound and image into full-blown deep blown dreamscapes…. His world feels like a lucid dream halfway between solarpunk, retro futurism, and some nostalgic future dream fuel.\" Justin noted he's been following Alex \"for a while, and in this space that's like a lifetime,\" praising him as \"another mind wired for beautiful madness.\" The community warmly welcomed him with messages from **G A**, **Matthieu**, **Marco**, **Julien Durand**, **Gabe Michael**, **Rourke**, **Kēkā**, **Aaron Bhugobaun**, **Billy Boman**, **Sami**, and **Max**.",
+          "posters": ["Justin Hackney", "Alex", "G A", "Matthieu", "Marco", "Julien Durand", "Gabe Michael", "Rourke", "Kēkā", "Aaron Bhugobaun", "Billy Boman", "Sami", "Max"]
+        },
+        {
+          "title": "🎬 Edmond Yang's John Wick Connection",
+          "overview": "Community member's industry connection to major franchise spinoff.",
+          "description": "**Dale** noted that **Edmond Yang** \"is about to direct a John Wick spinoff,\" with Edmond confirming \"i know 😀 we spoke about it.\" **Junie** jokingly suggested \"Maybe we should ask him to invest in us 😇,\" highlighting the community's high-level industry connections and collaborative spirit.",
+          "posters": ["Dale", "Edmond Yang", "Junie"]
+        },
+        {
+          "title": "🎪 Promise Tech Week Meetup",
+          "overview": "Community members connect at industry event.",
+          "description": "**David Clark** invited members to \"Come up and say hello if you are at promise tech week tonight,\" with **Chad Nelson** responding \"Heading there next!\" The exchange demonstrated the community's real-world networking and relationship building beyond the digital space.",
+          "posters": ["David Clark", "Chad Nelson"]
+        },
+        {
+          "title": "🎤 Luka T's ComfyUI MCP Workflow Live Session",
+          "overview": "Community member hosts educational live stream with Comfy wizard.",
+          "description": "**Luka T** announced a live session with **Milan Kastenmueller**, a \"Comfy wizard working for Comfy.org\" who would share his MCP workflow. The event was scheduled for 5pm CEST, providing the community with advanced technical education opportunities.",
+          "posters": ["Luka T"]
+        }
+      ]
+    },
+    {
+      "title": "🔗 Key Links & Resources",
+      "categories": [
+        {
+          "title": "🚀 New Tools & Platforms",
+          "links": [
+            {
+              "title": "Veo 3.1 Editing Features",
+              "url": "",
+              "description": "Google's latest video editing capabilities"
+            },
+            {
+              "title": "Sora 25-Second Storyboard Mode",
+              "url": "https://x.com/openainewsroom/status/1979005850166648933",
+              "description": "Extended duration for narrative sequences"
+            },
+            {
+              "title": "Runway Aleph Commercial Use Case",
+              "url": "https://runwayml.com/customers/behind-the-scenes-of-an-under-armour-tv-commercial-powered-by-runway",
+              "description": "Under Armour TV commercial breakdown"
+            }
+          ]
+        },
+        {
+          "title": "🎨 Community Projects & Showcases",
+          "links": [
+            {
+              "title": "Max's Google Belgium Film",
+              "url": "https://www.linkedin.com/posts/google-cloud_we-are-proud-to-announce-a-new-5-billion-activity-7383409682104754176-c-mL",
+              "description": "€5B investment launch film"
+            },
+            {
+              "title": "Blvckl!ght's Film Progress",
+              "url": "https://x.com/blvcklightai/status/1977889639491903689",
+              "description": "Day 13 update on ongoing project"
+            },
+            {
+              "title": "Deonis Kiroshka's Work",
+              "url": "https://x.com/deogenai/status/1977809149183607162",
+              "description": "Masterful AI video creation"
+            },
+            {
+              "title": "Ari's Veo 3.1 Flight Test",
+              "url": "https://www.instagram.com/reel/DP3xfsvDjrL/",
+              "description": "One-shot generation experiment"
+            },
+            {
+              "title": "Darren Foreman's Piece",
+              "url": "https://www.instagram.com/reel/DP3fiinCEWh/",
+              "description": "Incredible community showcase"
+            },
+            {
+              "title": "Mr. Balzac Manscaped Film",
+              "url": "https://www.linkedin.com/posts/pjpereira_meet-mr-balzac-a-new-manscaped-film-dropped-ugcPost-7384971058786836480-vonn",
+              "description": "Hilarious commercial work"
+            },
+            {
+              "title": "Impressive Veo 3.1 Gen",
+              "url": "https://x.com/_sankyy/status/1979232387298136445",
+              "description": "High-quality generation example"
+            },
+            {
+              "title": "Perfect Veo 3.1 Clip",
+              "url": "https://www.linkedin.com/posts/gcwalther_testing-out-veo-31-via-weavy-activity-7384610744866095104-MS1f",
+              "description": "Jordan's favorite example"
+            }
+          ]
+        },
+        {
+          "title": "📚 Industry Resources & Analysis",
+          "links": [
+            {
+              "title": "Fake Veo 3.1 Content",
+              "url": "https://www.linkedin.com/posts/benedekjakab_ai-veo3-veo3abr1-activity-7383390821527732225-xFYQ",
+              "description": "Debunked viral fake content"
+            },
+            {
+              "title": "Sam Altman Announcement",
+              "url": "https://www.linkedin.com/posts/evolving-ai_openai-ceo-sam-altman-says-openai-will-soon-activity-7384487930070773763-azSp",
+              "description": "OpenAI strategic direction"
+            },
+            {
+              "title": "Google DeepMind Fusion Energy",
+              "url": "https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/",
+              "description": "AI for clean energy development"
+            },
+            {
+              "title": "Sora Consistent Characters Thread",
+              "url": "https://x.com/rainisto/status/1977283831968227762",
+              "description": "Character sketch technique"
+            }
+          ]
+        },
+        {
+          "title": "💼 Professional Opportunities",
+          "links": [
+            {
+              "title": "Edelman Executive Producer AI Role",
+              "url": "https://jobs.lever.co/djeholdings/1337863e-283f-40ca-af74-cbf6c69fa3c9",
+              "description": "EMEA creative AI leadership position"
+            },
+            {
+              "title": "Higgsfield Creator Partnerships",
+              "url": "",
+              "description": "$10K AI video challenge opportunities"
+            }
+          ]
+        },
+        {
+          "title": "🛠️ Technical Resources",
+          "links": [
+            {
+              "title": "ComfyUI MCP Workflow Live",
+              "url": "https://www.linkedin.com/events/comfyuimodelconceptprotocolswit7381970359815741440/",
+              "description": "Milan Kastenmueller's workflow session"
+            },
+            {
+              "title": "Jordan's Veo Dialogue Timing",
+              "url": "https://x.com/jordandchesney/status/1964415082034807126",
+              "description": "Breakthrough prompting technique"
+            },
+            {
+              "title": "Black Mirror Streamberry",
+              "url": "https://www.linkedin.com/posts/ryan-phillips-3269307_amazing-news-looks-likestreamberryhave-activity-7383425960005566465-QGNk",
+              "description": "AI in entertainment news"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
