@@ -522,18 +522,13 @@
             },
             {
               "title": "Google Pomelli",
-              "url": "",
+              "url": "https://blog.google/technology/google-labs/pomelli/",
               "description": "Automated social media ad creation"
             },
             {
               "title": "Weavy-Figma Integration",
               "url": "https://www.linkedin.com/pulse/weavy-figma-canvas-evolves-weavy-ai-sglof",
               "description": "Enterprise AI workflow integration"
-            },
-            {
-              "title": "Weavy Creator Partner Program",
-              "url": "",
-              "description": "Partnership opportunities for AI creators"
             }
           ]
         },
@@ -632,7 +627,7 @@
             },
             {
               "title": "Adobe MAX London Event",
-              "url": "",
+              "url": "https://airtable.com/appg9LNH614D3Y9c1/pag5vxazNbwig7OOB/form",
               "description": "Registration for Adobe MAX London gathering"
             },
             {
@@ -641,18 +636,8 @@
               "description": "10,000x efficiency improvement announcement"
             },
             {
-              "title": "Cursor AI Update",
-              "url": "",
-              "description": "Latest features from AI coding assistant"
-            },
-            {
-              "title": "Adobe Firefly Video",
-              "url": "",
-              "description": "Announced features and timeline questions"
-            },
-            {
               "title": "Mushroom Computer Memory",
-              "url": "",
+              "url": "https://hackaday.com/2025/10/28/mushrooms-as-computer-memory/",
               "description": "Experimental biological computing research"
             }
           ]
