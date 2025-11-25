@@ -34,6 +34,13 @@
           "posters": ["Benny", "Justin Hackney"]
         },
         {
+          "title": "🍌 Nano Banana Pro Officially Launches",
+          "link": "https://x.com/LinusEkenstam/status/1991523129576026155",
+          "overview": "Google's Gemini 3-powered image editing model launches across multiple platforms with widespread community excitement.",
+          "description": "Linus Ekenstam announced the official launch of Nano Banana Pro, powered by Google's Gemini 3 (not Imagen). The release generated massive excitement across the community, with Alex noting \"I was in the zone my prompts are fire and then I realized I was actually using nano pro.\" The model became available across multiple platforms simultaneously: InVideo offered unlimited access for a year (described by Kēkā as \"eating a major part of their marketing budget\"), while Freepik initially provided unlimited access for Pro accounts before switching to tiered limits (1K, 2K, 4K) within 30 minutes, causing Jordan Daniel Chesney's promo video to become \"dated within 30 mins.\" Kēkā noted that \"costs are locked and consistent across all developers integrating it,\" making InVideo's unlimited offer particularly valuable. Winston Mayo asked \"Do we have Google and Deepmind people in this group because nano banana pro is so good?\" The community immediately began exploring use cases, with Rory Flynn demonstrating camera angle techniques using \"varying levels of tilt and horizontal rotation,\" which Martin LeBlanc praised as \"such a useful tip\" that \"nano banana pro is probably really good at.\" Ramon Guthrie inquired whether the Pro version \"fixed the pixel shift issue on small edits,\" highlighting ongoing refinements. PJ Accetturo created a Legend of Zelda movie trailer, joking that his friend who wrote the actual Zelda movie might either be impressed or upset. The launch represents a major advancement in AI image editing capabilities, with the Gemini 3 foundation providing significantly improved quality and control.",
+          "posters": ["Linus Ekenstam", "Alex", "Kēkā", "Jordan Daniel Chesney", "Winston Mayo", "Rory Flynn", "Martin LeBlanc", "Ramon Guthrie", "PJ Accetturo", "Ryan Phillips", "Matthieu", "Edmond Yang", "Blvckl!ght"]
+        },
+        {
           "title": "🎙️ ElevenLabs Voice Licensing Service Launches",
           "link": "https://youtu.be/k29nmjIx4Gg",
           "overview": "Jack debuts ethical voice licensing service with Michael Caine film, enabling creators to license legendary voices.",
@@ -81,13 +88,6 @@
           "overview": "Disney CEO Bob Iger announces Disney will allow AI-generated content, marking major industry shift.",
           "description": "Disney CEO Bob Iger announced that Disney will allow AI-generated content, representing a seismic shift in the entertainment industry's approach to AI. The announcement signals that one of the world's largest entertainment companies is officially embracing AI technology despite ongoing controversy. This decision follows Disney's previous experimentation with AI tools and comes as other major studios continue to navigate the balance between technological innovation and traditional creative processes. The move is expected to influence industry-wide adoption and acceptance of AI in mainstream entertainment production.",
           "posters": ["Community"]
-        },
-        {
-          "title": "📰 RealDreams Digest System Launched",
-          "link": "https://realdreamshq-digest.netlify.app/",
-          "overview": "Kēkā launches comprehensive digest system covering community discussions, tutorials, and resources.",
-          "description": "Kēkā announced the launch of the RealDreams HQ digest system, providing comprehensive coverage of community discussions from the previous two weeks. The inaugural digest covered 15 tools, 16 detailed tutorials with step-by-steps, 12 industry insights, and 92 key links. Kēkā also updated the RealDreamsGPT for interactive chat guidance and recaps. The system provides a valuable resource for community members to stay current with the rapid pace of AI tool development and workflow innovations.",
-          "posters": ["Kēkā"]
         }
       ]
     },
@@ -164,6 +164,20 @@
             "notes": "*Martin noted that Kling 2.5 will have start/end-frame support and will likely have better quality. He also observed that Runway Aleph \"messes up the quality too much\" and is \"unusable\" according to Edmond Yang, making the Nano Banana + Kling approach superior for this use case.*"
           },
           "posters": ["Martin LeBlanc", "Olly Ginelli", "Thomas Hughes", "Jordan Daniel Chesney", "Edmond Yang"]
+        },
+        {
+          "title": "🍌 Nano Banana Pro Camera Angle Techniques",
+          "link": "https://www.linkedin.com/posts/%F0%9F%8C%9Frourke-sefton-minns-85684424b_nanobananapro-googleai-higgsfieldai-activity-7397359560568549376-BJvs",
+          "overview": "Rory Flynn and community share advanced camera angle manipulation techniques using Nano Banana Pro.",
+          "tutorial": {
+            "technique": "*Use varying levels of tilt and horizontal rotation to achieve precise camera angle adjustments in Nano Banana Pro.*",
+            "discovery": "*Rory Flynn demonstrated the technique with examples, which Marco praised as \"one of my fav thumbs u have made!\" Martin LeBlanc noted that \"nano banana pro is probably really good at it.\"*",
+            "lighting_challenge": "*Kēkā identified a specific challenge: when flipping images for over-the-shoulder shots, maintaining consistent lighting direction while all other details (object/character/environment) flip correctly. The original backlit sun on horizon with long shadows would stay the same despite explicit instructions to adjust.*",
+            "prompt_structure": "*Rourke requested an effective prompt structure for creating a custom GPT specifically for Nano Banana Pro workflows, indicating the need for systematic prompting approaches.*",
+            "quality_comparison": "*Rory Flynn noted Nano Banana Pro produces \"better than the 720p qwen output,\" establishing it as superior to previous editing tools.*",
+            "pixel_shift_question": "*Ramon Guthrie asked whether Nano Banana Pro \"fixed the pixel shift issue on small edits,\" a known problem with previous versions that affected precision editing work.*"
+          },
+          "posters": ["Rory Flynn", "Kēkā", "Rourke", "Martin LeBlanc", "Marco", "Ramon Guthrie"]
         },
         {
           "title": "🎨 Seedream Skin Realism with JSON",
@@ -340,6 +354,11 @@
               "description": "$10k prize pool, industry judges, anthology series opportunity"
             },
             {
+              "title": "Nano Banana Pro",
+              "url": "https://x.com/LinusEkenstam/status/1991523129576026155",
+              "description": "Gemini 3-powered image editing model with advanced capabilities"
+            },
+            {
               "title": "Google Imagine",
               "url": "https://blog.google/technology/google-deepmind/imagine-if/",
               "description": "Google DeepMind's new image generation model"
@@ -398,6 +417,11 @@
               "title": "Billy Boman - Nano Banana Techniques",
               "url": "https://www.linkedin.com/posts/billyboman_first-rule-of-nano-banan-fight-club-post-activity-7397604168833613824-TdcA",
               "description": "Advanced Nano Banana workflow demonstrations"
+            },
+            {
+              "title": "Rourke - Nano Banana Pro",
+              "url": "https://www.linkedin.com/posts/%F0%9F%8C%9Frourke-sefton-minns-85684424b_nanobananapro-googleai-higgsfieldai-activity-7397359560568549376-BJvs",
+              "description": "Camera angle manipulation techniques with Nano Banana Pro"
             },
             {
               "title": "ChristianF - AI Music Video",
