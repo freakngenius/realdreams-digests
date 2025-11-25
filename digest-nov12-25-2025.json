@@ -19,9 +19,18 @@
     "Disney CEO Bob Iger officially allows AI-generated content"
   ],
   "topPosters": [
-    {"name": "Jordan Daniel Chesney", "count": 182},
-    {"name": "Billy Boman", "count": 116},
-    {"name": "Rory Flynn", "count": 87}
+    {
+      "name": "Jordan Daniel Chesney",
+      "count": 182
+    },
+    {
+      "name": "Billy Boman",
+      "count": 116
+    },
+    {
+      "name": "Rory Flynn",
+      "count": 87
+    }
   ],
   "highlightTopic": {
     "title": "🎬 Wonder Film Festival Launch",
@@ -35,64 +44,104 @@
           "title": "🎬 Wonder Film Festival Announced",
           "link": "https://app.wonderstudios.com/",
           "overview": "Wonder Studios launches film festival with $10,000 prize pool and industry-leading judges.",
-          "description": "Benny announced the Wonder Film Festival with a $10,000 total prize pool and the opportunity for winners to be considered as filmmakers on the next season of Wonder's anthology series. The festival is judged by Mati Staniszewski (Co-Founder and CEO of ElevenLabs), Danny Perkins (Former CEO of Studio Canal, CEO at Elysian Film Group), and Justin Hackney. Filmmakers can enter by signing up to the Wonder App and submitting their work. The announcement generated significant excitement within the RealDreams community, representing a major step in bridging AI filmmaking with traditional film industry recognition and opportunities.",
-          "posters": ["Benny", "Justin Hackney"]
+          "description": "<strong>Benny</strong> announced the Wonder Film Festival with a $10,000 total prize pool and the opportunity for winners to be considered as filmmakers on the next season of Wonder's anthology series. The festival is judged by Mati Staniszewski (Co-Founder and CEO of ElevenLabs), Danny Perkins (Former CEO of Studio Canal, CEO at Elysian Film Group), and <strong>Justin Hackney</strong>. Filmmakers can enter by signing up to the Wonder App and submitting their work. The announcement generated significant excitement within the RealDreams community, representing a major step in bridging AI filmmaking with traditional film industry recognition and opportunities.",
+          "posters": [
+            "Benny",
+            "Justin Hackney"
+          ]
         },
         {
           "title": "🍌 Nano Banana Pro Officially Launches",
           "link": "https://x.com/LinusEkenstam/status/1991523129576026155",
           "overview": "Google's Gemini 3-powered image editing model launches across multiple platforms with widespread community excitement.",
-          "description": "Linus Ekenstam announced the official launch of Nano Banana Pro, powered by Google's Gemini 3 (not Imagen). The release generated massive excitement across the community, with Alex noting \"I was in the zone my prompts are fire and then I realized I was actually using nano pro.\" The model became available across multiple platforms simultaneously: InVideo offered unlimited access for a year (described by Kēkā as \"eating a major part of their marketing budget\"), while Freepik initially provided unlimited access for Pro accounts before switching to tiered limits (1K, 2K, 4K) within 30 minutes, causing Jordan Daniel Chesney's promo video to become \"dated within 30 mins.\" Kēkā noted that \"costs are locked and consistent across all developers integrating it,\" making InVideo's unlimited offer particularly valuable. Winston Mayo asked \"Do we have Google and Deepmind people in this group because nano banana pro is so good?\" The community immediately began exploring use cases, with Rory Flynn demonstrating camera angle techniques using \"varying levels of tilt and horizontal rotation,\" which Martin LeBlanc praised as \"such a useful tip\" that \"nano banana pro is probably really good at.\" Ramon Guthrie inquired whether the Pro version \"fixed the pixel shift issue on small edits,\" highlighting ongoing refinements. PJ Accetturo created a Legend of Zelda movie trailer, joking that his friend who wrote the actual Zelda movie might either be impressed or upset. The launch represents a major advancement in AI image editing capabilities, with the Gemini 3 foundation providing significantly improved quality and control.",
-          "posters": ["Linus Ekenstam", "Alex", "Kēkā", "Jordan Daniel Chesney", "Winston Mayo", "Rory Flynn", "Martin LeBlanc", "Ramon Guthrie", "PJ Accetturo", "Ryan Phillips", "Matthieu", "Edmond Yang", "Blvckl!ght"]
+          "description": "<strong>Linus Ekenstam</strong> announced the official launch of Nano Banana Pro, powered by Google's Gemini 3 (not Imagen). The release generated massive excitement across the community, with <strong>Alex</strong> noting \"I was in the zone my prompts are fire and then I realized I was actually using nano pro.\" The model became available across multiple platforms simultaneously: InVideo offered unlimited access for a year (described by <strong>Kēkā</strong> as \"eating a major part of their marketing budget\"), while Freepik initially provided unlimited access for Pro accounts before switching to tiered limits (1K, 2K, 4K) within 30 minutes, causing <strong>Jordan Daniel Chesney</strong>'s promo video to become \"dated within 30 mins.\" <strong>Kēkā</strong> noted that \"costs are locked and consistent across all developers integrating it,\" making InVideo's unlimited offer particularly valuable. <strong>Winston Mayo</strong> asked \"Do we have Google and Deepmind people in this group because nano banana pro is so good?\" The community immediately began exploring use cases, with <strong>Rory Flynn</strong> demonstrating camera angle techniques using \"varying levels of tilt and horizontal rotation,\" which <strong>Martin LeBlanc</strong> praised as \"such a useful tip\" that \"nano banana pro is probably really good at.\" <strong>Ramon Guthrie</strong> inquired whether the Pro version \"fixed the pixel shift issue on small edits,\" highlighting ongoing refinements. <strong>PJ Accetturo</strong> created a Legend of Zelda movie trailer, joking that his friend who wrote the actual Zelda movie might either be impressed or upset. The launch represents a major advancement in AI image editing capabilities, with the Gemini 3 foundation providing significantly improved quality and control.",
+          "posters": [
+            "Linus Ekenstam",
+            "Alex",
+            "Kēkā",
+            "Jordan Daniel Chesney",
+            "Winston Mayo",
+            "Rory Flynn",
+            "Martin LeBlanc",
+            "Ramon Guthrie",
+            "PJ Accetturo",
+            "Ryan Phillips",
+            "Matthieu",
+            "Edmond Yang",
+            "Blvckl!ght"
+          ]
         },
         {
           "title": "🎙️ ElevenLabs Voice Licensing Service Launches",
           "link": "https://youtu.be/k29nmjIx4Gg",
-          "overview": "Jack debuts ethical voice licensing service with Michael Caine film, enabling creators to license legendary voices.",
-          "description": "Jack unveiled a new service enabling creators to ethically license legendary voices for their projects, debuting with a film featuring Michael Caine's voice. The service operates on a case-by-case basis where producers and directors contact with project details, ensuring voice owners are protected and compensated appropriately. ChristianF praised it as \"the best way for Actors to make their Voice immortal and being paid for the use accordingly,\" noting that complete actor likeness licensing including voices is likely coming soon. The film itself received widespread acclaim, with ChristianF calling it \"freaking awesome\" and praising both the technical execution and the message. Jordan Daniel Chesney and Danielle also celebrated the moment, recognizing its significance for the industry.",
-          "posters": ["Jack", "ChristianF", "Jordan Daniel Chesney", "Danielle", "Jovardi", "Sami", "PJ Accetturo"]
+          "overview": "<strong>Jack</strong> debuts ethical voice licensing service with Michael Caine film, enabling creators to license legendary voices.",
+          "description": "<strong>Jack</strong> unveiled a new service enabling creators to ethically license legendary voices for their projects, debuting with a film featuring Michael Caine's voice. The service operates on a case-by-case basis where producers and directors contact with project details, ensuring voice owners are protected and compensated appropriately. <strong>ChristianF</strong> praised it as \"the best way for Actors to make their Voice immortal and being paid for the use accordingly,\" noting that complete actor likeness licensing including voices is likely coming soon. The film itself received widespread acclaim, with <strong>ChristianF</strong> calling it \"freaking awesome\" and praising both the technical execution and the message. <strong>Jordan Daniel Chesney</strong> and <strong>Danielle</strong> also celebrated the moment, recognizing its significance for the industry.",
+          "posters": [
+            "Jack",
+            "ChristianF",
+            "Jordan Daniel Chesney",
+            "Danielle",
+            "Jovardi",
+            "Sami",
+            "PJ Accetturo"
+          ]
         },
         {
           "title": "🎨 Flux 2 Image Model Announced",
           "link": "https://x.com/robrombach/status/1988207470926589991",
           "overview": "Black Forest Labs teases Flux 2 image generation model release.",
-          "description": "ChristianF shared Rob Rombach's teaser for Flux 2, the next generation of the popular image generation model. Rourke confirmed \"Flux 2 is coming yep,\" generating anticipation within the community. Ramon Guthrie speculated about potential updates to Flux Kontext 2, noting that Qwen-Image-Edit-2509 is \"so hot right now\" and that \"nobody is training Kontext Loras anymore.\" ChristianF observed that \"the .2 on the goggle definitely is a hint to an updated model.\" Martin LeBlanc recommended trying Mystic 3 SOTA, which ChristianF acknowledged as \"very good from what I have seen so far.\"",
-          "posters": ["ChristianF", "Rourke", "Ramon Guthrie", "Martin LeBlanc"]
+          "description": "<strong>ChristianF</strong> shared Rob Rombach's teaser for Flux 2, the next generation of the popular image generation model. <strong>Rourke</strong> confirmed \"Flux 2 is coming yep,\" generating anticipation within the community. <strong>Ramon Guthrie</strong> speculated about potential updates to Flux Kontext 2, noting that Qwen-Image-Edit-2509 is \"so hot right now\" and that \"nobody is training Kontext Loras anymore.\" <strong>ChristianF</strong> observed that \"the .2 on the goggle definitely is a hint to an updated model.\" <strong>Martin LeBlanc</strong> recommended trying Mystic 3 SOTA, which <strong>ChristianF</strong> acknowledged as \"very good from what I have seen so far.\"",
+          "posters": [
+            "ChristianF",
+            "Rourke",
+            "Ramon Guthrie",
+            "Martin LeBlanc"
+          ]
         },
         {
           "title": "🌟 Google Imagine Image Model Launches",
           "link": "https://blog.google/technology/google-deepmind/imagine-if/",
           "overview": "Google DeepMind releases Imagine, a new image generation model with advanced capabilities.",
           "description": "Google DeepMind launched Imagine, their latest image generation model, marking Google's continued push into AI creative tools. The announcement came alongside other major model releases during this period, contributing to what the community recognized as an exceptionally active two weeks for AI tool launches. The model joins Google's expanding portfolio of AI creative tools, following their recent Veo video model releases.",
-          "posters": ["Community"]
+          "posters": [
+            "Community"
+          ]
         },
         {
           "title": "🎥 Kandinsky 5.0 Video Pro Released",
           "link": "https://huggingface.co/collections/kandinskylab/kandinsky-50-video-pro",
           "overview": "Russian AI lab releases Kandinsky 5.0 Video Pro, expanding video generation options.",
           "description": "Kandinsky Lab released Kandinsky 5.0 Video Pro, adding another option to the rapidly expanding video generation landscape. The model is available on Hugging Face and represents the Russian AI lab's entry into professional-grade video generation, competing with established players like Sora, Veo, Kling, and Runway. The release contributes to the increasingly competitive video AI market, offering creators more choices for their workflows.",
-          "posters": ["Community"]
+          "posters": [
+            "Community"
+          ]
         },
         {
           "title": "🤖 Grok Imagine Image Tool Launches",
           "link": "https://grokimagine.ai/",
           "overview": "xAI releases Grok Imagine, their image generation tool for X Premium users.",
           "description": "xAI launched Grok Imagine, an image generation tool integrated into the X (Twitter) platform for Premium users. The release represents xAI's expansion beyond text-based AI into creative visual tools, competing directly with established image generators like Midjourney, Flux, and Leonardo. The integration with X provides a unique distribution advantage, making AI image generation accessible directly within the social media platform.",
-          "posters": ["Community"]
+          "posters": [
+            "Community"
+          ]
         },
         {
           "title": "🤖 Meta SAM 3 Released",
           "link": "https://ai.meta.com/sam3/",
           "overview": "Meta releases Segment Anything Model 3 with improved segmentation capabilities.",
           "description": "Meta released SAM 3 (Segment Anything Model 3), the latest version of their powerful image segmentation tool. The model offers improved accuracy and capabilities for identifying and isolating objects within images, a critical tool for AI video workflows, compositing, and editing. The release includes a gallery showcasing the model's capabilities and represents Meta's continued investment in foundational AI tools for creative applications.",
-          "posters": ["Community"]
+          "posters": [
+            "Community"
+          ]
         },
         {
           "title": "🏰 Disney Officially Embraces AI Content",
           "link": "https://comicbookmovie.com/disney/disney-ceo-bob-iger-says-disney-will-allow-ai-generated-content-as-studio-embraces-controversial-technology-a224846",
           "overview": "Disney CEO Bob Iger announces Disney will allow AI-generated content, marking major industry shift.",
           "description": "Disney CEO Bob Iger announced that Disney will allow AI-generated content, representing a seismic shift in the entertainment industry's approach to AI. The announcement signals that one of the world's largest entertainment companies is officially embracing AI technology despite ongoing controversy. This decision follows Disney's previous experimentation with AI tools and comes as other major studios continue to navigate the balance between technological innovation and traditional creative processes. The move is expected to influence industry-wide adoption and acceptance of AI in mainstream entertainment production.",
-          "posters": ["Community"]
+          "posters": [
+            "Community"
+          ]
         }
       ]
     },
@@ -103,29 +152,40 @@
           "title": "🎨 Leonardo Blueprints Update",
           "link": "https://www.linkedin.com/posts/%F0%9F%8C%9Frourke-sefton-minns-85684424b_leonardoai-leonardoblueprints-aiimagegenerator-activity-7393983635873492992-dpl3",
           "overview": "Leonardo AI releases Blueprints feature for advanced image generation control.",
-          "description": "Rourke shared Leonardo AI's new Blueprints feature, which provides enhanced control over image generation workflows. The update represents Leonardo's continued evolution beyond basic image generation toward more sophisticated creative tools that compete with established players in the space.",
-          "posters": ["Rourke"]
+          "description": "<strong>Rourke</strong> shared Leonardo AI's new Blueprints feature, which provides enhanced control over image generation workflows. The update represents Leonardo's continued evolution beyond basic image generation toward more sophisticated creative tools that compete with established players in the space.",
+          "posters": [
+            "Rourke"
+          ]
         },
         {
           "title": "🎬 MotionStream Web Platform",
           "link": "https://joonghyuk.com/motionstream-web/",
           "overview": "New web-based motion control platform for AI video generation.",
-          "description": "Henry shared MotionStream Web, a new platform for motion control in AI video generation. The tool provides web-based access to advanced motion control features, making sophisticated video techniques more accessible to creators without requiring local installations or complex setups.",
-          "posters": ["Henry"]
+          "description": "<strong>Henry</strong> shared MotionStream Web, a new platform for motion control in AI video generation. The tool provides web-based access to advanced motion control features, making sophisticated video techniques more accessible to creators without requiring local installations or complex setups.",
+          "posters": [
+            "Henry"
+          ]
         },
         {
           "title": "🖼️ Qwen Image Edit Angles",
           "link": "https://huggingface.co/spaces/linoyts/Qwen-Image-Edit-Angles",
           "overview": "Qwen releases angle editing tool for changing camera perspectives in images.",
-          "description": "Qwen released an image editing tool specifically designed for changing camera angles and perspectives in existing images. The tool enables creators to reframe shots and adjust viewpoints without regenerating entire images, offering precise control over composition and perspective. Luka T highlighted the tool's potential, noting that \"the Qwen Edit 2509 Loras everyone will be using.\"",
-          "posters": ["Community", "Luka T"]
+          "description": "Qwen released an image editing tool specifically designed for changing camera angles and perspectives in existing images. The tool enables creators to reframe shots and adjust viewpoints without regenerating entire images, offering precise control over composition and perspective. <strong>Luka T</strong> highlighted the tool's potential, noting that \"the Qwen Edit 2509 Loras everyone will be using.\"",
+          "posters": [
+            "Community",
+            "Luka T"
+          ]
         },
         {
           "title": "🎵 Mirelo AI Audio Tool",
           "link": "",
           "overview": "New AI audio tool for sound effects and music generation.",
-          "description": "Carl-Johann Simon-Gabriel promoted Mirelo AI, a new tool for AI-generated sound effects and music. The tool emerged as a solution when Veo 3.1 was experiencing widespread audio disruption issues. Carl-Johann offered free credits to community members who created accounts, demonstrating the tool's value for AI video workflows requiring high-quality audio.",
-          "posters": ["Carl-Johann Simon-Gabriel", "Billy Boman", "Alex"]
+          "description": "<strong>Carl-Johann Simon-Gabriel</strong> promoted Mirelo AI, a new tool for AI-generated sound effects and music. The tool emerged as a solution when Veo 3.1 was experiencing widespread audio disruption issues. Carl-Johann offered free credits to community members who created accounts, demonstrating the tool's value for AI video workflows requiring high-quality audio.",
+          "posters": [
+            "Carl-Johann Simon-Gabriel",
+            "Billy Boman",
+            "Alex"
+          ]
         }
       ]
     },
@@ -135,19 +195,21 @@
         {
           "title": "🎬 Veo 3.1 Natural Dialogue Technique",
           "link": "https://www.linkedin.com/posts/jordan-daniel-chesney_get-natural-dialogue-with-veo-31-a-lot-activity-7396923917199675393-mpQb",
-          "overview": "Jordan Daniel Chesney reveals technique for achieving natural dialogue in Veo 3.1 videos.",
+          "overview": "<strong>Jordan Daniel Chesney</strong> reveals technique for achieving natural dialogue in Veo 3.1 videos.",
           "tutorial": {
             "discovery": "*Jordan Daniel Chesney discovered a technique for generating natural-sounding dialogue in Veo 3.1 videos, addressing a common challenge where AI-generated dialogue often sounds robotic or unnatural.*",
             "technique": "*The key is to prompt for specific conversational qualities and natural speech patterns rather than just dialogue content. This includes specifying tone, pacing, and conversational dynamics in the prompt.*",
             "application": "*The technique works particularly well for character interactions and dialogue-driven scenes, significantly improving the realism of AI-generated conversations.*",
             "results": "*Users reported much more natural-sounding dialogue that better matches the visual performance, creating more believable character interactions.*"
           },
-          "posters": ["Jordan Daniel Chesney"]
+          "posters": [
+            "Jordan Daniel Chesney"
+          ]
         },
         {
           "title": "🚗 Truck Color Change Workflow",
           "link": "",
-          "overview": "Martin LeBlanc demonstrates workflow for changing vehicle colors using Nano Banana and Kling.",
+          "overview": "<strong>Martin LeBlanc</strong> demonstrates workflow for changing vehicle colors using Nano Banana and Kling.",
           "tutorial": {
             "problem": "*Olly Ginelli needed to change the color of a truck in a 4-5 second shot while keeping the cab white, requiring a solution that looked indistinguishable from the original footage.*",
             "solutions_discussed": "*Multiple approaches were suggested: Thomas Hughes recommended exporting frame-by-frame into Lightroom using AI mask tool, Jordan Daniel Chesney suggested Runway Aleph, and Martin LeBlanc proposed using Nano Banana with Kling.*",
@@ -168,12 +230,18 @@
             ],
             "notes": "*Martin noted that Kling 2.5 will have start/end-frame support and will likely have better quality. He also observed that Runway Aleph \"messes up the quality too much\" and is \"unusable\" according to Edmond Yang, making the Nano Banana + Kling approach superior for this use case.*"
           },
-          "posters": ["Martin LeBlanc", "Olly Ginelli", "Thomas Hughes", "Jordan Daniel Chesney", "Edmond Yang"]
+          "posters": [
+            "Martin LeBlanc",
+            "Olly Ginelli",
+            "Thomas Hughes",
+            "Jordan Daniel Chesney",
+            "Edmond Yang"
+          ]
         },
         {
           "title": "🍌 Nano Banana Pro Camera Angle Techniques",
           "link": "https://www.linkedin.com/posts/%F0%9F%8C%9Frourke-sefton-minns-85684424b_nanobananapro-googleai-higgsfieldai-activity-7397359560568549376-BJvs",
-          "overview": "Rory Flynn and community share advanced camera angle manipulation techniques using Nano Banana Pro.",
+          "overview": "<strong>Rory Flynn</strong> and community share advanced camera angle manipulation techniques using Nano Banana Pro.",
           "tutorial": {
             "technique": "*Use varying levels of tilt and horizontal rotation to achieve precise camera angle adjustments in Nano Banana Pro.*",
             "discovery": "*Rory Flynn demonstrated the technique with examples, which Marco praised as \"one of my fav thumbs u have made!\" Martin LeBlanc noted that \"nano banana pro is probably really good at it.\"*",
@@ -182,19 +250,30 @@
             "quality_comparison": "*Rory Flynn noted Nano Banana Pro produces \"better than the 720p qwen output,\" establishing it as superior to previous editing tools.*",
             "pixel_shift_question": "*Ramon Guthrie asked whether Nano Banana Pro \"fixed the pixel shift issue on small edits,\" a known problem with previous versions that affected precision editing work.*"
           },
-          "posters": ["Rory Flynn", "Kēkā", "Rourke", "Martin LeBlanc", "Marco", "Ramon Guthrie"]
+          "posters": [
+            "Rory Flynn",
+            "Kēkā",
+            "Rourke",
+            "Martin LeBlanc",
+            "Marco",
+            "Ramon Guthrie"
+          ]
         },
         {
           "title": "🎨 Seedream Skin Realism with JSON",
           "link": "https://www.linkedin.com/posts/paulwilloughby_ai-skin-realism-with-json-in-seedream-ugcPost-7391811127615320064-K8yw",
-          "overview": "Paul Willoughby shares technique for achieving photorealistic skin in Seedream using JSON parameters.",
+          "overview": "<strong>Paul Willoughby</strong> shares technique for achieving photorealistic skin in Seedream using JSON parameters.",
           "tutorial": {
             "technique": "*Use JSON parameter control in Seedream to fine-tune skin texture, pore detail, and realism levels.*",
             "discovery": "*Jovardi asked for guidance on Seedream prompting and how it compares to Nano Banana, highlighting the need for better documentation of Seedream's advanced features.*",
             "application": "*The JSON approach provides granular control over skin characteristics, allowing creators to avoid the common AI pitfall of either too-smooth or overly-textured skin.*",
             "reference": "*Ludovic shared the BytePlus ModelArk documentation as the primary resource for Seedream prompting techniques.*"
           },
-          "posters": ["Paul Willoughby", "Jovardi", "Ludovic"]
+          "posters": [
+            "Paul Willoughby",
+            "Jovardi",
+            "Ludovic"
+          ]
         },
         {
           "title": "🎬 Veo 3.1 Audio Disruption Workarounds",
@@ -215,29 +294,39 @@
             ],
             "status": "*The issue was widespread and persistent, affecting paid users across multiple platforms, indicating a systemic problem with Veo 3.1's audio generation capabilities during this period.*"
           },
-          "posters": ["Ari Kuschnir", "Billy Boman", "Alex", "Carl-Johann Simon-Gabriel"]
+          "posters": [
+            "Ari Kuschnir",
+            "Billy Boman",
+            "Alex",
+            "Carl-Johann Simon-Gabriel"
+          ]
         },
         {
           "title": "🎬 Fast-Paced Editing Framing Rule",
           "link": "https://x.com/3xChris/status/1989906776284701181",
-          "overview": "Jordan Daniel Chesney shares essential framing rule for fast-paced video editing.",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares essential framing rule for fast-paced video editing.",
           "tutorial": {
             "principle": "*Maintain consistent framing and composition across cuts in fast-paced sequences to preserve visual continuity and viewer orientation.*",
             "application": "*Particularly important for action sequences, music videos, and any content with rapid cutting where viewers need to track movement and spatial relationships.*",
             "source": "*Shared by Chris with practical examples demonstrating the technique's effectiveness.*"
           },
-          "posters": ["Jordan Daniel Chesney", "Chris"]
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Chris"
+          ]
         },
         {
           "title": "📊 Longer AI Video Extension Technique",
           "link": "https://www.linkedin.com/posts/jerrod-lew_longer-ai-videos-are-now-possible-introducing-ugcPost-7396895551373381632-DVvf",
-          "overview": "Jerrod Lew introduces technique for creating longer AI-generated videos through extension methods.",
+          "overview": "<strong>Jerrod Lew</strong> introduces technique for creating longer AI-generated videos through extension methods.",
           "tutorial": {
             "technique": "*Use systematic video extension methods to create longer-form AI content beyond standard generation limits.*",
             "application": "*Enables creators to build narrative content and longer sequences that would be impossible with single-generation approaches.*",
             "benefits": "*Overcomes the primary limitation of current AI video tools while maintaining visual consistency across extended sequences.*"
           },
-          "posters": ["Jerrod Lew"]
+          "posters": [
+            "Jerrod Lew"
+          ]
         }
       ]
     },
@@ -247,44 +336,67 @@
         {
           "title": "🎙️ Jack - Michael Caine ElevenLabs Film",
           "link": "https://youtu.be/k29nmjIx4Gg",
-          "overview": "Jack's film featuring ethically licensed Michael Caine voice demonstrates new voice licensing service.",
-          "description": "Jack premiered his film featuring Michael Caine's voice through the new ElevenLabs voice licensing service, demonstrating both the technical capabilities and ethical framework for licensing legendary voices. The film received widespread acclaim for both its execution and its message, with ChristianF praising it as \"freaking awesome\" and noting he \"love[s] the film itself and the message.\" The project serves as a proof of concept for the voice licensing service, showing how creators can ethically work with iconic voices while ensuring proper compensation for voice owners.",
-          "posters": ["Jack", "ChristianF", "Jordan Daniel Chesney", "Danielle", "Jovardi", "Sami", "PJ Accetturo"]
+          "overview": "<strong>Jack</strong>'s film featuring ethically licensed Michael Caine voice demonstrates new voice licensing service.",
+          "description": "<strong>Jack</strong> premiered his film featuring Michael Caine's voice through the new ElevenLabs voice licensing service, demonstrating both the technical capabilities and ethical framework for licensing legendary voices. The film received widespread acclaim for both its execution and its message, with <strong>ChristianF</strong> praising it as \"freaking awesome\" and noting he \"love[s] the film itself and the message.\" The project serves as a proof of concept for the voice licensing service, showing how creators can ethically work with iconic voices while ensuring proper compensation for voice owners.",
+          "posters": [
+            "Jack",
+            "ChristianF",
+            "Jordan Daniel Chesney",
+            "Danielle",
+            "Jovardi",
+            "Sami",
+            "PJ Accetturo"
+          ]
         },
         {
           "title": "🎬 Ryan Phillips - AI Video Retrospective",
           "link": "https://www.linkedin.com/posts/ryan-phillips-3269307_nearly-2-years-ago-i-made-one-of-the-first-activity-7394662540623892480-R7Um",
-          "overview": "Ryan Phillips reflects on nearly 2 years of AI video creation journey.",
-          "description": "Ryan Phillips shared a retrospective looking back at nearly two years of AI video creation, documenting the rapid evolution of tools and techniques. The post highlighted how far the technology has progressed and provided valuable perspective on the pace of change in AI video generation.",
-          "posters": ["Ryan Phillips"]
+          "overview": "<strong>Ryan Phillips</strong> reflects on nearly 2 years of AI video creation journey.",
+          "description": "<strong>Ryan Phillips</strong> shared a retrospective looking back at nearly two years of AI video creation, documenting the rapid evolution of tools and techniques. The post highlighted how far the technology has progressed and provided valuable perspective on the pace of change in AI video generation.",
+          "posters": [
+            "Ryan Phillips"
+          ]
         },
         {
           "title": "🎬 Seb Ungrad - Latest Short Film",
           "link": "https://www.linkedin.com/posts/sebastian-ungrad-b9381ba1_i-just-finished-my-latest-short-film-the-activity-7397557343854514176-qUwe",
-          "overview": "Sebastian Ungrad completes new AI short film showcasing current capabilities.",
-          "description": "Sebastian Ungrad completed his latest AI-generated short film, demonstrating the current state of AI filmmaking capabilities. The project showcases how creators are pushing the boundaries of narrative storytelling with AI tools.",
-          "posters": ["Sebastian Ungrad"]
+          "overview": "<strong>Sebastian Ungrad</strong> completes new AI short film showcasing current capabilities.",
+          "description": "<strong>Sebastian Ungrad</strong> completed his latest AI-generated short film, demonstrating the current state of AI filmmaking capabilities. The project showcases how creators are pushing the boundaries of narrative storytelling with AI tools.",
+          "posters": [
+            "Sebastian Ungrad"
+          ]
         },
         {
           "title": "🍌 Billy Boman - Nano Banana Techniques",
           "link": "https://www.linkedin.com/posts/billyboman_first-rule-of-nano-banan-fight-club-post-activity-7397604168833613824-TdcA",
-          "overview": "Billy Boman shares advanced Nano Banana workflow techniques.",
-          "description": "Billy Boman demonstrated advanced techniques using Nano Banana, playfully referencing Fight Club while showcasing the tool's capabilities for precise image editing and video frame manipulation. His work continues to push the boundaries of what's possible with Nano Banana in AI video workflows.",
-          "posters": ["Billy Boman"]
+          "overview": "<strong>Billy Boman</strong> shares advanced Nano Banana workflow techniques.",
+          "description": "<strong>Billy Boman</strong> demonstrated advanced techniques using Nano Banana, playfully referencing Fight Club while showcasing the tool's capabilities for precise image editing and video frame manipulation. His work continues to push the boundaries of what's possible with Nano Banana in AI video workflows.",
+          "posters": [
+            "Billy Boman"
+          ]
         },
         {
           "title": "🎵 ChristianF - AI Music Video",
           "link": "https://www.linkedin.com/posts/christian-fleischer-1965a6274_music-aimusicvideo-visiblemaker-activity-7395199239963693056-bhB8",
-          "overview": "ChristianF creates music video showcasing AI video generation capabilities.",
-          "description": "ChristianF produced a music video using AI tools, demonstrating how AI video generation is being applied to music video production. The project showcases the creative possibilities for music artists and video creators working with AI tools.",
-          "posters": ["ChristianF"]
+          "overview": "<strong>ChristianF</strong> creates music video showcasing AI video generation capabilities.",
+          "description": "<strong>ChristianF</strong> produced a music video using AI tools, demonstrating how AI video generation is being applied to music video production. The project showcases the creative possibilities for music artists and video creators working with AI tools.",
+          "posters": [
+            "ChristianF"
+          ]
         },
         {
           "title": "🎨 Various Community Showcases",
           "link": "",
           "overview": "Multiple community members shared work across Instagram, LinkedIn, and X.",
-          "description": "The community remained highly active with numerous showcases across social platforms. Jordan Daniel Chesney, Yonatan, Ludovic, and others continued sharing their latest AI-generated work, demonstrating the diverse applications and creative approaches being explored with current tools. The consistent stream of high-quality work reflects the community's rapid skill development and creative experimentation.",
-          "posters": ["Jordan Daniel Chesney", "Yonatan", "Ludovic", "Ramon Guthrie", "Rourke", "Henry"]
+          "description": "The community remained highly active with numerous showcases across social platforms. <strong>Jordan Daniel Chesney</strong>, <strong>Yonatan</strong>, <strong>Ludovic</strong>, and others continued sharing their latest AI-generated work, demonstrating the diverse applications and creative approaches being explored with current tools. The consistent stream of high-quality work reflects the community's rapid skill development and creative experimentation.",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Yonatan",
+            "Ludovic",
+            "Ramon Guthrie",
+            "Rourke",
+            "Henry"
+          ]
         }
       ]
     },
@@ -296,7 +408,9 @@
           "link": "https://agbo.breezy.hr/p/5e2c3f6f945b-creative-developer",
           "overview": "AGBO (Russo Brothers' production company) hiring creative developer for AI integration.",
           "description": "AGBO, the production company founded by the Russo Brothers (directors of Avengers: Endgame and other Marvel films), posted an opening for a Creative Developer position. The role signals major Hollywood production companies actively hiring for AI integration capabilities, representing significant mainstream adoption of AI tools in traditional film production. The position offers an opportunity to work at the intersection of cutting-edge AI technology and major studio filmmaking.",
-          "posters": ["Community"]
+          "posters": [
+            "Community"
+          ]
         }
       ]
     },
@@ -307,43 +421,68 @@
           "title": "🥤 Coca-Cola AI Ad Controversy Analysis",
           "link": "",
           "overview": "Deep discussion on Coca-Cola's AI commercial, 70k generations, and brand control dynamics.",
-          "description": "The community engaged in extensive discussion about Coca-Cola's latest AI-generated commercial, particularly focusing on the reported 70,000 generations used in production. Henry noted that \"70k feels more of an issue of hit rate than a flex - you gen more when the models don't deliver,\" questioning whether the high generation count represented inefficiency rather than thoroughness. Blvckl!ght observed that \"the sheer number of gens\" was the biggest pushback, as \"energy cost is the biggest factor for a lot of anti-AI people.\" Davide Bianca, who appeared to have inside knowledge, countered that \"it is still a lot less impact than an actual shoot\" and that the commercial \"tested through the roof\" according to System1 data. The discussion revealed tensions between creative control and brand requirements, with Noah noting that \"it's usually in their end when the quality starts to collapse\" due to brands being \"too slow to do notes, rush it all at the last minute\" leading to \"revision after revision.\" Blvckl!ght shared his approach: \"I have done a few music videos for some well known artists. The first iteration was their direction and it came out meh. But when I offered to redo the whole thing for free my way for comparison, they liked that better.\" Henry summarized the core issue: \"Always has been like this in any creative industry. Ego mostly.\" The conversation highlighted the complex dynamics of working with major brands on AI-generated content, where technical capabilities must navigate corporate processes, legal requirements, and stakeholder management.",
-          "posters": ["Henry", "Billy Boman", "Blvckl!ght", "Davide Bianca", "Noah", "ChristianF"]
+          "description": "The community engaged in extensive discussion about Coca-Cola's latest AI-generated commercial, particularly focusing on the reported 70,000 generations used in production. <strong>Henry</strong> noted that \"70k feels more of an issue of hit rate than a flex - you gen more when the models don't deliver,\" questioning whether the high generation count represented inefficiency rather than thoroughness. <strong>Blvckl!ght</strong> observed that \"the sheer number of gens\" was the biggest pushback, as \"energy cost is the biggest factor for a lot of anti-AI people.\" <strong>Davide Bianca</strong>, who appeared to have inside knowledge, countered that \"it is still a lot less impact than an actual shoot\" and that the commercial \"tested through the roof\" according to System1 data. The discussion revealed tensions between creative control and brand requirements, with <strong>Noah</strong> noting that \"it's usually in their end when the quality starts to collapse\" due to brands being \"too slow to do notes, rush it all at the last minute\" leading to \"revision after revision.\" <strong>Blvckl!ght</strong> shared his approach: \"I have done a few music videos for some well known artists. The first iteration was their direction and it came out meh. But when I offered to redo the whole thing for free my way for comparison, they liked that better.\" <strong>Henry</strong> summarized the core issue: \"Always has been like this in any creative industry. Ego mostly.\" The conversation highlighted the complex dynamics of working with major brands on AI-generated content, where technical capabilities must navigate corporate processes, legal requirements, and stakeholder management.",
+          "posters": [
+            "Henry",
+            "Billy Boman",
+            "Blvckl!ght",
+            "Davide Bianca",
+            "Noah",
+            "ChristianF"
+          ]
         },
         {
           "title": "💰 Brand Work Cost Analysis",
           "link": "",
-          "overview": "Linus Ekenstam breaks down why major brand work costs millions beyond creative execution.",
-          "description": "Linus Ekenstam provided a masterclass in understanding enterprise brand costs, using a hypothetical Nike logo redesign to illustrate why major brand work commands massive budgets. He explained: \"I can draw the Nike Logo in 20 seconds, but the cost of changing the Nike Logo is astronomical, so if I were to redesign it, it would come at a cost close to $1bn even if I could re-draw it in 2 hours. Because Nike would price in risk.\" He detailed the actual costs: global tooling for printing and embossing, global digital asset management and distribution pipelines, industrial tooling for product manufacturing across multiple verticals, replacing millions of surfaces with existing logos, all physical stores, and immeasurable brand loss in having a new mark for people to connect with. \"This is just the very very tip of the iceberg. This is what Nike would pay for with a new logo, not the artist that would draw the new icon/wordmark, that would be the easiest part.\" Edmond Yang added that the comparison ignores \"process / idea / drafts / revisions\" and \"all the changes and battles you have to do as an agency with the client / brand.\" Sebastian Kamph humorously illustrated typical client revision requests: \"Now move the bottle and all logos 5cm to the left in all shots, but we love everything else... Btw, we changed our minds, now we want the previous edit, but keep the new changes with the bottle and logo. So merge the two please. We need it by EOD thanks!\" Linus responded: \"This is a human error - Creative Director without the ability to know what they want. If I work with people like this I always move away and never return.\" The discussion provided crucial context for understanding why AI tools, despite being faster and cheaper, don't automatically reduce costs for major brand work where risk management, legal processes, and stakeholder coordination dominate the budget.",
-          "posters": ["Linus Ekenstam", "Edmond Yang", "Sebastian Kamph", "Billy Boman"]
+          "overview": "<strong>Linus Ekenstam</strong> breaks down why major brand work costs millions beyond creative execution.",
+          "description": "<strong>Linus Ekenstam</strong> provided a masterclass in understanding enterprise brand costs, using a hypothetical Nike logo redesign to illustrate why major brand work commands massive budgets. He explained: \"I can draw the Nike Logo in 20 seconds, but the cost of changing the Nike Logo is astronomical, so if I were to redesign it, it would come at a cost close to $1bn even if I could re-draw it in 2 hours. Because Nike would price in risk.\" He detailed the actual costs: global tooling for printing and embossing, global digital asset management and distribution pipelines, industrial tooling for product manufacturing across multiple verticals, replacing millions of surfaces with existing logos, all physical stores, and immeasurable brand loss in having a new mark for people to connect with. \"This is just the very very tip of the iceberg. This is what Nike would pay for with a new logo, not the artist that would draw the new icon/wordmark, that would be the easiest part.\" <strong>Edmond Yang</strong> added that the comparison ignores \"process / idea / drafts / revisions\" and \"all the changes and battles you have to do as an agency with the client / brand.\" <strong>Sebastian Kamph</strong> humorously illustrated typical client revision requests: \"Now move the bottle and all logos 5cm to the left in all shots, but we love everything else... Btw, we changed our minds, now we want the previous edit, but keep the new changes with the bottle and logo. So merge the two please. We need it by EOD thanks!\" Linus responded: \"This is a human error - Creative Director without the ability to know what they want. If I work with people like this I always move away and never return.\" The discussion provided crucial context for understanding why AI tools, despite being faster and cheaper, don't automatically reduce costs for major brand work where risk management, legal processes, and stakeholder coordination dominate the budget.",
+          "posters": [
+            "Linus Ekenstam",
+            "Edmond Yang",
+            "Sebastian Kamph",
+            "Billy Boman"
+          ]
         },
         {
           "title": "🎨 AI Realism Paradox",
           "link": "",
-          "overview": "Ramon Guthrie observes how AI image tells have shifted from too smooth to too textured.",
-          "description": "Ramon Guthrie made an astute observation about the evolution of AI image generation: \"It's funny where we are with realism in AI. A few years ago, it was easy to tell an image was AI because it was too smooth. Now, we've gone full blown in the opposite direction, you can tell an image is AI because it has too much skin texture and too many blemishes!\" Billy Boman responded: \"This whole doing things tastefully seems to be a hard pass for many...\" The exchange highlighted how AI image generation has overcorrected from the early days of unnaturally smooth, plastic-looking renders to now often producing hyper-detailed skin with excessive pores and blemishes. The observation underscores the ongoing challenge of achieving natural-looking realism that doesn't veer into either extreme.",
-          "posters": ["Ramon Guthrie", "Billy Boman"]
+          "overview": "<strong>Ramon Guthrie</strong> observes how AI image tells have shifted from too smooth to too textured.",
+          "description": "<strong>Ramon Guthrie</strong> made an astute observation about the evolution of AI image generation: \"It's funny where we are with realism in AI. A few years ago, it was easy to tell an image was AI because it was too smooth. Now, we've gone full blown in the opposite direction, you can tell an image is AI because it has too much skin texture and too many blemishes!\" <strong>Billy Boman</strong> responded: \"This whole doing things tastefully seems to be a hard pass for many...\" The exchange highlighted how AI image generation has overcorrected from the early days of unnaturally smooth, plastic-looking renders to now often producing hyper-detailed skin with excessive pores and blemishes. The observation underscores the ongoing challenge of achieving natural-looking realism that doesn't veer into either extreme.",
+          "posters": [
+            "Ramon Guthrie",
+            "Billy Boman"
+          ]
         },
         {
           "title": "🎬 Method Acting with AI Actors",
           "link": "https://variety.com/2025/film/news/wanted-director-method-acting-ai-actors-1236579647/",
           "overview": "Discussion of Variety article on method acting approaches with AI-generated characters.",
           "description": "The community discussed a Variety article exploring how directors are approaching \"method acting\" concepts with AI-generated characters. The article examined whether traditional acting methodologies and character development techniques apply when working with AI actors, raising philosophical and practical questions about the nature of performance in AI-generated content. The discussion reflects the industry's ongoing effort to establish best practices and frameworks for AI filmmaking that draw from traditional filmmaking while acknowledging the unique characteristics of AI-generated performances.",
-          "posters": ["Community"]
+          "posters": [
+            "Community"
+          ]
         },
         {
           "title": "🎬 Weavy Corporate Adoption",
           "link": "",
           "overview": "Multiple community members report Weavy becoming standard for corporate AI workflows.",
-          "description": "Following the Weavy-Figma integration announcement, multiple community members reported increasing corporate adoption of Weavy. Rory Flynn noted it's \"the only tool that's been universally accepted at the corporate level,\" while Ludovic confirmed \"more corporate contacts are requesting Weavy.\" Kēkā shared that he's \"pushing for Weavy as a primary for the studio, working across a traditional animation pipeline.\" The consensus emerged that Weavy's thoughtful UX/UI design and integration with familiar tools like Figma makes it uniquely positioned for enterprise adoption, where ease of onboarding and corporate IT acceptance are critical factors. Billy Boman praised Weavy for being \"not just another lazy ComfyUI wrapper, but an actually thought out product balancing good UX and UI while making complex AI workflows more accessible.\"",
-          "posters": ["Rory Flynn", "Ludovic", "Kēkā", "Billy Boman", "ChristianF"]
+          "description": "Following the Weavy-Figma integration announcement, multiple community members reported increasing corporate adoption of Weavy. <strong>Rory Flynn</strong> noted it's \"the only tool that's been universally accepted at the corporate level,\" while <strong>Ludovic</strong> confirmed \"more corporate contacts are requesting Weavy.\" <strong>Kēkā</strong> shared that he's \"pushing for Weavy as a primary for the studio, working across a traditional animation pipeline.\" The consensus emerged that Weavy's thoughtful UX/UI design and integration with familiar tools like Figma makes it uniquely positioned for enterprise adoption, where ease of onboarding and corporate IT acceptance are critical factors. <strong>Billy Boman</strong> praised Weavy for being \"not just another lazy ComfyUI wrapper, but an actually thought out product balancing good UX and UI while making complex AI workflows more accessible.\"",
+          "posters": [
+            "Rory Flynn",
+            "Ludovic",
+            "Kēkā",
+            "Billy Boman",
+            "ChristianF"
+          ]
         },
         {
           "title": "📱 TikTok vs Other Platforms",
           "link": "",
-          "overview": "Rory Flynn shares insights on TikTok's unique engagement dynamics for AI content.",
-          "description": "Rory Flynn shared his experience with platform dynamics: \"I put in zero effort on TikTok tho..I just post and ghost..but it's easy because you don't have to be active on the platform at all.\" He noted success with \"a lot of other stuff..even with my talking head in the video\" beyond just Sora content. The insight highlighted TikTok's unique algorithm that doesn't require constant platform engagement to maintain reach, contrasting with other social platforms where creator activity and community interaction significantly impact content distribution.",
-          "posters": ["Rory Flynn"]
+          "overview": "<strong>Rory Flynn</strong> shares insights on TikTok's unique engagement dynamics for AI content.",
+          "description": "<strong>Rory Flynn</strong> shared his experience with platform dynamics: \"I put in zero effort on TikTok tho..I just post and ghost..but it's easy because you don't have to be active on the platform at all.\" He noted success with \"a lot of other stuff..even with my talking head in the video\" beyond just Sora content. The insight highlighted TikTok's unique algorithm that doesn't require constant platform engagement to maintain reach, contrasting with other social platforms where creator activity and community interaction significantly impact content distribution.",
+          "posters": [
+            "Rory Flynn"
+          ]
         }
       ]
     },
@@ -559,4 +698,3 @@
     }
   ]
 }
-
