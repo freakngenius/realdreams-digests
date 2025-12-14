@@ -43,8 +43,8 @@
         {
           "title": "🎵 Suno Partners with Warner Music Group",
           "link": "https://www.prnewswire.com/news-releases/warner-music-group-and-suno-forge-groundbreaking-partnership-302626017.html",
-          "overview": "Suno announces groundbreaking partnership with Warner Music Group, reshaping AI music generation landscape.",
-          "description": "ChristianF. announced that Suno has partnered with Warner Music Group in a major industry development. The partnership will allow downloads but with new restrictions - downloads will be limited to paid tiers with monthly caps on the number of downloads allowed. ChristianF. noted that Suno remains the best AI music generation tool and expressed hope that this partnership will level up the platform even further. <strong>Rory Flynn</strong> commented that Suno has gotten significantly better over the last year, with the community expressing optimism about the partnership's potential to enhance the platform while maintaining ethical music licensing practices.",
+          "overview": "<strong>ChristianF.</strong> announces groundbreaking partnership with Warner Music Group, reshaping AI music generation landscape.",
+          "description": "<strong>ChristianF.</strong> announced that Suno has partnered with Warner Music Group in a major industry development. The partnership will allow downloads but with new restrictions - downloads will be limited to paid tiers with monthly caps on the number of downloads allowed. <strong>ChristianF.</strong> noted that Suno remains the best AI music generation tool and expressed hope that this partnership will level up the platform even further. <strong>Rory Flynn</strong> commented that Suno has gotten significantly better over the last year, with the community expressing optimism about the partnership's potential to enhance the platform while maintaining ethical music licensing practices.",
           "posters": [
             "ChristianF.",
             "Rory Flynn"
@@ -53,7 +53,7 @@
         {
           "title": "🎬 Disney Invests $1 Billion in OpenAI Partnership",
           "link": "https://variety.com/2025/digital/news/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-1236606401/",
-          "overview": "Disney partners with OpenAI, bringing over 200 Disney, Marvel, and Star Wars characters to Sora with major investment.",
+          "overview": "<strong>Edmond Yang</strong> and <strong>Chad Nelson</strong> share news of Disney partnering with OpenAI, bringing over 200 Disney, Marvel, and Star Wars characters to Sora with major investment.",
           "description": "<strong>Edmond Yang</strong> and <strong>Chad Nelson</strong> shared the groundbreaking news that Disney has signed a deal with OpenAI to bring more than 200 Disney, Marvel, and Star Wars characters to the Sora video generation platform, accompanied by a $1 billion investment. <strong>David Clark</strong> joked \"Critterz on Disney Plus confirmed,\" while <strong>Rory Flynn</strong> noted the irony of this \"big heel turn from suing Midjourney.\" <strong>Edmond Yang</strong> observed Disney is \"joining the darkside instead of fighting it,\" and <strong>David Clark</strong> commented that wellness checks should be put out on anti-AI spokespersons. The partnership represents a dramatic shift in Disney's approach to AI, moving from legal opposition to major investment and collaboration.",
           "posters": [
             "Edmond Yang",
@@ -65,8 +65,8 @@
         {
           "title": "🎥 Kling O1 Model Launch",
           "link": "https://x.com/martinleblanc/status/1995511763136024734",
-          "overview": "Kling releases O1 video generation model with production-ready quality and enhanced capabilities.",
-          "description": "<strong>Martin LeBlanc</strong> announced the launch of Kling's O1 model, which promises improved video generation capabilities with options for 3-10 second clips. ChristianF. shared examples demonstrating the model's video editing capabilities, noting the quality is \"extremely good, production ready for some cases.\" The community discussed whether Kling O1 could serve as a Sora 2 watermark remover, with <strong>Jordan Daniel Chesney</strong> speculating on this potential use case. ChristianF. provided LinkedIn examples showcasing realistic outputs, with Cristobal from Runway claiming to make content in 2 hours using the new model. The release generated significant excitement for its production-ready quality and versatility.",
+          "overview": "<strong>Martin LeBlanc</strong> announces Kling's O1 model release with production-ready quality and enhanced capabilities.",
+          "description": "<strong>Martin LeBlanc</strong> announced the launch of Kling's O1 model, which promises improved video generation capabilities with options for 3-10 second clips. <strong>ChristianF.</strong> shared examples demonstrating the model's video editing capabilities, noting the quality is \"extremely good, production ready for some cases.\" The community discussed whether Kling O1 could serve as a Sora 2 watermark remover, with <strong>Jordan Daniel Chesney</strong> speculating on this potential use case. <strong>ChristianF.</strong> provided LinkedIn examples showcasing realistic outputs, with Cristobal from Runway claiming to make content in 2 hours using the new model. The release generated significant excitement for its production-ready quality and versatility.",
           "posters": [
             "Martin LeBlanc",
             "ChristianF.",
@@ -76,7 +76,7 @@
         {
           "title": "✨ Topaz Labs Announces Starlight Precise 2",
           "link": "https://x.com/topazlabs/status/1998035177101275298",
-          "overview": "Topaz Labs introduces Starlight Precise 2 for Astra, targeting the plastic look problem in AI videos.",
+          "overview": "<strong>Monji</strong>, <strong>Henry</strong>, and <strong>Issa Sissoko</strong> discuss Topaz Labs introducing Starlight Precise 2 for Astra, targeting the plastic look problem in AI videos.",
           "description": "<strong>Monji</strong>, <strong>Henry</strong>, and <strong>Issa Sissoko</strong> discussed the announcement of Starlight Precise 2 from Topaz Labs, designed specifically to tackle the persistent \"plastic look\" issue in AI-generated videos. The tool focuses on enhancing realism by improving face and skin textures, addressing one of the most common complaints about AI video generation. The release is set to be integrated into the Astra platform, with early beta access expected soon. The community expressed enthusiasm about finally having a dedicated solution for this widespread problem.",
           "posters": [
             "Monji",
@@ -87,7 +87,7 @@
         {
           "title": "📝 Screenburn Launches for Story Development",
           "link": "https://Screenburn.app",
-          "overview": "Screenburn platform launches to help writers develop stories from ideas to completed screenplays.",
+          "overview": "<strong>Charles Kriel</strong> announces Screenburn platform launch to help writers develop stories from ideas to completed screenplays.",
           "description": "<strong>Charles Kriel</strong> announced the launch of Screenburn, a new platform designed to guide writers through the entire story development process. Set to officially launch at Content London, Screenburn offers structured guidance from initial idea conception all the way through to completed screenplays or manuscripts. The tool aims to bridge the gap between creative inspiration and finished scripts, providing writers with systematic support throughout their development journey.",
           "posters": [
             "Charles Kriel"
@@ -96,7 +96,7 @@
         {
           "title": "🖼️ Freepik Fixes Image Upload Size Limit",
           "link": "",
-          "overview": "Freepik resolves community-reported issues with reference image upload size limits.",
+          "overview": "<strong>Martin LeBlanc</strong> reports Freepik resolving community-reported issues with reference image upload size limits.",
           "description": "After community feedback from <strong>Luka T</strong>, <strong>Jordan Daniel Chesney</strong>, and <strong>Rory Flynn</strong> about issues uploading reference images to Freepik, <strong>Martin LeBlanc</strong> reported the problem to the team and announced the fix. The image upload size limit was increased from a restrictive 10MB (which was too low even for iPhone photos) to a more appropriate size, resolving daily 4K image importing issues. <strong>Rory Flynn</strong> confirmed he was having 4K importing issues \"basically all-day everyday\" and expressed appreciation for the quick fix. The rapid response demonstrated Freepik's commitment to addressing user feedback.",
           "posters": [
             "Martin LeBlanc",
@@ -108,7 +108,7 @@
         {
           "title": "🔗 ChatGPT Adobe Integration Announced",
           "link": "https://share.google/F93yh59qiUE88QKXJ",
-          "overview": "ChatGPT integrates with Adobe apps, enabling free photo and PDF editing capabilities.",
+          "overview": "<strong>Justin Hackney</strong> and <strong>Ramon Guthrie</strong> share announcement of ChatGPT integrating with Adobe apps, enabling free photo and PDF editing capabilities.",
           "description": "<strong>Justin Hackney</strong> and <strong>Ramon Guthrie</strong> shared the announcement that ChatGPT now offers integration with Adobe applications, allowing users to edit photos and PDFs directly through Adobe apps without additional costs. This integration significantly expands ChatGPT's utility for creative professionals, providing seamless access to professional-grade editing tools within the ChatGPT interface. The feature represents a major step in AI-powered creative workflows.",
           "posters": [
             "Justin Hackney",
@@ -119,7 +119,7 @@
           "title": "🎭 Jon Erwin Joins RealDreams Community",
           "link": "",
           "overview": "House of David director <strong>Jon Erwin</strong> joins the RealDreams HQ community.",
-          "description": "The community warmly welcomed <strong>Jon Erwin</strong>, director of \"House of David,\" to RealDreams HQ. <strong>Ryan Phillips</strong> (Uncanny Harry), <strong>Ludovic</strong> (who worked with Jon in Greece for Season 2), <strong>Dale</strong> (who nearly worked on House of David), Ozan Sihay, <strong>Justin Hackney</strong>, <strong>BasvdE</strong>, <strong>Billy Boman</strong>, <strong>Jim Phillips</strong>, <strong>Edmond Yang</strong>, <strong>Henry</strong>, and <strong>Jordan Daniel Chesney</strong> all expressed excitement and admiration for Jon's work. Jon's presence in the community represents a significant bridge between traditional filmmaking and AI-powered content creation, bringing high-level production expertise to the group.",
+          "description": "The community warmly welcomed <strong>Jon Erwin</strong>, director of \"House of David,\" to RealDreams HQ. <strong>Ryan Phillips</strong> (Uncanny Harry), <strong>Ludovic</strong> (who worked with Jon in Greece for Season 2), <strong>Dale</strong> (who nearly worked on House of David), <strong>Ozan Sihay</strong>, <strong>Justin Hackney</strong>, <strong>BasvdE</strong>, <strong>Billy Boman</strong>, <strong>Jim Phillips</strong>, <strong>Edmond Yang</strong>, <strong>Henry</strong>, and <strong>Jordan Daniel Chesney</strong> all expressed excitement and admiration for Jon's work. Jon's presence in the community represents a significant bridge between traditional filmmaking and AI-powered content creation, bringing high-level production expertise to the group.",
           "posters": [
             "Jon Erwin",
             "Ryan Phillips",
@@ -134,8 +134,8 @@
         {
           "title": "🍔 McDonald's Pulls AI Christmas Commercial",
           "link": "https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial",
-          "overview": "McDonald's Netherlands withdraws AI-generated Christmas commercial, sparking industry discussion.",
-          "description": "<strong>Winston Mayo</strong>, <strong>Billy Boman</strong>, and ChristianF. discussed McDonald's Netherlands pulling their AI-generated Christmas commercial created in collaboration with The Sweetshop. The withdrawal sparked debate about whether it was due to backlash (though <strong>Billy Boman</strong> noted he didn't see Coke-level antagonism in comments), corporate intervention, or the quality of execution. ChristianF. shared a German article discussing the controversy, noting \"lots of stupidity projected on AI\" but suggesting the concept itself may have been too bold and satirical for a Christmas message. <strong>Billy Boman</strong> humorously noted that \"a majority of people also willingly poison themselves with McDonalds,\" questioning the validity of public opinion. The incident raised questions about agencies doing AI commercials in-house and the different reception of AI content in Europe versus the US.",
+          "overview": "<strong>Winston Mayo</strong>, <strong>Billy Boman</strong>, and <strong>ChristianF.</strong> discuss McDonald's Netherlands withdrawing AI-generated Christmas commercial, sparking industry discussion.",
+          "description": "<strong>Winston Mayo</strong>, <strong>Billy Boman</strong>, and <strong>ChristianF.</strong> discussed McDonald's Netherlands pulling their AI-generated Christmas commercial created in collaboration with The Sweetshop. The withdrawal sparked debate about whether it was due to backlash (though <strong>Billy Boman</strong> noted he didn't see Coke-level antagonism in comments), corporate intervention, or the quality of execution. <strong>ChristianF.</strong> shared a German article discussing the controversy, noting \"lots of stupidity projected on AI\" but suggesting the concept itself may have been too bold and satirical for a Christmas message. <strong>Billy Boman</strong> humorously noted that \"a majority of people also willingly poison themselves with McDonalds,\" questioning the validity of public opinion. The incident raised questions about agencies doing AI commercials in-house and the different reception of AI content in Europe versus the US.",
           "posters": [
             "Winston Mayo",
             "Billy Boman",
@@ -160,7 +160,7 @@
         {
           "title": "🚀 Z-Image Model Release",
           "link": "https://www.instagram.com/reel/DRuocXTDbUh/",
-          "overview": "Z-Image launches as lightweight, high-quality image generation model.",
+          "overview": "<strong>PJ Accetturo</strong> and <strong>Zack Abrams</strong> discuss Z-Image launching as lightweight, high-quality image generation model.",
           "description": "<strong>PJ Accetturo</strong> and <strong>Zack Abrams</strong> discussed the release of Z-Image, with plans for base, reasoning, and edit models coming soon, hopefully within the month. <strong>Ramon Guthrie</strong> praised Z-Image-Turbo as \"hands down the best most accessible and runnable, lightweight image generation model,\" running at only 6B parameters (half the size of Flux.1 Dev's 12 parameters) with superior quality and prompt understanding. The model is super easy to train LoRAs for, runs easily on Mac, and now has Controlnet support. <strong>Zack Abrams</strong> suggested Z-Image could rival Nano Banana Pro in their next release since both models are autoregressive rather than DiT-based.",
           "posters": [
             "PJ Accetturo",
@@ -171,8 +171,8 @@
         {
           "title": "🎬 Runway Gen 4.5 Preview",
           "link": "https://www.linkedin.com/posts/iamneubert_introducing-whisper-thunder-aka-gen-45-ugcPost-7401286671427850240-ZYk6",
-          "overview": "Runway showcases Gen 4.5 capabilities in sizzle reel, though not yet publicly available.",
-          "description": "<strong>Billy Boman</strong> shared a sizzle reel featuring Runway Gen 4.5 shots that looked \"pretty spectacular,\" though he noted some Gen 4 content also looked impressive but was difficult to replicate. <strong>Rourke</strong> questioned if it was officially public, noting some shots were \"mental.\" <strong>Winston Mayo</strong> cautioned that \"sizzle reels in tech do that a lot,\" especially when creators have VFX or advertising backgrounds. ChristianF. confirmed it's not accessible yet, not even for CPP (Creator Partner Program) members, though it shows up in the Runway interface. Cristobal from Runway claimed to make realistic content in 2 hours with the new model.",
+          "overview": "<strong>Billy Boman</strong> shares Runway showcasing Gen 4.5 capabilities in sizzle reel, though not yet publicly available.",
+          "description": "<strong>Billy Boman</strong> shared a sizzle reel featuring Runway Gen 4.5 shots that looked \"pretty spectacular,\" though he noted some Gen 4 content also looked impressive but was difficult to replicate. <strong>Rourke</strong> questioned if it was officially public, noting some shots were \"mental.\" <strong>Winston Mayo</strong> cautioned that \"sizzle reels in tech do that a lot,\" especially when creators have VFX or advertising backgrounds. <strong>ChristianF.</strong> confirmed it's not accessible yet, not even for CPP (Creator Partner Program) members, though it shows up in the Runway interface. Cristobal from Runway claimed to make realistic content in 2 hours with the new model.",
           "posters": [
             "Billy Boman",
             "Rourke",
@@ -183,7 +183,7 @@
         {
           "title": "🍎 Apple StarFlow Release",
           "link": "https://huggingface.co/apple/starflow",
-          "overview": "Apple releases StarFlow model on Hugging Face.",
+          "overview": "<strong>Luka T</strong> shares Apple releasing StarFlow model on Hugging Face.",
           "description": "<strong>Luka T</strong> shared the release of Apple's StarFlow model on Hugging Face, adding to the growing ecosystem of open-source AI tools available to creators.",
           "posters": [
             "Luka T"
@@ -198,7 +198,12 @@
           "title": "🎤 Veo 3: Accent Consistency and Voice Dubbing Workflow",
           "link": "",
           "overview": "<strong>Jordan Daniel Chesney</strong> shares comprehensive workflow for achieving consistent accents and realistic voice dubbing in Veo 3.",
-          "description": "<strong>Jordan Daniel Chesney</strong> detailed his complete workflow for voice consistency in Veo 3 productions. He emphasizes using \"heavy-handed and redundant accent prompting\" to achieve about 90% success at accent consistency, which he finds far more important for dubbing than other factors. His process: 1) Dial in the accent in Veo with redundant prompting, 2) Cut a dozen or so takes together as one MP3, 3) Toss that into ElevenLabs to create the voice, 4) When Voice Changing with the new voice, leave \"Remove background noise\" OFF. Jordan stresses it's essential to retain Veo's generated room tone and reverb for realism, rather than adding ambient SFX back in post. <strong>Martin LeBlanc</strong> suggested adding back ambient SFX in the video editor, but Jordan explained there's a \"big increase in realism when you can retain some of Veo's generated room tone and reverb.\" <strong>Edmond Yang</strong> noted he handles reverbs and room tone separately with his sound engineer, while <strong>Blvckl!ght</strong> suggested duplicating the audio track and processing voice and background separately for more control.",
+          "tutorial": {
+            "technique": "*Use heavy-handed and redundant accent prompting to achieve about 90% success at accent consistency, which is far more important for dubbing than other factors.*",
+            "workflow": "*<strong>Jordan Daniel Chesney</strong>'s complete process: 1) Dial in the accent in Veo with redundant prompting, 2) Cut a dozen or so takes together as one MP3, 3) Toss that into ElevenLabs to create the voice, 4) When Voice Changing with the new voice, leave \"Remove background noise\" OFF.*",
+            "key_insight": "*It's essential to retain Veo's generated room tone and reverb for realism, rather than adding ambient SFX back in post. There's a \"big increase in realism when you can retain some of Veo's generated room tone and reverb.\"*",
+            "alternative_approaches": "*<strong>Martin LeBlanc</strong> suggested adding back ambient SFX in the video editor, but <strong>Jordan Daniel Chesney</strong> explained the realism benefit of retaining Veo's audio. <strong>Edmond Yang</strong> noted he handles reverbs and room tone separately with his sound engineer, while <strong>Blvckl!ght</strong> suggested duplicating the audio track and processing voice and background separately for more control.*"
+          },
           "posters": [
             "Jordan Daniel Chesney",
             "Martin LeBlanc",
@@ -210,7 +215,11 @@
           "title": "🎙️ ADR Technique for Veo 3 Voice Matching",
           "link": "",
           "overview": "<strong>Gabe Michael</strong> shares ADR workflow for precise voice pacing in Veo 3 productions.",
-          "description": "<strong>Gabe Michael</strong> detailed his ADR (Automated Dialogue Replacement) workflow for Veo 3: record his own voice to match the pacing of Veo 3 generations, then use speech-to-speech to convert it to the target voice. This ensures the input is consistent with the visual pacing. <strong>Jim Phillips</strong> confirmed ADR worked well for him too, noting \"a lot of work but it really makes a difference.\" This technique provides more precise control over timing and delivery compared to generating voice separately and trying to match it in post.",
+          "tutorial": {
+            "technique": "*Record your own voice to match the pacing of Veo 3 generations, then use speech-to-speech to convert it to the target voice. This ensures the input is consistent with the visual pacing.*",
+            "results": "*<strong>Jim Phillips</strong> confirmed ADR worked well for him too, noting \"a lot of work but it really makes a difference.\"*",
+            "application": "*This technique provides more precise control over timing and delivery compared to generating voice separately and trying to match it in post.*"
+          },
           "posters": [
             "Gabe Michael",
             "Jim Phillips"
@@ -220,7 +229,10 @@
           "title": "🎬 Veo 3: First-Person POV Technique",
           "link": "",
           "overview": "<strong>Jordan Daniel Chesney</strong> explains how to maintain consistent first-person perspective in Veo 3.",
-          "description": "<strong>Jordan Daniel Chesney</strong> advised that to maintain a handheld first-person POV in Veo 3, you must ensure the camera direction is consistently set throughout the scene. This consistency in camera direction prompting is essential for achieving a stable first-person experience that doesn't break immersion.",
+          "tutorial": {
+            "technique": "*To maintain a handheld first-person POV in Veo 3, you must ensure the camera direction is consistently set throughout the scene.*",
+            "key_principle": "*Consistency in camera direction prompting is essential for achieving a stable first-person experience that doesn't break immersion.*"
+          },
           "posters": [
             "Jordan Daniel Chesney"
           ]
@@ -229,7 +241,10 @@
           "title": "🎵 ElevenLabs SFX Tool for Ambient Sounds",
           "link": "",
           "overview": "<strong>Martin LeBlanc</strong> and <strong>Edmond Yang</strong> discuss using ElevenLabs SFX tool for creating ambient audio.",
-          "description": "<strong>Martin LeBlanc</strong> highlighted that ElevenLabs' SFX tool is effective for creating ambient sounds to enhance video productions. <strong>Edmond Yang</strong> enthusiastically agreed, noting it's \"really good, especially when you can change the duration,\" providing flexible control over sound design elements.",
+          "tutorial": {
+            "tool": "*ElevenLabs' SFX tool is effective for creating ambient sounds to enhance video productions.*",
+            "key_feature": "*<strong>Edmond Yang</strong> enthusiastically noted it's \"really good, especially when you can change the duration,\" providing flexible control over sound design elements.*"
+          },
           "posters": [
             "Martin LeBlanc",
             "Edmond Yang"
@@ -239,7 +254,10 @@
           "title": "🎵 Suno: Controlling Male/Female Duets",
           "link": "",
           "overview": "<strong>Matt</strong> and <strong>Winston Mayo</strong> explain how to control vocal duets in Suno.",
-          "description": "To orchestrate duets with Suno, specify singer roles in the lyrics using tags like [male] and [female]. This enables distinct control over each singer's parts in a recording session, allowing for precise arrangement of vocal harmonies and call-and-response patterns.",
+          "tutorial": {
+            "technique": "*To orchestrate duets with Suno, specify singer roles in the lyrics using tags like [male] and [female].*",
+            "application": "*This enables distinct control over each singer's parts in a recording session, allowing for precise arrangement of vocal harmonies and call-and-response patterns.*"
+          },
           "posters": [
             "Matt",
             "Winston Mayo"
@@ -249,7 +267,12 @@
           "title": "🎨 Nano Banana Pro: Score_ Tags for Quality Control",
           "link": "",
           "overview": "<strong>BasvdE</strong> and <strong>Henry</strong> explain the critical score_ tag system for optimizing Nano Banana Pro outputs.",
-          "description": "<strong>BasvdE</strong> shared comprehensive information about score_ tags, which are quality control triggers specific to the Pony Diffusion XL family (including Nano Banana Pro, Pony Realism, and AutismMix). These tags don't work on standard SD models - they're unique to how Pony models were trained on millions of rated images from Danbooru. The hierarchy: score_9 (absolute best, masterpieces), score_8_up (high quality professional art), score_7_up (good quality), score_6_up (average), score_5_up (low quality), score_4 (bad quality, sketches). Best practice: In positive prompts, stack \"score_9, score_8_up, score_7_up\" to give the AI a large pool of high-quality training data. In negative prompts, use \"score_4, score_5, score_6\" to avoid low-quality outputs. <strong>BasvdE</strong> emphasized: \"If you remove these tags from a Nano Banana Pro prompt, the model gets confused and will likely generate an image that looks 'fried,' blurry, or like a child's drawing.\"",
+          "tutorial": {
+            "background": "*Score_ tags are quality control triggers specific to the Pony Diffusion XL family (including Nano Banana Pro, Pony Realism, and AutismMix). These tags don't work on standard SD models - they're unique to how Pony models were trained on millions of rated images from Danbooru.*",
+            "hierarchy": "*score_9 (absolute best, masterpieces), score_8_up (high quality professional art), score_7_up (good quality), score_6_up (average), score_5_up (low quality), score_4 (bad quality, sketches).*",
+            "best_practice": "*In positive prompts, stack \"score_9, score_8_up, score_7_up\" to give the AI a large pool of high-quality training data. In negative prompts, use \"score_4, score_5, score_6\" to avoid low-quality outputs.*",
+            "critical_warning": "*<strong>BasvdE</strong> emphasized: \"If you remove these tags from a Nano Banana Pro prompt, the model gets confused and will likely generate an image that looks 'fried,' blurry, or like a child's drawing.\"*"
+          },
           "posters": [
             "BasvdE",
             "Henry"
@@ -259,7 +282,10 @@
           "title": "🎨 Nano Banana Pro: Storyboard Grid Generation",
           "link": "",
           "overview": "<strong>Winston Mayo</strong> and <strong>Martin LeBlanc</strong> share prompts for generating storyboard grids.",
-          "description": "<strong>Winston Mayo</strong> shared his go-to prompt for storyboard generation: \"show me the scene sequence in a 9 panel storyboard in the same style of image 1 in 16:9 aspect ratio, no words.\" <strong>Martin LeBlanc</strong> and <strong>Linus Ekenstam</strong> confirmed they use similar approaches, describing it as \"very powerful\" for quickly visualizing scene sequences and shot progression.",
+          "tutorial": {
+            "prompt": "*<strong>Winston Mayo</strong>'s go-to prompt: \"show me the scene sequence in a 9 panel storyboard in the same style of image 1 in 16:9 aspect ratio, no words.\"*",
+            "effectiveness": "*<strong>Martin LeBlanc</strong> and <strong>Linus Ekenstam</strong> confirmed they use similar approaches, describing it as \"very powerful\" for quickly visualizing scene sequences and shot progression.*"
+          },
           "posters": [
             "Winston Mayo",
             "Martin LeBlanc",
@@ -270,7 +296,12 @@
           "title": "🎨 Nano Banana Pro: Extracting Images from Grids",
           "link": "",
           "overview": "Community shares techniques for extracting and enhancing individual images from grid generations.",
-          "description": "ChristianF. asked about the best method for extracting single images from 3x3 grids without losing detail. <strong>Edmond Yang</strong>'s approach: crop the image then feed it back to Nano Banana Pro. <strong>Billy Boman</strong> explained that Nano Banana Pro can \"in some circumstances, sharpen and add textures back,\" but results depend on content - faces might lose likeness, complex logos or small text might not work. He suggested either zoom-cropping the needed image or asking Nano Banana Pro to isolate it through prompting and/or marking the desired section with a red outline. <strong>Winston Mayo</strong> added you can prompt \"extra photo number 1 on the top right as a single stand alone frame\" or use the Dor Brothers tool, though it sometimes adds unwanted text.",
+          "tutorial": {
+            "problem": "*<strong>ChristianF.</strong> asked about the best method for extracting single images from 3x3 grids without losing detail.*",
+            "solution_1": "*<strong>Edmond Yang</strong>'s approach: crop the image then feed it back to Nano Banana Pro.*",
+            "solution_2": "*<strong>Billy Boman</strong> explained that Nano Banana Pro can \"in some circumstances, sharpen and add textures back,\" but results depend on content - faces might lose likeness, complex logos or small text might not work. He suggested either zoom-cropping the needed image or asking Nano Banana Pro to isolate it through prompting and/or marking the desired section with a red outline.*",
+            "solution_3": "*<strong>Winston Mayo</strong> added you can prompt \"extra photo number 1 on the top right as a single stand alone frame\" or use the Dor Brothers tool, though it sometimes adds unwanted text.*"
+          },
           "posters": [
             "ChristianF.",
             "Edmond Yang",
@@ -283,7 +314,10 @@
           "title": "🎥 Kling O1: Lipsync and Body Language Control",
           "link": "",
           "overview": "<strong>Edmond Yang</strong> and <strong>Martin LeBlanc</strong> discuss character motion control with Kling O1 and Omni Human.",
-          "description": "<strong>Edmond Yang</strong> and <strong>Martin LeBlanc</strong> discussed using Kling O1 with the Omni Human model for character animation. While Kling O1's lipsync may not match professional standards, it provides decent results when combined with Omni Human for full upper body tracking. <strong>Martin LeBlanc</strong> noted that adding to the prompt \"feels like prompting the video model,\" giving substantial control over gestures and body language.",
+          "tutorial": {
+            "technique": "*Use Kling O1 with the Omni Human model for character animation. While Kling O1's lipsync may not match professional standards, it provides decent results when combined with Omni Human for full upper body tracking.*",
+            "control_level": "*<strong>Martin LeBlanc</strong> noted that adding to the prompt \"feels like prompting the video model,\" giving substantial control over gestures and body language.*"
+          },
           "posters": [
             "Edmond Yang",
             "Martin LeBlanc"
@@ -293,7 +327,11 @@
           "title": "⬆️ SeedVR2: Best General Video Upscaler",
           "link": "",
           "overview": "<strong>Luka T</strong>, <strong>Jordan Daniel Chesney</strong>, and <strong>Martin LeBlanc</strong> discuss SeedVR2 as the top upscaling solution.",
-          "description": "<strong>Luka T</strong> declared SeedVR2 \"THE best general upscaler right now\" after extensive testing. <strong>Jordan Daniel Chesney</strong> strongly agreed, stating he uses it exclusively for video upscaling (while preferring Magnific for images). <strong>Martin LeBlanc</strong> provided technical guidance from internal testing: use the 7B model (not 3B) with batch size 33 and temporal overlap of 4 frames to avoid flickering. Without proper temporal overlap settings, you get significant flickering. Martin noted that with the right settings it's good, but questioned if it's better than Topaz, requesting comparison examples.",
+          "tutorial": {
+            "recommendation": "*<strong>Luka T</strong> declared SeedVR2 \"THE best general upscaler right now\" after extensive testing. <strong>Jordan Daniel Chesney</strong> strongly agreed, stating he uses it exclusively for video upscaling (while preferring Magnific for images).*",
+            "technical_settings": "*<strong>Martin LeBlanc</strong> provided guidance from internal testing: use the 7B model (not 3B) with batch size 33 and temporal overlap of 4 frames to avoid flickering. Without proper temporal overlap settings, you get significant flickering.*",
+            "comparison": "*<strong>Martin LeBlanc</strong> noted that with the right settings it's good, but questioned if it's better than Topaz, requesting comparison examples.*"
+          },
           "posters": [
             "Luka T",
             "Jordan Daniel Chesney",
@@ -305,7 +343,12 @@
           "title": "🎬 Veo 3: Specific Lift Mechanics Prompting",
           "link": "",
           "overview": "<strong>Gabe Michael</strong> shares technique for generating clean weightlifting movements in Veo 3.",
-          "description": "<strong>Gabe Michael</strong> achieved impressive weightlifting animations in his \"Cheddar Joe\" submission entirely with Veo 3.1, without using video-to-video. <strong>Rory Flynn</strong> was amazed by how clean the lift motions were, noting he's had issues with those in the past and that \"AI also hates bicep curls for some reason.\" Gabe's technique: prompt \"very specific lift mechanics\" in detail, which Veo sometimes follows successfully. This demonstrates the importance of technical specificity when prompting complex physical movements.",
+          "tutorial": {
+            "achievement": "*<strong>Gabe Michael</strong> achieved impressive weightlifting animations in his \"Cheddar Joe\" submission entirely with Veo 3.1, without using video-to-video.*",
+            "technique": "*Prompt \"very specific lift mechanics\" in detail, which Veo sometimes follows successfully.*",
+            "context": "*<strong>Rory Flynn</strong> was amazed by how clean the lift motions were, noting he's had issues with those in the past and that \"AI also hates bicep curls for some reason.\"*",
+            "principle": "*This demonstrates the importance of technical specificity when prompting complex physical movements.*"
+          },
           "posters": [
             "Gabe Michael",
             "Rory Flynn"
@@ -315,7 +358,9 @@
           "title": "🎨 Magnific Skin Enhancer: Makeup Removal Feature",
           "link": "https://x.com/linusekenstam/status/1996529688395833453?s=46",
           "overview": "<strong>Linus Ekenstam</strong> shares Magnific's new makeup removal capability.",
-          "description": "<strong>Linus Ekenstam</strong> announced that Magnific Skin Enhancer now includes a feature to remove makeup from images, expanding the tool's capabilities for realistic skin rendering and character consistency work.",
+          "tutorial": {
+            "feature": "*Magnific Skin Enhancer now includes a feature to remove makeup from images, expanding the tool's capabilities for realistic skin rendering and character consistency work.*"
+          },
           "posters": [
             "Linus Ekenstam"
           ]
@@ -324,7 +369,10 @@
           "title": "🖼️ Freepik: Parallel Generation Strategy",
           "link": "",
           "overview": "<strong>Martin LeBlanc</strong> and <strong>Max</strong> explain how to run multiple Nano Banana Pro generations simultaneously.",
-          "description": "When <strong>Edmond Yang</strong> asked about running more than one generation at a time on Freepik, <strong>Max</strong> explained: \"Use spaces and batch. That makes more gen parallel possible.\" <strong>Martin LeBlanc</strong> confirmed you can make 4 generations in parallel, significantly speeding up workflow for projects requiring multiple iterations or variations.",
+          "tutorial": {
+            "question": "*<strong>Edmond Yang</strong> asked about running more than one generation at a time on Freepik.*",
+            "solution": "*<strong>Max</strong> explained: \"Use spaces and batch. That makes more gen parallel possible.\" <strong>Martin LeBlanc</strong> confirmed you can make 4 generations in parallel, significantly speeding up workflow for projects requiring multiple iterations or variations.*"
+          },
           "posters": [
             "Edmond Yang",
             "Max",
@@ -335,7 +383,10 @@
           "title": "🎨 Nano Banana Pro: Structured Style Descriptions",
           "link": "https://x.com/henrydaubrez/status/1995539505995284769?s=20",
           "overview": "<strong>Henry</strong> demonstrates using Gemini to create reusable style descriptions for Nano Banana Pro.",
-          "description": "<strong>Henry</strong> shared a technique for maintaining style consistency: use Gemini to describe styles using structured language with weights, then copy-paste these descriptions across projects to retain consistent style and aesthetics. While he noted it's \"not as good as SREF somehow,\" it's still very versatile for maintaining visual consistency across a body of work.",
+          "tutorial": {
+            "technique": "*Use Gemini to describe styles using structured language with weights, then copy-paste these descriptions across projects to retain consistent style and aesthetics.*",
+            "assessment": "*While <strong>Henry</strong> noted it's \"not as good as SREF somehow,\" it's still very versatile for maintaining visual consistency across a body of work.*"
+          },
           "posters": [
             "Henry"
           ]
@@ -383,7 +434,7 @@
           "title": "🎓 Billy Boman: Student Success Story",
           "link": "https://www.linkedin.com/posts/amanda-sandorov-7a498a350_wonderfilmchallenge-ugcPost-7402836095337754624-NT9A",
           "overview": "<strong>Billy Boman</strong>'s student creates impressive work after just 3 weeks of instruction.",
-          "description": "<strong>Billy Boman</strong> proudly shared his student Amanda Sandorov's final project after only 3 weeks of training, calling it \"honestly better than a majority of AI stuff I see on a regular basis.\" The student applied to the Wonder Film Festival with the work, with Billy noting she's a \"strong contender.\" The project demonstrates the rapid learning curve possible with proper instruction in AI filmmaking tools.",
+          "description": "<strong>Billy Boman</strong> proudly shared his student Amanda Sandorov's final project after only 3 weeks of training, calling it \"honestly better than a majority of AI stuff I see on a regular basis.\" The student applied to the Wonder Film Festival with the work, with <strong>Billy Boman</strong> noting she's a \"strong contender.\" The project demonstrates the rapid learning curve possible with proper instruction in AI filmmaking tools.",
           "posters": [
             "Billy Boman",
             "Justin Hackney"
@@ -416,7 +467,7 @@
         {
           "title": "💼 Wonder Studios: Part-Time Moderator Position",
           "link": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4716370101?gh_src=9wj6yw62teu",
-          "overview": "Wonder App seeks experienced community moderator with solid moderation background.",
+          "overview": "<strong>Benny</strong> announces Wonder App seeking experienced community moderator with solid moderation background.",
           "description": "<strong>Benny</strong> announced that Wonder App is hiring a Part-Time Moderator. The position requires solid experience in moderating and growing online communities, with the ability to confidently manage and curate high-quality account spaces. Interested candidates can apply through the provided Greenhouse link.",
           "posters": [
             "Benny"
@@ -431,7 +482,7 @@
           "title": "🎭 AI Acting Limitations and Future Potential",
           "link": "",
           "overview": "Community debates current state of AI acting capabilities and need for specialized models.",
-          "description": "<strong>Yonatan</strong>, <strong>Chad Nelson</strong>, and ChristianF. engaged in discussion about AI's current inability to replicate nuanced acting, despite examples of emotional output. The consensus was that acting-centric AI models are needed to close this gap, as current tools struggle with the subtlety and intentionality that defines compelling performances.",
+          "description": "<strong>Yonatan</strong>, <strong>Chad Nelson</strong>, and <strong>ChristianF.</strong> engaged in discussion about AI's current inability to replicate nuanced acting, despite examples of emotional output. The consensus was that acting-centric AI models are needed to close this gap, as current tools struggle with the subtlety and intentionality that defines compelling performances.",
           "posters": [
             "Yonatan",
             "Chad Nelson",
@@ -543,321 +594,258 @@
       "title": "🔗 Links & Resources",
       "items": [
         {
-          "title": "Suno Blog: Warner Music Group Partnership Details",
-          "link": "https://suno.com/blog/wmg-partnership",
-          "posters": [
-            "ChristianF."
+          "title": "🚀 New Tools & Platforms",
+          "links": [
+            {
+              "title": "Suno Blog: Warner Music Group Partnership",
+              "url": "https://suno.com/blog/wmg-partnership",
+              "description": "Official partnership announcement and details"
+            },
+            {
+              "title": "Nano Banana Pro LoRA Dataset Generator",
+              "url": "https://lovis.io/NanoBananaLoraDatasetGenerator/",
+              "description": "Browser-based training dataset creation tool"
+            },
+            {
+              "title": "Nano Banana Pro LoRA Generator GitHub",
+              "url": "https://github.com/lovisdotio/NanoBananaLoraDatasetGenerator",
+              "description": "Open-source repository for LoRA dataset generation"
+            },
+            {
+              "title": "Gaussian Splatting for Flux 2",
+              "url": "https://x.com/OdinLovis/status/1995507406516928868",
+              "description": "Multi-angle training tool announcement"
+            },
+            {
+              "title": "Apple StarFlow Release",
+              "url": "https://huggingface.co/apple/starflow",
+              "description": "Apple's new model on Hugging Face"
+            },
+            {
+              "title": "Z-Image Training Tutorial",
+              "url": "https://youtu.be/liFFrvIndl4?si=SveRF326ShEMK0ab",
+              "description": "Comprehensive Z-Image training guide"
+            },
+            {
+              "title": "Z-Image Turbo Controlnet Release",
+              "url": "https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union",
+              "description": "Controlnet support for Z-Image"
+            },
+            {
+              "title": "Ovis Image Model Release",
+              "url": "https://huggingface.co/Comfy-Org/Ovis-Image",
+              "description": "New image generation model"
+            },
+            {
+              "title": "Screenburn Platform",
+              "url": "https://Screenburn.app",
+              "description": "Story development from idea to screenplay"
+            },
+            {
+              "title": "Wonder Studios App",
+              "url": "https://app.wonderstudios.com/",
+              "description": "AI filmmaking platform"
+            }
           ]
         },
         {
-          "title": "Kling O1 Announcement Tweet",
-          "link": "https://x.com/martinleblanc/status/1995511763136024734",
-          "posters": [
-            "Martin LeBlanc"
+          "title": "📰 Major Announcements",
+          "links": [
+            {
+              "title": "Disney OpenAI Partnership (Variety)",
+              "url": "https://variety.com/2025/digital/news/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-1236606401/",
+              "description": "$1 billion investment, 200+ characters to Sora"
+            },
+            {
+              "title": "Disney OpenAI Partnership (Comic Book Movie)",
+              "url": "https://comicbookmovie.com/disney/disney-and-openai-sign-deal-to-bring-more-than-200-disney-marvel-and-star-wars-characters-to-sora-a225487",
+              "description": "Marvel and Star Wars character integration"
+            },
+            {
+              "title": "Kling O1 Announcement Tweet",
+              "url": "https://x.com/martinleblanc/status/1995511763136024734",
+              "description": "Production-ready video model launch"
+            },
+            {
+              "title": "Kling O1 Video Edit Examples",
+              "url": "https://www.linkedin.com/posts/christian-fleischer-1965a6274_kling-visiblemaker-vfx-activity-7401305753233289217-HmW4",
+              "description": "Demonstration of editing capabilities"
+            },
+            {
+              "title": "Topaz Labs Starlight Precise 2 Announcement",
+              "url": "https://x.com/topazlabs/status/1998035177101275298",
+              "description": "Solution for plastic look in AI videos"
+            },
+            {
+              "title": "ChatGPT Adobe Integration",
+              "url": "https://share.google/F93yh59qiUE88QKXJ",
+              "description": "Free photo and PDF editing capabilities"
+            },
+            {
+              "title": "Runway Gen 4.5 Sizzle Reel",
+              "url": "https://www.linkedin.com/posts/iamneubert_introducing-whisper-thunder-aka-gen-45-ugcPost-7401286671427850240-ZYk6",
+              "description": "Preview of Gen 4.5 capabilities"
+            },
+            {
+              "title": "Runway Gen 4.5 Tweet",
+              "url": "https://x.com/runwayml/status/1998762284894900230?s=20",
+              "description": "Official Runway announcement"
+            }
           ]
         },
         {
-          "title": "Kling O1 Video Edit Examples",
-          "link": "https://www.linkedin.com/posts/christian-fleischer-1965a6274_kling-visiblemaker-vfx-activity-7401305753233289217-HmW4",
-          "posters": [
-            "ChristianF."
+          "title": "🎨 Community Projects & Showcases",
+          "links": [
+            {
+              "title": "Edmond Yang: Granniest Grandma Game",
+              "url": "https://granniestgrandma.com",
+              "description": "Interactive browser game with 16-minute film"
+            },
+            {
+              "title": "Edmond Yang: 1Billion Summit Submission",
+              "url": "https://www.youtube.com/watch?v=8IHIrvmW2N0",
+              "description": "Competition submission showcase"
+            },
+            {
+              "title": "Gabe Michael: Cheddar Joe",
+              "url": "https://youtu.be/5KcibOqx7GM",
+              "description": "Weightlifting comedy with Veo 3.1"
+            },
+            {
+              "title": "Ryan Phillips: Uncanny Harry (4K)",
+              "url": "https://youtu.be/m2DkBAKhQwU?si=4rc0UvOIJqrQdG5x",
+              "description": "Horror comedy with narrative twist"
+            },
+            {
+              "title": "Alex: Animation Submission",
+              "url": "https://www.youtube.com/watch?v=uGmhD-bDDWw",
+              "description": "Wonder Studios animation project"
+            },
+            {
+              "title": "Alex: Grok 4.1 Anime Examples",
+              "url": "https://www.instagram.com/p/DRuo0GCkZKx/",
+              "description": "Anime generation demonstrations"
+            },
+            {
+              "title": "Billy Boman Student Project",
+              "url": "https://www.linkedin.com/posts/amanda-sandorov-7a498a350_wonderfilmchallenge-ugcPost-7402836095337754624-NT9A",
+              "description": "Student work after 3 weeks training"
+            },
+            {
+              "title": "Z-Image Instagram Reel",
+              "url": "https://www.instagram.com/reel/DRuocXTDbUh/",
+              "description": "Z-Image model demonstrations"
+            }
           ]
         },
         {
-          "title": "Runway Gen 4.5 Sizzle Reel",
-          "link": "https://www.linkedin.com/posts/iamneubert_introducing-whisper-thunder-aka-gen-45-ugcPost-7401286671427850240-ZYk6",
-          "posters": [
-            "Billy Boman"
+          "title": "💡 Technical Resources & Tutorials",
+          "links": [
+            {
+              "title": "Henry: Nano Banana Pro Style Technique",
+              "url": "https://x.com/henrydaubrez/status/1995539505995284769?s=20",
+              "description": "Gemini-based style consistency method"
+            },
+            {
+              "title": "Linus Ekenstam: Magnific Makeup Removal",
+              "url": "https://x.com/linusekenstam/status/1996529688395833453?s=46",
+              "description": "New Skin Enhancer feature"
+            },
+            {
+              "title": "Magnific Skin Enhancer Benchmark",
+              "url": "https://www.figma.com/design/AId6mGgNfanTlCs27IdzS9/Skin-Enhancer-benchmark?node-id=0-1&t=QgLuwEUlSCm6j4o0-1",
+              "description": "Performance comparison data"
+            },
+            {
+              "title": "Cristobal's Gen 4.5 Realistic Example",
+              "url": "https://www.linkedin.com/posts/cvalenzuelab_i-havent-had-this-much-fun-with-a-model-ugcPost-7401326771473641472-awDC",
+              "description": "2-hour workflow demonstration"
+            },
+            {
+              "title": "ChatGPT Photoshop Alternative",
+              "url": "https://www.linkedin.com/posts/leokadieff_ai-generativeai-activity-7404638394225479680-cK5O",
+              "description": "Adobe integration capabilities"
+            },
+            {
+              "title": "Cinematic Look in Veo LinkedIn Post",
+              "url": "https://www.linkedin.com/posts/laszloga_if-youre-hunting-for-a-cinematic-look-in-ugcPost-7399113651548241920--9zI",
+              "description": "Veo 3 cinematic techniques"
+            },
+            {
+              "title": "Tech Thread on AI Tools",
+              "url": "https://x.com/techhalla/status/1996650389228355819",
+              "description": "Comprehensive tool overview"
+            }
           ]
         },
         {
-          "title": "Cristobal's Gen 4.5 Realistic Example",
-          "link": "https://www.linkedin.com/posts/cvalenzuelab_i-havent-had-this-much-fun-with-a-model-ugcPost-7401326771473641472-awDC",
-          "posters": [
-            "ChristianF."
+          "title": "💼 Professional Opportunities",
+          "links": [
+            {
+              "title": "Wonder Studios Moderator Job Posting",
+              "url": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4716370101?gh_src=9wj6yw62teu",
+              "description": "Part-time community moderator position"
+            },
+            {
+              "title": "Neuralviz Future Studio LA Event",
+              "url": "https://www.gc-sc.org/events/future-studio-la/strategy-day",
+              "description": "Industry networking and strategy"
+            },
+            {
+              "title": "AiMation x Creative AI Network Event",
+              "url": "https://www.eventbrite.co.uk/e/aimation-x-creative-ai-network-present-the-premiere-of-non-player-combat-tickets-1975079995434",
+              "description": "Non-Player Combat premiere"
+            }
           ]
         },
         {
-          "title": "Topaz Labs Starlight Precise 2 Announcement",
-          "link": "https://x.com/topazlabs/status/1998035177101275298",
-          "posters": [
-            "Monji",
-            "Henry"
-          ]
-        },
-        {
-          "title": "Disney OpenAI Partnership (Variety)",
-          "link": "https://variety.com/2025/digital/news/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-1236606401/",
-          "posters": [
-            "Chad Nelson"
-          ]
-        },
-        {
-          "title": "Disney OpenAI Partnership (Comic Book Movie)",
-          "link": "https://comicbookmovie.com/disney/disney-and-openai-sign-deal-to-bring-more-than-200-disney-marvel-and-star-wars-characters-to-sora-a225487",
-          "posters": [
-            "Edmond Yang"
-          ]
-        },
-        {
-          "title": "ChatGPT Adobe Integration",
-          "link": "https://share.google/F93yh59qiUE88QKXJ",
-          "posters": [
-            "Ramon Guthrie"
-          ]
-        },
-        {
-          "title": "Google DeepMind Nobel Prize Documentary",
-          "link": "https://m.youtube.com/watch?v=d95J8yzvjbQ",
-          "posters": [
-            "Matthiei",
-            "Marco",
-            "Linus Ekenstam"
-          ]
-        },
-        {
-          "title": "Magnific Skin Enhancer Benchmark",
-          "link": "https://www.figma.com/design/AId6mGgNfanTlCs27IdzS9/Skin-Enhancer-benchmark?node-id=0-1&t=QgLuwEUlSCm6j4o0-1",
-          "posters": [
-            "Martin LeBlanc"
-          ]
-        },
-        {
-          "title": "Z-Image Training Tutorial",
-          "link": "https://youtu.be/liFFrvIndl4?si=SveRF326ShEMK0ab",
-          "posters": [
-            "Ramon Guthrie"
-          ]
-        },
-        {
-          "title": "Z-Image Turbo Controlnet Release",
-          "link": "https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union",
-          "posters": [
-            "Ramon Guthrie"
-          ]
-        },
-        {
-          "title": "Ovis Image Model Release",
-          "link": "https://huggingface.co/Comfy-Org/Ovis-Image",
-          "posters": [
-            "Ramon Guthrie"
-          ]
-        },
-        {
-          "title": "Apple StarFlow Release",
-          "link": "https://huggingface.co/apple/starflow",
-          "posters": [
-            "Luka T"
-          ]
-        },
-        {
-          "title": "Nano Banana Pro LoRA Dataset Generator",
-          "link": "https://lovis.io/NanoBananaLoraDatasetGenerator/",
-          "posters": [
-            "Lovis Odin"
-          ]
-        },
-        {
-          "title": "Nano Banana Pro LoRA Generator GitHub",
-          "link": "https://github.com/lovisdotio/NanoBananaLoraDatasetGenerator",
-          "posters": [
-            "Lovis Odin"
-          ]
-        },
-        {
-          "title": "Gaussian Splatting for Flux 2",
-          "link": "https://x.com/OdinLovis/status/1995507406516928868",
-          "posters": [
-            "Lovis Odin"
-          ]
-        },
-        {
-          "title": "Neuralviz Future Studio LA Event",
-          "link": "https://www.gc-sc.org/events/future-studio-la/strategy-day",
-          "posters": [
-            "PJ Accetturo"
-          ]
-        },
-        {
-          "title": "TikTok: Directors Opposing Netflix Deal",
-          "link": "https://www.tiktok.com/t/ZTrHYHUeb/",
-          "posters": [
-            "Winston Mayo"
-          ]
-        },
-        {
-          "title": "McDonald's AI Commercial Article",
-          "link": "https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial",
-          "posters": [
-            "Winston Mayo"
-          ]
-        },
-        {
-          "title": "McDonald's AI Ad (Dutch)",
-          "link": "https://www.linkedin.com/posts/jakubbiel_reklama-%C5%9Bwi%C4%85teczna-mcdonalds-jest-w-100-activity-7402617982633349120-nmiP",
-          "posters": [
-            "Billy Boman"
-          ]
-        },
-        {
-          "title": "McDonald's Controversy German Article",
-          "link": "https://www.absatzwirtschaft.de/was-der-mcdonalds-shitstorm-ueber-unsere-ki-zukunft-verraet-278012/",
-          "posters": [
-            "ChristianF."
-          ]
-        },
-        {
-          "title": "AiMation x Creative AI Network Event",
-          "link": "https://www.eventbrite.co.uk/e/aimation-x-creative-ai-network-present-the-premiere-of-non-player-combat-tickets-1975079995434",
-          "posters": [
-            "Paul"
-          ]
-        },
-        {
-          "title": "Screenburn Platform",
-          "link": "https://Screenburn.app",
-          "posters": [
-            "Charles Kriel"
-          ]
-        },
-        {
-          "title": "Wonder Studios App",
-          "link": "https://app.wonderstudios.com/",
-          "posters": [
-            "Benny"
-          ]
-        },
-        {
-          "title": "Wonder Studios Moderator Job Posting",
-          "link": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4716370101?gh_src=9wj6yw62teu",
-          "posters": [
-            "Benny"
-          ]
-        },
-        {
-          "title": "Edmond Yang: Granniest Grandma Game",
-          "link": "https://granniestgrandma.com",
-          "posters": [
-            "Edmond Yang"
-          ]
-        },
-        {
-          "title": "Edmond Yang: 1Billion Summit Submission",
-          "link": "https://www.youtube.com/watch?v=8IHIrvmW2N0",
-          "posters": [
-            "Edmond Yang"
-          ]
-        },
-        {
-          "title": "Gabe Michael: Cheddar Joe",
-          "link": "https://youtu.be/5KcibOqx7GM",
-          "posters": [
-            "Gabe Michael"
-          ]
-        },
-        {
-          "title": "Ryan Phillips: Uncanny Harry (4K)",
-          "link": "https://youtu.be/m2DkBAKhQwU?si=4rc0UvOIJqrQdG5x",
-          "posters": [
-            "Ryan Phillips"
-          ]
-        },
-        {
-          "title": "Alex: Animation Submission",
-          "link": "https://www.youtube.com/watch?v=uGmhD-bDDWw",
-          "posters": [
-            "Alex"
-          ]
-        },
-        {
-          "title": "Alex: Grok 4.1 Anime Examples",
-          "link": "https://www.instagram.com/p/DRuo0GCkZKx/",
-          "posters": [
-            "Alex"
-          ]
-        },
-        {
-          "title": "Billy Boman Student Project",
-          "link": "https://www.linkedin.com/posts/amanda-sandorov-7a498a350_wonderfilmchallenge-ugcPost-7402836095337754624-NT9A",
-          "posters": [
-            "Billy Boman"
-          ]
-        },
-        {
-          "title": "Henry: Nano Banana Pro Style Technique",
-          "link": "https://x.com/henrydaubrez/status/1995539505995284769?s=20",
-          "posters": [
-            "Henry"
-          ]
-        },
-        {
-          "title": "Linus Ekenstam: Magnific Makeup Removal",
-          "link": "https://x.com/linusekenstam/status/1996529688395833453?s=46",
-          "posters": [
-            "Linus Ekenstam"
-          ]
-        },
-        {
-          "title": "Netflix HBO Analysis",
-          "link": "https://www.linkedin.com/posts/theseanatkins_i-think-netflix-might-end-up-paying-a-5-activity-7404188122214842368-ajd-",
-          "posters": [
-            "Issa Sissoko"
-          ]
-        },
-        {
-          "title": "Founder LinkedIn Dispute",
-          "link": "https://www.linkedin.com/posts/dustinhollywood_im-genuinely-curious-how-many-founders-here-activity-7403332462791286784-CkJ7",
-          "posters": [
-            "Billy Boman"
-          ]
-        },
-        {
-          "title": "Allianz AI Background Replacement",
-          "link": "https://www.instagram.com/reel/DSIGq0QAXqP/",
-          "posters": [
-            "Albert Bozesan"
-          ]
-        },
-        {
-          "title": "Runway Gen 4.5 Tweet",
-          "link": "https://x.com/runwayml/status/1998762284894900230?s=20",
-          "posters": [
-            "Matthiei"
-          ]
-        },
-        {
-          "title": "ChatGPT Photoshop Alternative",
-          "link": "https://www.linkedin.com/posts/leokadieff_ai-generativeai-activity-7404638394225479680-cK5O",
-          "posters": [
-            "Billy Boman"
-          ]
-        },
-        {
-          "title": "Cinematic Look in Veo LinkedIn Post",
-          "link": "https://www.linkedin.com/posts/laszloga_if-youre-hunting-for-a-cinematic-look-in-ugcPost-7399113651548241920--9zI",
-          "posters": [
-            "Jordan Daniel Chesney"
-          ]
-        },
-        {
-          "title": "Tech Thread on AI Tools",
-          "link": "https://x.com/techhalla/status/1996650389228355819",
-          "posters": [
-            "Ludovic"
-          ]
-        },
-        {
-          "title": "Z-Image Instagram Reel",
-          "link": "https://www.instagram.com/reel/DRuocXTDbUh/",
-          "posters": [
-            "PJ Accetturo"
-          ]
-        },
-        {
-          "title": "Production Team Size Discussion",
-          "link": "https://www.instagram.com/reel/DRhu1RACfpv/",
-          "posters": [
-            "Billy Boman"
+          "title": "📰 Industry News & Analysis",
+          "links": [
+            {
+              "title": "McDonald's AI Commercial Article",
+              "url": "https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial",
+              "description": "Controversy and withdrawal analysis"
+            },
+            {
+              "title": "McDonald's AI Ad (Dutch)",
+              "url": "https://www.linkedin.com/posts/jakubbiel_reklama-%C5%9Bwi%C4%85teczna-mcdonalds-jest-w-100-activity-7402617982633349120-nmiP",
+              "description": "Original commercial showcase"
+            },
+            {
+              "title": "McDonald's Controversy German Article",
+              "url": "https://www.absatzwirtschaft.de/was-der-mcdonalds-shitstorm-ueber-unsere-ki-zukunft-verraet-278012/",
+              "description": "European perspective on AI backlash"
+            },
+            {
+              "title": "Netflix HBO Analysis",
+              "url": "https://www.linkedin.com/posts/theseanatkins_i-think-netflix-might-end-up-paying-a-5-activity-7404188122214842368-ajd-",
+              "description": "$5 billion penalty discussion"
+            },
+            {
+              "title": "TikTok: Directors Opposing Netflix Deal",
+              "url": "https://www.tiktok.com/t/ZTrHYHUeb/",
+              "description": "Industry reaction to acquisition"
+            },
+            {
+              "title": "Founder LinkedIn Dispute",
+              "url": "https://www.linkedin.com/posts/dustinhollywood_im-genuinely-curious-how-many-founders-here-activity-7403332462791286784-CkJ7",
+              "description": "Public business grievances discussion"
+            },
+            {
+              "title": "Production Team Size Discussion",
+              "url": "https://www.instagram.com/reel/DRhu1RACfpv/",
+              "description": "Debate on team size vs quality"
+            },
+            {
+              "title": "Allianz AI Background Replacement",
+              "url": "https://www.instagram.com/reel/DSIGq0QAXqP/",
+              "description": "High-quality commercial application"
+            },
+            {
+              "title": "Google DeepMind Nobel Prize Documentary",
+              "url": "https://m.youtube.com/watch?v=d95J8yzvjbQ",
+              "description": "AI research breakthrough coverage"
+            }
           ]
         }
       ]
