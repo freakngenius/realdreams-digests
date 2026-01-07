@@ -6,7 +6,7 @@
   "summary": "WAN 2.6 launches with 15-second consistency and multi-shot control, Seedance 1.5 Pro and Flux 2 Max released, Apple enters AI with image-to-Gaussian Splatting, Kling adds voice control and motion control features, Meta acquires Manus AI agent, Genvid releases The Seeker film and studio production tool, Billy Boman delivers P&G commercial adaptation with Media Monks, comprehensive upscaling and consistency techniques shared, 1 Billion Summit AI Film Award finalists announced, and RealDreams HQ welcomes Stephan Bugaj, Sultan, and Andy McNamara.",
   "stats": {
     "tools": 14,
-    "tutorials": 15,
+    "tutorials": 33,
     "insights": 12,
     "links": 48
   },
@@ -188,205 +188,286 @@
       "title": "📚 Tutorials & Techniques",
       "items": [
         {
-          "title": "🎬 P&G Commercial Adaptation Workflow",
-          "link": "https://www.linkedin.com/posts/billyboman_check-out-our-latest-work-in-cooperation-activity-7414634831248048128-0GqF",
-          "overview": "<strong>Billy Boman</strong> shares the workflow for adapting a P&G commercial using AI with Media Monks.",
-          "tutorial": {
-            "tool": "WAN + Compositing",
-            "workflow": "*Take existing commercial footage, run parts through WAN for character replacement, fully re-prompt other scenes for new celebrity adaptation. Generate each element as separate AI video for maximum control. Composite AI-generated elements with live action plates. Use WAN for uniform changes and lighting matching (e.g., getting soccer player into brand color appropriate uniform).*",
-            "challenge": "*When replacing characters of different heights in 2-shots, WAN struggles with the size difference - requires creative workarounds.*",
-            "result": "*Successfully delivered hybrid production demonstrating the power of combining AI generation with traditional VFX compositing for commercial adaptation work.*"
-          },
+          "title": "🎬 Wan 2.6: One‑Prompt Multi‑Shot + Character & Voice ID",
+          "overview": "<strong>Ludovic</strong> summarizes the core Wan 2.6 capabilities that enable longer, more coherent shots and identity/voice continuity.",
+          "description": "**What’s new / why it matters:** *Wan 2.6 was called out for ~15s consistency with strong audio sync, plus “one‑prompt multi‑shot control” (planning multiple shots inside one generation). It also supports multi‑character/cartoon outputs and aims at commercial-grade results.* **Identity + voice workflow (high level):** *Use short reference material (2–10s clips were mentioned) to replicate character ID + voice. If supported in your interface, provide the audio via an “Upload Audio” / reference-audio input, then prompt the scene beats clearly so the model has a stable plan to follow.* **Prompting tip:** *Write prompts like a shot list (Shot 1 / Shot 2 / Shot 3), with consistent wardrobe/location details repeated each time to reduce drift across the multi-shot sequence.*",
+          "posters": [
+            "Ludovic"
+          ]
+        },
+        {
+          "title": "🧪 Wan 2.6: Where to Try + Credit Budgeting",
+          "overview": "Quick operational notes from the group on where Wan 2.6 was available and how to estimate costs.",
+          "description": "**Where people tested it:** *Wan 2.6 was mentioned as accessible via Krea and Higgsfield. A direct trial option was also referenced at `https://wan.video`.* **Credit math (as reported in chat):** *“150 free credits” were noted for trying Wan, and a “15 sec shot is 45 credits” estimate was shared. Use that ratio to plan iterations (e.g., reserve extra budget for retries if you’re doing multi-shot prompts).*",
+          "posters": [
+            "Luka T",
+            "Ludovic"
+          ]
+        },
+        {
+          "title": "🗣️ Seedance 1.5: Script‑Style Prompting for Clean Dialogue Scenes",
+          "overview": "A prompt pattern highlighted by <strong>Ludovic</strong> for generating cinematic dialogue (single-gen) without subtitles.",
+          "description": "**Technique:** *Prompt like a screenplay + shot description: define the setting, the camera language (framing, movement), the emotional tone, and then include dialogue lines explicitly (who says what).* **Quality controls:** *Specify “no subtitles” and include audio intent (tone, pacing, pauses). If your tool supports it, lean on native audio generation to keep dialogue and performance aligned.*",
+          "posters": [
+            "Ludovic"
+          ]
+        },
+        {
+          "title": "🎙️ Kling 2.6: Voice Control (Release Notes)",
+          "overview": "<strong>Ludovic</strong> flags the arrival of Voice Control in Kling 2.6 and points to the official release notes.",
+          "description": "**How to use this in practice:** *When you need spoken lines to land, treat voice control as a first-class constraint: keep dialogue short, specify who speaks when, and avoid overstuffing a single shot with too many conversational beats.* **Reference:** *Release notes link shared in chat: `https://app.klingai.com/global/release-notes/7trhudk78j?type=dialog`*",
+          "posters": [
+            "Ludovic"
+          ]
+        },
+        {
+          "title": "🎭 Wan VACE / ComfyUI: “Real Masking” for Performance‑Accurate Edits",
+          "overview": "A recurring point in the chat: Wan VACE-style workflows were valued for masking and performance preservation.",
+          "description": "**Why Wan here:** *Members noted they “haven’t seen a non‑Wan workflow that allows actual masking,” and called out the ability to keep a performance accurate (useful for character replacement / targeted edits without collateral changes).* **Where to test:** *RunComfy + ComfyUI were mentioned as places people test Wan VACE (more “nerdy,” but higher control).* **When to choose this over a simpler app:** *If you must isolate a subject (face/wardrobe/object) and keep everything else stable, prioritize a masking-first pipeline (Wan/Comfy) over “prompt-and-pray” consumer flows.*",
+          "posters": [
+            "Albert Bozesan",
+            "Martin LeBlanc",
+            "David Clark",
+            "Ryan Phillips"
+          ]
+        },
+        {
+          "title": "🌍 Commercial Localization Sprint: Rewriting a TVC for a New Market",
+          "overview": "Billy shares a tight-turnaround workflow used for a P&G proof-of-concept featuring a new local celebrity.",
+          "description": "**The challenge:** *Replace key talent and update scenes (including tricky 2‑shots) fast, while keeping the commercial feeling consistent.* **Workflow highlights:** *Use Wan for the hardest shots (notably 2‑shots with big height/pose differences). Work iteratively on those “risk shots” first, then propagate the look to easier singles.* **Audio workaround:** *Billy noted isolating original TVC sound/music from the original-language dialogue so the spot could be reworked for English delivery.* **Scope call:** *Lip sync was explicitly called out as “out of scope” given the turnaround time—plan for that early (either accept imperfect lip sync, rewrite angles, or budget more time).*",
           "posters": [
             "Billy Boman"
           ]
         },
         {
-          "title": "🔍 Upscale/Digital Zoom Trick",
-          "link": "https://www.linkedin.com/feed/update/urn:li:activity:7409256998900297729/",
-          "overview": "<strong>Alex</strong> shares the upscale/digital zoom technique for smoothing frame-to-frame movement.",
-          "tutorial": {
-            "technique": "*Keep a 2× upscaled version of your video. When frame-to-frame movement feels too harsh, apply a subtle digital zoom in or out to smooth transitions.*",
-            "application": "*This technique helps mask AI video artifacts and creates smoother motion between frames, particularly useful for shots with noticeable temporal inconsistencies.*"
-          },
+          "title": "🖼️ No Outpainting? Switch Aspect Ratios via Nano First‑Frame Reference",
+          "overview": "A workaround for when a video tool can’t outpaint to a new format.",
+          "description": "**Problem:** *You want to change formats (e.g., 16:9 → 9:16), but the video model/tool doesn’t support outpainting.* **Workaround:** *Extract the first frame, outpaint/resize it in Nano (or another still editor), then feed that edited frame back into your video model as the image reference for regenerating the shot in the new aspect ratio.* **Why it works:** *The edited first frame anchors composition and framing, so the regenerated clip “starts correct” in the target format.*",
+          "posters": [
+            "Matthiei",
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "⏱️ Freepik “Extend” Workflow: Break Duration Limits by Extending with Veo 2",
+          "overview": "Jordan shares a practical method to extend short clips and even hop models without visible seams.",
+          "description": "**Use case:** *You’re capped at short durations (e.g., ~8 seconds) and need more time without obvious cuts.* **Workflow:** **Step 1: Base clip** *Generate your first clip in Freepik with whichever model you want (Jordan specifically noted you can start in one model, like Kling).* **Step 2: Extend** *Use Freepik’s Extend feature (noted as using Veo 2) to lengthen the clip.* **Step 3: Check seams** *Jordan reported moving from Kling → Veo 2 extend “without noticeable jumps or quality changes,” which makes this workflow powerful for longer sequences.*",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🧱 Seadream on FAL: Better Physics for 1080p Short Clips",
+          "overview": "Jordan calls out Seadream as a strong option when physics realism matters.",
+          "description": "**What it’s good for:** *Physics-heavy shots (body mechanics, object interactions) where other models can look “AI-wobbly.”* **Practical note:** *Seadream was mentioned as available on FAL with ~12 second clips in 1080p (as shared in chat).*",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "📐 Perspective Locking Trick: Vanishing Points → Nano Reference Overlay",
+          "overview": "Rory shares a perspective-control experiment to keep scenes geometrically consistent.",
+          "description": "**Technique:** *Extract a frame with the exact perspective you want. In Pluribus, identify the vanishing point and draw the convergence lines. Then apply those lines to a new image and use that as a reference with Nano.* **Why it’s useful:** *Perspective drift is a common failure mode in image generation. A vanishing-point overlay gives the model a strong geometric “hint” about where lines should converge.*",
+          "posters": [
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🧪 Practical Refraction Hack: Glass Tubes + Water + Mirror",
+          "overview": "Edmond shares a low-tech, high-impact practical effects trick for believable refraction/distortion.",
+          "description": "**Setup:** *Place glass tubes filled with water in front of the camera, and add a mirror behind (to amplify/refine the look).* **Why you’d do this:** *If you can capture real refraction in-camera, your AI enhancement/editing step has cleaner “truth” to build from than a fully synthetic refraction effect.*",
+          "posters": [
+            "Martin LeBlanc",
+            "Edmond Yang"
+          ]
+        },
+        {
+          "title": "🎞️ Smoothing Harsh Motion: 2× Upscale + Subtle Digital Zoom",
+          "overview": "<strong>Alex</strong> shares a simple post trick to reduce perceived harshness/jitter in motion.",
+          "description": "**Technique:** *Keep a 2× upscaled version of your clip. If motion feels too harsh, smooth it with a very subtle digital zoom in/out during the edit.* **Why it works:** *A tiny zoom reframes the viewer’s attention and can hide micro-jitters, especially after upscaling.*",
           "posters": [
             "Alex"
           ]
         },
         {
-          "title": "📐 Vanishing Point Reference Technique",
-          "link": "",
-          "overview": "<strong>Rory Flynn</strong> demonstrates extracting vanishing points and convergence lines for consistent perspective.",
-          "tutorial": {
-            "tool": "Pluribus + Nano",
-            "technique": "*Extract vanishing point and convergence lines from a frame using Pluribus. Apply the extracted lines to a new image as a reference. Use with Nano for perspective-consistent generation.*",
-            "application": "*Useful for maintaining consistent perspective across multiple generated shots, particularly important for architectural or environmental sequences.*"
-          },
-          "posters": [
-            "Rory Flynn"
-          ]
-        },
-        {
-          "title": "🎨 NanoBanana Multi-Element Consistency",
-          "link": "",
-          "overview": "<strong>Yonatan</strong> shares techniques for constructing shots with consistent multiple elements in NanoBanana.",
-          "tutorial": {
-            "best_practice": "*For cleaner results, add each element separately as a source. Put the mood board as a grid reference. Add other elements as singular items. A singular item can be multiple images of that item from different angles in one image.*",
-            "key_principle": "*Separate reference images get cleaner results than combining everything into one image.*"
-          },
-          "posters": [
-            "Yonatan",
-            "Jovardi"
-          ]
-        },
-        {
-          "title": "🎥 Extend Clips with Freepik/Veo 2",
-          "link": "",
-          "overview": "<strong>Jordan Daniel Chesney</strong> shares technique for extending clips using Freepik's Veo 2 integration.",
-          "tutorial": {
-            "workflow": "*Generate first clip in Freepik with any model (e.g., Kling). Extend the clip in Freepik, which uses Veo 2. No noticeable jumps or quality changes between models.*",
-            "result": "*Kling to Veo 2 transitions work seamlessly for extending clips, providing flexibility in model selection while maintaining visual consistency.*"
-          },
+          "title": "📱 Fast “iPhone UGC” Realism: Soul + Magnific Skin Enhance",
+          "overview": "Jordan shares a speed workflow for raw, believable UGC texture.",
+          "description": "**Stack:** *Generate in Soul for “realism / iPhone look,” then run Magnific’s skin enhance to polish texture quickly.* **When it shines:** *Creator/UGC ads where “too perfect” looks fake. This combo was positioned as a fast path to believable skin and phone-camera realism.*",
           "posters": [
             "Jordan Daniel Chesney"
           ]
         },
         {
-          "title": "🎮 Higgsfield Cinema Studio Workflow",
-          "link": "",
-          "overview": "<strong>Rourke</strong> explores Higgsfield Cinema Studio capabilities for automated multi-angle generation.",
-          "tutorial": {
-            "assessment": "*Appears to be Nano Pro built on top of a prompt enhancer. Great for having fun with automated camera work and multi-angle generation.*",
-            "application": "*The platform provides multi-camera angle wrapper similar to what Nano Banana Pro offers, useful for quick multi-angle shot exploration.*"
-          },
+          "title": "🧩 Nano Banana Reference Images: Separate vs Combined + Moodboard Grid Pattern",
+          "overview": "A practical reference-assembly pattern for Nano Banana projects that need multiple assets.",
+          "description": "**What works best (as shared):** *Separate reference images tend to produce cleaner adherence than packing everything into one composite image.* **Reference packaging pattern:** *Use a moodboard as a grid for broad vibe/style, and keep critical assets as singular items.* **Extra tip:** *A “single” reference image can still contain multiple views of the same item (e.g., different angles) inside one file.*",
           "posters": [
-            "Rourke",
-            "Billy Boman"
+            "Jovardi",
+            "Yonatan",
+            "Rory Flynn"
           ]
         },
         {
-          "title": "🎨 ProCreate to AI Animation Workflow",
-          "link": "https://x.com/martinleblanc/status/2007110933785796729",
-          "overview": "<strong>Martin LeBlanc</strong> demonstrates bringing ProCreate sketches to life with NBP and Kling 2.6.",
-          "tutorial": {
-            "workflow": "*Sketch character in ProCreate. Process through Nano Banana Pro. Animate with Kling 2.6 for final video.*",
-            "application": "*Great workflow for bringing traditional digital art to animated life, bridging the gap between hand-drawn art and AI animation.*"
-          },
+          "title": "🧷 Grid Splitting Utility: Extract Individual Images from a Grid",
+          "overview": "<strong>BasvdE</strong> asks for a grid extractor; <strong>Yonatan</strong> notes DorLabs has a solution.",
+          "description": "**Use case:** *You have a 3×3 (or similar) image grid and need the individual images back as separate files.* **Tool note (as shared):** *DorLabs was mentioned as having a grid extractor, with an EU rollout planned “next week” (at the time of the chat).*",
           "posters": [
-            "Martin LeBlanc"
+            "BasvdE",
+            "Yonatan"
           ]
         },
         {
-          "title": "🔺 Image to 3D Model Workflow",
-          "link": "http://tripo3d.ai",
-          "overview": "<strong>Martin LeBlanc</strong> and <strong>BasvdE</strong> share workflows for converting images to 3D models.",
-          "tutorial": {
-            "tools": "*Vizcom.com for product images. Tripo3d.ai for character models. Hunyuan 3D-2.1 turns flat images into studio-quality 3D.*",
-            "rigging_prep": "*Ensure limbs are separated if planning to rig. T-pose works best for rigging purposes.*",
-            "rendering_workflow": "*Move 3D model to any angle, then use NBP for final render. This provides great control and consistency.*",
-            "result": "*Tripo3D gives good results even for complex models. The angle control plus NBP rendering workflow provides excellent consistency across shots.*"
-          },
+          "title": "🧱 Image → 3D Model Toolkit: Vizcom, Tripo3D, Hunyuan 3D",
+          "overview": "<strong>BasvdE</strong> shares a fast shortlist of image-to-3D options depending on what you’re modeling.",
+          "description": "**Recommendations:** *Vizcom for products (depending on source image).* *Tripo3D for character-style models.* *Hunyuan 3D-2.1 was mentioned as producing “studio-quality” 3D from flat images (generalist option).* **Practical advice:** *Choose the tool based on the subject (product vs character), then plan for cleanup/rigging if you need animation.*",
           "posters": [
             "Martin LeBlanc",
-            "BasvdE",
-            "Rory Flynn"
+            "BasvdE"
           ]
         },
         {
-          "title": "🎬 Soul + Magnific Skin Enhance Workflow",
-          "link": "",
-          "overview": "<strong>Jordan Daniel Chesney</strong> shares technique for RAW UGC-looking content using Soul and Magnific.",
-          "tutorial": {
-            "workflow": "*Generate with Higgsfield Soul model for realism. Apply Magnific skin enhance.*",
-            "result": "*Super fast method for RAW UGC iPhone-look content.*",
-            "technical_note": "*Soul is proprietary (not a fine-tuning of someone else's model) and excels at realistic iPhone-style footage. Soul plus Magnific skin enhance creates authentic-looking user-generated content aesthetics.*"
-          },
+          "title": "🎛️ Pose Control Workflow: 3D Model → Pose → Nano Final “Render”",
+          "overview": "Martin shares a control-first approach: use 3D to lock geometry, then Nano to lock style.",
+          "description": "**Workflow:** **Step 1: Generate a 3D model** *Use a tool like Tripo3D (or similar) to generate the base model.* **Step 2: Pose / rotate** *Move the model to any angle you want (pose control in 3D is the win here).* **Step 3: Style unify** *Feed the posed render into Nano Banana Pro to create the final “render,” improving consistency and creative control.*",
           "posters": [
-            "Jordan Daniel Chesney",
-            "Stephan Bugaj",
             "Martin LeBlanc"
           ]
         },
         {
-          "title": "🔍 Visual Forensics Workflow",
-          "link": "https://app.weavy.ai/flow/NJ3TenYhPduuBv6ohGHrN3?ref=rory72",
-          "overview": "<strong>Rory Flynn</strong> shares a suite of system prompts for visual forensics analysis.",
-          "tutorial": {
-            "workflow": "*Drop in a still frame. System shoots out multiple analysis outputs. Extract various visual elements and information.*",
-            "application": "*Useful for token extraction and detailed frame analysis. More for fun and exploration than production work, but reveals interesting technical details about frame composition and elements.*"
-          },
+          "title": "🦴 Rigging Prep Tip: Separate Limbs + Start from T‑Pose",
+          "overview": "A quick modeling/rigging note from the 3D discussion.",
+          "description": "**Best practice:** *Make sure limbs are separated if you plan to rig the model.* **Pose setup:** *T‑pose was suggested as the right starting point when the goal is to rig and then animate.*",
           "posters": [
-            "Rory Flynn",
-            "Jim Phillips"
+            "Martin LeBlanc",
+            "Rory Flynn"
           ]
         },
         {
-          "title": "🎥 AI VFX Breakdown Techniques",
-          "link": "https://www.linkedin.com/posts/nitchhiltgen_vfx-ia-hybridcreativity-activity-7406593282958561280-usv0",
-          "overview": "<strong>Billy Boman</strong> shares a cool AI VFX breakdown demonstrating hybrid production techniques.",
-          "tutorial": {
-            "approach": "*Generate each element as separate AI video. Composite AI elements with live action plates. Use AI for specific elements like dragons. Use WAN for uniform changes and lighting matching.*",
-            "key_principle": "*Separate AI video generation for each element provides maximum control in hybrid productions. This allows for precise compositing and adjustment of individual elements while maintaining overall scene cohesion.*"
-          },
+          "title": "🧰 fal.ai Trellis‑2: Quick 3D Generation Alternative",
+          "overview": "Edmond shares an alternate image→3D option used in practice.",
+          "description": "**Tool:** *Trellis‑2 on FAL was described as “pretty good” for generating 3D models: `https://fal.ai/models/fal-ai/trellis-2`* **When to use:** *If your current image→3D tool is too slow (Hunyuan v3 was mentioned as “good, but takes forever”), try Trellis‑2 for faster iteration.*",
+          "posters": [
+            "Edmond Yang",
+            "Rory Flynn",
+            "Martin LeBlanc"
+          ]
+        },
+        {
+          "title": "🧠 Train FLUX.2 LoRAs: Rent GPUs on RunPod + Ostris",
+          "overview": "<strong>Alex</strong> mentions a straightforward approach for training custom FLUX LoRAs without owning hardware.",
+          "description": "**Workflow (high level):** *Rent GPUs on RunPod, and use Ostris to train FLUX.2 LoRAs.* **Why it’s useful:** *Lets you spin up training capacity only when needed—good for sprint work and experimentation.*",
+          "posters": [
+            "Alex"
+          ]
+        },
+        {
+          "title": "🔍 Visual Forensics Prompts: Weavy Flow for Frame Analysis",
+          "overview": "Rory shares a “visual forensics” prompt setup hosted in Weavy.",
+          "description": "**What it’s for:** *Drop in a still frame and run structured prompts for analysis/inspection (Rory described it as more useful for token extraction than anything else).* **Link shared:** `https://app.weavy.ai/flow/NJ3TenYhPduuBv6ohGHrN3?ref=rory72`",
+          "posters": [
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🕹️ Interactive Prototype Workflow: Gemini Canvas + MediaPipe Hand Controls",
+          "overview": "Ozan demonstrates how quickly interactive experiences can be prototyped now.",
+          "description": "**What he built:** *Recreated Duck Hunt using Gemini Canvas + MediaPipe, using the webcam for controls.* **Gesture mapping:** *Open hand to aim; fist to shoot.* **Why it matters:** *Shows a fast path from concept → playable prototype without a full engineering team.*",
+          "posters": [
+            "Ozan Sihay"
+          ]
+        },
+        {
+          "title": "🟩 SpriteSwap‑Studio: Photo → Playable Game Boy ROM",
+          "overview": "Lovis shares an open-source tool that turns a photo into a playable retro ROM.",
+          "description": "**What it does:** *Turns a photo into a playable Game Boy ROM using AI.* **Repo shared:** `https://github.com/lovisdotio/SpriteSwap-Studio`",
+          "posters": [
+            "Lovis Odin"
+          ]
+        },
+        {
+          "title": "🧬 Hybrid AI Compositing Pipeline: Generate Elements Separately, Then Composite",
+          "overview": "Billy shares a behind-the-scenes principle for high-control hybrid shots.",
+          "description": "**Core principle:** *Generate each major element as a separate AI video to maximize control (rather than forcing everything into one “all-in-one” generation).* **Example from the gig:** *Use Wan to fix/standardize a specific element (e.g., making a soccer player wear the same uniform as the rest while matching lighting), then composite into the final scene.* **Why it works:** *Element separation makes it easier to iterate and match continuity (lighting, costume, motion) shot-by-shot.*",
           "posters": [
             "Billy Boman"
           ]
         },
         {
-          "title": "🎮 SpriteSwap Studio - Photo to Game Boy ROM",
-          "link": "https://github.com/lovisdotio/SpriteSwap-Studio",
-          "overview": "<strong>Lovis Odin</strong> open-sources a tool that turns any photo into a playable Game Boy ROM using AI.",
-          "tutorial": {
-            "capability": "*Input any photo. AI converts to Game Boy sprite style. Outputs playable Game Boy ROM file.*",
-            "application": "*Fun creative tool for retro gaming aesthetics and nostalgic content creation.*"
-          },
+          "title": "💸 Sponsorship Ops: Don’t Post Before You’re Paid",
+          "overview": "A recurring operational warning: brands sometimes delay or avoid payment after content goes live.",
+          "description": "**Best practice:** *Request payment (or at least a clear milestone payment) prior to posting. If payment isn’t secured, don’t publish (“no collab”).* **Why:** *Creators shared frustration with payment delays once a sponsored video is already live.*",
           "posters": [
-            "Lovis Odin",
-            "Chris (SyntaxDiffusion)"
+            "Robert O’Shaugnessy",
+            "Andreas Massouras"
           ]
         },
         {
-          "title": "🎬 Feature Film Production Timeline Discussion",
-          "link": "",
-          "overview": "<strong>Stephan Bugaj</strong>, <strong>Blvckl!ght</strong>, and <strong>Jovardi</strong> discuss realistic timelines for AI feature films.",
-          "tutorial": {
-            "benchmarks": "*10 minutes in 4 weeks is achievable solo. 100 minutes in 4 months is doable with experience. Stephan Bugaj did The Seeker (~20min) in 6 weeks with a sound editor, estimates 8-9 weeks solo. Could do equal quality in a month now with learnings.*",
-            "quality_factors": "*Include sound design, original score, and grading. Script quality is essential - don't bother without great script. For client work, multiply everything by 10x.*",
-            "cost_reality": "*$5k for 100 minutes is unrealistic - barely covers generation costs. $100k+ is more realistic for quality feature-length work. Anyone saying \"Pixar quality for $5,000\" is clearly hallucinating.*"
-          },
+          "title": "🎯 Virality Heuristic: “Food, Sex, Danger” (Ideally in One Shot)",
+          "overview": "PJ shares a simple creative filter for designing viral concepts.",
+          "description": "**Rule of thumb:** *Viral moments tend to contain: Food, Sex, and Danger.* **Execution note:** *Best if it’s “all baked in one shot” (a single moment that communicates the hook instantly).*",
+          "posters": [
+            "PJ Accetturo"
+          ]
+        },
+        {
+          "title": "💼 LinkedIn Premium for Creators: Likely Not Worth It",
+          "overview": "Several creators compare notes on whether LinkedIn Premium helps.",
+          "description": "**Consensus from the chat:** *Not necessary for most individual creators; some reported reduced reach after going Premium.* **When it *can* matter:** *More relevant for companies, recruiters, and teams using Sales Navigator / hiring features.*",
+          "posters": [
+            "Alex",
+            "Billy Boman",
+            "Rory Flynn",
+            "Kat Gellein Viken",
+            "Chad Nelson"
+          ]
+        },
+        {
+          "title": "🔐 Security Hygiene: Suspicious Email Waves → Reset Passwords",
+          "overview": "A quick safety reminder triggered by members receiving unusual emails.",
+          "description": "**What to do:** *If you get a sudden wave of suspicious emails (e.g., unexpected podcast/PR outreach), treat it as a potential compromise: reset passwords and review account security.*",
+          "posters": [
+            "Blvckl!ght"
+          ]
+        },
+        {
+          "title": "🧾 Credit/Pricing UX Caution: Always Compare “Credits per $”",
+          "overview": "<strong>Yonatan</strong> flags a “pricing trick” experience and recommends checking the math.",
+          "description": "**Tip:** *Don’t assume the default/“recommended” plan is best. Compare the effective credits-per-dollar across options, and confirm you’re not paying more for fewer credits via UI nudges.* **Good habit:** *Screenshot your checkout and keep receipts so you can reconcile later if something feels off.*",
+          "posters": [
+            "Yonatan"
+          ]
+        },
+        {
+          "title": "🧽 Quick Quality Boost: Upscale in Magnific When Needed",
+          "overview": "A simple finishing step中王 noted as part of several creators’ workflows.",
+          "description": "**Use case:** *If your output is almost there but needs crispness or polish, run an upscale pass (Magnific was explicitly mentioned) before final grading/editing.*",
+          "posters": [
+            "David Clark"
+          ]
+        },
+        {
+          "title": "🧠 AI Disclosure Strategy: Reduce Backlash by Avoiding “Misleading Realism”",
+          "overview": "<strong>Blvckl!ght</strong> shares a practical framing approach: how you position AI work affects audience reaction.",
+          "description": "**Rule of thumb:** *If the piece is clearly “impossible” (obviously AI, surreal, or hyper-stylized), disclosure tends to matter less. If it looks like real people/events, audiences are more likely to feel misled—so set expectations up front.* **Creative angle:** *Lean into the “impossible-ness” of AI as a feature (not a bug) to keep the work in a clearly synthetic lane.*",
+          "posters": [
+            "Blvckl!ght"
+          ]
+        },
+        {
+          "title": "📛 Copyright/Claim Recovery: Plan for Reuploads + Escalation",
+          "overview": "<strong>Sultan</strong> notes having to reupload after a rights claim and flags vendor support as part of the process.",
+          "description": "**What happened:** *A trailer needed a reupload after a rights-owner claim; Higgsfield was reportedly investigating the strike source.* **Best practice:** *Keep project files and exports organized so reuploads are fast. If a platform/tool is involved, escalate with them early (provide links, timestamps, and proof of original creation).*",
+          "posters": [
+            "Sultan"
+          ]
+        },
+        {
+          "title": "🧮 Production Reality Check: “Cheap + Fast + Excellent” Still Doesn’t Exist",
+          "overview": "A candid timeline/cost discussion on what’s realistic for AI narrative production.",
+          "description": "**Key point:** *If someone promises “Pixar quality” for extremely low budgets, assume they’re not billing their own time (or they’re underestimating iteration + post).* **Iteration management:** *To move faster, you need strong multidisciplinary skills *and* creative compromises aimed at reducing iterations (fewer shot types, fewer character changes, simpler staging).* **Data point shared:** *Stephan mentioned completing a ~20min film in ~6 weeks with a sound editor; without that help, it would have taken longer.*",
           "posters": [
             "Stephan Bugaj",
-            "Blvckl!ght",
-            "Jovardi",
-            "Chad Nelson",
-            "Winston Mayo",
-            "Adrian Daniel Botnariu"
-          ]
-        },
-        {
-          "title": "🎨 Octane Render 2026 + Gaussian Splat Integration",
-          "link": "",
-          "overview": "<strong>Martin Nebelong</strong> and <strong>ChristianF.</strong> discuss Octane Render 2026 Gaussian Splat capabilities.",
-          "tutorial": {
-            "workflow": "*Use Apple's image-to-Gaussian Splatting or WorldLabs. Import Gaussian Splat output into Octane Render 2026. Work directly in C4D or Octane Render. Marble WorldLabs integration available with Black Friday coupon.*",
-            "performance": "*Generates scenes from single images in 2 seconds on high-end GPUs (4090).*"
-          },
-          "posters": [
-            "Martin Nebelong",
-            "ChristianF.",
-            "Rory Flynn"
-          ]
-        },
-        {
-          "title": "🎬 Start and End Frame Mastery",
-          "link": "https://x.com/i/status/2007284457162846435",
-          "overview": "<strong>Jordan Daniel Chesney</strong> shares impressive start and end frame control techniques.",
-          "tutorial": {
-            "technique": "*Master start frame composition. Plan end frame for seamless transitions. Use keyframes strategically for control.*",
-            "principle": "*Proper start/end frame planning is crucial for professional results and seamless shot transitions in AI video generation.*"
-          },
-          "posters": [
-            "Jordan Daniel Chesney"
+            "winston mayo"
           ]
         }
       ]
