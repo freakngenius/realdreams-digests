@@ -1,14 +1,23 @@
 {
   "id": "dec16-jan7-2025",
   "title": "December 16, 2024 - January 7, 2025",
-  "date_range": "December 16, 2024 - January 7, 2025",
+  "date": "January 7, 2025",
+  "dateRange": "December 16, 2024 - January 7, 2025",
   "summary": "WAN 2.6 launches with 15-second consistency and multi-shot control, Seedance 1.5 Pro and Flux 2 Max released, Kling adds voice control, Google announces Veo 3, Billy Boman delivers P&G commercial adaptation with Media Monks, David Clark shares comprehensive Veo 3 workflow, community explores new upscaling and consistency techniques, and RealDreams HQ welcomes Stephan Bugaj, Sultan, and Andy.",
-  "highlight": "WAN 2.6 Launch with Multi-Shot Control",
   "stats": {
-    "total_messages": 1773,
-    "active_members": 45,
-    "major_announcements": 8
+    "tools": 6,
+    "tutorials": 3,
+    "insights": 11,
+    "links": 8
   },
+  "keyHighlights": [
+    "WAN 2.6 launches with 15-second consistency and multi-shot motion control",
+    "Seedance 1.5 Pro and Flux 2 Max released for advanced image generation",
+    "Kling adds voice control for natural language video prompting",
+    "Google officially announces Veo 3 with improved quality and control",
+    "Billy Boman delivers P&G commercial adaptation using AI workflow with Media Monks",
+    "David Clark shares comprehensive Veo 3 workflow with upscaling strategies"
+  ],
   "topPosters": [
     {
       "name": "David Clark",
