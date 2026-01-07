@@ -193,16 +193,9 @@
           "overview": "<strong>Billy Boman</strong> shares the workflow for adapting a P&G commercial using AI with Media Monks.",
           "tutorial": {
             "tool": "WAN + Compositing",
-            "steps": [
-              "Take existing commercial footage as base",
-              "Run parts through WAN for character replacement",
-              "Fully re-prompt other scenes for new celebrity adaptation",
-              "Handle height differences by creative problem solving (short female to tall male)",
-              "Isolate original TVC sound and music from dialogue",
-              "Composite AI-generated elements with live action plates",
-              "Generate each element as separate AI video for control"
-            ],
-            "tip": "When replacing characters of different heights in 2-shots, WAN struggles with the size difference - requires creative workarounds."
+            "workflow": "*Take existing commercial footage, run parts through WAN for character replacement, fully re-prompt other scenes for new celebrity adaptation. Generate each element as separate AI video for maximum control. Composite AI-generated elements with live action plates. Use WAN for uniform changes and lighting matching (e.g., getting soccer player into brand color appropriate uniform).*",
+            "challenge": "*When replacing characters of different heights in 2-shots, WAN struggles with the size difference - requires creative workarounds.*",
+            "result": "*Successfully delivered hybrid production demonstrating the power of combining AI generation with traditional VFX compositing for commercial adaptation work.*"
           },
           "posters": [
             "Billy Boman"
@@ -213,13 +206,8 @@
           "link": "https://www.linkedin.com/feed/update/urn:li:activity:7409256998900297729/",
           "overview": "<strong>Alex</strong> shares the upscale/digital zoom technique for smoothing frame-to-frame movement.",
           "tutorial": {
-            "tool": "Upscaling + Digital Zoom",
-            "steps": [
-              "Keep a 2× upscaled version of your video",
-              "When frame-to-frame movement feels too harsh",
-              "Apply a subtle digital zoom in or out to smooth transitions"
-            ],
-            "tip": "This technique helps mask AI video artifacts and creates smoother motion between frames."
+            "technique": "*Keep a 2× upscaled version of your video. When frame-to-frame movement feels too harsh, apply a subtle digital zoom in or out to smooth transitions.*",
+            "application": "*This technique helps mask AI video artifacts and creates smoother motion between frames, particularly useful for shots with noticeable temporal inconsistencies.*"
           },
           "posters": [
             "Alex"
@@ -231,12 +219,8 @@
           "overview": "<strong>Rory Flynn</strong> demonstrates extracting vanishing points and convergence lines for consistent perspective.",
           "tutorial": {
             "tool": "Pluribus + Nano",
-            "steps": [
-              "Extract vanishing point and convergence lines from a frame using Pluribus",
-              "Apply the extracted lines to a new image as a reference",
-              "Use with Nano for perspective-consistent generation"
-            ],
-            "tip": "Useful for maintaining consistent perspective across multiple generated shots."
+            "technique": "*Extract vanishing point and convergence lines from a frame using Pluribus. Apply the extracted lines to a new image as a reference. Use with Nano for perspective-consistent generation.*",
+            "application": "*Useful for maintaining consistent perspective across multiple generated shots, particularly important for architectural or environmental sequences.*"
           },
           "posters": [
             "Rory Flynn"
@@ -247,14 +231,8 @@
           "link": "",
           "overview": "<strong>Yonatan</strong> shares techniques for constructing shots with consistent multiple elements in NanoBanana.",
           "tutorial": {
-            "tool": "NanoBanana Pro",
-            "steps": [
-              "For cleaner results, add each element separately as a source",
-              "Put the mood board as a grid reference",
-              "Add other elements as singular items",
-              "A singular item can be multiple images of that item from different angles in one image"
-            ],
-            "tip": "Separate reference images get cleaner results than combining everything into one image."
+            "best_practice": "*For cleaner results, add each element separately as a source. Put the mood board as a grid reference. Add other elements as singular items. A singular item can be multiple images of that item from different angles in one image.*",
+            "key_principle": "*Separate reference images get cleaner results than combining everything into one image.*"
           },
           "posters": [
             "Yonatan",
@@ -266,13 +244,8 @@
           "link": "",
           "overview": "<strong>Jordan Daniel Chesney</strong> shares technique for extending clips using Freepik's Veo 2 integration.",
           "tutorial": {
-            "tool": "Freepik + Veo 2",
-            "steps": [
-              "Generate first clip in Freepik with any model (e.g., Kling)",
-              "Extend the clip in Freepik, which uses Veo 2",
-              "No noticeable jumps or quality changes between models"
-            ],
-            "tip": "Kling to Veo 2 transitions work seamlessly for extending clips."
+            "workflow": "*Generate first clip in Freepik with any model (e.g., Kling). Extend the clip in Freepik, which uses Veo 2. No noticeable jumps or quality changes between models.*",
+            "result": "*Kling to Veo 2 transitions work seamlessly for extending clips, providing flexibility in model selection while maintaining visual consistency.*"
           },
           "posters": [
             "Jordan Daniel Chesney"
@@ -283,13 +256,8 @@
           "link": "",
           "overview": "<strong>Rourke</strong> explores Higgsfield Cinema Studio capabilities for automated multi-angle generation.",
           "tutorial": {
-            "tool": "Higgsfield Cinema Studio",
-            "steps": [
-              "Use the platform for automated angle generation",
-              "Appears to be Nano Pro built on top of a prompt enhancer",
-              "Great for having fun with automated camera work"
-            ],
-            "tip": "The platform provides multi-camera angle wrapper similar to what Nano Banana Pro offers."
+            "assessment": "*Appears to be Nano Pro built on top of a prompt enhancer. Great for having fun with automated camera work and multi-angle generation.*",
+            "application": "*The platform provides multi-camera angle wrapper similar to what Nano Banana Pro offers, useful for quick multi-angle shot exploration.*"
           },
           "posters": [
             "Rourke",
@@ -301,13 +269,8 @@
           "link": "https://x.com/martinleblanc/status/2007110933785796729",
           "overview": "<strong>Martin LeBlanc</strong> demonstrates bringing ProCreate sketches to life with NBP and Kling 2.6.",
           "tutorial": {
-            "tool": "ProCreate + NBP + Kling 2.6",
-            "steps": [
-              "Sketch character in ProCreate",
-              "Process through Nano Banana Pro",
-              "Animate with Kling 2.6 for final video"
-            ],
-            "tip": "Great workflow for bringing traditional digital art to animated life."
+            "workflow": "*Sketch character in ProCreate. Process through Nano Banana Pro. Animate with Kling 2.6 for final video.*",
+            "application": "*Great workflow for bringing traditional digital art to animated life, bridging the gap between hand-drawn art and AI animation.*"
           },
           "posters": [
             "Martin LeBlanc"
@@ -318,16 +281,10 @@
           "link": "http://tripo3d.ai",
           "overview": "<strong>Martin LeBlanc</strong> and <strong>BasvdE</strong> share workflows for converting images to 3D models.",
           "tutorial": {
-            "tool": "Tripo3D / Vizcom / Hunyuan 3D",
-            "steps": [
-              "Use Vizcom.com for product images",
-              "Use tripo3d.ai for character models",
-              "Hunyuan 3D-2.1 turns flat images into studio-quality 3D",
-              "Ensure limbs are separated if planning to rig",
-              "T-pose works best for rigging purposes",
-              "Move 3D model to any angle, then use NBP for final render"
-            ],
-            "tip": "Tripo3D gives good results even for complex models, and the angle control plus NBP rendering provides great consistency."
+            "tools": "*Vizcom.com for product images. Tripo3d.ai for character models. Hunyuan 3D-2.1 turns flat images into studio-quality 3D.*",
+            "rigging_prep": "*Ensure limbs are separated if planning to rig. T-pose works best for rigging purposes.*",
+            "rendering_workflow": "*Move 3D model to any angle, then use NBP for final render. This provides great control and consistency.*",
+            "result": "*Tripo3D gives good results even for complex models. The angle control plus NBP rendering workflow provides excellent consistency across shots.*"
           },
           "posters": [
             "Martin LeBlanc",
@@ -340,17 +297,14 @@
           "link": "",
           "overview": "<strong>Jordan Daniel Chesney</strong> shares technique for RAW UGC-looking content using Soul and Magnific.",
           "tutorial": {
-            "tool": "Higgsfield Soul + Magnific",
-            "steps": [
-              "Generate with Higgsfield Soul model for realism",
-              "Apply Magnific skin enhance",
-              "Result: Super fast method for RAW UGC iPhone-look content"
-            ],
-            "tip": "Soul is proprietary (not a fine-tuning of someone else's model) and excels at realistic iPhone-style footage."
+            "workflow": "*Generate with Higgsfield Soul model for realism. Apply Magnific skin enhance.*",
+            "result": "*Super fast method for RAW UGC iPhone-look content.*",
+            "technical_note": "*Soul is proprietary (not a fine-tuning of someone else's model) and excels at realistic iPhone-style footage. Soul plus Magnific skin enhance creates authentic-looking user-generated content aesthetics.*"
           },
           "posters": [
             "Jordan Daniel Chesney",
-            "Stephan Bugaj"
+            "Stephan Bugaj",
+            "Martin LeBlanc"
           ]
         },
         {
@@ -358,16 +312,12 @@
           "link": "https://app.weavy.ai/flow/NJ3TenYhPduuBv6ohGHrN3?ref=rory72",
           "overview": "<strong>Rory Flynn</strong> shares a suite of system prompts for visual forensics analysis.",
           "tutorial": {
-            "tool": "Weavy AI",
-            "steps": [
-              "Drop in a still frame",
-              "System shoots out multiple analysis outputs",
-              "Extract various visual elements and information"
-            ],
-            "tip": "Useful for token extraction and detailed frame analysis."
+            "workflow": "*Drop in a still frame. System shoots out multiple analysis outputs. Extract various visual elements and information.*",
+            "application": "*Useful for token extraction and detailed frame analysis. More for fun and exploration than production work, but reveals interesting technical details about frame composition and elements.*"
           },
           "posters": [
-            "Rory Flynn"
+            "Rory Flynn",
+            "Jim Phillips"
           ]
         },
         {
@@ -375,14 +325,8 @@
           "link": "https://www.linkedin.com/posts/nitchhiltgen_vfx-ia-hybridcreativity-activity-7406593282958561280-usv0",
           "overview": "<strong>Billy Boman</strong> shares a cool AI VFX breakdown demonstrating hybrid production techniques.",
           "tutorial": {
-            "tool": "Various AI + VFX",
-            "steps": [
-              "Generate each element as separate AI video",
-              "Composite AI elements with live action plates",
-              "Use AI for specific elements like dragons",
-              "Use WAN for uniform changes and lighting matching"
-            ],
-            "tip": "Separate AI video generation for each element provides maximum control in hybrid productions."
+            "approach": "*Generate each element as separate AI video. Composite AI elements with live action plates. Use AI for specific elements like dragons. Use WAN for uniform changes and lighting matching.*",
+            "key_principle": "*Separate AI video generation for each element provides maximum control in hybrid productions. This allows for precise compositing and adjustment of individual elements while maintaining overall scene cohesion.*"
           },
           "posters": [
             "Billy Boman"
@@ -393,16 +337,12 @@
           "link": "https://github.com/lovisdotio/SpriteSwap-Studio",
           "overview": "<strong>Lovis Odin</strong> open-sources a tool that turns any photo into a playable Game Boy ROM using AI.",
           "tutorial": {
-            "tool": "SpriteSwap Studio",
-            "steps": [
-              "Input any photo",
-              "AI converts to Game Boy sprite style",
-              "Outputs playable Game Boy ROM file"
-            ],
-            "tip": "Fun creative tool for retro gaming aesthetics."
+            "capability": "*Input any photo. AI converts to Game Boy sprite style. Outputs playable Game Boy ROM file.*",
+            "application": "*Fun creative tool for retro gaming aesthetics and nostalgic content creation.*"
           },
           "posters": [
-            "Lovis Odin"
+            "Lovis Odin",
+            "Chris (SyntaxDiffusion)"
           ]
         },
         {
@@ -410,21 +350,17 @@
           "link": "",
           "overview": "<strong>Stephan Bugaj</strong>, <strong>Blvckl!ght</strong>, and <strong>Jovardi</strong> discuss realistic timelines for AI feature films.",
           "tutorial": {
-            "tool": "General AI Filmmaking",
-            "steps": [
-              "10 minutes in 4 weeks is achievable solo",
-              "100 minutes in 4 months is doable with experience",
-              "Include sound design, original score, and grading",
-              "Script quality is essential - don't bother without great script",
-              "For client work, multiply everything by 10x"
-            ],
-            "tip": "Stephan Bugaj did The Seeker (~20min) in 6 weeks with a sound editor, estimates 8-9 weeks solo. Could do equal quality in a month now with learnings."
+            "benchmarks": "*10 minutes in 4 weeks is achievable solo. 100 minutes in 4 months is doable with experience. Stephan Bugaj did The Seeker (~20min) in 6 weeks with a sound editor, estimates 8-9 weeks solo. Could do equal quality in a month now with learnings.*",
+            "quality_factors": "*Include sound design, original score, and grading. Script quality is essential - don't bother without great script. For client work, multiply everything by 10x.*",
+            "cost_reality": "*$5k for 100 minutes is unrealistic - barely covers generation costs. $100k+ is more realistic for quality feature-length work. Anyone saying \"Pixar quality for $5,000\" is clearly hallucinating.*"
           },
           "posters": [
             "Stephan Bugaj",
             "Blvckl!ght",
             "Jovardi",
-            "Chad Nelson"
+            "Chad Nelson",
+            "Winston Mayo",
+            "Adrian Daniel Botnariu"
           ]
         },
         {
@@ -432,18 +368,13 @@
           "link": "",
           "overview": "<strong>Martin Nebelong</strong> and <strong>ChristianF.</strong> discuss Octane Render 2026 Gaussian Splat capabilities.",
           "tutorial": {
-            "tool": "Octane Render 2026 + WorldLabs",
-            "steps": [
-              "Use Apple's image-to-Gaussian Splatting or WorldLabs",
-              "Import Gaussian Splat output into Octane Render 2026",
-              "Work directly in C4D or Octane Render",
-              "Marble WorldLabs integration available with Black Friday coupon"
-            ],
-            "tip": "Generates scenes from single images in 2 seconds on high-end GPUs."
+            "workflow": "*Use Apple's image-to-Gaussian Splatting or WorldLabs. Import Gaussian Splat output into Octane Render 2026. Work directly in C4D or Octane Render. Marble WorldLabs integration available with Black Friday coupon.*",
+            "performance": "*Generates scenes from single images in 2 seconds on high-end GPUs (4090).*"
           },
           "posters": [
             "Martin Nebelong",
-            "ChristianF."
+            "ChristianF.",
+            "Rory Flynn"
           ]
         },
         {
@@ -451,13 +382,8 @@
           "link": "https://x.com/i/status/2007284457162846435",
           "overview": "<strong>Jordan Daniel Chesney</strong> shares impressive start and end frame control techniques.",
           "tutorial": {
-            "tool": "Various Video Models",
-            "steps": [
-              "Master start frame composition",
-              "Plan end frame for seamless transitions",
-              "Use keyframes strategically for control"
-            ],
-            "tip": "Proper start/end frame planning is crucial for professional results."
+            "technique": "*Master start frame composition. Plan end frame for seamless transitions. Use keyframes strategically for control.*",
+            "principle": "*Proper start/end frame planning is crucial for professional results and seamless shot transitions in AI video generation.*"
           },
           "posters": [
             "Jordan Daniel Chesney"
@@ -466,7 +392,7 @@
       ]
     },
     {
-      "title": "🎨 Community Showcases",
+      "title": "🎨 Community Showcases & Projects",
       "items": [
         {
           "title": "🎬 Billy Boman - Storytytel Campfire AI Film",
@@ -683,7 +609,7 @@
       ]
     },
     {
-      "title": "💬 Industry Discussions",
+      "title": "💬 Industry Discussions & Insights",
       "items": [
         {
           "title": "🎬 AI Film Quality and Plateau Discussion",
@@ -781,6 +707,53 @@
             "Chad Nelson",
             "Adrian Daniel Botnariu"
           ]
+        },
+        {
+          "title": "🎬 AI Film Editing Quality Discussion",
+          "link": "",
+          "overview": "<strong>Martin LeBlanc</strong> analyzes what's missing in 1 Billion Summit submissions.",
+          "description": "<strong>Martin LeBlanc</strong> asked what's missing to elevate the 1 Billion Summit submissions. He identified proper editing as the key element missing in most films - too long cuts, many clips in slow-motion, and poorly written/unnatural dialogue. The discussion highlighted the importance of traditional filmmaking craft even with AI generation tools.",
+          "posters": [
+            "Martin LeBlanc",
+            "PJ Accetturo",
+            "Blair"
+          ]
+        },
+        {
+          "title": "🎓 AI Education Market Opportunity",
+          "link": "https://www.instagram.com/reel/DTLiq85EhfH/?igsh=eGNvODUxMXBxYTFl",
+          "overview": "<strong>Yonatan</strong> and community discuss the massive opportunity in AI education.",
+          "description": "<strong>Billy Boman</strong> noted more joining the AI education game. <strong>Yonatan</strong> revealed they have 10,000 people on the waiting list for educational content with estimated $4M-$18M income potential, but need good tutorial producers. <strong>Billy Boman</strong> suggested <strong>Rourke</strong>, Simon Meyer, <strong>Rory Flynn</strong>, and <strong>Albert Bozesan</strong> as fantastic creators. <strong>David Clark</strong> noted Curious Refuge is thriving in 170+ countries but takes lots of effort and daily updates.",
+          "posters": [
+            "Yonatan",
+            "Billy Boman",
+            "Albert Bozesan",
+            "Rourke",
+            "David Clark"
+          ]
+        },
+        {
+          "title": "🎬 AI Company Acquisitions and Alternatives",
+          "link": "",
+          "overview": "Discussion on Meta's acquisition strategy and finding alternative tools.",
+          "description": "Following Meta's acquisition of Manus, the community discussed the pattern of Meta buying AI companies and discontinuing customer support (Play.ai example). <strong>Matthieu</strong> suggested Antigravity as an alternative. <strong>Rourke</strong> noted Meta also acquired Limitless AI wearable. The discussion highlighted concerns about relying on tools that might be acquired and shut down.",
+          "posters": [
+            "Kēkā",
+            "Stephan Bugaj",
+            "Matthieu",
+            "Rourke"
+          ]
+        },
+        {
+          "title": "🎬 Future of Creative Work Discussion",
+          "link": "",
+          "overview": "<strong>Chad Nelson</strong> discusses universal tools and exploring personal imagination.",
+          "description": "<strong>Chad Nelson</strong> predicted that when universal tools/engines are available, people will explore their own imagination without need for external creators. He noted it's more fun to explore your own imagination unless you like/agree with the creator, find them truly entertaining and genuine, and feel they \"get you.\" His 8-year-old nephew said \"you cannot trust Disney or Pixar because they don't like Mr Beast, and Netflix is cooler.\" The discussion explored the generational shift in content consumption and creation.",
+          "posters": [
+            "Chad Nelson",
+            "Aaron Bhugobaun",
+            "Jovardi"
+          ]
         }
       ]
     },
@@ -788,241 +761,317 @@
       "title": "🔗 Links & Resources",
       "categories": [
         {
-          "title": "Tool Releases & Updates",
+          "title": "🛠️ Tool Releases & Updates",
           "links": [
             {
               "title": "WAN 2.6 Release",
-              "url": "https://wan-video.com"
+              "url": "https://wan-video.com",
+              "description": "15-second consistency with multi-shot control"
             },
             {
               "title": "Flux 2 Max",
-              "url": "https://bfl.ai/models/flux-2-max"
+              "url": "https://bfl.ai/models/flux-2-max",
+              "description": "Latest image generation model"
             },
             {
               "title": "Kling Voice Control Release Notes",
-              "url": "https://app.klingai.com/global/release-notes/7trhudk78j?type=dialog"
+              "url": "https://app.klingai.com/global/release-notes/7trhudk78j?type=dialog",
+              "description": "Natural language video prompting"
+            },
+            {
+              "title": "Kling Motion Control",
+              "url": "https://x.com/Kling_ai/status/2001306445262823431",
+              "description": "New motion control capabilities"
             },
             {
               "title": "Reve V11 Release",
-              "url": "https://www.linkedin.com/posts/reveimage_reve-v11-and-reve-v11-fast-are-here-we-activity-7407493843501318145-dT1o"
+              "url": "https://www.linkedin.com/posts/reveimage_reve-v11-and-reve-v11-fast-are-here-we-activity-7407493843501318145-dT1o",
+              "description": "V11 and V11 Fast models"
             },
             {
               "title": "Trellis 2 on fal.ai",
-              "url": "https://fal.ai/models/fal-ai/trellis-2"
+              "url": "https://fal.ai/models/fal-ai/trellis-2",
+              "description": "3D model generation"
             },
             {
               "title": "Tripo3D",
-              "url": "http://tripo3d.ai"
+              "url": "http://tripo3d.ai",
+              "description": "Image to 3D conversion"
             },
             {
               "title": "Qwen-Image-Edit-2511",
-              "url": "https://x.com/i/status/2003496348461728213"
+              "url": "https://x.com/i/status/2003496348461728213",
+              "description": "Day-1 ComfyUI support"
             },
             {
               "title": "SpriteSwap Studio (Open Source)",
-              "url": "https://github.com/lovisdotio/SpriteSwap-Studio"
+              "url": "https://github.com/lovisdotio/SpriteSwap-Studio",
+              "description": "Photo to Game Boy ROM converter"
             }
           ]
         },
         {
-          "title": "News & Announcements",
+          "title": "📰 News & Announcements",
           "links": [
             {
               "title": "Meta Acquires Manus",
-              "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
+              "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+              "description": "$2 billion AI agent acquisition"
             },
             {
               "title": "Apple Gaussian Splatting Demo",
-              "url": "https://www.linkedin.com/posts/martin-nebelong_from-2-second-faster-on-higher-end-gpus-activity-7407403800929390592-Rc8U"
+              "url": "https://www.linkedin.com/posts/martin-nebelong_from-2-second-faster-on-higher-end-gpus-activity-7407403800929390592-Rc8U",
+              "description": "Image-to-3D in 2 seconds"
             },
             {
               "title": "The Seeker Film Release",
-              "url": "https://gamesbeat.com/genvid-releases-sci-fi-genai-film-the-seeker/"
+              "url": "https://gamesbeat.com/genvid-releases-sci-fi-genai-film-the-seeker/",
+              "description": "Genvid's 22-minute GenAI film"
             },
             {
               "title": "The Seeker - Animation Magazine",
-              "url": "https://www.animationmagazine.net/2025/12/innovation-emmy-winner-pixar-vet-releases-ai-animated-short-the-seeker/"
+              "url": "https://www.animationmagazine.net/2025/12/innovation-emmy-winner-pixar-vet-releases-ai-animated-short-the-seeker/",
+              "description": "Emmy winner coverage"
             },
             {
               "title": "Secret Level Academy Launch",
-              "url": "https://tvnewscheck.com/ai/article/secret-level-introduces-secret-level-academy-training-hollywood-for-the-ai-driven-production-era/"
+              "url": "https://tvnewscheck.com/ai/article/secret-level-introduces-secret-level-academy-training-hollywood-for-the-ai-driven-production-era/",
+              "description": "Hollywood AI training program"
             },
             {
               "title": "Ross Lovegrove AI Chair - Dezeen",
-              "url": "https://www.dezeen.com/2025/12/19/ross-lovegrove-google-deepmind-ai-chair-design/"
+              "url": "https://www.dezeen.com/2025/12/19/ross-lovegrove-google-deepmind-ai-chair-design/",
+              "description": "AI-designed furniture collaboration"
             },
             {
               "title": "OpenAI Promotional Post (Alex's Work)",
-              "url": "https://x.com/OpenAI/status/2003594025098785145"
+              "url": "https://x.com/OpenAI/status/2003594025098785145",
+              "description": "Jellyfish to flower transformation"
             }
           ]
         },
         {
-          "title": "Community Showcases",
+          "title": "🎨 Community Showcases",
           "links": [
             {
               "title": "Billy Boman - Storytytel Campfire",
-              "url": "https://www.linkedin.com/posts/billyboman_%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%99-activity-7407770304313450496-2w_p"
+              "url": "https://www.linkedin.com/posts/billyboman_%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%99-activity-7407770304313450496-2w_p",
+              "description": "Distributed team AI film project"
             },
             {
               "title": "Billy Boman - Hybrid VFX Production",
-              "url": "https://www.linkedin.com/posts/billyboman_check-out-our-latest-work-in-cooperation-activity-7414634831248048128-0GqF"
+              "url": "https://www.linkedin.com/posts/billyboman_check-out-our-latest-work-in-cooperation-activity-7414634831248048128-0GqF",
+              "description": "P&G commercial with Media Monks"
             },
             {
               "title": "Blvckl!ght - Holiday Claymation",
-              "url": "https://x.com/blvcklightai/status/2003299872435585378"
+              "url": "https://x.com/blvcklightai/status/2003299872435585378",
+              "description": "70s claymation Christmas video"
             },
             {
               "title": "Alex - Christmas Short",
-              "url": "https://www.linkedin.com/feed/update/urn:li:activity:7409256998900297729/"
+              "url": "https://www.linkedin.com/feed/update/urn:li:activity:7409256998900297729/",
+              "description": "Ambitious short with upscale technique"
             },
             {
               "title": "Sultan - Naruto Trailer",
-              "url": "https://www.instagram.com/reel/DSlQHFbjJYt/?igsh=endrcjFxZHRscTcy"
+              "url": "https://www.instagram.com/reel/DSlQHFbjJYt/?igsh=endrcjFxZHRscTcy",
+              "description": "Viral anime adaptation"
             },
             {
               "title": "Yonatan - King of The Streets",
-              "url": "https://www.instagram.com/reel/DSarJ10DIlA/"
+              "url": "https://www.instagram.com/reel/DSarJ10DIlA/",
+              "description": "Gaspar Noe vibes collaboration"
             },
             {
               "title": "Ari Kuschnir - 1 Billion Summit Entry",
-              "url": "https://youtu.be/6J8qpqGBSww?si=e81H334N2yFUFAQM"
+              "url": "https://youtu.be/6J8qpqGBSww?si=e81H334N2yFUFAQM",
+              "description": "Most ambitious short to date"
             },
             {
               "title": "David Clark - 2025 Swan Song",
-              "url": "https://youtu.be/s5qIfjjtjGc?si=ziugz68kk-dgGegq"
+              "url": "https://youtu.be/s5qIfjjtjGc?si=ziugz68kk-dgGegq",
+              "description": "Year-end creative piece"
             },
             {
               "title": "Junie - ByteDance New Year Film",
-              "url": "https://www.instagram.com/reel/DS4opEwD9US/?igsh=MWYzdzkwN2h4dXB0bg=="
+              "url": "https://www.instagram.com/reel/DS4opEwD9US/?igsh=MWYzdzkwN2h4dXB0bg==",
+              "description": "One Blink sci-fi love story"
             },
             {
               "title": "Rourke - AI 2025 Reflections",
-              "url": "https://www.instagram.com/p/DS5OJ45DMRN/"
+              "url": "https://www.instagram.com/p/DS5OJ45DMRN/",
+              "description": "Clever loop final thoughts"
             },
             {
               "title": "PJ Accetturo - Big Trailer",
-              "url": "https://x.com/PJaccetturo/status/2008559114704875888"
+              "url": "https://x.com/PJaccetturo/status/2008559114704875888",
+              "description": "Big Trailer PJ returns"
             },
             {
               "title": "Jovardi - Dubai Competition",
-              "url": "https://youtu.be/xiprjuEnAp8"
+              "url": "https://youtu.be/xiprjuEnAp8",
+              "description": "10-minute film in 3-4 weeks"
             },
             {
               "title": "Martin LeBlanc - ProCreate to AI",
-              "url": "https://x.com/martinleblanc/status/2007110933785796729"
+              "url": "https://x.com/martinleblanc/status/2007110933785796729",
+              "description": "Sketch to animation workflow"
             }
           ]
         },
         {
-          "title": "Tutorials & Workflows",
+          "title": "📚 Tutorials & Workflows",
           "links": [
             {
               "title": "AI VFX Breakdown",
-              "url": "https://www.linkedin.com/posts/nitchhiltgen_vfx-ia-hybridcreativity-activity-7406593282958561280-usv0"
-            },
-            {
-              "title": "ComfyUI Workflow",
-              "url": "https://www.linkedin.com/posts/leokadieff_comfyui-ai-generativeai-activity-7407839762147090432-ZILa"
+              "url": "https://www.linkedin.com/posts/nitchhiltgen_vfx-ia-hybridcreativity-activity-7406593282958561280-usv0",
+              "description": "Hybrid production techniques"
             },
             {
               "title": "Rory Flynn - Visual Forensics Workflow",
-              "url": "https://app.weavy.ai/flow/NJ3TenYhPduuBv6ohGHrN3?ref=rory72"
+              "url": "https://app.weavy.ai/flow/NJ3TenYhPduuBv6ohGHrN3?ref=rory72",
+              "description": "System prompts for frame analysis"
             },
             {
               "title": "Paul Trillo - Etherea BTS",
-              "url": "https://www.linkedin.com/posts/paul-trillo-544b268_etherea-was-inspired-by-the-pareidolia-phenomenon-activity-7413979466537811968-4fXk"
+              "url": "https://www.linkedin.com/posts/paul-trillo-544b268_etherea-was-inspired-by-the-pareidolia-phenomenon-activity-7413979466537811968-4fXk",
+              "description": "Behind the scenes workflow"
             },
             {
               "title": "Start/End Frame Mastery",
-              "url": "https://x.com/i/status/2007284457162846435"
+              "url": "https://x.com/i/status/2007284457162846435",
+              "description": "Advanced keyframe control"
+            },
+            {
+              "title": "Hunyuan 3D-2.1",
+              "url": "https://x.com/rohanpaul_ai/status/1959100811113382289?s=46",
+              "description": "Flat image to 3D models"
             }
           ]
         },
         {
-          "title": "Events & Opportunities",
+          "title": "💼 Events & Opportunities",
           "links": [
             {
               "title": "1 Billion Summit AI Film Award",
-              "url": "https://www.1billionsummit.com/ai-film-award"
+              "url": "https://www.1billionsummit.com/ai-film-award",
+              "description": "Finalists and voting"
             },
             {
               "title": "AI Film Award Voting",
-              "url": "http://aifilm.1billionsummit.com"
+              "url": "http://aifilm.1billionsummit.com",
+              "description": "Public voting platform"
             },
             {
               "title": "Wonder Film Festival Livestream",
-              "url": "https://app.wonderstudios.com/c/events/film-festival-winner-livestream"
+              "url": "https://app.wonderstudios.com/c/events/film-festival-winner-livestream",
+              "description": "Winner announcement and creator talks"
             },
             {
               "title": "Wonder Studios Job - Creative Lead",
-              "url": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4736732101"
-            },
-            {
-              "title": "Wonder Studios Job - Production Lead",
-              "url": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4739063101"
+              "url": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4736732101",
+              "description": "Animation project contract role"
             },
             {
               "title": "Silicon Valley Video Summit",
-              "url": "https://siliconvalley.video/sign-up/"
-            }
-          ]
-        },
-        {
-          "title": "New Member Profiles",
-          "links": [
-            {
-              "title": "Stephan Bugaj - LinkedIn",
-              "url": "https://www.linkedin.com/in/bugaj"
-            },
-            {
-              "title": "Sultan Unaspekov - LinkedIn",
-              "url": "https://www.linkedin.com/in/sultan-unaspekov-751506231/"
-            },
-            {
-              "title": "Sultan - Instagram",
-              "url": "https://www.instagram.com/un.sul?igsh=aTY5MXF1cmJlOTF0"
-            },
-            {
-              "title": "Andy McNamara - LinkedIn",
-              "url": "https://www.linkedin.com/in/andymac3d"
-            }
-          ]
-        },
-        {
-          "title": "Industry Resources",
-          "links": [
-            {
-              "title": "Wonder Studios 2026 Vision",
-              "url": "https://wonderstudios.substack.com/p/2026-year-of-the-flywheel"
-            },
-            {
-              "title": "Higgsfield Controversy Video",
-              "url": "https://www.youtube.com/watch?v=7Zj10P0Sa1k"
-            },
-            {
-              "title": "Open Source Music Model",
-              "url": "https://x.com/cocktailpeanut/status/2005673873757413760"
-            },
-            {
-              "title": "Kēkā - Reflection Guide",
-              "url": "https://www.demystified.ai/yearlyguide/p/2025-2026-ultimate-reflection-intention-guide-with-integration-chat-assistant"
+              "url": "https://siliconvalley.video/sign-up/",
+              "description": "January 27 SF event with promo code"
             },
             {
               "title": "AI Film Award Submissions Playlist",
-              "url": "https://www.youtube.com/playlist?list=PLPXkfEPXpJLrIZPYjkjyEryEw2rH-pbFc"
+              "url": "https://www.youtube.com/playlist?list=PLPXkfEPXpJLrIZPYjkjyEryEw2rH-pbFc",
+              "description": "Mark Wachholz's curated collection"
+            }
+          ]
+        },
+        {
+          "title": "👥 New Member Profiles",
+          "links": [
+            {
+              "title": "Stephan Bugaj - LinkedIn",
+              "url": "https://www.linkedin.com/in/bugaj",
+              "description": "Pixar veteran, Emmy winner, Genvid CCO"
+            },
+            {
+              "title": "Sultan Unaspekov - LinkedIn",
+              "url": "https://www.linkedin.com/in/sultan-unaspekov-751506231/",
+              "description": "Higgsfield Creative Partner"
+            },
+            {
+              "title": "Sultan - Instagram",
+              "url": "https://www.instagram.com/un.sul?igsh=aTY5MXF1cmJlOTF0",
+              "description": "Viral AI content creator"
+            },
+            {
+              "title": "Andy McNamara - LinkedIn",
+              "url": "https://www.linkedin.com/in/andymac3d",
+              "description": "Cinesite TechX lead"
+            },
+            {
+              "title": "Andy McNamara - Twitter",
+              "url": "https://x.com/andymac3d?lang=en",
+              "description": "VFX supervisor and technologist"
+            }
+          ]
+        },
+        {
+          "title": "🎓 Industry Resources",
+          "links": [
+            {
+              "title": "Higgsfield Controversy Video",
+              "url": "https://www.youtube.com/watch?v=7Zj10P0Sa1k",
+              "description": "Comprehensive rundown of issues"
+            },
+            {
+              "title": "Open Source Music Model",
+              "url": "https://x.com/cocktailpeanut/status/2005673873757413760",
+              "description": "Alternative to Suno"
+            },
+            {
+              "title": "Kēkā - Reflection Guide",
+              "url": "https://www.demystified.ai/yearlyguide/p/2025-2026-ultimate-reflection-intention-guide-with-integration-chat-assistant",
+              "description": "2025-2026 planning resource"
             },
             {
               "title": "Fairground 2025 Shoutout",
-              "url": "https://www.tubefilter.com/2025/12/16/after-paying-out-100000-to-creators-in-2025-fairground-is-ready-to-advance-ai-artistry-in-2026/"
+              "url": "https://www.tubefilter.com/2025/12/16/after-paying-out-100000-to-creators-in-2025-fairground-is-ready-to-advance-ai-artistry-in-2026/",
+              "description": "$100k creator payouts"
             },
             {
               "title": "Kat's Podcast with MetaPuppet",
-              "url": "https://open.spotify.com/show/3cy62AZcNELYEa0iZuzXWY"
+              "url": "https://open.spotify.com/show/3cy62AZcNELYEa0iZuzXWY",
+              "description": "AI filmmaking conversations"
             },
             {
               "title": "Open Source Importance Discussion",
-              "url": "https://youtu.be/zSvCnVi181A?si=xD3pYoErQyLT6Dkc"
+              "url": "https://youtu.be/zSvCnVi181A?si=xD3pYoErQyLT6Dkc",
+              "description": "Why open source matters"
+            },
+            {
+              "title": "Cinema Future Discussion",
+              "url": "https://apple.news/AL86gsZlVQjSND8Q7iU8cEA",
+              "description": "Changing viewing habits"
+            },
+            {
+              "title": "French YouTuber Everest Documentary",
+              "url": "https://www.france24.com/en/live-news/20240916-french-youtuber-hits-peak-with-everest-documentary",
+              "description": "Content platform translation"
+            },
+            {
+              "title": "AI Education Market Opportunity",
+              "url": "https://www.instagram.com/reel/DTLiq85EhfH/?igsh=eGNvODUxMXBxYTFl",
+              "description": "Growing education sector"
+            },
+            {
+              "title": "Interesting AI Reading",
+              "url": "https://x.com/shanaka86/status/2006980687069589841?s=46&t=ny3cTkRu7TUZVu8olxOKQQ",
+              "description": "Industry analysis"
+            },
+            {
+              "title": "DemonFlyingFox Threads Post",
+              "url": "https://www.threads.com/@jaiford99/post/DTHImrhDEhQ?xmt=AQF0IviTrQylg_wWlEQup5qJ_E2nVKV9vvHfMTP45n-JhiIfKXvpqsKl4Mp3xoVycZYGX5Ho&source_surface=35&slof=1",
+              "description": "Viral AI content"
             }
           ]
         }
