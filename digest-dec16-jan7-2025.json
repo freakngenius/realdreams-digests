@@ -3,20 +3,20 @@
   "title": "December 16, 2025 - January 7, 2026",
   "date": "January 7, 2026",
   "dateRange": "December 16, 2025 - January 7, 2026",
-  "summary": "WAN 2.6 launches with 15-second consistency and multi-shot control, Seedance 1.5 Pro and Flux 2 Max released, Kling adds voice control, Google announces Veo 3, Billy Boman delivers P&G commercial adaptation with Media Monks, David Clark shares comprehensive Veo 3 workflow, community explores new upscaling and consistency techniques, and RealDreams HQ welcomes Stephan Bugaj, Sultan, and Andy.",
+  "summary": "WAN 2.6 launches with 15-second consistency and multi-shot control, Seedance 1.5 Pro and Flux 2 Max released, Apple enters AI with image-to-Gaussian Splatting, Kling adds voice control and motion control features, Meta acquires Manus AI agent, Genvid releases The Seeker film and studio production tool, Billy Boman delivers P&G commercial adaptation with Media Monks, comprehensive upscaling and consistency techniques shared, 1 Billion Summit AI Film Award finalists announced, and RealDreams HQ welcomes Stephan Bugaj, Sultan, and Andy McNamara.",
   "stats": {
-    "tools": 6,
-    "tutorials": 3,
-    "insights": 11,
-    "links": 8
+    "tools": 14,
+    "tutorials": 15,
+    "insights": 12,
+    "links": 48
   },
   "keyHighlights": [
     "WAN 2.6 launches with 15-second consistency and multi-shot motion control",
-    "Seedance 1.5 Pro and Flux 2 Max released for advanced image generation",
-    "Kling adds voice control for natural language video prompting",
-    "Google officially announces Veo 3 with improved quality and control",
+    "Apple enters AI space with image-to-Gaussian Splatting technology",
+    "Meta acquires Manus AI agent platform for $2 billion",
+    "Genvid releases The Seeker GenAI film and studio production tool",
     "Billy Boman delivers P&G commercial adaptation using AI workflow with Media Monks",
-    "David Clark shares comprehensive Veo 3 workflow with upscaling strategies"
+    "1 Billion Summit AI Film Award finalists announced with public voting"
   ],
   "topPosters": [
     {
@@ -40,7 +40,7 @@
           "title": "🎬 WAN 2.6 Released with Multi-Shot Control",
           "link": "https://wan-video.com",
           "overview": "<strong>Ludovic</strong> announces WAN 2.6 with 15-second consistency, perfect audio sync, one-prompt multi-shot control, and character/voice replication.",
-          "description": "<strong>Ludovic</strong> announced WAN 2.6 on Wan-Video, highlighting major improvements: 15-second consistency with perfect audio sync, one-prompt multi-shot control, ability to replicate character ID and voice from 2-10 second clips with audio upload support, multi-character and cartoon support, and commercial-grade output quality. <strong>Ludovic</strong> demonstrated the capabilities with a first test showing multi-shot text-to-video generation in a single 15-second prompt, showcasing the system's ability to maintain consistency across multiple shots without manual editing.",
+          "description": "<strong>Ludovic</strong> announced WAN 2.6 on Wan-Video, highlighting major improvements: 15-second consistency with perfect audio sync, one-prompt multi-shot control, ability to replicate character ID and voice from 2-10 second clips with audio upload support, multi-character and cartoon support, and commercial-grade output quality. <strong>Ludovic</strong> demonstrated the capabilities with a first test showing multi-shot text-to-video generation in a single 15-second prompt, showcasing the system's ability to maintain consistency across multiple shots without manual editing. The single-gen dialogue prompt featured over-the-shoulder alternating perspectives with emotionally charged cinematic drama.",
           "posters": [
             "Ludovic"
           ]
@@ -48,8 +48,8 @@
         {
           "title": "🎥 Seedance 1.5 Pro Released",
           "link": "",
-          "overview": "<strong>Edmond Yang</strong> and <strong>Ludovic</strong> discuss Seedance 1.5 Pro release with improved dialogue and cinematic capabilities.",
-          "description": "<strong>Edmond Yang</strong> noted that Seedance 1.5 Pro was released, prompting immediate community testing. <strong>Ludovic</strong> shared a first test of text-to-video generation, demonstrating a single-generation cinematic scene with over-the-shoulder alternating perspectives, intimate medium close-up shots with shallow depth of field, featuring two people under a flickering streetlight in a rainy parking lot with tense spoken English dialogue. The test showcased the model's ability to handle complex prompts including specific camera angles, lighting conditions, environmental effects (rain, reflections), ambient sound design, and natural dialogue without subtitles, all in a single generation.",
+          "overview": "<strong>Edmond Yang</strong> and <strong>Ludovic</strong> test the new Seedance 1.5 Pro model with impressive text-to-video results.",
+          "description": "<strong>Edmond Yang</strong> asked about Seedance 1.5 Pro release, and <strong>Ludovic</strong> quickly tested it, sharing impressive single-gen text-to-video results. The test demonstrated the model's capability for cinematic dialogue scenes with proper audio sync and emotional depth.",
           "posters": [
             "Edmond Yang",
             "Ludovic"
@@ -58,386 +58,971 @@
         {
           "title": "🖼️ Flux 2 Max Released",
           "link": "https://bfl.ai/models/flux-2-max",
-          "overview": "<strong>Luka T</strong> announces Flux 2 Max release, noting no open weights available.",
-          "description": "<strong>Luka T</strong> announced that Flux 2 Max was released, noting that open weights are not yet available and likely never will be. The release coincided with multiple other major model launches on the same day, prompting <strong>Winston Mayo</strong> to humorously observe how everyone thought it was safe to release on the same day, resulting in five different models launching simultaneously.",
+          "overview": "<strong>Luka T</strong> announces Flux 2 Max release, noting no open weights expected.",
+          "description": "<strong>Luka T</strong> announced that Flux 2 Max is out, noting that open weights are not yet available and probably never will be. The release came on a day when multiple AI models dropped simultaneously, with <strong>Winston Mayo</strong> joking about everyone thinking it was safe to release on the same day.",
           "posters": [
             "Luka T",
             "Winston Mayo"
           ]
         },
         {
-          "title": "🎤 Kling Adds Voice Control in Version 2.6",
+          "title": "🎤 Kling Voice Control Feature",
           "link": "https://app.klingai.com/global/release-notes/7trhudk78j?type=dialog",
-          "overview": "<strong>Ludovic</strong> shares Kling 2.6 release notes highlighting new voice control feature.",
-          "description": "<strong>Ludovic</strong> announced that Kling added voice control capabilities in version 2.6, sharing the official release notes. This update allows users to control video generation using voice inputs, expanding the platform's accessibility and workflow options for creators.",
+          "overview": "<strong>Ludovic</strong> shares Kling 2.6 voice control release notes for natural language video prompting.",
+          "description": "<strong>Ludovic</strong> shared the release notes for Voice Control in Kling 2.6, enabling natural language video prompting capabilities. The community discussed the feature's potential for more intuitive video generation workflows.",
           "posters": [
             "Ludovic"
           ]
         },
         {
-          "title": "🎬 Google Announces Veo 3",
+          "title": "🍎 Apple Image-to-Gaussian Splatting",
+          "link": "https://www.linkedin.com/posts/martin-nebelong_from-2-second-faster-on-higher-end-gpus-activity-7407403800929390592-Rc8U",
+          "overview": "<strong>Rory Flynn</strong> and <strong>Martin Nebelong</strong> discuss Apple's entry into AI with image-to-Gaussian Splatting technology.",
+          "description": "<strong>Rory Flynn</strong> shared news about Apple developing AI capabilities, noting he didn't even know Apple was in the space. <strong>Martin Nebelong</strong> demonstrated the technology, generating Gaussian Splat scenes from single images in just 2 seconds on a 4090 GPU. <strong>Justin Hackney</strong> called it \"actually huge\" that Apple has entered the chat. <strong>Martin Nebelong</strong> showed integration with Octane Render 2026, creating impressive results. <strong>ChristianF.</strong> mentioned the Marble WorldLabs integration into Octane Render 2026 for similar capabilities.",
+          "posters": [
+            "Rory Flynn",
+            "Martin Nebelong",
+            "Justin Hackney",
+            "ChristianF."
+          ]
+        },
+        {
+          "title": "🤖 Meta Acquires Manus AI Agent",
+          "link": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+          "overview": "<strong>Kēkā</strong> and <strong>Stephan Bugaj</strong> discuss Meta's $2 billion acquisition of Manus AI agent platform.",
+          "description": "<strong>Kēkā</strong> shared the news that Meta acquired Manus, expressing concern as Manus had been a daily agent tool in his work for almost a year. <strong>Stephan Bugaj</strong> noted that when Meta bought Play.ai, they stopped supporting customers entirely. <strong>Kēkā</strong> provided extensive analysis, noting Manus is still strides ahead of Google Studio as a 1-stop research-to-deployable widget builder. The acquisition was valued at $2 billion for approximately 100 people at a 3-year-old company. <strong>Rourke</strong> mentioned Meta also recently acquired Limitless, an AI wearable device. <strong>Matthieu</strong> suggested Antigravity as an alternative, though <strong>Kēkā</strong> noted Manus is better for non-dev users and multi-tool workflows.",
+          "posters": [
+            "Kēkā",
+            "Stephan Bugaj",
+            "Rourke",
+            "Matthieu",
+            "Aaron Bhugobaun"
+          ]
+        },
+        {
+          "title": "🎬 Genvid Releases The Seeker Film & Studio Tool",
+          "link": "https://gamesbeat.com/genvid-releases-sci-fi-genai-film-the-seeker/",
+          "overview": "<strong>Stephan Bugaj</strong> announces the release of The Seeker GenAI film and Genvid studio production platform.",
+          "description": "<strong>Stephan Bugaj</strong>, Emmy Award winning CCO of Genvid Entertainment and Pixar veteran, announced the release of \"The Seeker,\" a 22-minute GenAI sci-fi film, along with the Genvid GenAI Studio Workflow Tool he designed. The tool supports many image and video models and allows users to bring their own API keys from Kling, Google, Minimax, LTX, Higgsfield, etc. <strong>Stephan Bugaj</strong> offered Google Meet walkthroughs for productions interested in the tool. Animation Magazine featured the release, highlighting his Innovation Emmy win and Pixar background.",
+          "posters": [
+            "Stephan Bugaj"
+          ]
+        },
+        {
+          "title": "🏆 1 Billion Summit AI Film Award Finalists",
+          "link": "https://www.1billionsummit.com/ai-film-award",
+          "overview": "<strong>Winston Mayo</strong>, <strong>Billy Boman</strong>, and <strong>Mark Wachholz</strong> discuss the AI Film Award finalists and voting process.",
+          "description": "<strong>Winston Mayo</strong> announced that the list and voting for the million dollar AI film is open. <strong>Mark Wachholz</strong> was congratulated for being shortlisted. The community discussed the estimated 20,000+ submissions based on the mid-November press release. <strong>Billy Boman</strong> shared the finalists link, noting he hadn't heard of any of the creators and found the work lacking artistic flair. <strong>Mark Wachholz</strong> created a YouTube playlist attempting to collect all submissions, finding only 39 of the estimated 3,500-30,000+ entries. <strong>PJ Accetturo</strong> noted only about 2 good films in the top 10.",
+          "posters": [
+            "Winston Mayo",
+            "Billy Boman",
+            "Mark Wachholz",
+            "PJ Accetturo",
+            "Chris First"
+          ]
+        },
+        {
+          "title": "🎮 Kling Motion Control Feature",
+          "link": "https://x.com/Kling_ai/status/2001306445262823431",
+          "overview": "<strong>Sultan</strong>, <strong>Ryan Phillips</strong>, and <strong>Tobi</strong> discuss Kling's new motion control capabilities.",
+          "description": "<strong>Sultan</strong> asked if anyone had played with the new Kling motion control feature. <strong>Edmond Yang</strong> and <strong>Ryan Phillips</strong> confirmed they had tested it, with <strong>Ryan Phillips</strong> calling it \"very good.\" <strong>Tobi</strong> posted tests on LinkedIn, noting it's great for semi-realistic content but often fails at more stylized characters like 3D. For hyper-realistic characters, there's still some uncanniness, though the level of micro-expressions is amazing.",
+          "posters": [
+            "Sultan",
+            "Ryan Phillips",
+            "Edmond Yang",
+            "Tobi"
+          ]
+        },
+        {
+          "title": "📺 Secret Level Academy Launches",
+          "link": "https://tvnewscheck.com/ai/article/secret-level-introduces-secret-level-academy-training-hollywood-for-the-ai-driven-production-era/",
+          "overview": "<strong>Minh</strong> shares news of Secret Level Academy training Hollywood for AI-driven production.",
+          "description": "<strong>Minh</strong> shared the announcement of Secret Level Academy, a new initiative training Hollywood for the AI-driven production era. The program aims to prepare industry professionals for the integration of AI tools into traditional production workflows.",
+          "posters": [
+            "Minh"
+          ]
+        },
+        {
+          "title": "🎨 Reve V11 and V11 Fast Released",
+          "link": "https://www.linkedin.com/posts/reveimage_reve-v11-and-reve-v11-fast-are-here-we-activity-7407493843501318145-dT1o",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares Reve V11 model release announcement.",
+          "description": "<strong>Jordan Daniel Chesney</strong> shared the release of Reve V11 and Reve V11 Fast models. He later mentioned being excited to receive Reve merch, noting he begged them for it and will \"wear it too much.\" <strong>Billy Boman</strong> expressed interest in getting merch as well.",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🔺 Trellis 2 for 3D Generation",
+          "link": "https://fal.ai/models/fal-ai/trellis-2",
+          "overview": "<strong>Edmond Yang</strong> recommends Trellis 2 on fal.ai for 3D model generation.",
+          "description": "<strong>Edmond Yang</strong> shared that he's been using Trellis 2 on fal.ai for 3D generation, calling it \"pretty good.\" <strong>Martin LeBlanc</strong> asked about the best workflow for image-to-3D model generation, and <strong>BasvdE</strong> recommended Vizcom.com for products and tripo3d.ai for characters. <strong>Martin LeBlanc</strong> tested Tripo3D and got good results even for complex models, noting the ability to move models to any angle and use NBP for final renders gives great control and consistency.",
+          "posters": [
+            "Edmond Yang",
+            "Martin LeBlanc",
+            "BasvdE"
+          ]
+        },
+        {
+          "title": "🎵 Open Source Music Model Released",
+          "link": "https://x.com/cocktailpeanut/status/2005673873757413760",
+          "overview": "<strong>Rory Flynn</strong> shares news of an open source music generation model.",
+          "description": "<strong>Rory Flynn</strong> shared news of an open source music generation model. <strong>Winston Mayo</strong> asked if it's as good as Suno, sparking discussion about the state of AI music generation tools.",
+          "posters": [
+            "Rory Flynn",
+            "Winston Mayo"
+          ]
+        },
+        {
+          "title": "🖼️ Qwen-Image-Edit-2511 with ComfyUI Support",
+          "link": "https://x.com/i/status/2003496348461728213",
+          "overview": "<strong>Ramon Guthrie</strong> announces Qwen-Image-Edit-2511 release with Day-1 ComfyUI support.",
+          "description": "<strong>Ramon Guthrie</strong> announced Qwen-Image-Edit-2511 with Day-1 ComfyUI support and lightning Loras for lower hardware, calling it \"how you release a model!\" The release demonstrated best practices for model deployment with immediate community tool integration.",
+          "posters": [
+            "Ramon Guthrie"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📚 Tutorials & Techniques",
+      "items": [
+        {
+          "title": "🎬 P&G Commercial Adaptation Workflow",
+          "link": "https://www.linkedin.com/posts/billyboman_check-out-our-latest-work-in-cooperation-activity-7414634831248048128-0GqF",
+          "overview": "<strong>Billy Boman</strong> shares the workflow for adapting a P&G commercial using AI with Media Monks.",
+          "tutorial": {
+            "tool": "WAN + Compositing",
+            "steps": [
+              "Take existing commercial footage as base",
+              "Run parts through WAN for character replacement",
+              "Fully re-prompt other scenes for new celebrity adaptation",
+              "Handle height differences by creative problem solving (short female to tall male)",
+              "Isolate original TVC sound and music from dialogue",
+              "Composite AI-generated elements with live action plates",
+              "Generate each element as separate AI video for control"
+            ],
+            "tip": "When replacing characters of different heights in 2-shots, WAN struggles with the size difference - requires creative workarounds."
+          },
+          "posters": [
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🔍 Upscale/Digital Zoom Trick",
+          "link": "https://www.linkedin.com/feed/update/urn:li:activity:7409256998900297729/",
+          "overview": "<strong>Alex</strong> shares the upscale/digital zoom technique for smoothing frame-to-frame movement.",
+          "tutorial": {
+            "tool": "Upscaling + Digital Zoom",
+            "steps": [
+              "Keep a 2× upscaled version of your video",
+              "When frame-to-frame movement feels too harsh",
+              "Apply a subtle digital zoom in or out to smooth transitions"
+            ],
+            "tip": "This technique helps mask AI video artifacts and creates smoother motion between frames."
+          },
+          "posters": [
+            "Alex"
+          ]
+        },
+        {
+          "title": "📐 Vanishing Point Reference Technique",
           "link": "",
-          "overview": "Community discusses Google's Veo 3 announcement and its implications for the industry.",
-          "description": "The community engaged in extensive discussions about Google's announcement of Veo 3, their next-generation video model. <strong>David Clark</strong> and others analyzed the technical capabilities, workflow implications, and potential impact on professional production pipelines. The announcement generated significant interest regarding how Veo 3's improvements would compare to existing tools like Veo 2 and competing platforms.",
+          "overview": "<strong>Rory Flynn</strong> demonstrates extracting vanishing points and convergence lines for consistent perspective.",
+          "tutorial": {
+            "tool": "Pluribus + Nano",
+            "steps": [
+              "Extract vanishing point and convergence lines from a frame using Pluribus",
+              "Apply the extracted lines to a new image as a reference",
+              "Use with Nano for perspective-consistent generation"
+            ],
+            "tip": "Useful for maintaining consistent perspective across multiple generated shots."
+          },
+          "posters": [
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🎨 NanoBanana Multi-Element Consistency",
+          "link": "",
+          "overview": "<strong>Yonatan</strong> shares techniques for constructing shots with consistent multiple elements in NanoBanana.",
+          "tutorial": {
+            "tool": "NanoBanana Pro",
+            "steps": [
+              "For cleaner results, add each element separately as a source",
+              "Put the mood board as a grid reference",
+              "Add other elements as singular items",
+              "A singular item can be multiple images of that item from different angles in one image"
+            ],
+            "tip": "Separate reference images get cleaner results than combining everything into one image."
+          },
+          "posters": [
+            "Yonatan",
+            "Jovardi"
+          ]
+        },
+        {
+          "title": "🎥 Extend Clips with Freepik/Veo 2",
+          "link": "",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares technique for extending clips using Freepik's Veo 2 integration.",
+          "tutorial": {
+            "tool": "Freepik + Veo 2",
+            "steps": [
+              "Generate first clip in Freepik with any model (e.g., Kling)",
+              "Extend the clip in Freepik, which uses Veo 2",
+              "No noticeable jumps or quality changes between models"
+            ],
+            "tip": "Kling to Veo 2 transitions work seamlessly for extending clips."
+          },
+          "posters": [
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🎮 Higgsfield Cinema Studio Workflow",
+          "link": "",
+          "overview": "<strong>Rourke</strong> explores Higgsfield Cinema Studio capabilities for automated multi-angle generation.",
+          "tutorial": {
+            "tool": "Higgsfield Cinema Studio",
+            "steps": [
+              "Use the platform for automated angle generation",
+              "Appears to be Nano Pro built on top of a prompt enhancer",
+              "Great for having fun with automated camera work"
+            ],
+            "tip": "The platform provides multi-camera angle wrapper similar to what Nano Banana Pro offers."
+          },
+          "posters": [
+            "Rourke",
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🎨 ProCreate to AI Animation Workflow",
+          "link": "https://x.com/martinleblanc/status/2007110933785796729",
+          "overview": "<strong>Martin LeBlanc</strong> demonstrates bringing ProCreate sketches to life with NBP and Kling 2.6.",
+          "tutorial": {
+            "tool": "ProCreate + NBP + Kling 2.6",
+            "steps": [
+              "Sketch character in ProCreate",
+              "Process through Nano Banana Pro",
+              "Animate with Kling 2.6 for final video"
+            ],
+            "tip": "Great workflow for bringing traditional digital art to animated life."
+          },
+          "posters": [
+            "Martin LeBlanc"
+          ]
+        },
+        {
+          "title": "🔺 Image to 3D Model Workflow",
+          "link": "http://tripo3d.ai",
+          "overview": "<strong>Martin LeBlanc</strong> and <strong>BasvdE</strong> share workflows for converting images to 3D models.",
+          "tutorial": {
+            "tool": "Tripo3D / Vizcom / Hunyuan 3D",
+            "steps": [
+              "Use Vizcom.com for product images",
+              "Use tripo3d.ai for character models",
+              "Hunyuan 3D-2.1 turns flat images into studio-quality 3D",
+              "Ensure limbs are separated if planning to rig",
+              "T-pose works best for rigging purposes",
+              "Move 3D model to any angle, then use NBP for final render"
+            ],
+            "tip": "Tripo3D gives good results even for complex models, and the angle control plus NBP rendering provides great consistency."
+          },
+          "posters": [
+            "Martin LeBlanc",
+            "BasvdE",
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🎬 Soul + Magnific Skin Enhance Workflow",
+          "link": "",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares technique for RAW UGC-looking content using Soul and Magnific.",
+          "tutorial": {
+            "tool": "Higgsfield Soul + Magnific",
+            "steps": [
+              "Generate with Higgsfield Soul model for realism",
+              "Apply Magnific skin enhance",
+              "Result: Super fast method for RAW UGC iPhone-look content"
+            ],
+            "tip": "Soul is proprietary (not a fine-tuning of someone else's model) and excels at realistic iPhone-style footage."
+          },
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Stephan Bugaj"
+          ]
+        },
+        {
+          "title": "🔍 Visual Forensics Workflow",
+          "link": "https://app.weavy.ai/flow/NJ3TenYhPduuBv6ohGHrN3?ref=rory72",
+          "overview": "<strong>Rory Flynn</strong> shares a suite of system prompts for visual forensics analysis.",
+          "tutorial": {
+            "tool": "Weavy AI",
+            "steps": [
+              "Drop in a still frame",
+              "System shoots out multiple analysis outputs",
+              "Extract various visual elements and information"
+            ],
+            "tip": "Useful for token extraction and detailed frame analysis."
+          },
+          "posters": [
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🎥 AI VFX Breakdown Techniques",
+          "link": "https://www.linkedin.com/posts/nitchhiltgen_vfx-ia-hybridcreativity-activity-7406593282958561280-usv0",
+          "overview": "<strong>Billy Boman</strong> shares a cool AI VFX breakdown demonstrating hybrid production techniques.",
+          "tutorial": {
+            "tool": "Various AI + VFX",
+            "steps": [
+              "Generate each element as separate AI video",
+              "Composite AI elements with live action plates",
+              "Use AI for specific elements like dragons",
+              "Use WAN for uniform changes and lighting matching"
+            ],
+            "tip": "Separate AI video generation for each element provides maximum control in hybrid productions."
+          },
+          "posters": [
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🎮 SpriteSwap Studio - Photo to Game Boy ROM",
+          "link": "https://github.com/lovisdotio/SpriteSwap-Studio",
+          "overview": "<strong>Lovis Odin</strong> open-sources a tool that turns any photo into a playable Game Boy ROM using AI.",
+          "tutorial": {
+            "tool": "SpriteSwap Studio",
+            "steps": [
+              "Input any photo",
+              "AI converts to Game Boy sprite style",
+              "Outputs playable Game Boy ROM file"
+            ],
+            "tip": "Fun creative tool for retro gaming aesthetics."
+          },
+          "posters": [
+            "Lovis Odin"
+          ]
+        },
+        {
+          "title": "🎬 Feature Film Production Timeline Discussion",
+          "link": "",
+          "overview": "<strong>Stephan Bugaj</strong>, <strong>Blvckl!ght</strong>, and <strong>Jovardi</strong> discuss realistic timelines for AI feature films.",
+          "tutorial": {
+            "tool": "General AI Filmmaking",
+            "steps": [
+              "10 minutes in 4 weeks is achievable solo",
+              "100 minutes in 4 months is doable with experience",
+              "Include sound design, original score, and grading",
+              "Script quality is essential - don't bother without great script",
+              "For client work, multiply everything by 10x"
+            ],
+            "tip": "Stephan Bugaj did The Seeker (~20min) in 6 weeks with a sound editor, estimates 8-9 weeks solo. Could do equal quality in a month now with learnings."
+          },
+          "posters": [
+            "Stephan Bugaj",
+            "Blvckl!ght",
+            "Jovardi",
+            "Chad Nelson"
+          ]
+        },
+        {
+          "title": "🎨 Octane Render 2026 + Gaussian Splat Integration",
+          "link": "",
+          "overview": "<strong>Martin Nebelong</strong> and <strong>ChristianF.</strong> discuss Octane Render 2026 Gaussian Splat capabilities.",
+          "tutorial": {
+            "tool": "Octane Render 2026 + WorldLabs",
+            "steps": [
+              "Use Apple's image-to-Gaussian Splatting or WorldLabs",
+              "Import Gaussian Splat output into Octane Render 2026",
+              "Work directly in C4D or Octane Render",
+              "Marble WorldLabs integration available with Black Friday coupon"
+            ],
+            "tip": "Generates scenes from single images in 2 seconds on high-end GPUs."
+          },
+          "posters": [
+            "Martin Nebelong",
+            "ChristianF."
+          ]
+        },
+        {
+          "title": "🎬 Start and End Frame Mastery",
+          "link": "https://x.com/i/status/2007284457162846435",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares impressive start and end frame control techniques.",
+          "tutorial": {
+            "tool": "Various Video Models",
+            "steps": [
+              "Master start frame composition",
+              "Plan end frame for seamless transitions",
+              "Use keyframes strategically for control"
+            ],
+            "tip": "Proper start/end frame planning is crucial for professional results."
+          },
+          "posters": [
+            "Jordan Daniel Chesney"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎨 Community Showcases",
+      "items": [
+        {
+          "title": "🎬 Billy Boman - Storytytel Campfire AI Film",
+          "link": "https://www.linkedin.com/posts/billyboman_%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%99-activity-7407770304313450496-2w_p",
+          "overview": "<strong>Billy Boman</strong> shares Storytytel Campfire AI Film project with distributed team.",
+          "description": "<strong>Billy Boman</strong> shared the Storytytel Campfire AI Film, describing it as a labor of love and one of the first projects with a wider distributed team as they scale to a boutique studio offering. <strong>Jordan Daniel Chesney</strong> called it \"unbelievably cool\" and praised how <strong>Billy Boman</strong> \"wrestled the clients wishes to the ground and gently choked them out into a gentle slumber of high-quality storytelling.\"",
+          "posters": [
+            "Billy Boman",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🎄 Blvckl!ght - 70s Claymation Holiday Video",
+          "link": "https://x.com/blvcklightai/status/2003299872435585378",
+          "overview": "<strong>Blvckl!ght</strong> creates a 70s claymation-style Christmas animation.",
+          "description": "<strong>Blvckl!ght</strong> shared a 70s claymation holiday video, with <strong>Chris First</strong> praising the \"immaculate vibes\" that remind him of childhood Christmas animations, calling it \"so normal, like it's a Christmas classic.\" <strong>Blvckl!ght</strong> also received a shoutout from Fairground for his work with them throughout 2025.",
+          "posters": [
+            "Blvckl!ght",
+            "Chris First"
+          ]
+        },
+        {
+          "title": "🎬 Alex - Christmas Short Film",
+          "link": "https://www.linkedin.com/feed/update/urn:li:activity:7409256998900297729/",
+          "overview": "<strong>Alex</strong> shares an ambitious Christmas short film with warm daylight aesthetics.",
+          "description": "<strong>Alex</strong> shared his most ambitious short to date, with <strong>Jordan Daniel Chesney</strong> praising the aesthetics and feeling of warmth in the daylight. <strong>Alex</strong> acknowledged imperfections but noted \"at one point, you gotta post.\" He also shared that one of his videos (jellyfish turning into a flower) made it into an OpenAI promotional post.",
+          "posters": [
+            "Alex",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🥷 Sultan - Naruto Trailer",
+          "link": "https://www.instagram.com/reel/DSlQHFbjJYt/?igsh=endrcjFxZHRscTcy",
+          "overview": "<strong>Sultan</strong> shares his viral Naruto trailer that faced copyright issues.",
+          "description": "<strong>Sultan</strong> shared his Naruto trailer, noting he had to reupload it due to a copyright scam with fake right owners. Higgsfield is investigating who filed the strike. <strong>Sultan</strong>'s work has gone viral with hundreds of millions of views, including a kangaroo UFC clip.",
+          "posters": [
+            "Sultan"
+          ]
+        },
+        {
+          "title": "🎬 Yonatan - King of The Streets Collab",
+          "link": "https://www.instagram.com/reel/DSarJ10DIlA/",
+          "overview": "<strong>Yonatan</strong> shares collaboration video with King of The Streets.",
+          "description": "<strong>Yonatan</strong> shared their latest video in collaboration with King of The Streets. <strong>Jordan Daniel Chesney</strong> praised it as \"next level\" with \"Gaspar Noe vibes.\"",
+          "posters": [
+            "Yonatan",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🎬 Ari Kuschnir - 1 Billion Summit Entry",
+          "link": "https://youtu.be/6J8qpqGBSww?si=e81H334N2yFUFAQM",
+          "overview": "<strong>Ari Kuschnir</strong> shares his most ambitious short for the 1 Billion Summit.",
+          "description": "<strong>Ari Kuschnir</strong> shared his most ambitious short to date, a story his friend David Sauvage had last summer that they decided to make for the 1 Billion Summit. He noted learning a lot and pushing as much as he could.",
+          "posters": [
+            "Ari Kuschnir"
+          ]
+        },
+        {
+          "title": "🎬 David Clark - 2025 Swan Song",
+          "link": "https://youtu.be/s5qIfjjtjGc?si=ziugz68kk-dgGegq",
+          "overview": "<strong>David Clark</strong> shares his 2025 swan song video.",
+          "description": "<strong>David Clark</strong> shared his 2025 swan song video as a year-end creative piece. He was also invited by Google for a Sundance panel but will be knee deep in production.",
           "posters": [
             "David Clark"
           ]
         },
         {
-          "title": "🤖 Meta Announces New AI Model",
-          "link": "https://x.com/AIatMeta/status/2000980784425931067?s=20",
-          "overview": "<strong>Zack Abrams</strong> shares Meta's announcement of a new AI model.",
-          "description": "<strong>Zack Abrams</strong> shared Meta's announcement of a new AI model, adding to the wave of releases during this period. The timing of the announcement coincided with multiple other major platform updates, creating what the community jokingly referred to as a coordinated release day across the industry.",
+          "title": "🎬 Junie - ByteDance New Year Film",
+          "link": "https://www.instagram.com/reel/DS4opEwD9US/?igsh=MWYzdzkwN2h4dXB0bg==",
+          "overview": "<strong>Junie</strong> creates New Year short film \"One Blink\" for ByteDance.",
+          "description": "<strong>Junie</strong> shared that ByteDance invited her to create the New Year short film \"One Blink,\" a light sci-fi love story. She wished everyone a happy New Year with hopes for genuine love in the year ahead.",
           "posters": [
-            "Zack Abrams"
+            "Junie"
           ]
         },
         {
-          "title": "🏢 GCSC Future Studio Event Announced for London",
-          "link": "",
-          "overview": "<strong>Aaron Bhugobaun</strong> announces GCSC Future Studio event at Google Kings Cross office in February with open invitation.",
-          "description": "<strong>Aaron Bhugobaun</strong> announced that another GCSC Future Studio event will be held in London at the Google Kings Cross office in February, extending an open invitation to all RealDreams HQ members. He indicated they are planning the session and encouraged anyone interested in presenting or participating to reach out. The announcement was met with enthusiasm from <strong>Ludovic</strong>, <strong>Marco</strong>, and <strong>Justin Hackney</strong>, who all expressed interest in attending.",
+          "title": "🎬 Rourke - AI 2025 Reflections",
+          "link": "https://www.instagram.com/p/DS5OJ45DMRN/",
+          "overview": "<strong>Rourke</strong> shares \"AI fucked up everything in 2025\" final thoughts video.",
+          "description": "<strong>Rourke</strong> shared his final thoughts for 2025 with a clever loop video. <strong>Yonatan</strong> praised the clever loop technique.",
           "posters": [
-            "Aaron Bhugobaun",
-            "Ludovic",
-            "Marco",
-            "Justin Hackney"
+            "Rourke",
+            "Yonatan"
           ]
         },
         {
-          "title": "⚠️ Nano Banana Pro Data Leak Incident",
-          "link": "https://www.gosh.org/",
-          "overview": "<strong>Albert Bozesan</strong> and <strong>Billy Boman</strong> report cross-contamination in Nano Banana Pro generations, suggesting potential data leak.",
-          "description": "<strong>Albert Bozesan</strong> reported receiving completely unexpected and inappropriate results from Nano Banana Pro via Freepik, including generations that appeared to be from other users' projects (skin products, women showering) while working on a 2D animation. <strong>Billy Boman</strong> confirmed experiencing similar issues on the API with lots of weirdness. Albert identified this as potentially an actual data leak rather than just generation errors. <strong>Martin Haerlin</strong> noted experiencing the same issues in the morning but reported it improved later. <strong>Jovardi</strong> reported no issues on their end, suggesting the problem was affecting specific users or regions.",
+          "title": "🎬 PJ Accetturo - Big Trailer",
+          "link": "https://x.com/PJaccetturo/status/2008559114704875888",
+          "overview": "<strong>PJ Accetturo</strong> announces \"Big Trailer PJ is back\" with new trailer release.",
+          "description": "<strong>PJ Accetturo</strong> announced his return with a new trailer, with <strong>Matthiei</strong> suggesting Hunter Schaffer for even more engagement.",
           "posters": [
-            "Albert Bozesan",
-            "Billy Boman",
-            "Martin Haerlin",
+            "PJ Accetturo",
+            "Matthiei"
+          ]
+        },
+        {
+          "title": "🎨 Matthieu - Ross Lovegrove AI Chair Design",
+          "link": "https://www.dezeen.com/2025/12/19/ross-lovegrove-google-deepmind-ai-chair-design/",
+          "overview": "<strong>Matthieu</strong> shares collaboration with Ross Lovegrove on AI-designed chair featured in Dezeen.",
+          "description": "<strong>Matthieu</strong> shared that their collaboration with Ross Lovegrove on an AI-design chair was recently featured in Dezeen. He also mentioned his video for CES aired.",
+          "posters": [
+            "Matthieu"
+          ]
+        },
+        {
+          "title": "🎬 Jovardi - Dubai Competition Entry",
+          "link": "https://youtu.be/xiprjuEnAp8",
+          "overview": "<strong>Jovardi</strong> shares 10-minute film created in 3-4 weeks for Dubai competition.",
+          "description": "<strong>Jovardi</strong> shared his Dubai competition entry, noting it was done in about 3-4 weeks including sound design, original score, and grading. For client work, he would 10x everything.",
+          "posters": [
             "Jovardi"
           ]
         }
       ]
     },
     {
-      "title": "🆕 New Releases & Tool Updates",
+      "title": "👋 New Members",
       "items": [
         {
-          "title": "🔧 Claude Agentic Tasks Mode Testing",
-          "link": "https://www.testingcatalog.com/anthropic-testing-new-agentic-tasks-mode-for-claude/",
-          "overview": "<strong>Matthiei</strong> shares news about Anthropic testing new agentic tasks mode for Claude.",
-          "description": "<strong>Matthiei</strong> shared an article about Anthropic testing a new agentic tasks mode for Claude, which would allow the AI to perform more complex, multi-step tasks autonomously. This development represents a significant advancement in AI agent capabilities and workflow automation.",
+          "title": "🎬 Stephan Bugaj - Pixar Veteran & Genvid CCO",
+          "link": "https://www.linkedin.com/in/bugaj",
+          "overview": "<strong>Justin Hackney</strong> welcomes Emmy Award winning CCO of Genvid Entertainment, formerly of Pixar, Telltale, DJ2 Entertainment, Hanson Robotics, and Bell Labs.",
+          "description": "<strong>Justin Hackney</strong> introduced <strong>Stephan Bugaj</strong>, describing his ridiculous background across tech, films, animation, games, and now diving deep into AI. Stephan's 22-minute GenAI film \"The Seeker\" went public along with the Genvid GenAI Studio Workflow Tool he designed. The community warmly welcomed him with messages from <strong>Ludovic</strong>, <strong>Jordan Daniel Chesney</strong>, <strong>Aaron Bhugobaun</strong>, <strong>Henry</strong>, and many others.",
           "posters": [
-            "Matthiei"
+            "Justin Hackney",
+            "Stephan Bugaj"
           ]
         },
         {
-          "title": "🎨 Recraft.ai Sponsorship Warning",
-          "link": "",
-          "overview": "<strong>Robert O'Shaugnessy</strong> warns community about Recraft.ai ghosting on payment after sponsored video went live.",
-          "description": "<strong>Robert O'Shaugnessy</strong> issued a word of caution to the community about Recraft.ai, reporting that they ghosted him on communications and payment after a sponsored video went live. He noted this rarely happens but found it most annoying. <strong>Billy Boman</strong> thanked him for sharing the experience and calling them out, while <strong>Edmond Yang</strong> expressed frustration with an angry emoji. This warning serves as an important reminder for creators to be cautious when entering sponsorship agreements.",
+          "title": "🎬 Sultan Unaspekov - Higgsfield Creative Partner",
+          "link": "https://www.linkedin.com/in/sultan-unaspekov-751506231/",
+          "overview": "<strong>Aaron Bhugobaun</strong> welcomes <strong>Sultan</strong>, viral AI creator with hundreds of millions of views.",
+          "description": "<strong>Aaron Bhugobaun</strong> introduced <strong>Sultan Unaspekov</strong>, noting his journey from running around film sets as a kid to producing commercial work across Europe. After experimenting with Kling, Minimax, and ComfyUI, <strong>Sultan</strong> joined Higgsfield as a Creative Partner, creating boundary-pushing demos. His work includes a viral MrBeast spec and a kangaroo UFC clip with hundreds of millions of views.",
           "posters": [
-            "Robert O'Shaugnessy",
-            "Billy Boman",
-            "Edmond Yang"
+            "Aaron Bhugobaun",
+            "Sultan"
+          ]
+        },
+        {
+          "title": "🎬 Andy McNamara - Cinesite TechX Lead",
+          "link": "https://www.linkedin.com/in/andymac3d",
+          "overview": "<strong>Aaron Bhugobaun</strong> welcomes <strong>Andy</strong>, award-winning CG & VFX Supervisor with 35+ years experience.",
+          "description": "<strong>Aaron Bhugobaun</strong> introduced <strong>Andy McNamara</strong>, an award-winning CG & VFX Supervisor, Creative Director, and Technologist with 35+ years at the sharp end of creative media. He's led CGI and VFX teams at BBC, Publicis, Prime Focus, and Cinesite. Now driving TechX, Cinesite's generative AI initiative, exploring how AI will shape the next era of filmmaking across VFX, feature animation, and immersive storytelling.",
+          "posters": [
+            "Aaron Bhugobaun",
+            "Andy"
           ]
         }
       ]
     },
     {
-      "title": "💡 Advanced Tutorials, Tips & Workflows",
+      "title": "💼 Professional Opportunities",
       "items": [
         {
-          "title": "🎬 David Clark: Comprehensive Veo 3 Workflow",
+          "title": "📺 TV Show Crowd Shots - Runway/Nuke Required",
           "link": "",
-          "overview": "<strong>David Clark</strong> shares detailed workflow for Veo 3 production pipeline with consistency techniques.",
-          "tutorial": {
-            "workflow": "David Clark detailed his comprehensive Veo 3 workflow for maintaining consistency across multi-shot productions. His approach emphasizes careful prompt engineering, character consistency techniques, and strategic use of reference images to maintain visual coherence throughout longer sequences.",
-            "key_steps": [
-              "Start with detailed character descriptions and save them as reference prompts",
-              "Use consistent lighting and camera angle descriptions across all shots",
-              "Generate reference frames first before committing to full sequences",
-              "Maintain a prompt library for recurring elements (locations, characters, props)",
-              "Use Veo 3's improved consistency features to lock in character appearances",
-              "Test multiple variations before selecting the best take for each shot"
-            ],
-            "best_practices": "David emphasized the importance of building a comprehensive prompt library early in the project, as this saves significant time when generating multiple shots. He also recommended generating test frames at lower quality first to verify consistency before committing to full-resolution renders.",
-            "results": "The workflow enables creators to maintain character and environmental consistency across longer narrative sequences, significantly reducing the need for manual corrections and re-generations."
-          },
-          "posters": [
-            "David Clark"
-          ]
-        },
-        {
-          "title": "🎥 Billy Boman: P&G Commercial Adaptation Workflow",
-          "link": "",
-          "overview": "<strong>Billy Boman</strong> shares detailed workflow for adapting P&G commercial using WAN for Media Monks, completed over a weekend.",
-          "tutorial": {
-            "project": "Billy Boman detailed a proof-of-concept project for P&G in the Middle East, working with Media Monks to adapt an existing commercial featuring a female character into a version featuring an Egyptian male celebrity. The project required taking the original commercial and running some parts through WAN while fully re-prompting other scenes to accommodate the character change.",
-            "main_challenge": "The primary challenge was that all two-shot scenes where they needed to replace a short female character with a taller male character didn't work with WAN, as the height difference created composition and framing issues that the tool couldn't properly handle.",
-            "creative_solutions": [
-              "Selectively chose which scenes to run through WAN versus fully re-prompt",
-              "Developed workarounds for height difference issues in two-shot compositions",
-              "Coordinated closely with Media Monks' editing team to blend AI-generated and traditional techniques",
-              "Worked under extreme time pressure (brief received Thursday evening, delivery Monday morning)"
-            ],
-            "workflow_notes": "Billy emphasized the intensive creative problem-solving required to get the project completed, noting it was 'hard as hell' but successfully delivered. Edmond Yang commented it looked fun, to which Billy replied it was extremely challenging given the tight timeline.",
-            "timeline": "The entire project was completed over a weekend, from Thursday evening brief to Monday morning delivery."
-          },
-          "posters": [
-            "Billy Boman",
-            "Edmond Yang"
-          ]
-        },
-        {
-          "title": "🎨 Jordan Daniel Chesney: Static Ad Creation Technique",
-          "link": "",
-          "overview": "<strong>Jordan Daniel Chesney</strong> shares technique for creating viral static advertisements following the Javi Lopez rule.",
-          "tutorial": {
-            "principle": "Jordan created what he considered potentially his best static ad, which PJ Accetturo analyzed as following the Javi Lopez rule of viral content: must contain Food, Sex, and Danger, ideally all baked into one shot.",
-            "technique": "The approach focuses on combining multiple viral elements into a single compelling image that triggers multiple psychological responses simultaneously, increasing the likelihood of engagement and sharing.",
-            "key_elements": [
-              "Food - Appeals to basic human needs and desires",
-              "Sex - Creates visual interest and emotional engagement",
-              "Danger - Adds tension and makes the image memorable"
-            ],
-            "application": "Jordan noted the rules of virality 'coursing through my veins,' suggesting this approach has become second nature to his creative process. Rory Flynn and Edmond Yang both praised the result as 'excellent' and 'fire' respectively.",
-            "best_practice": "PJ emphasized that the best results come when all three elements are combined in a single shot rather than spread across multiple images."
-          },
-          "posters": [
-            "Jordan Daniel Chesney",
-            "PJ Accetturo",
-            "Rory Flynn",
-            "Edmond Yang"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "🎨 Community Showcases & Projects",
-      "items": [
-        {
-          "title": "🎬 Billy Boman: P&G x Media Monks Commercial",
-          "link": "",
-          "overview": "<strong>Billy Boman</strong> showcases P&G commercial adaptation for Middle East market featuring Egyptian celebrity, completed with Media Monks over a weekend.",
-          "description": "<strong>Billy Boman</strong> shared a proof-of-concept project for P&G in the Middle East, created in collaboration with Media Monks. The project involved adapting an existing commercial featuring a female character into a version with an Egyptian male celebrity. The work required running some scenes through WAN while fully re-prompting others to accommodate the character change. The main technical challenge was handling two-shot scenes where a short female character needed to be replaced with a taller male character, which WAN couldn't properly handle due to composition and height differences. Despite the complexity, the project was completed over a weekend, with the brief received Thursday evening and delivery Monday morning. <strong>Edmond Yang</strong> called it fun, though Billy emphasized it was extremely challenging given the tight timeline.",
-          "posters": [
-            "Billy Boman",
-            "Edmond Yang"
-          ]
-        },
-        {
-          "title": "🎨 Jordan Daniel Chesney: Viral Static Advertisement",
-          "link": "",
-          "overview": "<strong>Jordan Daniel Chesney</strong> creates potentially his best static ad, praised for following viral content principles.",
-          "description": "<strong>Jordan Daniel Chesney</strong> shared what he considered potentially the best static ad he's ever created. <strong>PJ Accetturo</strong> analyzed it as perfectly following the Javi Lopez rule of viral content, which states that viral things must contain Food, Sex, and Danger, with the best results when all three elements are baked into one shot. Jordan joked about the rules of virality 'coursing through my veins.' <strong>Rory Flynn</strong> called it excellent, and <strong>Edmond Yang</strong> praised it as fire.",
-          "posters": [
-            "Jordan Daniel Chesney",
-            "PJ Accetturo",
-            "Rory Flynn",
-            "Edmond Yang"
-          ]
-        },
-        {
-          "title": "🎥 Ludovic: WAN 2.6 Multi-Shot Demo",
-          "link": "",
-          "overview": "<strong>Ludovic</strong> demonstrates WAN 2.6's one-prompt multi-shot capabilities with 15-second text-to-video generation.",
-          "description": "<strong>Ludovic</strong> shared his first test of WAN 2.6's one-prompt multi-shot text-to-video capabilities, generating a 15-second sequence that maintained consistency across multiple shots without manual editing. The demonstration showcased the significant improvements in WAN's ability to handle complex, multi-shot narratives in a single generation.",
-          "posters": [
-            "Ludovic"
-          ]
-        },
-        {
-          "title": "🎬 Ludovic: Seedance 1.5 Cinematic Test",
-          "link": "",
-          "overview": "<strong>Ludovic</strong> demonstrates Seedance 1.5 Pro with complex single-generation cinematic scene featuring dialogue and environmental effects.",
-          "description": "<strong>Ludovic</strong> shared his first text-to-video test with Seedance 1.5, creating a single-generation cinematic scene with over-the-shoulder alternating perspectives, intimate medium close-up shots with shallow depth of field, featuring two people under a flickering streetlight in a rainy parking lot. The prompt included tense spoken English dialogue, subtle footsteps, rain patter, low ambient city hum, soft dramatic top lighting, long shadows, reflective highlights, and emotionally charged cinematic drama style with no subtitles. The test demonstrated Seedance 1.5's ability to handle extremely complex prompts with multiple simultaneous elements in a single generation. <strong>Albert Bozesan</strong> asked if it was a single generation or edited clips, to which <strong>Ludovic</strong> confirmed it was a single text-to-video generation.",
-          "posters": [
-            "Ludovic",
-            "Albert Bozesan"
-          ]
-        },
-        {
-          "title": "🎥 Ryan Phillips: Historical Photo Recreation",
-          "link": "",
-          "overview": "<strong>Ryan Phillips</strong> shares old photo recreation work.",
-          "description": "<strong>Ryan Phillips</strong> shared work recreating an old photo, demonstrating techniques for historical image restoration and recreation using AI tools.",
-          "posters": [
-            "Ryan Phillips"
-          ]
-        },
-        {
-          "title": "🎬 Jordan Daniel Chesney: Daily Generation Showcase",
-          "link": "",
-          "overview": "<strong>Jordan Daniel Chesney</strong> shares daily work with caption 'One of them days, innit.'",
-          "description": "<strong>Jordan Daniel Chesney</strong> shared video work with the caption 'One of them days, innit,' showcasing his daily creative output and maintaining his consistent presence in the community as a prolific creator.",
+          "overview": "<strong>Jordan Daniel Chesney</strong> announces full-time contract work for 200 crowd shots on a TV show.",
+          "description": "<strong>Jordan Daniel Chesney</strong> announced a job opportunity for full-time contract work on a TV show requiring 200 crowd shots. Must be done with Runway and requires familiarity with Nuke as well as fluency with AI. Starts first week of January.",
           "posters": [
             "Jordan Daniel Chesney"
           ]
         },
         {
-          "title": "🎨 Edmond Yang: Creative Work Showcase",
-          "link": "",
-          "overview": "<strong>Edmond Yang</strong> shares creative video work with enthusiastic emoji.",
-          "description": "<strong>Edmond Yang</strong> shared creative video work with an enthusiastic emoji, contributing to the community's ongoing showcase of daily creative output and experimentation with new tools and techniques.",
+          "title": "🎬 Wonder Studios Animation Project Roles",
+          "link": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4736732101",
+          "overview": "<strong>Harry</strong> announces contract roles for Wonder Studios animation project.",
+          "description": "<strong>Harry</strong> announced Wonder Studios is looking for contract roles for an animation project: Creative Lead (focused on execution, visual consistency, and quality control) and Production Lead (to run schedule, team coordination, and feedback cycles). Fixed-term project from January to May, hands-on roles.",
           "posters": [
-            "Edmond Yang"
+            "Harry"
           ]
-        }
-      ]
-    },
-    {
-      "title": "🎉 New Members",
-      "items": [
+        },
         {
-          "title": "👋 Stephan Bugaj Joins RealDreams HQ",
+          "title": "🎪 GCSC Future Studio Event - London",
           "link": "",
-          "overview": "<strong>Stephan Bugaj</strong> joins the community, added by <strong>Justin Hackney</strong>.",
-          "description": "<strong>Justin Hackney</strong> added <strong>Stephan Bugaj</strong> to RealDreams HQ on December 19, 2024. The community welcomed the new member to the dreamers.",
+          "overview": "<strong>Aaron Bhugobaun</strong> announces GCSC Future Studio event at Google Kings Cross office in February.",
+          "description": "<strong>Aaron Bhugobaun</strong> announced another GCSC Future Studio event in London at Google Kings Cross office in February, with open invitation to all. He's also planning sessions and welcomes anyone who wants to participate.",
           "posters": [
-            "Stephan Bugaj",
+            "Aaron Bhugobaun"
+          ]
+        },
+        {
+          "title": "🎬 Wonder Film Festival Winner Livestream",
+          "link": "https://app.wonderstudios.com/c/events/film-festival-winner-livestream",
+          "overview": "<strong>Justin Hackney</strong> announces Wonder Film Festival winner livestream and future creator conversations.",
+          "description": "<strong>Justin Hackney</strong> announced plans for livestream sessions with creators, starting with the Film Festival winner. He expressed interest in going \"deep down the rabbit hole\" beyond just film/process discussions, exploring topics ranging from work to the singularity. A poll showed 18 votes for interest in livestream sessions.",
+          "posters": [
             "Justin Hackney"
           ]
         },
         {
-          "title": "👋 Sultan Joins RealDreams HQ",
-          "link": "",
-          "overview": "<strong>Sultan</strong> joins the community, added by <strong>Aaron Bhugobaun</strong>.",
-          "description": "<strong>Aaron Bhugobaun</strong> added <strong>Sultan</strong> to RealDreams HQ on December 22, 2024. The community welcomed the new member to the dreamers.",
+          "title": "🎯 Silicon Valley Video Summit",
+          "link": "https://siliconvalley.video/sign-up/",
+          "overview": "<strong>Gabe Michael</strong> shares free registration for Silicon Valley Video Summit on January 27.",
+          "description": "<strong>Gabe Michael</strong> shared information about the 2026 Silicon Valley Video Summit on January 27 in SF. Free registration available to qualified applicants until January 15, then $150. Promo code \"SVVS2026\" bypasses payment after January 15.",
           "posters": [
-            "Sultan",
-            "Aaron Bhugobaun"
+            "Gabe Michael"
           ]
         },
         {
-          "title": "👋 Andy Joins RealDreams HQ",
+          "title": "🎬 CES and 1 Billion Film Summit Attendance",
           "link": "",
-          "overview": "<strong>Andy</strong> joins the community, added by <strong>Aaron Bhugobaun</strong>.",
-          "description": "<strong>Aaron Bhugobaun</strong> added <strong>Andy</strong> to RealDreams HQ on January 7, 2025. The community welcomed the new member to the dreamers.",
+          "overview": "Community members coordinate attendance at CES and 1 Billion Film Summit in Dubai.",
+          "description": "Multiple community members coordinated attendance at major events. <strong>Chris First</strong> asked about Dubai attendance for 1BFS, <strong>Avocado Papi</strong> confirmed being at CES until the 10th and attending the Lionsgate party, <strong>Kleverov</strong> and <strong>Stephan Bugaj</strong> confirmed CES attendance. <strong>David Clark</strong> noted his co-founder George will be on a panel at 1BFS.",
           "posters": [
-            "Andy",
-            "Aaron Bhugobaun"
+            "Chris First",
+            "Avocado Papi",
+            "Kleverov",
+            "Stephan Bugaj",
+            "David Clark"
           ]
         }
       ]
     },
     {
-      "title": "💼 Professional Opportunities & Hiring",
+      "title": "💬 Industry Discussions",
       "items": [
         {
-          "title": "🎙️ Justin Hackney: Livestream Fireside Chat Opportunity",
+          "title": "🎬 AI Film Quality and Plateau Discussion",
           "link": "",
-          "overview": "<strong>Justin Hackney</strong> announces plans for livestream fireside chats with RealDreams HQ creators, seeking participants.",
-          "description": "<strong>Justin Hackney</strong> announced plans to launch livestream fireside chat sessions with RealDreams HQ creators, starting with a testing ground session for the Wonder Film Festival winner. He explained the goal is to master the process so they can start featuring the best creators in the space for deep conversations ranging from creative work and process to broader topics like the singularity. <strong>Jordan Daniel Chesney</strong> inquired if the first stream was just for winners or public, and Justin clarified the first is for the winner but future streams would feature other elite creators from the community. He created a poll asking who would be interested in participating, which received 18 yes votes and 3 humorous no votes. <strong>Edmond Yang</strong>, <strong>Aaron Bhugobaun</strong>, <strong>Rory Flynn</strong>, <strong>Billy Boman</strong>, <strong>Martin LeBlanc</strong>, and <strong>Chad Nelson</strong> all expressed interest in participating. Justin emphasized he would be honored to host these conversations and go deep down the rabbit hole with the community's top creators.",
+          "overview": "Community debates whether AI creative tools have reached a plateau with photorealism achieved.",
+          "description": "<strong>Rourke</strong> raised the question of whether AI creative tools have plateaued, noting \"we're literally at photo realism on all fronts.\" <strong>Rory Flynn</strong> suggested video and 3D/4D will go much heavier. <strong>Carl-Johann Simon-Gabriel</strong> noted audio and sound design still have lots of progress ahead, with innovation coming in editing capabilities and controllability. <strong>BasvdE</strong> shared predictions for 2026 including worldbuilding platforms, brand worlds, YouTube Games, home robots, and major studio AI series launches.",
           "posters": [
-            "Justin Hackney",
-            "Jordan Daniel Chesney",
-            "Edmond Yang",
-            "Aaron Bhugobaun",
+            "Rourke",
             "Rory Flynn",
-            "Billy Boman",
-            "Martin LeBlanc",
-            "Chad Nelson",
-            "Harvey"
+            "Carl-Johann Simon-Gabriel",
+            "BasvdE",
+            "Kēkā"
           ]
-        }
-      ]
-    },
-    {
-      "title": "💬 Industry Discussions & Insights",
-      "items": [
+        },
         {
-          "title": "🚀 Coordinated Model Release Day Discussion",
+          "title": "💰 AI Film Pricing and Timeline Realities",
           "link": "",
-          "overview": "<strong>Winston Mayo</strong> and community discuss the humorous coincidence of five major models releasing on the same day.",
-          "description": "<strong>Winston Mayo</strong> humorously observed that everyone thinking it was safe to release on December 16th resulted in five different models launching simultaneously (WAN 2.6, Seedance 1.5 Pro, Flux 2 Max, Kling voice control, and Meta's new model). The community found the coordination hilarious, noting how the AI industry seems to move in synchronized waves with major announcements often clustering together. This sparked discussion about competitive dynamics and release timing strategies in the rapidly evolving AI tools market.",
+          "overview": "Community discusses realistic pricing and timelines for AI film production.",
+          "description": "Discussion sparked by people promising 100-minute animated movies in 4 months for $5,000. <strong>Stephan Bugaj</strong> noted it's doable if you're good at all disciplines, don't charge for your own time, and make creative compromises - but excellent results are unlikely. <strong>Blvckl!ght</strong> confirmed 100 mins in 4 months is doable with experience, having done 90 mins in 30 days. <strong>Adrian Daniel Botnariu</strong> estimated 6 months for comfortable quality at $250k+. <strong>Rory Flynn</strong> noted $5k barely covers generation costs. The consensus: anyone saying \"Pixar quality for $5,000\" is clearly hallucinating.",
           "posters": [
+            "Stephan Bugaj",
+            "Blvckl!ght",
+            "Adrian Daniel Botnariu",
+            "Rory Flynn",
+            "Winston Mayo",
+            "Chad Nelson"
+          ]
+        },
+        {
+          "title": "⚠️ Higgsfield Controversies",
+          "link": "https://www.youtube.com/watch?v=7Zj10P0Sa1k",
+          "overview": "Community discusses ongoing Higgsfield controversies including pricing tricks and marketing stunts.",
+          "description": "<strong>Yonatan</strong> exposed a pricing trick where he paid $79 for 4,210 credits while they advertise $89 for 6,000 credits - paying 26-27% more per credit with misleading UI language. <strong>Blair</strong> noted it \"feels like it's run by a scam call centre.\" <strong>Blvckl!ght</strong> shared a YouTube video documenting the issues. <strong>Billy Boman</strong> dubbed it \"Cringefield - the AI Scamcenter.\" Despite controversies, <strong>Jordan Daniel Chesney</strong> noted Higgi Soul is still a wonderful model for realistic UGC content.",
+          "posters": [
+            "Yonatan",
+            "Blair",
+            "Blvckl!ght",
+            "Billy Boman",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🎬 Cinema's Future and Viewing Habits",
+          "link": "https://apple.news/AL86gsZlVQjSND8Q7iU8cEA",
+          "overview": "Discussion on changing audience viewing habits and cinema's future.",
+          "description": "<strong>Chad Nelson</strong> shared thoughts on cinema becoming like opera houses - respected but no longer mainstream. His nephews (ages 6-12) have zero interest in theater movies unless on phones/iPads. <strong>Aaron Bhugobaun</strong> noted audience viewing habits have changed and will keep changing, driven by likes and followers. <strong>Jovardi</strong> disagreed, distinguishing between creation (pen and paper is enough) and viewing (getting inspired by others' perspectives). Discussion touched on YouTube's potential TV-channel functions and emerging exhibition platforms.",
+          "posters": [
+            "Chad Nelson",
+            "Aaron Bhugobaun",
+            "Jovardi"
+          ]
+        },
+        {
+          "title": "🤝 Community and Competition in 2026",
+          "link": "",
+          "overview": "Discussion on the importance of community as AI competition intensifies.",
+          "description": "<strong>Alex</strong> predicted 2026 will be fiercely competitive with giants trying to crush everyone in winner-takes-all dynamics (referencing The Black Swan by Nassim Nicholas Taleb). He emphasized sticking together, building strong networks, and supporting one another. <strong>Blvckl!ght</strong> agreed that 2025 was the year to form relationships and weed out the less serious from those with true drive, grit, and creativity.",
+          "posters": [
+            "Alex",
+            "Blvckl!ght"
+          ]
+        },
+        {
+          "title": "⚠️ Recraft.ai Payment Warning",
+          "link": "",
+          "overview": "<strong>Robert O'Shaugnessy</strong> warns about Recraft.ai ghosting on sponsored video payment.",
+          "description": "<strong>Robert O'Shaugnessy</strong> shared a word of caution about doing a sponsored video with Recraft.ai - they ghosted him on communications and payment after the video went live. <strong>Billy Boman</strong> thanked him for sharing and calling them out. <strong>Winston Mayo</strong> asked how to prevent companies from taking advantage of creators.",
+          "posters": [
+            "Robert O'Shaugnessy",
+            "Billy Boman",
             "Winston Mayo"
           ]
         },
         {
-          "title": "🔧 AI Infrastructure Reliability Discussion",
+          "title": "💼 LinkedIn Premium Discussion",
           "link": "",
-          "overview": "<strong>Albert Bozesan</strong> discusses widespread AI provider outages and infrastructure issues.",
-          "description": "<strong>Albert Bozesan</strong> expressed frustration about what appeared to be widespread issues with AI providers over a 24-hour period, noting that RunComfy was completely down (couldn't load the page in Germany, could access homepage from US but couldn't launch). He suspected Cloudflare was the culprit, stating 'It's always fkn Cloudflare.' This sparked discussion about the fragility of AI infrastructure and the dependency on centralized services like Cloudflare for content delivery and DDoS protection. The conversation highlighted how infrastructure issues can cascade across multiple AI platforms simultaneously, affecting professional workflows.",
+          "overview": "Community discusses whether LinkedIn Premium is worth it for creators.",
+          "description": "<strong>Alex</strong> asked if LinkedIn Premium is worth it. <strong>Billy Boman</strong> said no from his experience, gaining almost 16k subscribers organically in 2025 without premium. <strong>Rory Flynn</strong> noted less reach since going premium and more shadow bans, with LinkedIn mistaking virality for bot activity. <strong>Kat Gellein Viken</strong> agreed it killed her reach for ages. <strong>Chad Nelson</strong> noted it's more suited for recruiters and employers than individuals.",
           "posters": [
-            "Albert Bozesan"
+            "Alex",
+            "Billy Boman",
+            "Rory Flynn",
+            "Kat Gellein Viken",
+            "Chad Nelson"
           ]
         },
         {
-          "title": "🎨 AI VFX Hybrid Workflows Discussion",
-          "link": "https://www.linkedin.com/posts/nitchhiltgen_vfx-ia-hybridcreativity-activity-7406593282958561280-usv0",
-          "overview": "<strong>Billy Boman</strong> shares impressive AI VFX breakdown demonstrating hybrid creativity approaches.",
-          "description": "<strong>Billy Boman</strong> shared a very cool AI VFX breakdown by Nitch Hiltgen, showcasing advanced hybrid workflows that combine AI generation with traditional VFX techniques. The breakdown demonstrated how professional creators are integrating AI tools into established production pipelines rather than replacing traditional methods entirely. This represents the evolving approach to AI in professional production environments, where AI serves as one tool among many rather than a complete replacement for traditional techniques.",
+          "title": "🎬 AI vs Authenticity Discussion",
+          "link": "",
+          "overview": "<strong>Billy Boman</strong> shares take on AI vs authenticity with premium/luxury lens.",
+          "description": "<strong>Billy Boman</strong> shared what he called one of the best takes on AI vs \"Authenticity\" with a premium/luxury lens. <strong>Aaron Bhugobaun</strong> highlighted the key line: \"The real thing that is getting replaced is the act of being average.\" <strong>Chad Nelson</strong> added \"No place for lazy creative in the new world.\"",
           "posters": [
-            "Billy Boman"
-          ]
-        },
-        {
-          "title": "🎵 Creative Workflow Music Recommendations",
-          "link": "https://open.spotify.com/track/6a0LjSQT6kcoBbqHrfgLpx?si=56ebebbe8a9940a9",
-          "overview": "<strong>Jordan Daniel Chesney</strong> shares music recommendation for working sessions.",
-          "description": "<strong>Jordan Daniel Chesney</strong> shared a Spotify track recommendation, noting it as 'an excellent song to work to.' While slightly off-topic, this represents the community's culture of sharing not just technical knowledge but also the broader creative environment and practices that support sustained creative work. The recommendation reflects how professional creators think holistically about their working conditions and creative state.",
-          "posters": [
-            "Jordan Daniel Chesney"
+            "Billy Boman",
+            "Aaron Bhugobaun",
+            "Chad Nelson",
+            "Adrian Daniel Botnariu"
           ]
         }
       ]
     },
     {
-      "title": "🔗 Key Links & Resources",
+      "title": "🔗 Links & Resources",
       "categories": [
         {
-          "title": "🚀 New Tools & Platforms",
+          "title": "Tool Releases & Updates",
           "links": [
             {
-              "title": "WAN 2.6",
-              "url": "https://wan-video.com",
-              "description": "15-second consistency with multi-shot control and character replication"
+              "title": "WAN 2.6 Release",
+              "url": "https://wan-video.com"
             },
             {
               "title": "Flux 2 Max",
-              "url": "https://bfl.ai/models/flux-2-max",
-              "description": "Latest Flux model release without open weights"
+              "url": "https://bfl.ai/models/flux-2-max"
             },
             {
-              "title": "Kling Voice Control",
-              "url": "https://app.klingai.com/global/release-notes/7trhudk78j?type=dialog",
-              "description": "Kling 2.6 release notes with voice control feature"
+              "title": "Kling Voice Control Release Notes",
+              "url": "https://app.klingai.com/global/release-notes/7trhudk78j?type=dialog"
+            },
+            {
+              "title": "Reve V11 Release",
+              "url": "https://www.linkedin.com/posts/reveimage_reve-v11-and-reve-v11-fast-are-here-we-activity-7407493843501318145-dT1o"
+            },
+            {
+              "title": "Trellis 2 on fal.ai",
+              "url": "https://fal.ai/models/fal-ai/trellis-2"
+            },
+            {
+              "title": "Tripo3D",
+              "url": "http://tripo3d.ai"
+            },
+            {
+              "title": "Qwen-Image-Edit-2511",
+              "url": "https://x.com/i/status/2003496348461728213"
+            },
+            {
+              "title": "SpriteSwap Studio (Open Source)",
+              "url": "https://github.com/lovisdotio/SpriteSwap-Studio"
             }
           ]
         },
         {
-          "title": "📰 Major Announcements",
+          "title": "News & Announcements",
           "links": [
             {
-              "title": "Meta AI Model Announcement",
-              "url": "https://x.com/AIatMeta/status/2000980784425931067?s=20",
-              "description": "Meta's new AI model announcement"
+              "title": "Meta Acquires Manus",
+              "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
             },
             {
-              "title": "Claude Agentic Tasks Mode",
-              "url": "https://www.testingcatalog.com/anthropic-testing-new-agentic-tasks-mode-for-claude/",
-              "description": "Anthropic testing new agentic tasks mode for Claude"
+              "title": "Apple Gaussian Splatting Demo",
+              "url": "https://www.linkedin.com/posts/martin-nebelong_from-2-second-faster-on-higher-end-gpus-activity-7407403800929390592-Rc8U"
+            },
+            {
+              "title": "The Seeker Film Release",
+              "url": "https://gamesbeat.com/genvid-releases-sci-fi-genai-film-the-seeker/"
+            },
+            {
+              "title": "The Seeker - Animation Magazine",
+              "url": "https://www.animationmagazine.net/2025/12/innovation-emmy-winner-pixar-vet-releases-ai-animated-short-the-seeker/"
+            },
+            {
+              "title": "Secret Level Academy Launch",
+              "url": "https://tvnewscheck.com/ai/article/secret-level-introduces-secret-level-academy-training-hollywood-for-the-ai-driven-production-era/"
+            },
+            {
+              "title": "Ross Lovegrove AI Chair - Dezeen",
+              "url": "https://www.dezeen.com/2025/12/19/ross-lovegrove-google-deepmind-ai-chair-design/"
+            },
+            {
+              "title": "OpenAI Promotional Post (Alex's Work)",
+              "url": "https://x.com/OpenAI/status/2003594025098785145"
             }
           ]
         },
         {
-          "title": "💡 Technical Resources & Tutorials",
+          "title": "Community Showcases",
+          "links": [
+            {
+              "title": "Billy Boman - Storytytel Campfire",
+              "url": "https://www.linkedin.com/posts/billyboman_%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%99-activity-7407770304313450496-2w_p"
+            },
+            {
+              "title": "Billy Boman - Hybrid VFX Production",
+              "url": "https://www.linkedin.com/posts/billyboman_check-out-our-latest-work-in-cooperation-activity-7414634831248048128-0GqF"
+            },
+            {
+              "title": "Blvckl!ght - Holiday Claymation",
+              "url": "https://x.com/blvcklightai/status/2003299872435585378"
+            },
+            {
+              "title": "Alex - Christmas Short",
+              "url": "https://www.linkedin.com/feed/update/urn:li:activity:7409256998900297729/"
+            },
+            {
+              "title": "Sultan - Naruto Trailer",
+              "url": "https://www.instagram.com/reel/DSlQHFbjJYt/?igsh=endrcjFxZHRscTcy"
+            },
+            {
+              "title": "Yonatan - King of The Streets",
+              "url": "https://www.instagram.com/reel/DSarJ10DIlA/"
+            },
+            {
+              "title": "Ari Kuschnir - 1 Billion Summit Entry",
+              "url": "https://youtu.be/6J8qpqGBSww?si=e81H334N2yFUFAQM"
+            },
+            {
+              "title": "David Clark - 2025 Swan Song",
+              "url": "https://youtu.be/s5qIfjjtjGc?si=ziugz68kk-dgGegq"
+            },
+            {
+              "title": "Junie - ByteDance New Year Film",
+              "url": "https://www.instagram.com/reel/DS4opEwD9US/?igsh=MWYzdzkwN2h4dXB0bg=="
+            },
+            {
+              "title": "Rourke - AI 2025 Reflections",
+              "url": "https://www.instagram.com/p/DS5OJ45DMRN/"
+            },
+            {
+              "title": "PJ Accetturo - Big Trailer",
+              "url": "https://x.com/PJaccetturo/status/2008559114704875888"
+            },
+            {
+              "title": "Jovardi - Dubai Competition",
+              "url": "https://youtu.be/xiprjuEnAp8"
+            },
+            {
+              "title": "Martin LeBlanc - ProCreate to AI",
+              "url": "https://x.com/martinleblanc/status/2007110933785796729"
+            }
+          ]
+        },
+        {
+          "title": "Tutorials & Workflows",
           "links": [
             {
               "title": "AI VFX Breakdown",
-              "url": "https://www.linkedin.com/posts/nitchhiltgen_vfx-ia-hybridcreativity-activity-7406593282958561280-usv0",
-              "description": "Comprehensive AI VFX hybrid workflow breakdown"
+              "url": "https://www.linkedin.com/posts/nitchhiltgen_vfx-ia-hybridcreativity-activity-7406593282958561280-usv0"
+            },
+            {
+              "title": "ComfyUI Workflow",
+              "url": "https://www.linkedin.com/posts/leokadieff_comfyui-ai-generativeai-activity-7407839762147090432-ZILa"
+            },
+            {
+              "title": "Rory Flynn - Visual Forensics Workflow",
+              "url": "https://app.weavy.ai/flow/NJ3TenYhPduuBv6ohGHrN3?ref=rory72"
+            },
+            {
+              "title": "Paul Trillo - Etherea BTS",
+              "url": "https://www.linkedin.com/posts/paul-trillo-544b268_etherea-was-inspired-by-the-pareidolia-phenomenon-activity-7413979466537811968-4fXk"
+            },
+            {
+              "title": "Start/End Frame Mastery",
+              "url": "https://x.com/i/status/2007284457162846435"
             }
           ]
         },
         {
-          "title": "🎵 Creative Resources",
+          "title": "Events & Opportunities",
           "links": [
             {
-              "title": "Work Music Recommendation",
-              "url": "https://open.spotify.com/track/6a0LjSQT6kcoBbqHrfgLpx?si=56ebebbe8a9940a9",
-              "description": "Excellent song for creative work sessions"
+              "title": "1 Billion Summit AI Film Award",
+              "url": "https://www.1billionsummit.com/ai-film-award"
+            },
+            {
+              "title": "AI Film Award Voting",
+              "url": "http://aifilm.1billionsummit.com"
+            },
+            {
+              "title": "Wonder Film Festival Livestream",
+              "url": "https://app.wonderstudios.com/c/events/film-festival-winner-livestream"
+            },
+            {
+              "title": "Wonder Studios Job - Creative Lead",
+              "url": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4736732101"
+            },
+            {
+              "title": "Wonder Studios Job - Production Lead",
+              "url": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4739063101"
+            },
+            {
+              "title": "Silicon Valley Video Summit",
+              "url": "https://siliconvalley.video/sign-up/"
+            }
+          ]
+        },
+        {
+          "title": "New Member Profiles",
+          "links": [
+            {
+              "title": "Stephan Bugaj - LinkedIn",
+              "url": "https://www.linkedin.com/in/bugaj"
+            },
+            {
+              "title": "Sultan Unaspekov - LinkedIn",
+              "url": "https://www.linkedin.com/in/sultan-unaspekov-751506231/"
+            },
+            {
+              "title": "Sultan - Instagram",
+              "url": "https://www.instagram.com/un.sul?igsh=aTY5MXF1cmJlOTF0"
+            },
+            {
+              "title": "Andy McNamara - LinkedIn",
+              "url": "https://www.linkedin.com/in/andymac3d"
+            }
+          ]
+        },
+        {
+          "title": "Industry Resources",
+          "links": [
+            {
+              "title": "Wonder Studios 2026 Vision",
+              "url": "https://wonderstudios.substack.com/p/2026-year-of-the-flywheel"
+            },
+            {
+              "title": "Higgsfield Controversy Video",
+              "url": "https://www.youtube.com/watch?v=7Zj10P0Sa1k"
+            },
+            {
+              "title": "Open Source Music Model",
+              "url": "https://x.com/cocktailpeanut/status/2005673873757413760"
+            },
+            {
+              "title": "Kēkā - Reflection Guide",
+              "url": "https://www.demystified.ai/yearlyguide/p/2025-2026-ultimate-reflection-intention-guide-with-integration-chat-assistant"
+            },
+            {
+              "title": "AI Film Award Submissions Playlist",
+              "url": "https://www.youtube.com/playlist?list=PLPXkfEPXpJLrIZPYjkjyEryEw2rH-pbFc"
+            },
+            {
+              "title": "Fairground 2025 Shoutout",
+              "url": "https://www.tubefilter.com/2025/12/16/after-paying-out-100000-to-creators-in-2025-fairground-is-ready-to-advance-ai-artistry-in-2026/"
+            },
+            {
+              "title": "Kat's Podcast with MetaPuppet",
+              "url": "https://open.spotify.com/show/3cy62AZcNELYEa0iZuzXWY"
+            },
+            {
+              "title": "Open Source Importance Discussion",
+              "url": "https://youtu.be/zSvCnVi181A?si=xD3pYoErQyLT6Dkc"
             }
           ]
         }
