@@ -39,7 +39,7 @@
         {
           "title": "🎬 WAN 2.6 Released with Multi-Shot Control",
           "link": "https://wan-video.com",
-          "description": "<strong>Ludovic</strong> announced WAN 2.6 on Wan-Video, highlighting major improvements: 15-second consistency with perfect audio sync, one-prompt multi-shot control, ability to replicate character ID and voice from 2-10 second clips with audio upload support, multi-character and cartoon support, and commercial-grade output quality. <strong>Ludovic</strong> demonstrated the capabilities with a first test showing multi-shot text-to-video generation in a single 15-second prompt, showcasing the system's ability to maintain consistency across multiple shots without manual editing. The single-gen dialogue prompt featured over-the-shoulder alternating perspectives with emotionally charged cinematic drama.",
+          "description": "6 on Wan-Video, highlighting major improvements: 15-second consistency with perfect audio sync, one-prompt multi-shot control, ability to replicate character ID and voice from 2-10 second clips with audio upload support, multi-character and cartoon support, and commercial-grade output quality. <strong>Ludovic</strong> demonstrated the capabilities with a first test showing multi-shot text-to-video generation in a single 15-second prompt, showcasing the system's ability to maintain consistency across multiple shots without manual editing. The single-gen dialogue prompt featured over-the-shoulder alternating perspectives with emotionally charged cinematic drama.",
           "posters": [
             "Ludovic"
           ]
@@ -47,7 +47,7 @@
         {
           "title": "🎥 Seedance 1.5 Pro Released",
           "link": "",
-          "description": "<strong>Edmond Yang</strong> asked about Seedance 1.5 Pro release, and <strong>Ludovic</strong> quickly tested it, sharing impressive single-gen text-to-video results. The test demonstrated the model's capability for cinematic dialogue scenes with proper audio sync and emotional depth.",
+          "description": "5 Pro release, and <strong>Ludovic</strong> quickly tested it, sharing impressive single-gen text-to-video results. The test demonstrated the model's capability for cinematic dialogue scenes with proper audio sync and emotional depth.",
           "posters": [
             "Edmond Yang",
             "Ludovic"
@@ -56,7 +56,7 @@
         {
           "title": "🖼️ Flux 2 Max Released",
           "link": "https://bfl.ai/models/flux-2-max",
-          "description": "<strong>Luka T</strong> announced that Flux 2 Max is out, noting that open weights are not yet available and probably never will be. The release came on a day when multiple AI models dropped simultaneously, with <strong>Winston Mayo</strong> joking about everyone thinking it was safe to release on the same day.",
+          "description": "The release came on a day when multiple AI models dropped simultaneously, with <strong>Winston Mayo</strong> joking about everyone thinking it was safe to release on the same day.",
           "posters": [
             "Luka T",
             "Winston Mayo"
@@ -65,7 +65,7 @@
         {
           "title": "🎤 Kling Voice Control Feature",
           "link": "https://app.klingai.com/global/release-notes/7trhudk78j?type=dialog",
-          "description": "<strong>Ludovic</strong> shared the release notes for Voice Control in Kling 2.6, enabling natural language video prompting capabilities. The community discussed the feature's potential for more intuitive video generation workflows.",
+          "description": "6, enabling natural language video prompting capabilities. The community discussed the feature's potential for more intuitive video generation workflows.",
           "posters": [
             "Ludovic"
           ]
@@ -73,7 +73,7 @@
         {
           "title": "🍎 Apple Image-to-Gaussian Splatting",
           "link": "https://www.linkedin.com/posts/martin-nebelong_from-2-second-faster-on-higher-end-gpus-activity-7407403800929390592-Rc8U",
-          "description": "<strong>Rory Flynn</strong> shared news about Apple developing AI capabilities, noting he didn't even know Apple was in the space. <strong>Martin Nebelong</strong> demonstrated the technology, generating Gaussian Splat scenes from single images in just 2 seconds on a 4090 GPU. <strong>Justin Hackney</strong> called it \"actually huge\" that Apple has entered the chat. <strong>Martin Nebelong</strong> showed integration with Octane Render 2026, creating impressive results. <strong>ChristianF.</strong> mentioned the Marble WorldLabs integration into Octane Render 2026 for similar capabilities.",
+          "description": "<strong>Martin Nebelong</strong> demonstrated the technology, generating Gaussian Splat scenes from single images in just 2 seconds on a 4090 GPU. <strong>Justin Hackney</strong> called it \"actually huge\" that Apple has entered the chat. <strong>Martin Nebelong</strong> showed integration with Octane Render 2026, creating impressive results. <strong>ChristianF.</strong> mentioned the Marble WorldLabs integration into Octane Render 2026 for similar capabilities.",
           "posters": [
             "Rory Flynn",
             "Martin Nebelong",
@@ -84,7 +84,7 @@
         {
           "title": "🤖 Meta Acquires Manus AI Agent",
           "link": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
-          "description": "<strong>Kēkā</strong> shared the news that Meta acquired Manus, expressing concern as Manus had been a daily agent tool in his work for almost a year. <strong>Stephan Bugaj</strong> noted that when Meta bought Play.ai, they stopped supporting customers entirely. <strong>Kēkā</strong> provided extensive analysis, noting Manus is still strides ahead of Google Studio as a 1-stop research-to-deployable widget builder. The acquisition was valued at $2 billion for approximately 100 people at a 3-year-old company. <strong>Rourke</strong> mentioned Meta also recently acquired Limitless, an AI wearable device. <strong>Matthieu</strong> suggested Antigravity as an alternative, though <strong>Kēkā</strong> noted Manus is better for non-dev users and multi-tool workflows.",
+          "description": "<strong>Stephan Bugaj</strong> noted that when Meta bought Play.ai, they stopped supporting customers entirely. <strong>Kēkā</strong> provided extensive analysis, noting Manus is still strides ahead of Google Studio as a 1-stop research-to-deployable widget builder. The acquisition was valued at $2 billion for approximately 100 people at a 3-year-old company. <strong>Rourke</strong> mentioned Meta also recently acquired Limitless, an AI wearable device. <strong>Matthieu</strong> suggested Antigravity as an alternative, though <strong>Kēkā</strong> noted Manus is better for non-dev users and multi-tool workflows.",
           "posters": [
             "Kēkā",
             "Stephan Bugaj",
@@ -104,7 +104,7 @@
         {
           "title": "🏆 1 Billion Summit AI Film Award Finalists",
           "link": "https://www.1billionsummit.com/ai-film-award",
-          "description": "<strong>Winston Mayo</strong> announced that the list and voting for the million dollar AI film is open. <strong>Mark Wachholz</strong> was congratulated for being shortlisted. The community discussed the estimated 20,000+ submissions based on the mid-November press release. <strong>Billy Boman</strong> shared the finalists link, noting he hadn't heard of any of the creators and found the work lacking artistic flair. <strong>Mark Wachholz</strong> created a YouTube playlist attempting to collect all submissions, finding only 39 of the estimated 3,500-30,000+ entries. <strong>PJ Accetturo</strong> noted only about 2 good films in the top 10.",
+          "description": "<strong>Mark Wachholz</strong> was congratulated for being shortlisted. The community discussed the estimated 20,000+ submissions based on the mid-November press release. <strong>Billy Boman</strong> shared the finalists link, noting he hadn't heard of any of the creators and found the work lacking artistic flair. <strong>Mark Wachholz</strong> created a YouTube playlist attempting to collect all submissions, finding only 39 of the estimated 3,500-30,000+ entries. <strong>PJ Accetturo</strong> noted only about 2 good films in the top 10.",
           "posters": [
             "Winston Mayo",
             "Billy Boman",
@@ -116,7 +116,7 @@
         {
           "title": "🎮 Kling Motion Control Feature",
           "link": "https://x.com/Kling_ai/status/2001306445262823431",
-          "description": "<strong>Sultan</strong> asked if anyone had played with the new Kling motion control feature. <strong>Edmond Yang</strong> and <strong>Ryan Phillips</strong> confirmed they had tested it, with <strong>Ryan Phillips</strong> calling it \"very good.\" <strong>Tobi</strong> posted tests on LinkedIn, noting it's great for semi-realistic content but often fails at more stylized characters like 3D. For hyper-realistic characters, there's still some uncanniness, though the level of micro-expressions is amazing.",
+          "description": "<strong>Edmond Yang</strong> and <strong>Ryan Phillips</strong> confirmed they had tested it, with <strong>Ryan Phillips</strong> calling it \"very good.\" <strong>Tobi</strong> posted tests on LinkedIn, noting it's great for semi-realistic content but often fails at more stylized characters like 3D. For hyper-realistic characters, there's still some uncanniness, though the level of micro-expressions is amazing.",
           "posters": [
             "Sultan",
             "Ryan Phillips",
@@ -127,7 +127,7 @@
         {
           "title": "📺 Secret Level Academy Launches",
           "link": "https://tvnewscheck.com/ai/article/secret-level-introduces-secret-level-academy-training-hollywood-for-the-ai-driven-production-era/",
-          "description": "<strong>Minh</strong> shared the announcement of Secret Level Academy, a new initiative training Hollywood for the AI-driven production era. The program aims to prepare industry professionals for the integration of AI tools into traditional production workflows.",
+          "description": "The program aims to prepare industry professionals for the integration of AI tools into traditional production workflows.",
           "posters": [
             "Minh"
           ]
@@ -135,7 +135,7 @@
         {
           "title": "🎨 Reve V11 and V11 Fast Released",
           "link": "https://www.linkedin.com/posts/reveimage_reve-v11-and-reve-v11-fast-are-here-we-activity-7407493843501318145-dT1o",
-          "description": "<strong>Jordan Daniel Chesney</strong> shared the release of Reve V11 and Reve V11 Fast models. He later mentioned being excited to receive Reve merch, noting he begged them for it and will \"wear it too much.\" <strong>Billy Boman</strong> expressed interest in getting merch as well.",
+          "description": "He later mentioned being excited to receive Reve merch, noting he begged them for it and will \"wear it too much.\" <strong>Billy Boman</strong> expressed interest in getting merch as well.",
           "posters": [
             "Jordan Daniel Chesney",
             "Billy Boman"
@@ -144,7 +144,7 @@
         {
           "title": "🔺 Trellis 2 for 3D Generation",
           "link": "https://fal.ai/models/fal-ai/trellis-2",
-          "description": "<strong>Edmond Yang</strong> shared that he's been using Trellis 2 on fal.ai for 3D generation, calling it \"pretty good.\" <strong>Martin LeBlanc</strong> asked about the best workflow for image-to-3D model generation, and <strong>BasvdE</strong> recommended Vizcom.com for products and tripo3d.ai for characters. <strong>Martin LeBlanc</strong> tested Tripo3D and got good results even for complex models, noting the ability to move models to any angle and use NBP for final renders gives great control and consistency.",
+          "description": "ai for 3D generation, calling it \"pretty good.\" <strong>Martin LeBlanc</strong> asked about the best workflow for image-to-3D model generation, and <strong>BasvdE</strong> recommended Vizcom.com for products and tripo3d.ai for characters. <strong>Martin LeBlanc</strong> tested Tripo3D and got good results even for complex models, noting the ability to move models to any angle and use NBP for final renders gives great control and consistency.",
           "posters": [
             "Edmond Yang",
             "Martin LeBlanc",
@@ -154,7 +154,7 @@
         {
           "title": "🎵 Open Source Music Model Released",
           "link": "https://x.com/cocktailpeanut/status/2005673873757413760",
-          "description": "<strong>Rory Flynn</strong> shared news of an open source music generation model. <strong>Winston Mayo</strong> asked if it's as good as Suno, sparking discussion about the state of AI music generation tools.",
+          "description": "<strong>Winston Mayo</strong> asked if it's as good as Suno, sparking discussion about the state of AI music generation tools.",
           "posters": [
             "Rory Flynn",
             "Winston Mayo"
@@ -568,7 +568,7 @@
         {
           "title": "🎬 Billy Boman - Storytytel Campfire AI Film",
           "link": "https://www.linkedin.com/posts/billyboman_%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%86%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%99-activity-7407770304313450496-2w_p",
-          "description": "<strong>Billy Boman</strong> shared the Storytytel Campfire AI Film, describing it as a labor of love and one of the first projects with a wider distributed team as they scale to a boutique studio offering. <strong>Jordan Daniel Chesney</strong> called it \"unbelievably cool\" and praised how <strong>Billy Boman</strong> \"wrestled the clients wishes to the ground and gently choked them out into a gentle slumber of high-quality storytelling.\"",
+          "description": "<strong>Jordan Daniel Chesney</strong> called it \"unbelievably cool\" and praised how <strong>Billy Boman</strong> \"wrestled the clients wishes to the ground and gently choked them out into a gentle slumber of high-quality storytelling.\"",
           "posters": [
             "Billy Boman",
             "Jordan Daniel Chesney"
@@ -577,7 +577,7 @@
         {
           "title": "🎄 Blvckl!ght - 70s Claymation Holiday Video",
           "link": "https://x.com/blvcklightai/status/2003299872435585378",
-          "description": "<strong>Blvckl!ght</strong> shared a 70s claymation holiday video, with <strong>Chris First</strong> praising the \"immaculate vibes\" that remind him of childhood Christmas animations, calling it \"so normal, like it's a Christmas classic.\" <strong>Blvckl!ght</strong> also received a shoutout from Fairground for his work with them throughout 2025.",
+          "description": "\" <strong>Blvckl!ght</strong> also received a shoutout from Fairground for his work with them throughout 2025.",
           "posters": [
             "Blvckl!ght",
             "Chris First"
@@ -586,7 +586,7 @@
         {
           "title": "🎬 Alex - Christmas Short Film",
           "link": "https://www.linkedin.com/feed/update/urn:li:activity:7409256998900297729/",
-          "description": "<strong>Alex</strong> shared his most ambitious short to date, with <strong>Jordan Daniel Chesney</strong> praising the aesthetics and feeling of warmth in the daylight. <strong>Alex</strong> acknowledged imperfections but noted \"at one point, you gotta post.\" He also shared that one of his videos (jellyfish turning into a flower) made it into an OpenAI promotional post.",
+          "description": "<strong>Alex</strong> acknowledged imperfections but noted \"at one point, you gotta post.\" He also shared that one of his videos (jellyfish turning into a flower) made it into an OpenAI promotional post.",
           "posters": [
             "Alex",
             "Jordan Daniel Chesney"
@@ -595,7 +595,7 @@
         {
           "title": "🥷 Sultan - Naruto Trailer",
           "link": "https://www.instagram.com/reel/DSlQHFbjJYt/?igsh=endrcjFxZHRscTcy",
-          "description": "<strong>Sultan</strong> shared his Naruto trailer, noting he had to reupload it due to a copyright scam with fake right owners. Higgsfield is investigating who filed the strike. <strong>Sultan</strong>'s work has gone viral with hundreds of millions of views, including a kangaroo UFC clip.",
+          "description": "Higgsfield is investigating who filed the strike. <strong>Sultan</strong>'s work has gone viral with hundreds of millions of views, including a kangaroo UFC clip.",
           "posters": [
             "Sultan"
           ]
@@ -603,7 +603,7 @@
         {
           "title": "🎬 Yonatan - King of The Streets Collab",
           "link": "https://www.instagram.com/reel/DSarJ10DIlA/",
-          "description": "<strong>Yonatan</strong> shared their latest video in collaboration with King of The Streets. <strong>Jordan Daniel Chesney</strong> praised it as \"next level\" with \"Gaspar Noe vibes.\"",
+          "description": "<strong>Jordan Daniel Chesney</strong> praised it as \"next level\" with \"Gaspar Noe vibes.\"",
           "posters": [
             "Yonatan",
             "Jordan Daniel Chesney"
@@ -612,7 +612,7 @@
         {
           "title": "🎬 Ari Kuschnir - 1 Billion Summit Entry",
           "link": "https://youtu.be/6J8qpqGBSww?si=e81H334N2yFUFAQM",
-          "description": "<strong>Ari Kuschnir</strong> shared his most ambitious short to date, a story his friend David Sauvage had last summer that they decided to make for the 1 Billion Summit. He noted learning a lot and pushing as much as he could.",
+          "description": "He noted learning a lot and pushing as much as he could.",
           "posters": [
             "Ari Kuschnir"
           ]
@@ -620,7 +620,7 @@
         {
           "title": "🎬 David Clark - 2025 Swan Song",
           "link": "https://youtu.be/s5qIfjjtjGc?si=ziugz68kk-dgGegq",
-          "description": "<strong>David Clark</strong> shared his 2025 swan song video as a year-end creative piece. He was also invited by Google for a Sundance panel but will be knee deep in production.",
+          "description": "He was also invited by Google for a Sundance panel but will be knee deep in production.",
           "posters": [
             "David Clark"
           ]
@@ -628,7 +628,7 @@
         {
           "title": "🎬 Junie - ByteDance New Year Film",
           "link": "https://www.instagram.com/reel/DS4opEwD9US/?igsh=MWYzdzkwN2h4dXB0bg==",
-          "description": "<strong>Junie</strong> shared that ByteDance invited her to create the New Year short film \"One Blink,\" a light sci-fi love story. She wished everyone a happy New Year with hopes for genuine love in the year ahead.",
+          "description": "She wished everyone a happy New Year with hopes for genuine love in the year ahead.",
           "posters": [
             "Junie"
           ]
@@ -636,7 +636,7 @@
         {
           "title": "🎬 Rourke - AI 2025 Reflections",
           "link": "https://www.instagram.com/p/DS5OJ45DMRN/",
-          "description": "<strong>Rourke</strong> shared his final thoughts for 2025 with a clever loop video. <strong>Yonatan</strong> praised the clever loop technique.",
+          "description": "<strong>Yonatan</strong> praised the clever loop technique.",
           "posters": [
             "Rourke",
             "Yonatan"
@@ -710,7 +710,7 @@
         {
           "title": "📺 TV Show Crowd Shots - Runway/Nuke Required",
           "link": "",
-          "description": "<strong>Jordan Daniel Chesney</strong> announced a job opportunity for full-time contract work on a TV show requiring 200 crowd shots. Must be done with Runway and requires familiarity with Nuke as well as fluency with AI. Starts first week of January.",
+          "description": "Must be done with Runway and requires familiarity with Nuke as well as fluency with AI. Starts first week of January.",
           "posters": [
             "Jordan Daniel Chesney"
           ]
@@ -718,7 +718,7 @@
         {
           "title": "🎬 Wonder Studios Animation Project Roles",
           "link": "https://job-boards.eu.greenhouse.io/wonderstudios/jobs/4736732101",
-          "description": "<strong>Harry</strong> announced Wonder Studios is looking for contract roles for an animation project: Creative Lead (focused on execution, visual consistency, and quality control) and Production Lead (to run schedule, team coordination, and feedback cycles). Fixed-term project from January to May, hands-on roles.",
+          "description": "Fixed-term project from January to May, hands-on roles.",
           "posters": [
             "Harry"
           ]
@@ -726,7 +726,7 @@
         {
           "title": "🎪 GCSC Future Studio Event - London",
           "link": "",
-          "description": "<strong>Aaron Bhugobaun</strong> announced another GCSC Future Studio event in London at Google Kings Cross office in February, with open invitation to all. He's also planning sessions and welcomes anyone who wants to participate.",
+          "description": "He's also planning sessions and welcomes anyone who wants to participate.",
           "posters": [
             "Aaron Bhugobaun"
           ]
@@ -734,7 +734,7 @@
         {
           "title": "🎬 Wonder Film Festival Winner Livestream",
           "link": "https://app.wonderstudios.com/c/events/film-festival-winner-livestream",
-          "description": "<strong>Justin Hackney</strong> announced plans for livestream sessions with creators, starting with the Film Festival winner. He expressed interest in going \"deep down the rabbit hole\" beyond just film/process discussions, exploring topics ranging from work to the singularity. A poll showed 18 votes for interest in livestream sessions.",
+          "description": "He expressed interest in going \"deep down the rabbit hole\" beyond just film/process discussions, exploring topics ranging from work to the singularity. A poll showed 18 votes for interest in livestream sessions.",
           "posters": [
             "Justin Hackney"
           ]
@@ -742,7 +742,7 @@
         {
           "title": "🎯 Silicon Valley Video Summit",
           "link": "https://siliconvalley.video/sign-up/",
-          "description": "<strong>Gabe Michael</strong> shared information about the 2026 Silicon Valley Video Summit on January 27 in SF. Free registration available to qualified applicants until January 15, then $150. Promo code \"SVVS2026\" bypasses payment after January 15.",
+          "description": "Free registration available to qualified applicants until January 15, then $150. Promo code \"SVVS2026\" bypasses payment after January 15.",
           "posters": [
             "Gabe Michael"
           ]
