@@ -1,0 +1,1250 @@
+{
+  "id": "jan8-27-2026",
+  "title": "January 8-27, 2026",
+  "date": "January 27, 2026",
+  "dateRange": "January 8-27, 2026",
+  "summary": "Kling 01 Elements emerges as breakthrough workflow with micro-LoRAs and 6-image control, LTX Audio-to-Video launches with powerful lip-sync capabilities, Runway 4.5 I2V shows dramatic physics improvements, Veo 3.1 Flow features leak including outpainting and camera control, DorLabs announces massive update with grid workflows and character toggles, Topaz upscaling best practices shared (Proteus, Iris, Astra), Freepik NBP experiences widespread slowness, X launches Creator Program with $500K funding, Hat Trick Productions showcases UK TV industry AI adoption, and community welcomes Tom Furse, Jeremy Boxer, and James McAulay.",
+  "stats": {
+    "tools": 12,
+    "tutorials": 28,
+    "insights": 15,
+    "links": 52
+  },
+  "keyHighlights": [
+    "Kling 01 Elements workflow breakthrough with micro-LoRAs and 6-image scene control",
+    "LTX Audio-to-Video launches with powerful lip-sync and camera movement",
+    "Runway 4.5 I2V demonstrates dramatically improved running physics and multi-shot sequences",
+    "Veo 3.1 Flow features leak: outpainting, camera control, and advanced capabilities",
+    "DorLabs announces major update with grid extraction, character toggles, and 80% faster workflows",
+    "X Creator Program launches with $500K total funding for 5 creators"
+  ],
+  "topPosters": [
+    {
+      "name": "Edmond Yang",
+      "count": 101
+    },
+    {
+      "name": "Billy Boman",
+      "count": 76
+    },
+    {
+      "name": "Martin LeBlanc",
+      "count": 57
+    }
+  ],
+  "sections": [
+    {
+      "title": "🚀 Major Updates & News",
+      "items": [
+        {
+          "title": "🎮 Kling 01 Elements - Breakthrough Workflow",
+          "link": "https://app.klingai.com",
+          "description": "<strong>Jordan Daniel Chesney</strong> declared Kling 01 \"100% the new way to work,\" calling it \"the biggest breakthrough since NB.\" The Elements feature allows building multiple micro-LoRAs (4 images per LoRA) plus up to 6 image ingredients for total scene control. <strong>Jordan</strong> emphasized: \"Coupled with NBP, you can now block exactly where the camera goes, exactly what multiple subjects do, where they stand, how they act, and control the hundreds of details within your room/scene, with total consistency.\" He's now using upwards of 30 images to create a single shot. <strong>Billy Boman</strong> agreed it's \"truly unmatched\" for getting specific scenes, characters, products with dynamic camera in one seamless 10-second clip, noting it's more \"intelligent\" than Veo ingredients currently. <strong>Martin LeBlanc</strong> and <strong>Edmond Yang</strong> also confirmed this as the breakthrough workflow. Main drawback: morphing and artifacts on dynamic whip pans and transitions.",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Billy Boman",
+            "Martin LeBlanc",
+            "Edmond Yang",
+            "Luka T",
+            "Julien Vallée"
+          ]
+        },
+        {
+          "title": "🎤 LTX Audio-to-Video Launch",
+          "link": "https://app.ltx.studio/ltx-2-playground/a2v",
+          "description": "<strong>Jordan Daniel Chesney</strong> announced \"Here it is... Audio to video\" and called it powerful for lip-sync when you have specific audio. <strong>Linus Ekenstam</strong> confirmed \"LTX is really powerful.\" <strong>PJ Accetturo</strong> asked about best lip-sync options, noting the problem that most models have completely static cameras. <strong>PJ</strong> explained \"it's why Veo remained king for so long - the moving camera helped get past the uncanny speaking.\" <strong>Edmond Yang</strong> noted Kling's lip-sync on videos is \"pretty decent.\" <strong>Ari kuschnir</strong> used it for a music video remake, combining it with Kling Motion Control and Runway 4.5. Some users reported crashes.",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "PJ Accetturo",
+            "Linus Ekenstam",
+            "Edmond Yang",
+            "Ari kuschnir",
+            "Pierre Zandrowicz"
+          ]
+        },
+        {
+          "title": "🏃 Runway 4.5 I2V - Dramatic Physics Improvements",
+          "link": "https://runwayml.com",
+          "description": "<strong>Marco</strong> shared extensive Runway 4.5 I2V tests showcasing dramatically improved running physics and multi-shot sequences. <strong>Jordan Daniel Chesney</strong> responded: \"So cool. Wow. Their running physics have dramatically improved.\" The tests demonstrated better motion quality and the ability to handle complex action sequences. <strong>Marco</strong> noted the main remaining challenge: \"I just need a video model to NOT fuck up logos now.\" <strong>Jordan</strong> shared his solution: \"I do FIRST frame and LAST frame to hold logos together. With the logos consistent together in both frames Kling does an amazing job of holding them together throughout.\"",
+          "posters": [
+            "Marco",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🎬 Veo 3.1 Flow Features Leak",
+          "link": "https://deepmind.google/models/veo/",
+          "description": "<strong>Pierre Zandrowicz</strong> discovered unreleased features on Veo's website including camera control and outpainting. <strong>Chris First</strong> caught the leak, noting \"Must be an early whoopsie\" and \"The prompt even is like the description lol not the actual prompt.\" Screenshots showed advanced camera control options and outpainting capabilities. <strong>Ryan Phillips</strong> noted these features were \"talked about when it was used for the Aronofsky short a while back but is yet to be available to the wider users.\" <strong>Billy Boman</strong> asked if it's live in Flow, but <strong>Ryan</strong> confirmed \"I don't believe so... yet.\" <strong>Issa Sissoko</strong> and others couldn't see it in their accounts, suggesting region-specific rollout.",
+          "posters": [
+            "Pierre Zandrowicz",
+            "Chris First",
+            "Ryan Phillips",
+            "Billy Boman",
+            "Issa Sissoko",
+            "Matthieu"
+          ]
+        },
+        {
+          "title": "🎨 DorLabs Major Update Announcement",
+          "link": "https://dorlabs.com",
+          "description": "<strong>Yonatan Dor brothers</strong> announced a \"gigantic patch to DorLabs next week\" that \"basically allows me to create films 80% faster.\" Key features include: grid creation based on image refs with prompt suggestions, panel extraction with upscale and optional modification in one step, character and location toggles at any step, script feeding, ref image input, and one-sentence prompting. He demonstrated the grid extraction feature, which \"doesn't only let you extract, it lets you also create grids based on image refs, get prompt suggestions based on your input, then extract any panel + upscale & optional modification.\" <strong>Edmond Yang</strong> joked about the marketing, and <strong>Yonatan</strong> responded \"I built it for myself first and foremost, so it's true.\" Multiple members including <strong>Billy Boman</strong>, <strong>MetaPuppet</strong>, <strong>Max</strong>, and <strong>Edmond Yang</strong> requested early access. The update is launching in Europe as well.",
+          "posters": [
+            "Yonatan Dor brothers",
+            "Edmond Yang",
+            "Billy Boman",
+            "MetaPuppet",
+            "Max",
+            "Seb Ungrad",
+            "Luka T"
+          ]
+        },
+        {
+          "title": "🔍 Topaz Upscaling Best Practices",
+          "link": "https://topazlabs.com",
+          "description": "<strong>Martin LeBlanc</strong> asked about Topaz video upscaling model preferences. <strong>Ryan Phillips</strong> recommended \"Iris for close ups.\" <strong>Billy Boman</strong> detailed his Proteus workflow: \"Proteus for all-around use. Recovery detail to zero. Change from automatic to manual analysis for clips and then hit estimate - zero sharpen and improve detail.\" <strong>Martin LeBlanc</strong> agreed \"Proteus seems like the best overall.\" For Astra, <strong>Billy Boman</strong> noted a new model launched late last year \"more tuned for realism which I haven't really played with yet.\" <strong>Andy Mc</strong> said \"Astra's fun to play with and produces good results but too slow and needs better granular controls to fine tune the output.\" <strong>Edmond Yang</strong> shared: \"I like Astra, for closeups it's pretty good, but hallucinates with small objects, I tend to crop in and upscale and put back again. And also would need to upscale clip by clip, since there's some ghosting between shots, at least 1-2 frames.\" <strong>Adrian</strong> confirmed \"the ghosting sucks hard yeah. upscaling just isn't there yet for whatever reason.\" <strong>Jordan Daniel Chesney</strong> recommended: \"Use Topaz Astra Precise to re-generate in upscale. I've found that it works wonders. As long as you can roto sections, like characters faces, then this workflow saves 50% of the low quality motion artifacts.\" He also shared his vision for Topaz to add \"SMART ROTO/COMPOSITION\" with multiple masks and automatic comping: \"1 level of generative upscale for the backgrounds, 1 for the elements/logos, and 1 for faces. I'd pay $100 a clip if this was available.\"",
+          "posters": [
+            "Martin LeBlanc",
+            "Ryan Phillips",
+            "Billy Boman",
+            "Andy Mc",
+            "Edmond Yang",
+            "Adrian",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "⚠️ Freepik NBP Widespread Slowness",
+          "link": "https://freepik.com",
+          "description": "Multiple community members reported severe slowness with Nano Banana Pro across platforms. <strong>Albert Bozesan</strong> experienced issues on enterprise unlimited, calling it \"crazy slow\" and requesting others like his message to send collective feedback. He explained: \"Because they opened up unlimited access to a ton more accounts without sorting priority. I assume all users are dumped into the same waitlist.\" <strong>👨🏻‍🎨</strong> reported NBP sluggishness for 2-3 days and couldn't generate ANY NBP images even on Ultra Google Flow account. <strong>Luka T</strong> joked \"Nano banana Pro obviously switched to SD 1.4 engine\" with a poor quality example. <strong>Billy Boman</strong> noted the workaround is \"Cinematic Live Action prompting\" + references, but \"absolutely sometimes it goes into old Imagen vibes in the worst way.\" <strong>Jordan Daniel Chesney</strong> demonstrated Freepik's new Split Grid button, and <strong>Seb Ungrad</strong> humorously showed it generating actual grid patterns. <strong>Billy Boman</strong> noted \"Freepik (unlimited) is unfortunately almost always slow\" while <strong>Albert Bozesan</strong> said credits shouldn't be slow. <strong>Edmond Yang</strong> reported \"Runway has been good for me with NBP.\" <strong>Batuhan Bintas</strong> suggested \"HailouAI / Minimax is great for Nano banana.\"",
+          "posters": [
+            "Albert Bozesan",
+            "👨🏻‍🎨",
+            "Luka T",
+            "Billy Boman",
+            "Edmond Yang",
+            "Jordan Daniel Chesney",
+            "Seb Ungrad",
+            "Batuhan Bintas",
+            "Noah"
+          ]
+        },
+        {
+          "title": "💰 X Creator Program - $500K Funding",
+          "link": "https://creatorshq.com/x-originals/",
+          "description": "<strong>PJ Accetturo</strong> shared news about X Originals offering funding. <strong>Matty</strong> clarified \"Looks like it's $100K for 5 Creators $500K total.\" <strong>Rourke</strong> revealed extensive Dubai opportunities: \"Creators HQ are going nuts, they've already recruited me to relocate to Dubai. They're trying to move something like 5000 creators a year to Dubai, investing super heavy into AI companies atm, the government is giving significant benefits if they set up offices there.\" He detailed: \"First of all, no income tax and 9% corporation tax, so basically 2x payday anyway, but depending on how big your company is, they bracket you into tiers and give you priority on big 'government' contracts (the government owns 50% of the businesses + economy out there basically).\" <strong>Kēkā</strong> proposed: \"How many dreamers can rally, form a collective, pool resources and find interesting ways to collab and start an inner-city on the back of Dubai...\" <strong>Edmond Yang</strong> clarified the program structure: \"So... we submit the idea, top 5 gets 100k to make the idea come to life, and they choose top 3?\"",
+          "posters": [
+            "PJ Accetturo",
+            "Matty",
+            "Rourke",
+            "Kēkā",
+            "Edmond Yang",
+            "Noah"
+          ]
+        },
+        {
+          "title": "🎬 Hat Trick Productions - UK TV Industry AI Adoption",
+          "link": "https://vimeo.com/1158357842?share=copy&fl=sv&fe=ci",
+          "description": "<strong>Liam</strong> announced a \"Huge moment for Hat Trick Productions incoming\" with a BTS documentary showcasing AI adoption by a major UK legacy TV/Film player. He emphasized: \"The films themselves can't be shown (it was closed-door) but I'm super proud of this BTS documentary and I think it's a big moment in the UK TV/Film industry demonstrating adoption by a major legacy player. This doc is deliberately honest about creativity with AI - the good and the not so good.\" <strong>Yigit</strong> responded \"Love it Liam! Beautifully shot and edited.\" <strong>Ryan Phillips</strong> noted: \"I remember hearing about this on the grapevine and being proper jealous! Hat trick are a great company to have as a partner pushing AI forward.\"",
+          "posters": [
+            "Liam",
+            "Yigit",
+            "Ryan Phillips"
+          ]
+        },
+        {
+          "title": "🎥 Lily Wins 1 Billion Summit AI Film Award",
+          "link": "https://www.1billionsummit.com",
+          "description": "<strong>Chris First</strong> announced from Dubai: \"Time for the announcement of the 1,000,000 prize here in Dubai! Lily won.\" <strong>David Clark</strong> stated \"The right film won in my opinion. Out of what was left in the top 5.\" <strong>Billy Boman</strong> countered: \"It's just the wrong top 5. Compared to so many pieces made by the collective genius here in this group - all finalists were mediocre imo.\" <strong>Minh</strong> called it \"a banger film.\" The community joked about taxes and creating an alternative ceremony, with <strong>Martin LeBlanc</strong> proposing \"Realdreams taxes\" and <strong>Edmond Yang</strong> noting \"we love taxes in norway too.\"",
+          "posters": [
+            "Chris First",
+            "David Clark",
+            "Billy Boman",
+            "Minh",
+            "Edmond Yang",
+            "Martin LeBlanc",
+            "Jovardi"
+          ]
+        },
+        {
+          "title": "🎨 Reve References Feature",
+          "link": "https://www.linkedin.com/posts/reveimage_introducing-references-out-now-in-reve-activity-7415123083767828480-p0mc",
+          "description": "<strong>Billy Boman</strong> shared the announcement of Reve's new References feature, continuing the platform's rapid development and feature additions.",
+          "posters": [
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🎬 Runway AI Summit with Kathleen Kennedy",
+          "link": "https://www.linkedin.com/posts/runwayml_introducing-the-runway-ai-summita-new-daylong-activity-7417215073560993792-oPWL",
+          "description": "<strong>Billy Boman</strong> shared: \"Kathleen Kennedy of Lucasfilm speaking on Runways AI summit - this year we're going mainstream!\" The announcement signals major Hollywood adoption of AI tools.",
+          "posters": [
+            "Billy Boman"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "💡 Key Insights & Discussions",
+      "items": [
+        {
+          "title": "🎬 Kling 01 Elements Workflow Deep Dive",
+          "link": "",
+          "overview": "<strong>Jordan Daniel Chesney</strong> provides comprehensive breakdown of the breakthrough workflow.",
+          "description": "<strong>Jordan</strong> explained the workflow: \"Go to Kling 01, Select 'Elements', Build your micro-LoRAs (Elements) = 4 images per LoRA, Add images (up to 6), Then reference your elements (LoRAs) and images with @ references, Choose between 3-10 seconds (1080p).\" He emphasized: \"It's not a START and END frame kind of tool. Give it 4 images for the shot, plus this woman as a Character Element (lora). Maybe even the cars are Elements too. I'm using upwards to 30 images now to create 1 shot. The more images you feed the better.\" <strong>Luka T</strong> asked about having multiple people in a shot with only one speaking/moving. <strong>Edmond Yang</strong> recommended: \"Isolate and combine in post\" or use Kling lip-sync where \"you can actually choose who is speaking.\" <strong>Jordan</strong> suggested: \"Use Kling 01 for this. Create multiple micro LoRAs of each person (as Elements) and then upload up to 6 images for your scene blocking.\" <strong>Ryan Phillips</strong> wished for \"more aspect ratios.\"",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Stephan Bugaj",
+            "Luka T",
+            "Edmond Yang",
+            "Ryan Phillips",
+            "👨🏻‍🎨"
+          ]
+        },
+        {
+          "title": "🎨 Nano Banana Pro Grid Strategy",
+          "link": "",
+          "overview": "<strong>Martin LeBlanc</strong> and <strong>Billy Boman</strong> discuss the famous 3x3 grid workflow.",
+          "description": "<strong>Billy Boman</strong> asked: \"Anyone got some fav prompt formulas down for the famous 3x3 Nano Grid strategy?\" <strong>Martin LeBlanc</strong> shared they have it \"baked into the UI\" and revealed their prompt: \"Generate a cohesive 3×3 grid 'Cinematic Contact Sheet' featuring 9 distinct camera shots of exactly these subjects in the same environment. You must adapt the standard cinematic shot types to fit the content (e.g., if a group, keep the group together; if an object, frame the whole object): [List each shot here]\" He also shared a detailed LLM prompt for extracting and enhancing individual panels: \"You are given a storyboard contact sheet: one grid image with multiple panels. Task: Create a prompt for isolate and enhance only the panel mentioned... Hard constraints: Do not change the composition, framing, camera angle, or perspective. Do not add, remove, or modify any characters, props, objects, or background elements...\" <strong>James McAulay</strong> tested it successfully but noted \"the camera angles could be more distinct.\" <strong>Edmond Yang</strong> suggested \"Probably better in 16:9 instead of 1:1, so you get more closer to the final shot. Sometimes I prompt it to do very different camera angles just for exploring.\" <strong>Gabe Michael</strong> created a similar Space for b-roll \"that does a similar thing but without losing quality on the grid.\"",
+          "posters": [
+            "Billy Boman",
+            "Martin LeBlanc",
+            "James McAulay",
+            "Edmond Yang",
+            "Gabe Michael"
+          ]
+        },
+        {
+          "title": "🎬 Logo Consistency Technique",
+          "link": "",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares critical technique for maintaining logo integrity.",
+          "description": "<strong>Marco</strong> lamented: \"I just need a video model to NOT fuck up logos now... lol\" <strong>Jordan</strong> responded with his solution: \"I do FIRST frame and LAST frame to hold logos together. With the logos consistent together in both frames Kling does an amazing job of holding them together throughout.\" <strong>Marco</strong> agreed: \"yeah, fair point - just hate how if u don't do that they go to shit!\" <strong>Jordan</strong> confirmed: \"I know right. Tell me bout it. Did a few fashion commercials and we had to do FIRST and LAST frame for every single shot, no exceptions.\"",
+          "posters": [
+            "Marco",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "📸 Camera & Lens Prompting from IMDb",
+          "link": "",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares pro technique for authentic cinematography.",
+          "description": "<strong>Jordan</strong> shared: \"If you're ever looking for camera and lens prompts to capture that perfect look, go to: IMDb, Search for a film that had the look you love, check the Tech Specs. Lots of the time, lenses, film stock, cameras etc. are listed out. This is the tech specs for Taxi Driver, one of my favorite looks.\" <strong>Yonatan Dor brothers</strong> asked which movie, and <strong>Jordan</strong> confirmed \"Taxi Driver.\"",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Yonatan Dor brothers"
+          ]
+        },
+        {
+          "title": "🎬 Timelapse Clock Challenge",
+          "link": "",
+          "overview": "<strong>Henry</strong> seeks solutions for the \"holy grail\" of clock timelapses.",
+          "description": "<strong>Henry</strong> asked: \"Cheeky question: does anyone know a model which can properly do the timelapse of a clock? Closer I got from testing a bunch of models is VEO but it seems like hands of a clock is still the holy grail of genAI. Any success doing this?\" <strong>Justin Hackney</strong> suggested: \"Have you tried hyperlapse as well as Timelapse etc for prompting? We had something like this and was a bit of a nightmare. Needed up doing a bunch of frame to frame + single image generations, reducing the frame rate etc.\" <strong>Rory Flynn</strong> offered: \"I actually had success on WAN2.6 with this..also Kling keyframes in 01\" and recommended \"using a keyframe that has like the radial blur of the Timelapse effect as the end frame.\" <strong>Henry</strong> ultimately decided: \"I might end up having to just After Effect it.\"",
+          "posters": [
+            "Henry",
+            "Justin Hackney",
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🎨 Model Preferences Discussion",
+          "link": "",
+          "overview": "<strong>Martin LeBlanc</strong> surveys the community on most-used models.",
+          "description": "<strong>Martin LeBlanc</strong> asked for a prompting guide: \"I'm putting together a prompting guide - a PDF with all kinds of useful tips/tricks and prompt examples for the most popular models... which models are you guys relying the most on at the moment?\" His proposed list: NBP, Seedream 4.5, Kling o1, Kling 2.6, Kling 2.6 MoCo, Veo 3.1, Seedance 1.5, Sora. <strong>Edmond Yang</strong> confirmed: \"NBP, all klings.\" <strong>Sebastian Kamph</strong> represented the open source perspective: \"I use Wan for most of my professional work, as I primarily build custom pipelines for shots that can't be solved by any of the closed source models. For stills, it's zimage, qwen, flux (also wan, even though it's a video model).\" He specified \"2.2 primarily. 2.5 and 2.6 are only api\" and noted \"I'm probably in the minority in this particular group.\"",
+          "posters": [
+            "Martin LeBlanc",
+            "Edmond Yang",
+            "Sebastian Kamph"
+          ]
+        },
+        {
+          "title": "🎬 Open Source vs Closed Source Debate",
+          "link": "",
+          "overview": "<strong>Noah</strong> advocates for local open source reliability.",
+          "description": "During Freepik outages, <strong>Noah</strong> declared: \"I will bang on the open source local drum for my entire life just because I don't trust aws or Facebook to keep the internet on.\" <strong>Billy Boman</strong> challenged: \"Any open source equivalent of Nano Pro? I sure haven't found one so far (Flux isn't even close in prompt adherence and keeping styles etc).\" <strong>Edmond Yang</strong> suggested \"Flux 2 klein?\" <strong>Noah</strong> responded: \"Klien or Qwen. Nano is a miracle for sure and you'll need to be a little more patient with the other tools but the safety of being sequestered in your own controlled garden is worth it.\" <strong>Luka T</strong> noted: \"It's great edit model but getting 2 or even 4K (without upscaling hence destroying consistency to an extent) is a hustle, NBP is still the best.\" <strong>Noah</strong> agreed: \"Oh 100% nano is better. It's just stuck with google's 'ethics' and 'morals' and 'don't make images of people with no skin' nonsense.\"",
+          "posters": [
+            "Noah",
+            "Billy Boman",
+            "Edmond Yang",
+            "Luka T"
+          ]
+        },
+        {
+          "title": "🎨 T-Pose and Y-Pose for Action Shots",
+          "link": "",
+          "overview": "<strong>Blvckl!ght</strong> shares technique for dynamic action composition.",
+          "description": "<strong>Blvckl!ght</strong> revealed: \"I use 'T pose' and 'Y pose, helps with action shots. Also 'add motion blur' for mid-action shots (super useful for all the wides bc then you can in-paint other parts of the scene.\" This technique helps with character positioning and dynamic scene composition.",
+          "posters": [
+            "Blvckl!ght"
+          ]
+        },
+        {
+          "title": "🎬 Pika Status Questions",
+          "link": "",
+          "overview": "Community discusses Pika's current state and direction.",
+          "description": "<strong>Matthieu</strong> asked \"was just wondering if pika is still alive.\" <strong>Harvey</strong> inquired: \"Whats the pika scoop?\" <strong>KevinShah/CreativeAIgency</strong> clarified: \"Leonie is at xAI.\" <strong>Blvckl!ght</strong> explained: \"They jumped the shark when they bailed on everything to do UGC and their own ugc platform. Sora 2 launch nuked that immediately and they haven't recovered since.\" <strong>Leonie</strong> responded with \"say more pls\" and <strong>Harvey</strong> asked: \"I saw their socials hadn't been very active and someone mentioned a buy out, are you still with them?\" <strong>Andy Mc</strong> noted: \"Comfy don't appear to support it via API anymore - ditto Freepik.\"",
+          "posters": [
+            "Matthieu",
+            "Harvey",
+            "Leonie",
+            "KevinShah/CreativeAIgency",
+            "Blvckl!ght",
+            "Andy Mc"
+          ]
+        },
+        {
+          "title": "🎬 AI vs Traditional Production Discussion",
+          "link": "",
+          "overview": "Community debates whether obvious AI shots exist in recent commercial work.",
+          "description": "<strong>Billy Boman</strong> shared a LinkedIn post and asked: \"Me too! But...is there actually any 'obvious' AI here? as in full AI shots? I couldn't spot any...\" <strong>Jordan Daniel Chesney</strong> responded: \"I was wondering the same.\" <strong>Pierre Zandrowicz</strong> clarified: \"Not AI.\" <strong>Jordan</strong> humorously noted: \"How funny that we're now saying Not AI. Sorry, I thought it was AI. My mistake. Still a great ad.\"",
+          "posters": [
+            "Billy Boman",
+            "Jordan Daniel Chesney",
+            "Pierre Zandrowicz"
+          ]
+        },
+        {
+          "title": "🎬 Celebrities and AI Warnings",
+          "link": "",
+          "overview": "Discussion on celebrity warnings about AI and future relevance.",
+          "description": "<strong>Jordan Daniel Chesney</strong> shared a post: \"Celebrities should pontificate their warnings and ideals while they're still relevant cause soon enough, few will listen.\" <strong>Stephan Bugaj</strong> countered: \"Very unlikely. I've heard this claim since the Synthespians of the Thalmanns, and while that work was too little too early — people still ultimately want to connect with other people. Some of those people will likely be new AI Creator celebrities, the Parker & Stones and Nolans of the medium, but there will still be humans that other humans have parasocial relationships with as long as there are humans.\" <strong>Jordan</strong> responded: \"Good point. We will always suffer fools simply because they're human.\" <strong>Aaron Bhugobaun</strong> added: \"Not sure if its going to break new ground or be unique enough. but, is anyone going to tell him about the AI that is being developed and used at Netflix.\"",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Stephan Bugaj",
+            "Aaron Bhugobaun"
+          ]
+        },
+        {
+          "title": "🎬 FOMO and Keeping Up with Tools",
+          "link": "",
+          "overview": "<strong>Blair</strong> expresses universal creator challenge.",
+          "description": "<strong>Blair</strong> shared: \"I'm reminded when I stop by here (when i get a chance) that I don't even know how up to date (or seriously lacking I am) with all the tools cause I'm head down busy all the time. A bit of fomo happening. Anyone else feel this?\" <strong>Justin Hackney</strong> responded: \"Always. And yet we're all surfing the wave.\"",
+          "posters": [
+            "Blair",
+            "Justin Hackney"
+          ]
+        },
+        {
+          "title": "🎬 Grok Image and Video Generation",
+          "link": "https://x.com/mxvdxn/status/2015804969555816519?s=20",
+          "overview": "<strong>Jordan Daniel Chesney</strong> showcases Grok's capabilities.",
+          "description": "<strong>Jordan</strong> shared: \"This is Grok images and video gens. Pretty powerful for action, if you ask me.\" <strong>Tom Furse</strong> responded: \"That's slaps.\" <strong>BasvdE</strong> called it \"the best I've seen so far.\" <strong>Jordan</strong> confirmed: \"Crazy, right?!\"",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Tom Furse",
+            "BasvdE"
+          ]
+        },
+        {
+          "title": "🎬 Curious Refuge Time & Cost Breakdown",
+          "link": "https://youtu.be/FiDw4cqVppc?si=dz0s6GxZZPYTADb2",
+          "overview": "<strong>Winston Mayo</strong> highlights valuable production analysis.",
+          "description": "<strong>Winston Mayo</strong> shared: \"This time and cost breakdown in AI from curious refuge is fantastic.\" The video provides detailed analysis of production timelines and budgets for AI filmmaking.",
+          "posters": [
+            "Winston Mayo"
+          ]
+        },
+        {
+          "title": "🎨 Neocept Design Style",
+          "link": "https://x.com/Neocept_Design/status/2015808194828972188?s=20",
+          "overview": "<strong>Jordan Daniel Chesney</strong> discovers compelling visual style.",
+          "description": "<strong>Jordan</strong> shared: \"Wow, I'm really digging this style.\" <strong>Sami</strong> agreed: \"pretty dope!\" <strong>Jordan</strong> added: \"Crazy, cool, right?! I'd love to see a whole story in this style. This guy's worth a follow over on X.\"",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Sami"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📚 Tutorials & Techniques",
+      "items": [
+        {
+          "title": "🎮 Kling 01 Elements Complete Workflow",
+          "overview": "<strong>Jordan Daniel Chesney</strong> provides step-by-step guide for the breakthrough workflow.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "steps": "1. Go to Kling 01\n2. Select 'Elements'\n3. Build your micro-LoRAs (Elements) = 4 images per LoRA\n4. Add images (up to 6)\n5. Reference your elements (LoRAs) and images with @ references\n6. Choose between 3-10 seconds (1080p)",
+            "key_insight": "*Not a START and END frame tool - feed it 4 images for the shot, plus character Elements (LoRAs). Use upwards to 30 images to create 1 shot. The more images you feed the better.*",
+            "why_it_works": "*Coupled with NBP, you can now block exactly where the camera goes, exactly what multiple subjects do, where they stand, how they act, and control hundreds of details within your room/scene, with total consistency.*"
+          }
+        },
+        {
+          "title": "🎨 Topaz Proteus Optimal Settings",
+          "overview": "<strong>Billy Boman</strong> shares his production-tested Proteus configuration.",
+          "posters": [
+            "Billy Boman"
+          ],
+          "tutorial": {
+            "settings": "*Proteus for all-around use. Recovery detail to zero. Change from automatic to manual analysis for clips and then hit estimate - zero sharpen and improve detail.*",
+            "why_these_settings": "*Provides clean upscaling without over-sharpening or adding unwanted detail enhancement.*"
+          }
+        },
+        {
+          "title": "🎬 Topaz Astra for Motion Artifacts",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares technique for fixing morphing issues.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "technique": "*Use Topaz Astra Precise to re-generate in upscale. As long as you can roto sections, like characters faces, this workflow saves 50% of the low quality motion artifacts.*",
+            "advanced_workflow": "*Manually roto in After Effects with multiple upscalers: 1 level of generative upscale for backgrounds, 1 for elements/logos, and 1 for faces. Would pay $100 a clip if Topaz automated this with SMART ROTO/COMPOSITION.*"
+          }
+        },
+        {
+          "title": "🎨 Topaz Astra for Closeups",
+          "overview": "<strong>Edmond Yang</strong> shares Astra workflow with limitations.",
+          "posters": [
+            "Edmond Yang"
+          ],
+          "tutorial": {
+            "use_case": "*Astra for closeups is pretty good, but hallucinates with small objects.*",
+            "workaround": "*Crop in and upscale and put back again. Need to upscale clip by clip since there's some ghosting between shots, at least 1-2 frames.*"
+          }
+        },
+        {
+          "title": "🎬 Logo Consistency: First & Last Frame Technique",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares critical commercial workflow.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "technique": "*Do FIRST frame and LAST frame to hold logos together. With the logos consistent together in both frames Kling does an amazing job of holding them throughout.*",
+            "production_reality": "*Did a few fashion commercials and had to do FIRST and LAST frame for every single shot, no exceptions.*"
+          }
+        },
+        {
+          "title": "📸 Camera & Lens Prompting from IMDb Tech Specs",
+          "overview": "<strong>Jordan Daniel Chesney</strong> reveals professional cinematography research method.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "workflow": "1. Go to IMDb\n2. Search for a film that had the look you love\n3. Check the Tech Specs\n4. Lots of the time, lenses, film stock, cameras etc. are listed out",
+            "example": "*Taxi Driver tech specs provide authentic camera and lens information for prompting.*"
+          }
+        },
+        {
+          "title": "🎨 3x3 Nano Banana Grid Prompt Formula",
+          "overview": "<strong>Martin LeBlanc</strong> shares Higgsfield's production prompt.",
+          "posters": [
+            "Martin LeBlanc"
+          ],
+          "tutorial": {
+            "base_prompt": "*\"Generate a cohesive 3×3 grid 'Cinematic Contact Sheet' featuring 9 distinct camera shots of exactly these subjects in the same environment. You must adapt the standard cinematic shot types to fit the content (e.g., if a group, keep the group together; if an object, frame the whole object): [List each shot here]\"*",
+            "extraction_prompt": "*Use LLM to generate extraction prompt with hard constraints: Do not change composition, framing, camera angle, or perspective. Do not add, remove, or modify any characters, props, objects, or background elements. Clean up artifacts, sharpen details, improve resolution and texture quality.*",
+            "optimization": "*Better in 16:9 instead of 1:1 to get closer to final shot. Sometimes prompt very different camera angles for exploring.*"
+          }
+        },
+        {
+          "title": "🎬 Kling Multiple Characters Lip Sync",
+          "overview": "<strong>Edmond Yang</strong> explains selective animation technique.",
+          "posters": [
+            "Edmond Yang",
+            "Luka T"
+          ],
+          "tutorial": {
+            "problem": "*Having multiple people in a shot but only wanting one person to speak/move.*",
+            "solution": "*Isolate and combine in post - basically having two shots: non-speaking and speaking. In Kling lip-sync you can actually choose who is speaking (need a pre-gen video).*"
+          }
+        },
+        {
+          "title": "🎮 Kling 01 Elements for Multiple Characters",
+          "overview": "<strong>Jordan Daniel Chesney</strong> provides advanced multi-character workflow.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "workflow": "*Create multiple micro LoRAs of each person (as Elements) and then upload up to 6 images for your scene blocking.*",
+            "advanced_technique": "*Use Kling 01 with Elements for precise control over multiple subjects, their positions, actions, and interactions.*"
+          }
+        },
+        {
+          "title": "🎬 Timelapse Clock Workarounds",
+          "overview": "<strong>Rory Flynn</strong> and <strong>Justin Hackney</strong> share solutions for the clock challenge.",
+          "posters": [
+            "Rory Flynn",
+            "Justin Hackney"
+          ],
+          "tutorial": {
+            "successful_models": "*WAN 2.6 and Kling keyframes in 01 have had success.*",
+            "techniques": "*Try 'hyperlapse' as well as 'timelapse' in prompts. Use keyframe with radial blur of the timelapse effect as the end frame. Or do frame-to-frame + single image generations, reducing frame rate.*",
+            "fallback": "*After Effects for manual control when AI fails.*"
+          }
+        },
+        {
+          "title": "🎨 Freepik NBP Workaround During Slowness",
+          "overview": "<strong>Billy Boman</strong> shares technique for better results during outages.",
+          "posters": [
+            "Billy Boman"
+          ],
+          "tutorial": {
+            "workaround": "*Use 'Cinematic Live Action prompting' + references to work around quality issues.*",
+            "caveat": "*Absolutely sometimes it goes into old Imagen vibes in the worst way.*"
+          }
+        },
+        {
+          "title": "🎨 Freepik Split Grid Feature",
+          "overview": "<strong>Jordan Daniel Chesney</strong> demonstrates new grid workflow.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "feature": "*Freepik has a Split Grid button and it does exactly what you think it does.*",
+            "use_case": "*Generate grids and split them for individual panel extraction and upscaling.*"
+          }
+        },
+        {
+          "title": "🎨 DorLabs Grid Workflow",
+          "overview": "<strong>Yonatan Dor brothers</strong> previews comprehensive grid system.",
+          "posters": [
+            "Yonatan Dor brothers"
+          ],
+          "tutorial": {
+            "capabilities": "*Create grids based on image refs, get prompt suggestions based on input, extract any panel + upscale & optional modification in 1 step. Toggle characters & locations on/off at any step. Feed it a script, ref image, or one sentence.*",
+            "speed_improvement": "*80% faster filmmaking workflow.*"
+          }
+        },
+        {
+          "title": "🎬 LTX Audio-to-Video Workflow",
+          "overview": "<strong>Ari kuschnir</strong> demonstrates music video application.",
+          "posters": [
+            "Ari kuschnir"
+          ],
+          "tutorial": {
+            "workflow": "*Use LTX audio-to-video for lip-sync, combine with Kling Motion Control and Runway 4.5 for complete music video production.*",
+            "use_case": "*Created music video remake using this multi-tool approach.*"
+          }
+        },
+        {
+          "title": "🎨 T-Pose and Y-Pose for Action Shots",
+          "overview": "<strong>Blvckl!ght</strong> shares character positioning technique.",
+          "posters": [
+            "Blvckl!ght"
+          ],
+          "tutorial": {
+            "technique": "*Use 'T pose' and 'Y pose' prompts for action shots. Add 'motion blur' for mid-action shots.*",
+            "advanced_use": "*Super useful for all the wides because then you can in-paint other parts of the scene.*"
+          }
+        },
+        {
+          "title": "🎬 Runway 4.5 Multi-Shot Sequences",
+          "overview": "<strong>Marco</strong> demonstrates improved capabilities.",
+          "posters": [
+            "Marco"
+          ],
+          "tutorial": {
+            "improvements": "*Dramatically improved running physics. Multi-shot sequences work well.*",
+            "remaining_challenge": "*Logos still need FIRST and LAST frame technique for consistency.*"
+          }
+        },
+        {
+          "title": "🎨 Higgsfield Camera & Lens UI",
+          "overview": "<strong>Edmond Yang</strong> and <strong>Martin LeBlanc</strong> discuss reverse engineering.",
+          "posters": [
+            "Edmond Yang",
+            "Martin LeBlanc"
+          ],
+          "tutorial": {
+            "observation": "*Higgsfield has nice camera and lens UI that's just prompts with no post-processing or tricks.*",
+            "approach": "*Should be possible to reverse engineer the prompt structure.*"
+          }
+        },
+        {
+          "title": "🎬 Creatify Aurora Lip Sync",
+          "overview": "<strong>PJ Accetturo</strong> asks about new lip-sync option.",
+          "posters": [
+            "PJ Accetturo",
+            "Linus Ekenstam"
+          ],
+          "tutorial": {
+            "tool": "*Creatify Aurora for lip sync with audio.*",
+            "comparison": "*LTX is really powerful. Problem with most lip-sync models: camera is always completely static. Veo remained king for so long because moving camera helped get past uncanny speaking.*"
+          }
+        },
+        {
+          "title": "🎬 Kling Lip Sync on Pre-Gen Videos",
+          "overview": "<strong>Edmond Yang</strong> confirms Kling's lip-sync quality.",
+          "posters": [
+            "Edmond Yang"
+          ],
+          "tutorial": {
+            "assessment": "*The lip-sync at Kling is pretty decent on videos.*",
+            "workflow": "*Use on pre-generated video content for best results.*"
+          }
+        },
+        {
+          "title": "🎨 Gabe Michael B-Roll Grid Space",
+          "overview": "<strong>Gabe Michael</strong> shares alternative grid workflow.",
+          "posters": [
+            "Gabe Michael"
+          ],
+          "tutorial": {
+            "feature": "*Created one for b-roll that does similar thing but without losing quality on the grid.*",
+            "access": "*Shared Freepik Space link for community use.*"
+          }
+        },
+        {
+          "title": "🎬 Moltbot (Clawdbot) AI Agent",
+          "overview": "<strong>Edmond Yang</strong> shares new AI agent discovery.",
+          "posters": [
+            "Edmond Yang"
+          ],
+          "tutorial": {
+            "tool": "*Moltbot (previously Clawdbot) - crazy tech for AI automation.*",
+            "teaser": "*Working on new game project using the technology.*"
+          }
+        },
+        {
+          "title": "🎨 Flux 2 Klein LoRA Training",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares training resource.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "resource": "*ML Sharp Flux2 Klein training guide.*",
+            "link": "*LinkedIn post with comprehensive training workflow.*"
+          }
+        },
+        {
+          "title": "🎬 Winston Mayo AI Music Videos Class",
+          "overview": "<strong>Winston Mayo</strong> announces GenClass workshop.",
+          "posters": [
+            "Winston Mayo"
+          ],
+          "tutorial": {
+            "focus": "*AI Music Videos 101: Creative decisions that turn sound into cinematic emotion. Not about tools—about vision, timing, and taste.*",
+            "date": "*Wednesday, January 28th via Luma.*"
+          }
+        },
+        {
+          "title": "🎨 D4RT - 4D Scene Understanding",
+          "overview": "<strong>Justin Hackney</strong> highlights Google DeepMind breakthrough.",
+          "posters": [
+            "Justin Hackney"
+          ],
+          "tutorial": {
+            "technology": "*D4RT: Teaching AI to see the world in four dimensions.*",
+            "link": "*https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/*",
+            "significance": "*Major advancement in spatial and temporal understanding.*"
+          }
+        },
+        {
+          "title": "🎬 Lasso Tool for Video Matting",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares rotoscoping tool.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "tool": "*Lasso tool for video matting and styleframe work.*",
+            "reaction": "*\"I'm 100% trying this.\"*"
+          }
+        },
+        {
+          "title": "🎨 Gaussian Splatting Music Video Workflow",
+          "overview": "<strong>Billy Boman</strong> showcases advanced 3D technique.",
+          "posters": [
+            "Billy Boman"
+          ],
+          "tutorial": {
+            "example": "*Christopher Rutledge music video using Gaussian Splatting.*",
+            "description": "*\"Gaussian Splatting Badassery\"*"
+          }
+        },
+        {
+          "title": "🎬 OpenWork AI Platform",
+          "overview": "<strong>Matthieu</strong> shares new AI work platform.",
+          "posters": [
+            "Matthieu",
+            "Ryan Phillips"
+          ],
+          "tutorial": {
+            "platform": "*Accomplish.ai/openwork - new AI collaboration platform.*",
+            "reception": "*\"Was really impressed with this.\"*"
+          }
+        }
+      ]
+    },
+    {
+      "title": "🎨 Community Showcases & Projects",
+      "items": [
+        {
+          "title": "🎬 Arthur Chance - Giggs Music Video",
+          "link": "https://www.instagram.com/reel/DTxJgCdjav5/?igsh=aml6d3h5OWtubTc1",
+          "description": "<strong>Arthur Chance</strong> shared a new film for artist Giggs, made in Veo 2 & 3.1, Nano Banana Pro, Gemini and AI Studio. The exciting development was creating \"an AI ethnographic researcher to act like an archive producer - giving the film a level of authenticity that only a local or academic would know. The artist was happy and surprised by the level of cultural minutia. Very wild.\" <strong>Tom Furse</strong> responded: \"Lil rapper called Giggs\" with shock emoji, recognizing the major UK artist.",
+          "posters": [
+            "Arthur Chance",
+            "Tom Furse"
+          ]
+        },
+        {
+          "title": "🎬 Ari kuschnir - Music Video Remake",
+          "link": "https://www.instagram.com/reel/DT-0mC6CbWX/?igsh=NTc4MTIwNjQ2YQ==",
+          "description": "<strong>Ari kuschnir</strong> shared: \"Here's my new one, woke up with it in my head a few days ago and the LTX audio to video came out the next day so I could do it. Also used Kling Motion Control and a few shots add the end with the new Runway 4.5 (inside car).\" <strong>Linus Ekenstam</strong> called it \"epic\" and suggested adding captions, but <strong>Ari</strong> noted he \"wanted to stay true to the original.\"",
+          "posters": [
+            "Ari kuschnir",
+            "Linus Ekenstam"
+          ]
+        },
+        {
+          "title": "🎬 Yonatan Dor brothers - Political Commentary",
+          "link": "https://youtu.be/5eTORQRjCZw?si=RBld9To5ovbQuPwf",
+          "description": "<strong>Yonatan Dor brothers</strong> shared a heavy political piece with warning. <strong>PJ Accetturo</strong> responded: \"holy shit that's heavy. it really goes to show how ignorant these dumbasses are and how good we have it today.\" <strong>Ryan Phillips</strong> said: \"Hits like an atom bomb. Powerful stuff.\" <strong>Harvey</strong> disagreed with the approach, but <strong>Yonatan</strong> explained: \"Grew up in israel with Holocaust survivors, they'd approve. Thank you for the thought!\" <strong>Blvckl!ght</strong> said: \"You won me over with this one. Very poignant. Well done.\" <strong>Billy Boman</strong> called it \"Exceptional contemporary socio-political commentary that hits harder than usual.\" <strong>Justin Hackney</strong> simply said: \"Phenomenal.\"",
+          "posters": [
+            "Yonatan Dor brothers",
+            "PJ Accetturo",
+            "Ryan Phillips",
+            "Harvey",
+            "Blvckl!ght",
+            "Billy Boman",
+            "Justin Hackney"
+          ]
+        },
+        {
+          "title": "🎬 Liam - Hat Trick Productions BTS Documentary",
+          "link": "https://vimeo.com/1158357842?share=copy&fl=sv&fe=ci",
+          "description": "<strong>Liam</strong> announced a major moment for Hat Trick Productions with a BTS documentary showcasing AI adoption by a major UK legacy TV/Film player. He emphasized the doc is \"deliberately honest about creativity with AI - the good and the not so good.\" <strong>Yigit</strong> praised: \"Love it Liam! Beautifully shot and edited.\" <strong>Ryan Phillips</strong> noted: \"Hat trick are a great company to have as a partner pushing AI forward.\" <strong>Liam</strong> thanked <strong>Yigit</strong> for \"all the support and hard work\" and for cooking together.",
+          "posters": [
+            "Liam",
+            "Yigit",
+            "Ryan Phillips"
+          ]
+        },
+        {
+          "title": "🎬 Linus Ekenstam - Life Advice Video",
+          "link": "https://www.youtube.com/watch?v=n_nhixh_CpA",
+          "description": "<strong>Linus Ekenstam</strong> shared: \"Not AI, but just a way to live your life better each day. Thanks @Justin Hackney for having me in here, I'm learning so much from everyone daily.\"",
+          "posters": [
+            "Linus Ekenstam"
+          ]
+        },
+        {
+          "title": "🎬 Max - Real-Time Editing Demo",
+          "link": "https://www.linkedin.com/posts/maxlarsson-safustudio_crazy-how-fast-this-is-real-time-editing-ugcPost-7421650482227548161-LhNi",
+          "description": "<strong>Max</strong> demonstrated real-time editing capabilities, showcasing the speed of modern AI-assisted workflows.",
+          "posters": [
+            "Max"
+          ]
+        },
+        {
+          "title": "🎬 Edmond Yang - Reaction Video",
+          "link": "https://www.instagram.com/reel/DT5rYBtDHNj/?igsh=dnVhaHNrN2oyMWE0",
+          "description": "<strong>Edmond Yang</strong> shared: \"This was fun to have a reaction video for\" showcasing community engagement with AI content.",
+          "posters": [
+            "Edmond Yang"
+          ]
+        },
+        {
+          "title": "🎬 Albert Bozesan - Banana Slugs Pitch Deck",
+          "link": "",
+          "description": "<strong>Albert Bozesan</strong> shared: \"I'm teaching pitch decks in the Curious Refuge course refresher, the example project is an animated adventure about Banana Slugs. Pretty proud of this pun\" with image showing the project.",
+          "posters": [
+            "Albert Bozesan"
+          ]
+        },
+        {
+          "title": "🎬 Ryan Phillips - Kling Motion Control Demo",
+          "link": "",
+          "description": "<strong>Alex</strong> praised: \"Best use of Kling motion I've seen so far. Incredible work, mate.\" <strong>Ryan Phillips</strong> responded: \"Cheers Alex Mate.\"",
+          "posters": [
+            "Ryan Phillips",
+            "Alex"
+          ]
+        },
+        {
+          "title": "🎬 Justin Hackney - Parliament Visit",
+          "link": "",
+          "description": "<strong>Justin Hackney</strong> shared: \"Somehow Parliament let me through security today. Honoured to be invited into conversations about the good, the bad, and the genuinely spicy shifts unfolding right now... When I spoke on Realdreams - I welled up a little inside - Such savants, innovators, and creative forces within this community, I felt genuinely humbled to be part of it. Grateful, grounded, and unlocked for what comes next.\" <strong>BasvdE</strong> responded: \"Happy to see you make such an impact for us all @Justin Hackney keep up the good work.\" <strong>Blvckl!ght</strong> humorously edited the photo to fix Justin's height, and <strong>Jordan Daniel Chesney</strong> created face-swapped versions.",
+          "posters": [
+            "Justin Hackney",
+            "BasvdE",
+            "Blvckl!ght",
+            "Jordan Daniel Chesney",
+            "Rory Flynn"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "👋 New Members",
+      "items": [
+        {
+          "title": "🎵 Tom Furse - OG Generative Culture Pioneer",
+          "link": "https://www.instagram.com/tom_furse?igsh=eG90Z2hyNDZwNGc=",
+          "overview": "<strong>Justin Hackney</strong> welcomes Tom Furse, describing him as having \"OG early GAN energy.\"",
+          "description": "<strong>Justin Hackney</strong> introduced <strong>Tom Furse</strong>: \"New dreamer alert. Tom Furse. OG early GAN energy. Deep in the roots of generative culture, shaping sound and systems before it was mainstream. A true original riding the wave from the very beginning. Long overdue Tom.\" <strong>Martin LeBlanc</strong>, <strong>Ryan Phillips</strong>, <strong>Billy Boman</strong>, <strong>Ludovic</strong>, <strong>Kēkā</strong>, <strong>BasvdE</strong>, <strong>Rory Flynn</strong>, and <strong>Jim Phillips</strong> all welcomed him warmly. <strong>Tom</strong> responded: \"Thanks @Justin Hackney and hello everyone!\"",
+          "posters": [
+            "Justin Hackney",
+            "Tom Furse"
+          ]
+        },
+        {
+          "title": "🎬 Jeremy Boxer - Festival Architect & Creative Director",
+          "link": "https://www.linkedin.com/in/jeremyboxer",
+          "overview": "<strong>Justin Hackney</strong> welcomes Jeremy Boxer, describing him as \"one of those rare humans who's been quietly shaping the future of creative culture for decades.\"",
+          "description": "<strong>Justin Hackney</strong> introduced <strong>Jeremy Boxer</strong>: \"A Creative Director, Filmmaker, Curator, and Festival Architect who's held major roles at Vimeo where he co created the Vimeo Festival + Awards and Vimeo On Demand, RES / RESFEST, Tribeca Enterprises, Sónar + D, CogX, and the British Film Institute. He's worked alongside and programmed for Sundance, SXSW, Marche du Film, Burning Man, Panasonic, Warner Bros, PlayStation and more, always pushing the edge of what storytelling can become when technology actually serves human emotion, meaning, and connection. Right now Jeremy is producing and co writing the feature film How I Faked My Life with AI, which premiered at Tribeca and is now seeking distribution. At his core, Jeremy's mission is simple and powerful: Using technology as a gateway to deeper human experience, not as a distraction but as a bridge - this guy is fucking OG and has surfed the wave a few times.\" <strong>Ryan Phillips</strong>, <strong>Tom Furse</strong>, <strong>Jordan Daniel Chesney</strong>, <strong>Benny</strong>, <strong>Kēkā</strong>, <strong>Blvckl!ght</strong>, <strong>BasvdE</strong>, <strong>Rourke</strong>, <strong>MetaPuppet</strong>, <strong>Jagger</strong>, and <strong>Blair</strong> all welcomed him. <strong>Jeremy</strong> responded: \"Thanks for the warm welcome @Justin Hackney delighted to be here with you all! Nice to see so many familiar faces.\" <strong>Pierre Zandrowicz</strong> asked if he'll be at Artefact Film Festival in Paris, and <strong>Jeremy</strong> said \"There is a chance I may be.\"",
+          "posters": [
+            "Justin Hackney",
+            "Jeremy Boxer"
+          ]
+        },
+        {
+          "title": "🚀 James McAulay - Wonder Studios Head of Growth",
+          "link": "https://www.linkedin.com/in/jamesmcaulay?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+          "overview": "<strong>Justin Hackney</strong> welcomes James McAulay, who led Creator Growth at ElevenLabs and just joined Wonder Studios.",
+          "description": "<strong>Justin Hackney</strong> introduced <strong>James McAulay</strong>: \"James led Creator Growth at ElevenLabs during a breakout year and has just joined Wonder Studios to lead growth there as well. He's right at the intersection of creators, platforms, and the next phase of how this ecosystem scales. This is someone who understands momentum, distribution, and how real creator communities actually compound over time. No theory, just execution and taste - elite addition to the wonder team as head of growth. If you're building, scaling, or thinking seriously about where creator tech is heading, James is absolutely someone to connect with. Big addition to the room. And to the wonder team. Let's go.\" <strong>Billy Boman</strong>, <strong>BasvdE</strong>, <strong>Kēkā</strong>, <strong>Blair</strong>, <strong>Ryan Phillips</strong>, and <strong>Rourke</strong> all welcomed him. <strong>James</strong> responded: \"Thanks for the warm welcome, Justin! I've heard so many incredible stories about Realdreams from various members and friends over the last year. Feel privileged to be here joining the inner circle. Exciting plans are in motion for the Wonder Community and for Realdreams. Watch this space...\" He also tested the 3x3 grid prompt and asked about mobile app features.",
+          "posters": [
+            "Justin Hackney",
+            "James McAulay"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "💭 Community Insights & Discussions",
+      "items": [
+        {
+          "title": "🎬 Freepik CPP Credits Issue Resolution",
+          "link": "",
+          "overview": "Community experiences temporary Freepik CPP credits issue.",
+          "description": "<strong>Albert Bozesan</strong> reported losing access to Freepik CPP credits, noting \"they're just taking some time refreshing monthly credits. was a bit of a rude awakening this morning, I wanted to record a bunch of tuts and suddenly had no access.\" He explained \"I'm pretty sure they're still manually reapproving CPP members every month.\" The latest news was \"there's an issue with the coupons, and we're working on it.\" <strong>Andy Mc</strong> clarified: \"9th Jan is the refresh date this month for Freepik CP creds - Angela mentioned they'd bumped up more last month as they'd be refreshing a bit later this month.\" <strong>Edmond Yang</strong> shared: \"I got scared i was kicked out on the ccp, so i mailed Angela, so they said it was an internal error, and should've gone automatically.\" <strong>Martin LeBlanc</strong> later confirmed: \"There was a bug with the credits for Freepik CPP. Should be fixed now.\"",
+          "posters": [
+            "Albert Bozesan",
+            "Andy Mc",
+            "Edmond Yang",
+            "Martin LeBlanc",
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🎬 Lighthouse Live 2026 with Cool Blonde Swedish Dude",
+          "link": "",
+          "overview": "<strong>Luka T</strong> announces Lighthouse Live 2026 opening.",
+          "description": "<strong>Luka T</strong> announced: \"We're opening Lighthouse Live 2026 with the one and only - Cool Blonde Swedish Dude!!! Ya'll know who this is\" with video. Later he announced: \"We all know this legend and I'm sitting down with him next week. Join @MetaPuppet and me on next Lighthouse Live!\" <strong>Billy Boman</strong> highlighted the quote: \"'Taste is the only weapon that scales' is a sick quote!\" <strong>Justin Hackney</strong> agreed: \"Printing this on swag asap.\"",
+          "posters": [
+            "Luka T",
+            "Billy Boman",
+            "Justin Hackney",
+            "MetaPuppet"
+          ]
+        },
+        {
+          "title": "🎬 Sloperator Term Coining",
+          "link": "",
+          "overview": "Community playfully coins new terms for AI operators.",
+          "description": "<strong>Martin LeBlanc</strong> asked: \"can we get some support for 'sloperator'?\" <strong>Billy Boman</strong> suggested \"'Slopgineer'? Doesn't have the same ring to it...\" <strong>Edmond Yang</strong> added: \"The Smoooooth sloperatooooooor. I know you have the song in your head now.\" <strong>Tom Furse</strong> contributed \"Sloptomystic\" and \"Sloptomist.\" <strong>Billy Boman</strong> offered \"'Sloptologist' - Be right back honey, just a quick visit to the Sloptologer in the morning!\" <strong>Tom Furse</strong> concluded: \"It's a messy job but someone's got to do it.\" <strong>Andreas Massouras</strong> added: \"'Promptstitute' has a nice ring to it too.\" <strong>Martin LeBlanc</strong> declared it \"my favorite.\"",
+          "posters": [
+            "Martin LeBlanc",
+            "Billy Boman",
+            "Edmond Yang",
+            "Tom Furse",
+            "Andreas Massouras"
+          ]
+        },
+        {
+          "title": "🎬 Fal's Qwen ComfyUI Node with Camera Control",
+          "link": "https://x.com/jtydhr88/status/2009423802640343195?s=20",
+          "overview": "<strong>Alex</strong> highlights major Qwen advancement.",
+          "description": "<strong>Alex</strong> shared: \"Fal's new lora for Qwen is absolutely amazing guys. And now we have a Comfy node to place the camera exactly where we want.\" <strong>Billy Boman</strong> asked: \"Nice - so in essence local workflow but with need for a Fal API key to access?\" <strong>Alex</strong> clarified: \"You can install the nodes and run the models locally. No API needed.\"",
+          "posters": [
+            "Alex",
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🎬 Sirios LUT AI Tool",
+          "link": "",
+          "overview": "<strong>Sultan</strong> asks about new color grading tool.",
+          "description": "<strong>Sultan</strong> asked: \"Anyone early tested Sirios new Lut AI tool?\" No responses captured in this digest period.",
+          "posters": [
+            "Sultan"
+          ]
+        },
+        {
+          "title": "🎬 DeepSeek IPO Success",
+          "link": "",
+          "overview": "Community discusses DeepSeek's market performance.",
+          "description": "<strong>PJ Accetturo</strong> shared an image from Theoretically Tim's newsletter about DeepSeek's IPO. <strong>Sultan</strong> responded: \"Looks serious! Good for them!\" <strong>Winston Mayo</strong> noted: \"If it holds that's really great. Day 1 ipos usually surge up but then come down.\"",
+          "posters": [
+            "PJ Accetturo",
+            "Sultan",
+            "Winston Mayo"
+          ]
+        },
+        {
+          "title": "🎬 Oscars AI Rules Update",
+          "link": "",
+          "overview": "Community analyzes new Academy rules on AI.",
+          "description": "<strong>Henry</strong> asked for takes on the new rules. <strong>Tom Furse</strong> analyzed: \"I was expecting a more expanded statement but that's all it says about AI in the rules change. Looks like they're saying 'we're open to AI submissions but we might ask you about them' but using a stern tone that placates the anxieties around AI in the industry.\" <strong>Henry</strong> agreed: \"Yeah, kinda getting the same...We're not closing the door but we'll hold you accountable for its usage.\" <strong>Tom</strong> wondered: \"'Reserves the right to inquire' - I wonder what questions they'd even ask?\" <strong>Rory Flynn</strong> joked: \"Would be funny if it was in like 90% of the submissions.\" <strong>Andy Mc</strong> noted: \"Even more confusing is that ML has been used in high-end VFX workflows to some degree for a good 10-15 years - probably longer. Lots of confusion with clients/studios about the difference between ML and Generative AI.\"",
+          "posters": [
+            "Henry",
+            "Tom Furse",
+            "Rory Flynn",
+            "Andy Mc"
+          ]
+        },
+        {
+          "title": "🎬 The Seeker Screening at MASSIVE STUDIOS",
+          "link": "https://partiful.com/e/rV01Vj9yY9ByoqpFkoRu?source=share&c=Y1cQdxoe",
+          "overview": "<strong>Stephan Bugaj</strong> announces LA screening.",
+          "description": "<strong>Stephan Bugaj</strong> shared: \"Our friends at MASSIVE STUDIOS will be showing my film The Seeker this SUNDAY Jan 11th as part of their THE PROMPT variety show of exploration. If you're in the LA area and want to meet some interesting AI filmmakers and/or you missed the other LA screening of The Seeker and want to see it with a group, come join.\"",
+          "posters": [
+            "Stephan Bugaj"
+          ]
+        },
+        {
+          "title": "🎬 PJ Accetturo's Rant",
+          "link": "https://x.com/PJaccetturo/status/2009875385379643693",
+          "overview": "<strong>PJ Accetturo</strong> shares thoughts on AI landscape.",
+          "description": "<strong>PJ Accetturo</strong> posted: \"Forgive my rant:\" with link to his X post discussing the current state of AI and creative work.",
+          "posters": [
+            "PJ Accetturo"
+          ]
+        },
+        {
+          "title": "🎬 Chroma Awards Viewing Platform Launch",
+          "link": "https://watch.chromaawards.com/",
+          "overview": "<strong>Matty</strong> announces new viewing platform.",
+          "description": "<strong>Matty</strong> shared: \"Check out the winners from the Chroma Awards on our new viewing platform!\" <strong>Winston Mayo</strong> responded: \"This looks amazing.\" <strong>Henry</strong> and <strong>Ryan Phillips</strong> reported it doesn't work for them, and <strong>Matty</strong> said: \"Thanks! Will let the developer know.\"",
+          "posters": [
+            "Matty",
+            "Winston Mayo",
+            "Henry",
+            "Ryan Phillips"
+          ]
+        },
+        {
+          "title": "🎬 Minimax Connection Request",
+          "link": "",
+          "overview": "<strong>Justin Hackney</strong> seeks Minimax contact.",
+          "description": "<strong>Justin Hackney</strong> asked: \"Anyone here got a connection with minimax?\" <strong>Ryan Phillips</strong> responded: \"Yup what's up?\" <strong>Justin</strong> replied: \"Rocking up in your dms.\"",
+          "posters": [
+            "Justin Hackney",
+            "Ryan Phillips"
+          ]
+        },
+        {
+          "title": "🎬 Upscale LA Meetup",
+          "link": "",
+          "overview": "Community members coordinate LA event attendance.",
+          "description": "<strong>Matty</strong> asked: \"Anyone headed to Upscale LA next week? I'll be there if anyone wanted meet up!\" <strong>Jagger</strong> responded: \"I'll be presenting! See you there.\" <strong>paula vivas</strong> confirmed: \"@Martin LeBlanc and I will be there, for sure!\" <strong>Martin LeBlanc</strong> added: \"See you there!\" <strong>Jordan Daniel Chesney</strong> suggested: \"If you can head up to San Fran the week after I'd love to meet up! I'll be there Feb 1st and 2nd.\"",
+          "posters": [
+            "Matty",
+            "Jagger",
+            "paula vivas",
+            "Martin LeBlanc",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🎬 TikTok Gift Cards Trade",
+          "link": "",
+          "overview": "<strong>Winston Mayo</strong> offers gift card exchange.",
+          "description": "<strong>Winston Mayo</strong> shared: \"Hey TikTok gave me 2 go gift gift cards and I want the cash. If yall like the stores on the site I'll trade you the cash for cards. It's 300. They have alot of stores: apple, nike, restaurants etc.\"",
+          "posters": [
+            "Winston Mayo"
+          ]
+        },
+        {
+          "title": "🎬 Chroma Awards Poster Designer Wanted",
+          "link": "",
+          "overview": "<strong>Matty</strong> seeks collage poster designer.",
+          "description": "<strong>Matty</strong> asked: \"Is anyone great at designing movie posters or could recommend a designer? We are looking for someone who could make a collage for the Chroma Awards like this EEAAO poster.\"",
+          "posters": [
+            "Matty"
+          ]
+        },
+        {
+          "title": "🎬 Artist List NYC Event Weather Warning",
+          "link": "",
+          "overview": "<strong>Rory Flynn</strong> warns NYC visitors about January weather.",
+          "description": "<strong>Rory Flynn</strong> joked: \"I'm happy all the dreamers coming to nyc for the artist list event get the full NYC in January experience haha. Bring your coats.\" <strong>Rourke</strong> responded: \"Just landed @Rory Flynn, I think Chris first and Chris branch are out right now!\" <strong>Rory</strong> said: \"I'll see you guys tomorrow.\"",
+          "posters": [
+            "Rory Flynn",
+            "Rourke"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🔗 Key Links & Resources",
+      "categories": [
+        {
+          "title": "🛠️ Tool Releases & Updates",
+          "links": [
+            {
+              "title": "Kling 01 Elements",
+              "url": "https://app.klingai.com",
+              "description": "Breakthrough workflow with micro-LoRAs and 6-image control"
+            },
+            {
+              "title": "LTX Audio-to-Video",
+              "url": "https://app.ltx.studio/ltx-2-playground/a2v",
+              "description": "Powerful lip-sync with audio input"
+            },
+            {
+              "title": "Runway 4.5 I2V",
+              "url": "https://runwayml.com",
+              "description": "Dramatically improved physics and multi-shot sequences"
+            },
+            {
+              "title": "Veo 3.1 Flow Features",
+              "url": "https://deepmind.google/models/veo/",
+              "description": "Leaked outpainting and camera control features"
+            },
+            {
+              "title": "DorLabs Update",
+              "url": "https://dorlabs.com",
+              "description": "Grid workflows, character toggles, 80% faster filmmaking"
+            },
+            {
+              "title": "Topaz Video AI",
+              "url": "https://topazlabs.com",
+              "description": "Proteus, Iris, and Astra upscaling models"
+            },
+            {
+              "title": "Reve References",
+              "url": "https://www.linkedin.com/posts/reveimage_introducing-references-out-now-in-reve-activity-7415123083767828480-p0mc",
+              "description": "New reference image feature"
+            },
+            {
+              "title": "Fal Qwen ComfyUI Node",
+              "url": "https://x.com/jtydhr88/status/2009423802640343195?s=20",
+              "description": "Camera control for Qwen with local workflow"
+            },
+            {
+              "title": "Creatify Aurora",
+              "url": "https://creatify.ai/introducing-aurora",
+              "description": "Lip sync tool with audio input"
+            },
+            {
+              "title": "Moltbot (Clawdbot)",
+              "url": "https://www.linkedin.com/posts/edmondyang_ok-this-is-craaaaazy-finally-an-ai-activity-7421891191463383040-bdP2",
+              "description": "AI agent automation technology"
+            },
+            {
+              "title": "Grok Images and Video",
+              "url": "https://x.com/mxvdxn/status/2015804969555816519?s=20",
+              "description": "Powerful action generation capabilities"
+            },
+            {
+              "title": "D4RT by Google DeepMind",
+              "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+              "description": "4D scene understanding breakthrough"
+            }
+          ]
+        },
+        {
+          "title": "📰 News & Announcements",
+          "links": [
+            {
+              "title": "X Creator Program",
+              "url": "https://creatorshq.com/x-originals/",
+              "description": "$500K total funding for 5 creators"
+            },
+            {
+              "title": "Hat Trick Productions AI Documentary",
+              "url": "https://vimeo.com/1158357842?share=copy&fl=sv&fe=ci",
+              "description": "UK TV industry AI adoption showcase"
+            },
+            {
+              "title": "Runway AI Summit with Kathleen Kennedy",
+              "url": "https://www.linkedin.com/posts/runwayml_introducing-the-runway-ai-summita-new-daylong-activity-7417215073560993792-oPWL",
+              "description": "Lucasfilm going mainstream with AI"
+            },
+            {
+              "title": "1 Billion Summit Winner - Lily",
+              "url": "https://www.1billionsummit.com",
+              "description": "$1M prize winner announced"
+            },
+            {
+              "title": "The Seeker Screening at MASSIVE STUDIOS",
+              "url": "https://partiful.com/e/rV01Vj9yY9ByoqpFkoRu?source=share&c=Y1cQdxoe",
+              "description": "LA screening event"
+            },
+            {
+              "title": "Chroma Awards Viewing Platform",
+              "url": "https://watch.chromaawards.com/",
+              "description": "New platform for viewing winners"
+            },
+            {
+              "title": "Winston Mayo GenClass - AI Music Videos 101",
+              "url": "https://luma.com/k13qhgoz",
+              "description": "Workshop on January 28th"
+            },
+            {
+              "title": "Casey Affleck Tests AI for Filmmaking",
+              "url": "https://www.linkedin.com/posts/casey-affleck-tested-ai-for-filmmaking-and-share-7421534970038337536-51pD",
+              "description": "Actor shares AI filmmaking experience"
+            }
+          ]
+        },
+        {
+          "title": "🎓 Tutorials & Resources",
+          "links": [
+            {
+              "title": "Lasso Tool for Video Matting",
+              "url": "https://www.linkedin.com/posts/shaheel-mitra_lasso-tool-for-video-matting-styleframe-ugcPost-7417283378053545984-4eV_",
+              "description": "Rotoscoping and matting workflow"
+            },
+            {
+              "title": "Gaussian Splatting Music Video",
+              "url": "https://www.linkedin.com/posts/christopher-rutledge_finally-can-talk-about-this-new-music-video-ugcPost-7416553049114030080-VcgA",
+              "description": "Christopher Rutledge's 3D workflow"
+            },
+            {
+              "title": "OpenWork AI Platform",
+              "url": "https://www.accomplish.ai/openwork/",
+              "description": "AI collaboration platform"
+            },
+            {
+              "title": "Merge.io Blog",
+              "url": "https://merge.io/blog",
+              "description": "AI integration resources"
+            },
+            {
+              "title": "Curious Refuge Time & Cost Breakdown",
+              "url": "https://youtu.be/FiDw4cqVppc?si=dz0s6GxZZPYTADb2",
+              "description": "Production analysis for AI filmmaking"
+            },
+            {
+              "title": "IMDb Tech Specs for Camera Prompting",
+              "url": "https://www.imdb.com",
+              "description": "Research authentic cinematography details"
+            },
+            {
+              "title": "Flux 2 Klein LoRA Training",
+              "url": "https://www.linkedin.com/posts/cyrildiagne_ml-sharp-flux2-klein-ive-trained-a-ugcPost-7421240751822389248-BB3T",
+              "description": "Comprehensive training workflow"
+            },
+            {
+              "title": "Martin LeBlanc's 3x3 Grid Space",
+              "url": "https://www.freepik.com/pikaso/spaces/a0ef8d09-fa09-4563-9c6c-056f3cf1e31b/invite",
+              "description": "Freepik Space for grid workflow"
+            },
+            {
+              "title": "Gabe Michael B-Roll Grid Space",
+              "url": "https://www.freepik.com/pikaso/spaces/a0efba1b-aa21-4cc7-8eac-a5d0d0fb360e/invite",
+              "description": "Alternative grid workflow without quality loss"
+            }
+          ]
+        },
+        {
+          "title": "🎨 Community Work & Showcases",
+          "links": [
+            {
+              "title": "Arthur Chance - Giggs Music Video",
+              "url": "https://www.instagram.com/reel/DTxJgCdjav5/?igsh=aml6d3h5OWtubTc1",
+              "description": "Veo 2 & 3.1, NBP, Gemini with AI ethnographic researcher"
+            },
+            {
+              "title": "Ari kuschnir - Music Video Remake",
+              "url": "https://www.instagram.com/reel/DT-0mC6CbWX/?igsh=NTc4MTIwNjQ2YQ==",
+              "description": "LTX audio-to-video, Kling Motion Control, Runway 4.5"
+            },
+            {
+              "title": "Yonatan Dor brothers - Political Commentary",
+              "url": "https://youtu.be/5eTORQRjCZw?si=RBld9To5ovbQuPwf",
+              "description": "Powerful socio-political piece"
+            },
+            {
+              "title": "Liam - Hat Trick Productions BTS",
+              "url": "https://vimeo.com/1158357842?share=copy&fl=sv&fe=ci",
+              "description": "UK TV industry AI adoption documentary"
+            },
+            {
+              "title": "Edmond Yang - Reaction Video",
+              "url": "https://www.instagram.com/reel/DT5rYBtDHNj/?igsh=dnVhaHNrN2oyMWE0",
+              "description": "Community engagement showcase"
+            },
+            {
+              "title": "Linus Ekenstam - Life Advice",
+              "url": "https://www.youtube.com/watch?v=n_nhixh_CpA",
+              "description": "Non-AI life improvement content"
+            },
+            {
+              "title": "Max - Real-Time Editing Demo",
+              "url": "https://www.linkedin.com/posts/maxlarsson-safustudio_crazy-how-fast-this-is-real-time-editing-ugcPost-7421650482227548161-LhNi",
+              "description": "Speed of modern AI-assisted workflows"
+            }
+          ]
+        },
+        {
+          "title": "💭 Discussions & Insights",
+          "links": [
+            {
+              "title": "PJ Accetturo's Industry Rant",
+              "url": "https://x.com/PJaccetturo/status/2009875385379643693",
+              "description": "Thoughts on AI landscape"
+            },
+            {
+              "title": "Neocept Design Style",
+              "url": "https://x.com/Neocept_Design/status/2015808194828972188?s=20",
+              "description": "Compelling visual style worth following"
+            },
+            {
+              "title": "Tom Furse on Pleometric",
+              "url": "https://x.com/pleometric/status/2011896976959553814?s=46&t=qPW5cKupj9h293EKp0MkxA",
+              "description": "Generative art discussion"
+            },
+            {
+              "title": "Justin Hackney Parliament Post",
+              "url": "https://x.com/justinhackney33/status/2016136400043712543?s=46",
+              "description": "RealDreams representation at Parliament"
+            },
+            {
+              "title": "Sharon Thales Refael - AI Creative Lab",
+              "url": "https://www.linkedin.com/posts/sharon-thales-refael-896319105_an-ai-creative-lab-edit-made-with-artlist-ugcPost-7420834257381560321-icHx",
+              "description": "Creative lab showcase"
+            },
+            {
+              "title": "OpenAI Hardware Announcement",
+              "url": "https://www.linkedin.com/posts/cybersecurity-advisor_openais-bold-leap-ai-hardware-arriving-activity-7421184835471183873-D0m6",
+              "description": "AI hardware developments"
+            },
+            {
+              "title": "Max de Donato - Storytelling",
+              "url": "https://www.linkedin.com/posts/max-de-donato-44205a222_storytelling-brandvoice-advertising-activity-7417212481972121600-Qwv0",
+              "description": "Brand voice and advertising"
+            },
+            {
+              "title": "Hendo AI - Brand Strategy",
+              "url": "https://www.linkedin.com/posts/hendoai_ai-brandstrategy-ugcPost-7421578047528550400-17vZ",
+              "description": "AI brand strategy insights"
+            },
+            {
+              "title": "Kimi Moonshot",
+              "url": "https://x.com/kimi_moonshot/status/2016021783833673897?s=46&t=ny3cTkRu7TUZVu8olxOKQQ",
+              "description": "\"It never ends\" - ongoing AI developments"
+            }
+          ]
+        },
+        {
+          "title": "🎬 Industry & Jobs",
+          "links": [
+            {
+              "title": "Man vs Machine - Head of AI Position",
+              "url": "https://mvsm.com/jobs/head-of-ai",
+              "description": "Job opportunity at major studio"
+            },
+            {
+              "title": "Nem Perez LinkedIn - 3 Month Project",
+              "url": "https://www.linkedin.com/posts/nemperez_over-the-last-three-months-our-team-has-activity-7414822677850431488-weED",
+              "description": "Major project showcase"
+            },
+            {
+              "title": "RealDreams HQ Profile Directory",
+              "url": "https://rdhq.manus.space/",
+              "description": "Community member profiles with TikTok fields"
+            },
+            {
+              "title": "Hat Trick Productions LinkedIn",
+              "url": "https://www.linkedin.com/posts/activity-7421493560929128448--R--",
+              "description": "UK TV industry AI adoption announcement"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
