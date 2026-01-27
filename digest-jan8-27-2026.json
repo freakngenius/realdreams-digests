@@ -6,7 +6,7 @@
   "summary": "Kling 01 Elements emerges as breakthrough workflow with micro-LoRAs and 6-image control, LTX Audio-to-Video launches with powerful lip-sync capabilities, Runway 4.5 I2V shows dramatic physics improvements, Veo 3.1 Flow features leak including outpainting and camera control, DorLabs announces massive update with grid workflows and character toggles, Topaz upscaling best practices shared (Proteus, Iris, Astra), Freepik NBP experiences widespread slowness, X launches Creator Program with $500K funding, Hat Trick Productions showcases UK TV industry AI adoption, and community welcomes Tom Furse, Jeremy Boxer, and James McAulay.",
   "stats": {
     "tools": 12,
-    "tutorials": 28,
+    "tutorials": 20,
     "insights": 15,
     "links": 52
   },
@@ -571,96 +571,6 @@
           "tutorial": {
             "assessment": "*The lip-sync at Kling is pretty decent on videos.*",
             "workflow": "*Use on pre-generated video content for best results.*"
-          }
-        },
-        {
-          "title": "🎨 Gabe Michael B-Roll Grid Space",
-          "overview": "<strong>Gabe Michael</strong> shares alternative grid workflow.",
-          "posters": [
-            "Gabe Michael"
-          ],
-          "tutorial": {
-            "feature": "*Created one for b-roll that does similar thing but without losing quality on the grid.*",
-            "access": "*Shared Freepik Space link for community use.*"
-          }
-        },
-        {
-          "title": "🎬 Moltbot (Clawdbot) AI Agent",
-          "overview": "<strong>Edmond Yang</strong> shares new AI agent discovery.",
-          "posters": [
-            "Edmond Yang"
-          ],
-          "tutorial": {
-            "tool": "*Moltbot (previously Clawdbot) - crazy tech for AI automation.*",
-            "teaser": "*Working on new game project using the technology.*"
-          }
-        },
-        {
-          "title": "🎨 Flux 2 Klein LoRA Training",
-          "overview": "<strong>Jordan Daniel Chesney</strong> shares training resource.",
-          "posters": [
-            "Jordan Daniel Chesney"
-          ],
-          "tutorial": {
-            "resource": "*ML Sharp Flux2 Klein training guide.*",
-            "link": "*LinkedIn post with comprehensive training workflow.*"
-          }
-        },
-        {
-          "title": "🎬 Winston Mayo AI Music Videos Class",
-          "overview": "<strong>Winston Mayo</strong> announces GenClass workshop.",
-          "posters": [
-            "Winston Mayo"
-          ],
-          "tutorial": {
-            "focus": "*AI Music Videos 101: Creative decisions that turn sound into cinematic emotion. Not about tools—about vision, timing, and taste.*",
-            "date": "*Wednesday, January 28th via Luma.*"
-          }
-        },
-        {
-          "title": "🎨 D4RT - 4D Scene Understanding",
-          "overview": "<strong>Justin Hackney</strong> highlights Google DeepMind breakthrough.",
-          "posters": [
-            "Justin Hackney"
-          ],
-          "tutorial": {
-            "technology": "*D4RT: Teaching AI to see the world in four dimensions.*",
-            "link": "*https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/*",
-            "significance": "*Major advancement in spatial and temporal understanding.*"
-          }
-        },
-        {
-          "title": "🎬 Lasso Tool for Video Matting",
-          "overview": "<strong>Jordan Daniel Chesney</strong> shares rotoscoping tool.",
-          "posters": [
-            "Jordan Daniel Chesney"
-          ],
-          "tutorial": {
-            "tool": "*Lasso tool for video matting and styleframe work.*",
-            "reaction": "*\"I'm 100% trying this.\"*"
-          }
-        },
-        {
-          "title": "🎨 Gaussian Splatting Music Video Workflow",
-          "overview": "<strong>Billy Boman</strong> showcases advanced 3D technique.",
-          "posters": [
-            "Billy Boman"
-          ],
-          "tutorial": {
-            "example": "*Christopher Rutledge music video using Gaussian Splatting.*",
-            "description": "*\"Gaussian Splatting Badassery\"*"
-          }
-        },
-        {
-          "title": "🎬 OpenWork AI Platform",
-          "overview": "<strong>Matthieu</strong> shares new AI work platform.",
-          "posters": [
-            "Matthieu",
-            "Ryan Phillips"
-          ],
-          "tutorial": {
-            "platform": "*Accomplish.ai/openwork - new AI collaboration platform.*",
-            "reception": "*\"Was really impressed with this.\"*"
           }
         }
       ]
