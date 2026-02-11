@@ -1,0 +1,1008 @@
+{
+  "id": "jan28-feb11-2026",
+  "title": "January 28 - February 11, 2026",
+  "date": "February 11, 2026",
+  "dateRange": "January 28 - February 11, 2026",
+  "summary": "Seedance 2.0 drops as a seismic leap in video generation with unprecedented motion, physics, and character consistency, Kling 3.0 launches with reasoning-like intelligence and dramatic quality improvements, Google Veo 3.1 Flow goes live with outpainting and camera control, Wan 2.6 emerges as a powerful open-source contender, ElevenLabs Summit brings community members together in person, Higgsfield controversy erupts over UGC practices, Freepik NBP continues reliability struggles, community debates AI ethics and celebrity deepfakes, X Originals Creator Program opens applications, and the community welcomes Giacomo Mallamaci.",
+  "stats": {
+    "tools": 16,
+    "tutorials": 28,
+    "insights": 14,
+    "links": 55
+  },
+  "keyHighlights": [
+    "Seedance 2.0 launches as massive leap in video generation with unprecedented motion and physics",
+    "Kling 3.0 releases with reasoning-like intelligence and dramatic quality improvements",
+    "Google Veo 3.1 Flow goes live with outpainting, camera control, and advanced features",
+    "Wan 2.6 emerges as powerful open-source video model with ComfyUI integration",
+    "ElevenLabs Summit brings RealDreams members together for in-person networking",
+    "Higgsfield controversy erupts over UGC practices and community response"
+  ],
+  "topPosters": [
+    {
+      "name": "Edmond Yang",
+      "count": 190
+    },
+    {
+      "name": "Billy Boman",
+      "count": 183
+    },
+    {
+      "name": "Chris First",
+      "count": 164
+    }
+  ],
+  "sections": [
+    {
+      "title": "🚀 Major Updates & News",
+      "items": [
+        {
+          "title": "🎬 Seedance 2.0 - Seismic Leap in Video Generation",
+          "link": "https://console.byteplus.com/ark/region:ark+ap-southeast-1/experience/vision",
+          "description": "<strong>Billy Boman</strong> declared Seedance 2.0 \"the biggest leap I've seen in AI video generation since the original Sora announcement,\" calling it \"genuinely jaw-dropping\" with \"unprecedented motion, physics, and character consistency.\" <strong>Chris First</strong> confirmed early access and got his first video done. <strong>Sebastian Kamph</strong> offered access codes to community members. <strong>ChristianF.</strong> shared a BytePlus link that worked without VPN and noted \"the reasoning of the model is also out of this world! Like NBP for images, you just give Seedance 2 an image input with minimal prompt and it will make something up that fits the image dynamic and genre best.\" <strong>Edmond Yang</strong> managed to generate content before access was restricted, sharing invite codes from ChatCut Discord. <strong>Ryan Phillips</strong> speculated that \"Seedance is using nano under the hood without Google's permission.\" <strong>Alex</strong> observed: \"What cracks me up is that despite the mind blowing evolution of the models, the initial approaches still haven't changed.\" Access was limited to 3 gens per day on ChatCut, with BytePlus access intermittently going down.",
+          "posters": [
+            "Billy Boman",
+            "Chris First",
+            "Sebastian Kamph",
+            "ChristianF.",
+            "Edmond Yang",
+            "Ryan Phillips",
+            "Alex",
+            "Jordan Daniel Chesney",
+            "Pierre Zandrowicz"
+          ]
+        },
+        {
+          "title": "🎮 Kling 3.0 - Reasoning-Like Intelligence",
+          "link": "https://app.klingai.com",
+          "description": "<strong>ChristianF.</strong> noted that Kling 3.0 has become a \"reasoning world model\" - \"give Kling 3 a dynamic action image with tilted angle and some motion blur, and it gives you an action shot or sequence.\" <strong>Edmond Yang</strong> shared extensive testing results, noting the model understands scene dynamics and context far better than previous versions. <strong>Billy Boman</strong> tested with creative prompts like \"Cinematic Kung Fu fight sequence between the guy in the mask and villains in black suits\" with dynamic camera work. The community consensus was that Kling 3.0 represents a major step toward models that truly understand what they're generating rather than just pattern matching.",
+          "posters": [
+            "ChristianF.",
+            "Edmond Yang",
+            "Billy Boman",
+            "Alex"
+          ]
+        },
+        {
+          "title": "🎬 Google Veo 3.1 Flow - Now Live",
+          "link": "https://deepmind.google/models/veo/",
+          "description": "<strong>Edmond Yang</strong> and community members confirmed Veo 3.1 Flow is now publicly available with the previously leaked features including outpainting, camera control, and advanced generation capabilities. The model continues to be a key part of the professional workflow alongside Kling and Seedance. <strong>Pierre Zandrowicz</strong> noted that \"NB works on Gemini if needed\" as an alternative access point.",
+          "posters": [
+            "Edmond Yang",
+            "Pierre Zandrowicz"
+          ]
+        },
+        {
+          "title": "🎬 Wan 2.6 - Open Source Powerhouse",
+          "link": "",
+          "description": "<strong>Sebastian Kamph</strong> continued championing Wan for professional work: \"I use Wan for most of my professional work, as I primarily build custom pipelines for shots that can't be solved by any of the closed source models.\" He specified using \"2.2 primarily. 2.5 and 2.6 are only API\" and noted being \"probably in the minority in this particular group.\" <strong>Rory Flynn</strong> confirmed success with Wan 2.6 for specific use cases. The model's strength lies in custom pipeline integration and solving shots that closed-source models can't handle.",
+          "posters": [
+            "Sebastian Kamph",
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🎬 ElevenLabs Summit - Community Meetup",
+          "link": "",
+          "description": "<strong>Aaron Bhugobaun</strong> attended the ElevenLabs Summit and connected with multiple RealDreams members in person, posting photos with <strong>Matty</strong> and others. <strong>Danielle</strong> also attended and tried to find community members at the event. <strong>Rourke</strong> connected with Aaron at the venue. <strong>Justin Hackney</strong> asked about group photos. The event was described as \"huge\" with \"so many people getting lost.\" Multiple community members including <strong>Jack</strong> and <strong>Tris</strong> were also present.",
+          "posters": [
+            "Aaron Bhugobaun",
+            "Danielle",
+            "Rourke",
+            "Matty",
+            "Justin Hackney"
+          ]
+        },
+        {
+          "title": "🎬 Higgsfield Controversy - UGC Practices",
+          "link": "https://x.com/blvcklightai/status/2021604152485552477?s=46",
+          "description": "<strong>Blvckl!ght</strong> posted a pointed critique of Higgsfield's practices on X, with <strong>Rory Flynn</strong> providing video content for the post. <strong>Yonatan Dor brothers</strong> warned that <strong>Sultan</strong> works at Higgsfield \"so they see everything you write.\" <strong>Sultan</strong> clarified: \"I am not a Higgsfield in-house guy, and I am doing stuff for other companies too.\" <strong>Blvckl!ght</strong> explained the backstory: \"They jumped the shark when they bailed on everything to do UGC and their own UGC platform.\" <strong>Justin Hackney</strong> observed: \"Every time y'all complained in the chat they doubled down.\" <strong>Yonatan</strong> noted: \"Best part is that if they sue you, you have quite the case.\"",
+          "posters": [
+            "Blvckl!ght",
+            "Rory Flynn",
+            "Yonatan Dor brothers",
+            "Sultan",
+            "Justin Hackney",
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🎨 Freepik NBP - Continued Reliability Issues",
+          "link": "",
+          "description": "<strong>Jordan Daniel Chesney</strong> reported: \"NBP is struggling in Freepik, but it is working.\" <strong>Winston Mayo</strong> asked: \"What do y'all use when NBP isn't working? Seedream isn't working well for me.\" <strong>Pierre Zandrowicz</strong> suggested: \"NB works on Gemini if needed.\" The community artist <strong>👨🏻‍🎨</strong> recommended: \"Flux Pro isn't bad\" as an alternative. The ongoing reliability issues with Freepik's NBP implementation continue to frustrate the community.",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Winston Mayo",
+            "Pierre Zandrowicz"
+          ]
+        },
+        {
+          "title": "🎬 X Originals Creator Program - Applications Open",
+          "link": "https://creatorshq.com/x-originals/",
+          "description": "The X Originals Creator Program with $500K total funding continues to accept applications. Community members discussed strategies for applying and the potential impact on AI filmmakers. The program represents one of the largest direct funding opportunities for AI content creators.",
+          "posters": [
+            "Justin Hackney"
+          ]
+        },
+        {
+          "title": "🎬 Upscale LA Event & Community Meetups",
+          "link": "",
+          "description": "<strong>Matty</strong> organized attendance at Upscale LA. <strong>Jagger</strong> confirmed: \"I'll be presenting! See you there.\" <strong>Paula Vivas</strong> and <strong>Martin LeBlanc</strong> confirmed attendance. <strong>Jordan Daniel Chesney</strong> suggested a San Francisco meetup: \"If you can head up to San Fran the week after I'd love to meet up! I'll be there Feb 1st and 2nd.\" The community continues to strengthen real-world connections through industry events.",
+          "posters": [
+            "Matty",
+            "Jagger",
+            "Paula Vivas",
+            "Martin LeBlanc",
+            "Jordan Daniel Chesney"
+          ]
+        },
+        {
+          "title": "🎬 Giacomo Mallamaci Joins via Wonder Studios",
+          "link": "https://www.linkedin.com/in/giacomomallamaci?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+          "description": "<strong>Justin Hackney</strong> introduced <strong>Giacomo Mallamaci</strong>: \"Been killing it at Wonder working across our different projects. Absolutely deep in the tools and is honestly one of the nicest people I have the pleasure of getting to know.\" <strong>Giacomo</strong> responded: \"Hello everyone! It's a pleasure to be here with all those great creatives.\" <strong>Aaron Bhugobaun</strong>, <strong>Billy Boman</strong>, <strong>Blair</strong>, <strong>Alex</strong>, <strong>Jordan Daniel Chesney</strong>, <strong>Blvckl!ght</strong>, and <strong>Kēkā</strong> all welcomed him. <strong>Kēkā</strong> noted: \"Anyone part of the Wonder family is already part of the RD family.\"",
+          "posters": [
+            "Justin Hackney",
+            "Giacomo Mallamaci",
+            "Aaron Bhugobaun",
+            "Billy Boman",
+            "Blair",
+            "Alex",
+            "Jordan Daniel Chesney",
+            "Blvckl!ght",
+            "Kēkā"
+          ]
+        },
+        {
+          "title": "🎬 Runway AI Summit with Kathleen Kennedy",
+          "link": "https://www.linkedin.com/posts/runwayml_introducing-the-runway-ai-summita-new-daylong-activity-7417215073560993792-oPWL",
+          "description": "<strong>Billy Boman</strong> shared the Runway AI Summit announcement featuring Kathleen Kennedy of Lucasfilm, calling it a sign that \"Lucasfilm going mainstream with AI.\" The summit represents a major industry milestone with one of Hollywood's most powerful producers engaging directly with AI filmmaking technology.",
+          "posters": [
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🎬 Martin LeBlanc's Prompting Guide",
+          "link": "",
+          "description": "<strong>Martin LeBlanc</strong> announced: \"I'm putting together a prompting guide - a PDF with all kinds of useful tips/tricks and prompt examples for the most popular models.\" His proposed model list: NBP, Seedream 4.5, Kling o1, Kling 2.6, Kling 2.6 MoCo, Veo 3.1, Seedance 1.5, Sora. <strong>Edmond Yang</strong> confirmed his top picks: \"NBP, all Klings.\" <strong>Sebastian Kamph</strong> added the open-source perspective with Wan, zimage, qwen, and flux.",
+          "posters": [
+            "Martin LeBlanc",
+            "Edmond Yang",
+            "Sebastian Kamph"
+          ]
+        },
+        {
+          "title": "🎬 Crypto Market Concerns",
+          "link": "https://x.com/milesdeutscher/status/2021487637299855540?s=20",
+          "description": "<strong>Blair</strong> shared a crypto market alert asking: \"Should we be concerned?\" linking to Miles Deutscher's analysis of market conditions. The discussion touched on broader financial concerns affecting the creative technology space.",
+          "posters": [
+            "Blair"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📚 Tutorials & Techniques",
+      "items": [
+        {
+          "title": "🎬 Seedance 2.0 - First & Last Frame Technique",
+          "overview": "<strong>ChristianF.</strong> shares critical workflow for Seedance 2.0 generation.",
+          "posters": [
+            "ChristianF."
+          ],
+          "tutorial": {
+            "technique": "*Switch to First & Last frame in generation mode for best results. You can also disable the watermark in the settings.*",
+            "key_insight": "*Give Seedance 2 an image input with minimal prompt and it will make something up that fits the image dynamic and genre best - similar to how NBP works for images.*",
+            "censorship_note": "*Main challenge is censorship restrictions. Edmond Yang noted 'the next frontier is to get away from the censorship.'*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Action Shot Prompting",
+          "overview": "<strong>Billy Boman</strong> demonstrates effective action prompting for Seedance 2.0.",
+          "posters": [
+            "Billy Boman"
+          ],
+          "tutorial": {
+            "prompt_example": "*\"Cinematic Kung Fu fight sequence between the guy in the mask and villains in black suits. Dynamic camera work orbiting around the scene and zoom in on the fighting action\"*",
+            "technique": "*Use input images with strong dynamic poses. The model excels at interpreting action and motion from reference images.*",
+            "access": "*Available via ChatCut Discord (3 gens/day, DM admins for more) or BytePlus console when available.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 Access Methods",
+          "overview": "<strong>Edmond Yang</strong> and <strong>ChristianF.</strong> share how to access the model.",
+          "posters": [
+            "Edmond Yang",
+            "ChristianF.",
+            "Ryan Phillips"
+          ],
+          "tutorial": {
+            "method_1": "*ChatCut Discord - DM the admins for invite codes. Public codes get taken immediately. 3 gens per day limit.*",
+            "method_2": "*BytePlus Console: https://console.byteplus.com/ark/region:ark+ap-southeast-1/experience/vision - Works without VPN when the model is available.*",
+            "tip": "*Edmond Yang: 'I nagged the admins to give me more' gens - persistence pays off.*"
+          }
+        },
+        {
+          "title": "🎮 Kling 3.0 - Reasoning-Based Prompting",
+          "overview": "<strong>ChristianF.</strong> explains how Kling 3.0 understands scene context like a reasoning model.",
+          "posters": [
+            "ChristianF.",
+            "Alex"
+          ],
+          "tutorial": {
+            "technique": "*Give Kling 3 a dynamic action image with tilted angle and some motion blur, and it gives you an action shot or sequence. The video models are becoming reasoning world models now.*",
+            "prompting_tip": "*Alex's tests showed that 'anime fight scene' gives the best results for anime fight scenes. Maybe 'the character dressed in black is winning' if you are really good at prompting.*",
+            "key_insight": "*Minimal prompting works best - the model reasons about what should happen based on the input image's dynamics and genre.*"
+          }
+        },
+        {
+          "title": "🎨 Nano Banana Pro - Alternative Access Points",
+          "overview": "<strong>Pierre Zandrowicz</strong> shares workaround for NBP access during Freepik outages.",
+          "posters": [
+            "Pierre Zandrowicz",
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "workaround": "*NB works on Gemini if needed - use Google's Gemini as an alternative access point when Freepik is struggling.*",
+            "status": "*Jordan Daniel Chesney confirmed: 'NBP is struggling in Freepik, but it is working' - expect slower performance.*",
+            "alternative": "*Flux Pro recommended as a decent alternative when NBP is completely down.*"
+          }
+        },
+        {
+          "title": "🎨 Open Source Alternatives to NBP",
+          "overview": "<strong>Noah</strong> and community debate open source options when NBP is unavailable.",
+          "posters": [
+            "Noah",
+            "Billy Boman",
+            "Edmond Yang",
+            "Luka T"
+          ],
+          "tutorial": {
+            "recommendations": "*Klein or Qwen as open source alternatives. Nano is a miracle for sure and you'll need to be a little more patient with the other tools but the safety of being sequestered in your own controlled garden is worth it.*",
+            "flux_assessment": "*Billy Boman asked about open source NBP equivalents. Consensus: 'Flux isn't even close in prompt adherence and keeping styles.'*",
+            "klein_note": "*Luka T: 'It's a great edit model but getting 2 or even 4K without upscaling hence destroying consistency to an extent is a hustle, NBP is still the best.'*",
+            "philosophy": "*Noah: 'I will bang on the open source local drum for my entire life just because I don't trust AWS or Facebook to keep the internet on.'*"
+          }
+        },
+        {
+          "title": "🎬 Kling 01 Elements - Advanced Multi-Character Workflow",
+          "overview": "<strong>Jordan Daniel Chesney</strong> continues refining the Elements breakthrough workflow.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "workflow": "*Create multiple micro LoRAs of each person (as Elements) and then upload up to 6 images for your scene blocking. Use upwards of 30 images to create a single shot.*",
+            "key_technique": "*Not a START and END frame tool - feed it 4 images for the shot, plus character Elements (LoRAs). The more images you feed the better.*",
+            "production_use": "*Coupled with NBP, you can now block exactly where the camera goes, exactly what multiple subjects do, where they stand, how they act, and control hundreds of details within your room/scene, with total consistency.*"
+          }
+        },
+        {
+          "title": "🎨 Topaz Proteus - Production Settings",
+          "overview": "<strong>Billy Boman</strong> shares optimized Proteus configuration for professional work.",
+          "posters": [
+            "Billy Boman"
+          ],
+          "tutorial": {
+            "settings": "*Proteus for all-around use. Recovery detail to zero. Change from automatic to manual analysis for clips and then hit estimate - zero sharpen and improve detail.*",
+            "why_these_settings": "*Provides clean upscaling without over-sharpening or adding unwanted detail enhancement. Best for maintaining the original look while increasing resolution.*"
+          }
+        },
+        {
+          "title": "🎬 Topaz Astra - Generative Upscale for Motion Artifacts",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares advanced multi-upscaler workflow.",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Edmond Yang"
+          ],
+          "tutorial": {
+            "technique": "*Use Topaz Astra Precise to re-generate in upscale. As long as you can roto sections, like character faces, this workflow saves 50% of the low quality motion artifacts.*",
+            "advanced_workflow": "*Manually roto in After Effects with multiple upscalers: 1 level of generative upscale for backgrounds, 1 for elements/logos, and 1 for faces.*",
+            "edmond_tip": "*Astra for closeups is pretty good, but hallucinates with small objects. Crop in and upscale and put back again. Need to upscale clip by clip since there's some ghosting between shots.*"
+          }
+        },
+        {
+          "title": "🎬 Logo Consistency - First & Last Frame",
+          "overview": "<strong>Jordan Daniel Chesney</strong> reiterates critical commercial technique.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "technique": "*Do FIRST frame and LAST frame to hold logos together. With the logos consistent together in both frames, Kling does an amazing job of holding them throughout.*",
+            "production_reality": "*Did a few fashion commercials and had to do FIRST and LAST frame for every single shot, no exceptions.*"
+          }
+        },
+        {
+          "title": "📸 Camera & Lens Research via IMDb",
+          "overview": "<strong>Jordan Daniel Chesney</strong> shares professional cinematography research method.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "workflow": "1. Go to IMDb\n2. Search for a film that had the look you love\n3. Check the Tech Specs\n4. Lots of the time, lenses, film stock, cameras etc. are listed out",
+            "example": "*Taxi Driver tech specs provide authentic camera and lens information for prompting. Use these real-world specs in your prompts for more authentic cinematography.*"
+          }
+        },
+        {
+          "title": "🎨 3x3 Nano Banana Grid - Complete Prompt Formula",
+          "overview": "<strong>Martin LeBlanc</strong> shares the production-tested grid workflow.",
+          "posters": [
+            "Martin LeBlanc",
+            "Edmond Yang"
+          ],
+          "tutorial": {
+            "base_prompt": "*\"Generate a cohesive 3×3 grid 'Cinematic Contact Sheet' featuring 9 distinct camera shots of exactly these subjects in the same environment. You must adapt the standard cinematic shot types to fit the content.\"*",
+            "extraction_prompt": "*Use LLM to generate extraction prompt with hard constraints: Do not change composition, framing, camera angle, or perspective. Do not add, remove, or modify any characters, props, objects, or background elements.*",
+            "optimization": "*Edmond Yang: 'Probably better in 16:9 instead of 1:1, so you get more closer to the final shot. Sometimes I prompt it to do very different camera angles just for exploring.'*"
+          }
+        },
+        {
+          "title": "🎬 Kling Multiple Characters Lip Sync",
+          "overview": "<strong>Edmond Yang</strong> explains selective character animation.",
+          "posters": [
+            "Edmond Yang",
+            "Luka T"
+          ],
+          "tutorial": {
+            "problem": "*Having multiple people in a shot but only wanting one person to speak/move.*",
+            "solution": "*Isolate and combine in post - basically having two shots: non-speaking and speaking. In Kling lip-sync you can actually choose who is speaking (need a pre-gen video).*"
+          }
+        },
+        {
+          "title": "🎨 T-Pose and Y-Pose for Action Composition",
+          "overview": "<strong>Blvckl!ght</strong> shares character positioning technique for dynamic shots.",
+          "posters": [
+            "Blvckl!ght"
+          ],
+          "tutorial": {
+            "technique": "*Use 'T pose' and 'Y pose' prompts for action shots. Add 'motion blur' for mid-action shots.*",
+            "advanced_use": "*Super useful for all the wides because then you can in-paint other parts of the scene.*"
+          }
+        },
+        {
+          "title": "🎬 Freepik Split Grid Feature",
+          "overview": "<strong>Jordan Daniel Chesney</strong> demonstrates grid splitting workflow.",
+          "posters": [
+            "Jordan Daniel Chesney"
+          ],
+          "tutorial": {
+            "feature": "*Freepik has a Split Grid button and it does exactly what you think it does.*",
+            "use_case": "*Generate grids and split them for individual panel extraction and upscaling. Streamlines the grid-to-individual-shot workflow.*"
+          }
+        },
+        {
+          "title": "🎬 DorLabs Grid Workflow",
+          "overview": "<strong>Yonatan Dor brothers</strong> previews comprehensive grid system.",
+          "posters": [
+            "Yonatan Dor brothers"
+          ],
+          "tutorial": {
+            "capabilities": "*Create grids based on image refs, get prompt suggestions based on input, extract any panel + upscale & optional modification in 1 step. Toggle characters & locations on/off at any step. Feed it a script, ref image, or one sentence.*",
+            "speed_improvement": "*80% faster filmmaking workflow.*"
+          }
+        },
+        {
+          "title": "🎬 Creatify Aurora vs LTX Lip Sync",
+          "overview": "<strong>PJ Accetturo</strong> and <strong>Linus Ekenstam</strong> compare lip-sync solutions.",
+          "posters": [
+            "PJ Accetturo",
+            "Linus Ekenstam"
+          ],
+          "tutorial": {
+            "tool": "*Creatify Aurora for lip sync with audio.*",
+            "comparison": "*LTX is really powerful. Problem with most lip-sync models: camera is always completely static. Veo remained king for so long because moving camera helped get past uncanny speaking.*"
+          }
+        },
+        {
+          "title": "🎬 Kling Lip Sync on Pre-Generated Videos",
+          "overview": "<strong>Edmond Yang</strong> confirms Kling's lip-sync quality on existing content.",
+          "posters": [
+            "Edmond Yang"
+          ],
+          "tutorial": {
+            "assessment": "*The lip-sync at Kling is pretty decent on videos.*",
+            "workflow": "*Use on pre-generated video content for best results. Can select which character speaks in multi-character scenes.*"
+          }
+        },
+        {
+          "title": "🎨 Fal Qwen ComfyUI Node - Camera Control",
+          "overview": "<strong>Alex</strong> shares local camera control workflow for Qwen.",
+          "posters": [
+            "Alex",
+            "Billy Boman"
+          ],
+          "tutorial": {
+            "tool": "*Fal's new LoRA for Qwen with ComfyUI node to place the camera exactly where you want.*",
+            "access": "*Billy Boman asked: 'Local workflow but with need for a Fal API key?' Alex clarified: 'You can install the nodes and run the models locally. No API needed.'*",
+            "link": "*https://x.com/jtydhr88/status/2009423802640343195*"
+          }
+        },
+        {
+          "title": "🎬 Timelapse Clock Workarounds",
+          "overview": "<strong>Rory Flynn</strong> and <strong>Justin Hackney</strong> share solutions for the clock challenge.",
+          "posters": [
+            "Rory Flynn",
+            "Justin Hackney"
+          ],
+          "tutorial": {
+            "successful_models": "*WAN 2.6 and Kling keyframes in 01 have had success.*",
+            "techniques": "*Try 'hyperlapse' as well as 'timelapse' in prompts. Use keyframe with radial blur of the timelapse effect as the end frame.*",
+            "fallback": "*After Effects for manual control when AI fails.*"
+          }
+        },
+        {
+          "title": "🎬 Runway 4.5 - Multi-Shot Sequences",
+          "overview": "<strong>Marco</strong> demonstrates improved Runway capabilities.",
+          "posters": [
+            "Marco"
+          ],
+          "tutorial": {
+            "improvements": "*Dramatically improved running physics. Multi-shot sequences work well.*",
+            "remaining_challenge": "*Logos still need FIRST and LAST frame technique for consistency.*"
+          }
+        },
+        {
+          "title": "🎨 Higgsfield Camera & Lens UI Reverse Engineering",
+          "overview": "<strong>Edmond Yang</strong> and <strong>Martin LeBlanc</strong> discuss prompt structure.",
+          "posters": [
+            "Edmond Yang",
+            "Martin LeBlanc"
+          ],
+          "tutorial": {
+            "observation": "*Higgsfield has nice camera and lens UI that's just prompts with no post-processing or tricks.*",
+            "approach": "*Should be possible to reverse engineer the prompt structure for use in other tools.*"
+          }
+        },
+        {
+          "title": "🎨 Freepik NBP Workaround During Slowness",
+          "overview": "<strong>Billy Boman</strong> shares technique for better results during outages.",
+          "posters": [
+            "Billy Boman"
+          ],
+          "tutorial": {
+            "workaround": "*Use 'Cinematic Live Action prompting' + references to work around quality issues.*",
+            "caveat": "*Absolutely sometimes it goes into old Imagen vibes in the worst way.*"
+          }
+        },
+        {
+          "title": "🎬 LTX Audio-to-Video Workflow",
+          "overview": "<strong>Ari kuschnir</strong> demonstrates music video production pipeline.",
+          "posters": [
+            "Ari kuschnir"
+          ],
+          "tutorial": {
+            "workflow": "*Use LTX audio-to-video for lip-sync, combine with Kling Motion Control and Runway 4.5 for complete music video production.*",
+            "use_case": "*Created music video remake using this multi-tool approach.*"
+          }
+        },
+        {
+          "title": "🎬 Model Preference Guide - Community Consensus",
+          "overview": "<strong>Martin LeBlanc</strong> surveys the community on most-used models.",
+          "posters": [
+            "Martin LeBlanc",
+            "Edmond Yang",
+            "Sebastian Kamph"
+          ],
+          "tutorial": {
+            "top_models": "*NBP (images), Kling 01/2.6/3.0 (video), Veo 3.1 (video), Seedance 2.0 (video), Wan 2.6 (open source video)*",
+            "edmond_picks": "*'NBP, all Klings'*",
+            "sebastian_open_source": "*'Wan for professional work, zimage, qwen, flux for stills. I primarily build custom pipelines for shots that can't be solved by any of the closed source models.'*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Disable Watermark",
+          "overview": "<strong>ChristianF.</strong> shares how to remove watermark from Seedance generations.",
+          "posters": [
+            "ChristianF."
+          ],
+          "tutorial": {
+            "technique": "*You can disable watermark in the BytePlus console settings. Also need to switch to First & Last frame in generation mode for best results.*",
+            "tip": "*Look for the watermark toggle in the generation settings panel before starting your generation.*"
+          }
+        },
+        {
+          "title": "🎬 AI vs Traditional Production - Spotting the Difference",
+          "overview": "Community debates identifying AI shots in commercial work.",
+          "posters": [
+            "Billy Boman",
+            "Jordan Daniel Chesney",
+            "Pierre Zandrowicz"
+          ],
+          "tutorial": {
+            "observation": "*Billy Boman shared a LinkedIn post asking: 'Is there actually any obvious AI here? As in full AI shots? I couldn't spot any.'*",
+            "reality_check": "*Pierre Zandrowicz clarified: 'Not AI.' Jordan humorously noted: 'How funny that we're now saying Not AI. Sorry, I thought it was AI. My mistake.'*",
+            "takeaway": "*The quality gap between AI and traditional production is narrowing to the point where professionals can't always distinguish between them.*"
+          }
+        }
+      ]
+    },
+    {
+      "title": "🎨 Community Showcases & Projects",
+      "items": [
+        {
+          "title": "🎬 ChristianF. - Seedance 2.0 Acting Shots",
+          "link": "https://www.linkedin.com/posts/christian-fleischer-1965a6274_seedance2-bytedance-aifilmmaking-activity-7427204773197701120-yL2C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMBz4IBpsFqfUBHSm1qxKmxppG9PDvhDSw",
+          "description": "<strong>ChristianF.</strong> shared impressive acting shots generated with Seedance 2.0, noting \"impressive consistency!!\" and demonstrating the model's ability to handle nuanced character performance without heavy prompting.",
+          "posters": [
+            "ChristianF."
+          ]
+        },
+        {
+          "title": "🎬 Billy Boman - Giant Squirrels vs Football Players",
+          "link": "",
+          "description": "<strong>Billy Boman</strong> shared a creative Seedance 2.0 generation: \"Here's my giant squirrels vs American footballers gen\" followed by a Kung Fu fight sequence with dynamic camera work, demonstrating the model's versatility for creative and action content.",
+          "posters": [
+            "Billy Boman"
+          ]
+        },
+        {
+          "title": "🎬 Edmond Yang - Seedance 2.0 Early Generations",
+          "link": "",
+          "description": "<strong>Edmond Yang</strong> shared: \"I managed to generate these legends before it died on me\" - capturing impressive Seedance 2.0 content before BytePlus access was restricted.",
+          "posters": [
+            "Edmond Yang"
+          ]
+        },
+        {
+          "title": "🎬 Blvckl!ght - Higgsfield Commentary Video",
+          "link": "https://x.com/blvcklightai/status/2021604152485552477?s=46",
+          "description": "<strong>Blvckl!ght</strong> posted a pointed video critique of Higgsfield's UGC practices. <strong>Yonatan Dor brothers</strong> called it \"fucking hilarious\" and \"funny shit.\" <strong>Rory Flynn</strong> provided the video content. <strong>Blvckl!ght</strong> credited: \"Big thanks to Rory Flynn for the vid.\"",
+          "posters": [
+            "Blvckl!ght",
+            "Rory Flynn",
+            "Yonatan Dor brothers"
+          ]
+        },
+        {
+          "title": "🎬 Justin Hackney - Introduces Giacomo via Wonder",
+          "link": "https://www.linkedin.com/in/giacomomallamaci?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+          "description": "<strong>Justin Hackney</strong> introduced <strong>Giacomo Mallamaci</strong> to the community: \"Been killing it at Wonder working across our different projects. Absolutely deep in the tools and is honestly one of the nicest people I have the pleasure of getting to know.\" Also shared Nigel Watson's X profile as a connection.",
+          "posters": [
+            "Justin Hackney",
+            "Giacomo Mallamaci"
+          ]
+        },
+        {
+          "title": "🎬 Justin Hackney - Instagram Reel on AI Dreamers",
+          "link": "https://www.instagram.com/reel/DUCPLt6CI-Q/?igsh=MWI4anJndmh2bHZpeA==",
+          "description": "<strong>Justin Hackney</strong> shared: \"He's talking about you dreamers\" - an Instagram reel discussing the RealDreams community and AI filmmaking movement.",
+          "posters": [
+            "Justin Hackney"
+          ]
+        },
+        {
+          "title": "🎬 Aaron Bhugobaun - ElevenLabs Summit Coverage",
+          "link": "",
+          "description": "<strong>Aaron Bhugobaun</strong> shared photos and videos from the ElevenLabs Summit, connecting with <strong>Matty</strong>, <strong>Rourke</strong>, and other community members. The event was described as massive with many attendees.",
+          "posters": [
+            "Aaron Bhugobaun",
+            "Matty",
+            "Rourke"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "👋 New Members",
+      "items": [
+        {
+          "title": "🎬 Giacomo Mallamaci - Wonder Studios Creative",
+          "link": "https://www.linkedin.com/in/giacomomallamaci?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+          "overview": "<strong>Justin Hackney</strong> welcomes Giacomo Mallamaci, a key creative at Wonder Studios.",
+          "description": "<strong>Justin Hackney</strong> introduced <strong>Giacomo Mallamaci</strong>: \"Introducing Giacomo into the dreamers. Been killing it at Wonder working across our different projects. Absolutely deep in the tools and is honestly one of the nicest people I have the pleasure of getting to know.\" <strong>Max</strong> confirmed: \"The man\" with fire emoji. <strong>Giacomo</strong> responded: \"Hello everyone! It's a pleasure to be here with all those great creatives.\" <strong>Aaron Bhugobaun</strong>, <strong>Billy Boman</strong>, <strong>Blair</strong>, <strong>Alex</strong>, <strong>Jordan Daniel Chesney</strong>, <strong>Blvckl!ght</strong>, and <strong>Kēkā</strong> all welcomed him warmly. <strong>Kēkā</strong> noted: \"Anyone part of the Wonder family is already part of the RD family.\"",
+          "posters": [
+            "Justin Hackney",
+            "Giacomo Mallamaci"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "💭 Community Insights & Discussions",
+      "items": [
+        {
+          "title": "🎬 Oscars AI Rules Update",
+          "link": "",
+          "overview": "Community analyzes new Academy rules on AI submissions.",
+          "description": "<strong>Henry</strong> asked for takes on the new rules. <strong>Tom Furse</strong> analyzed: \"I was expecting a more expanded statement but that's all it says about AI in the rules change. Looks like they're saying 'we're open to AI submissions but we might ask you about them' but using a stern tone that placates the anxieties around AI in the industry.\" <strong>Henry</strong> agreed: \"Yeah, kinda getting the same...We're not closing the door but we'll hold you accountable for its usage.\" <strong>Rory Flynn</strong> joked: \"Would be funny if it was in like 90% of the submissions.\" <strong>Andy Mc</strong> noted: \"Even more confusing is that ML has been used in high-end VFX workflows to some degree for a good 10-15 years.\"",
+          "posters": [
+            "Henry",
+            "Tom Furse",
+            "Rory Flynn",
+            "Andy Mc"
+          ]
+        },
+        {
+          "title": "🎬 Celebrities and AI - Future Relevance Debate",
+          "link": "",
+          "overview": "Community debates celebrity influence in the AI era.",
+          "description": "<strong>Jordan Daniel Chesney</strong> shared: \"Celebrities should pontificate their warnings and ideals while they're still relevant cause soon enough, few will listen.\" <strong>Stephan Bugaj</strong> countered: \"Very unlikely. I've heard this claim since the Synthespians of the Thalmanns... people still ultimately want to connect with other people. Some of those people will likely be new AI Creator celebrities, the Parker & Stones and Nolans of the medium.\" <strong>Jordan</strong> responded: \"Good point. We will always suffer fools simply because they're human.\" <strong>Aaron Bhugobaun</strong> added: \"Is anyone going to tell him about the AI that is being developed and used at Netflix.\"",
+          "posters": [
+            "Jordan Daniel Chesney",
+            "Stephan Bugaj",
+            "Aaron Bhugobaun"
+          ]
+        },
+        {
+          "title": "🎬 FOMO and Keeping Up with Tools",
+          "link": "",
+          "overview": "<strong>Blair</strong> expresses the universal creator challenge of staying current.",
+          "description": "<strong>Blair</strong> shared: \"I'm reminded when I stop by here (when I get a chance) that I don't even know how up to date (or seriously lacking I am) with all the tools cause I'm head down busy all the time. A bit of FOMO happening. Anyone else feel this?\" <strong>Justin Hackney</strong> responded: \"Always. And yet we're all surfing the wave.\"",
+          "posters": [
+            "Blair",
+            "Justin Hackney"
+          ]
+        },
+        {
+          "title": "🎬 Sloperator Term Coining",
+          "link": "",
+          "overview": "Community playfully coins new terms for AI operators.",
+          "description": "<strong>Martin LeBlanc</strong> asked: \"Can we get some support for 'sloperator'?\" <strong>Billy Boman</strong> suggested \"'Slopgineer'? Doesn't have the same ring to it...\" <strong>Edmond Yang</strong> added: \"The Smoooooth sloperatooooooor. I know you have the song in your head now.\" <strong>Tom Furse</strong> contributed \"Sloptomystic\" and \"Sloptomist.\" <strong>Billy Boman</strong> offered \"'Sloptologist' - Be right back honey, just a quick visit to the Sloptologer in the morning!\" <strong>Andreas Massouras</strong> added: \"'Promptstitute' has a nice ring to it too.\" <strong>Martin LeBlanc</strong> declared it \"my favorite.\"",
+          "posters": [
+            "Martin LeBlanc",
+            "Billy Boman",
+            "Edmond Yang",
+            "Tom Furse",
+            "Andreas Massouras"
+          ]
+        },
+        {
+          "title": "🎬 Lighthouse Live 2026",
+          "link": "",
+          "overview": "<strong>Luka T</strong> announces Lighthouse Live 2026 opening.",
+          "description": "<strong>Luka T</strong> announced: \"We're opening Lighthouse Live 2026 with the one and only - Cool Blonde Swedish Dude!!! Ya'll know who this is.\" Later: \"We all know this legend and I'm sitting down with him next week.\" <strong>Billy Boman</strong> highlighted: \"'Taste is the only weapon that scales' is a sick quote!\" <strong>Justin Hackney</strong> agreed: \"Printing this on swag ASAP.\"",
+          "posters": [
+            "Luka T",
+            "Billy Boman",
+            "Justin Hackney",
+            "MetaPuppet"
+          ]
+        },
+        {
+          "title": "🎬 Pika Status and Future",
+          "link": "",
+          "overview": "Community discusses Pika's current state and direction.",
+          "description": "<strong>Matthieu</strong> asked \"Was just wondering if Pika is still alive.\" <strong>Blvckl!ght</strong> explained: \"They jumped the shark when they bailed on everything to do UGC and their own UGC platform. Sora 2 launch nuked that immediately and they haven't recovered since.\" <strong>KevinShah/CreativeAIgency</strong> noted: \"Leonie is at xAI.\" <strong>Andy Mc</strong> added: \"Comfy don't appear to support it via API anymore - ditto Freepik.\"",
+          "posters": [
+            "Matthieu",
+            "Blvckl!ght",
+            "KevinShah/CreativeAIgency",
+            "Andy Mc",
+            "Harvey",
+            "Leonie"
+          ]
+        },
+        {
+          "title": "🎬 Freepik CPP Credits Issue",
+          "link": "",
+          "overview": "Community experiences temporary Freepik CPP credits issue.",
+          "description": "<strong>Albert Bozesan</strong> reported losing access to Freepik CPP credits: \"They're just taking some time refreshing monthly credits. Was a bit of a rude awakening this morning.\" <strong>Andy Mc</strong> clarified the refresh date. <strong>Edmond Yang</strong> shared: \"I got scared I was kicked out on the CPP, so I mailed Angela, so they said it was an internal error.\" <strong>Martin LeBlanc</strong> later confirmed: \"There was a bug with the credits for Freepik CPP. Should be fixed now.\"",
+          "posters": [
+            "Albert Bozesan",
+            "Andy Mc",
+            "Edmond Yang",
+            "Martin LeBlanc"
+          ]
+        },
+        {
+          "title": "🎬 DeepSeek IPO Success",
+          "link": "",
+          "overview": "Community discusses DeepSeek's market performance.",
+          "description": "<strong>PJ Accetturo</strong> shared news about DeepSeek's IPO. <strong>Sultan</strong> responded: \"Looks serious! Good for them!\" <strong>Winston Mayo</strong> noted: \"If it holds that's really great. Day 1 IPOs usually surge up but then come down.\"",
+          "posters": [
+            "PJ Accetturo",
+            "Sultan",
+            "Winston Mayo"
+          ]
+        },
+        {
+          "title": "🎬 Seedance 2.0 and Google Nano Speculation",
+          "link": "https://x.com/aidenguoai/status/2021547256923787485?s=20",
+          "description": "<strong>Ryan Phillips</strong> dropped a bombshell: \"I am hearing on the grapevine Seedance is using Nano under the hood without Google's permission.\" <strong>ChristianF.</strong> doubted the leak theory: \"I doubt Seedance 2.0 on BytePlus was a leak... it is their own backend dev and API playground.\" <strong>Alex</strong> shared a related post: \"I don't know what to think about that. Don't worry, none of us does my dude! Let's just enjoy the ride.\"",
+          "posters": [
+            "Ryan Phillips",
+            "ChristianF.",
+            "Alex"
+          ]
+        },
+        {
+          "title": "🎬 Chroma Awards Viewing Platform",
+          "link": "https://watch.chromaawards.com/",
+          "overview": "<strong>Matty</strong> announces new viewing platform for award winners.",
+          "description": "<strong>Matty</strong> shared: \"Check out the winners from the Chroma Awards on our new viewing platform!\" <strong>Winston Mayo</strong> responded: \"This looks amazing.\" <strong>Henry</strong> and <strong>Ryan Phillips</strong> reported technical issues, and <strong>Matty</strong> said: \"Thanks! Will let the developer know.\"",
+          "posters": [
+            "Matty",
+            "Winston Mayo",
+            "Henry",
+            "Ryan Phillips"
+          ]
+        },
+        {
+          "title": "🎬 Yonatan's Production Timeline Joke",
+          "link": "",
+          "overview": "<strong>Yonatan Dor brothers</strong> jokes about Seedance 2.0's impact on production schedules.",
+          "description": "<strong>Yonatan Dor brothers</strong> quipped: \"Everyone who closed projects this week... Good luck explaining to them that they need to wait 2 weeks for production to start!\" - highlighting how rapidly evolving AI tools create constant pressure to delay projects for better technology.",
+          "posters": [
+            "Yonatan Dor brothers"
+          ]
+        },
+        {
+          "title": "🎬 Malware Concerns with AI Tools",
+          "link": "",
+          "overview": "Community discusses security risks with AI tool access.",
+          "description": "<strong>David Clark</strong> warned: \"Malware everywhere we look for sure\" and advised: \"Scrub your shit after today\" - highlighting the security risks of accessing AI tools through unofficial channels and third-party platforms.",
+          "posters": [
+            "David Clark"
+          ]
+        },
+        {
+          "title": "🎬 The Seeker Screening at MASSIVE STUDIOS",
+          "link": "https://partiful.com/e/rV01Vj9yY9ByoqpFkoRu?source=share&c=Y1cQdxoe",
+          "overview": "<strong>Stephan Bugaj</strong> announces LA screening.",
+          "description": "<strong>Stephan Bugaj</strong> shared: \"Our friends at MASSIVE STUDIOS will be showing my film The Seeker this SUNDAY as part of their THE PROMPT variety show of exploration. If you're in the LA area and want to meet some interesting AI filmmakers, come join.\"",
+          "posters": [
+            "Stephan Bugaj"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🔗 Key Links & Resources",
+      "categories": [
+        {
+          "title": "🛠️ Tool Releases & Updates",
+          "links": [
+            {
+              "title": "Seedance 2.0 (BytePlus Console)",
+              "url": "https://console.byteplus.com/ark/region:ark+ap-southeast-1/experience/vision",
+              "description": "Massive leap in video generation with unprecedented motion and physics"
+            },
+            {
+              "title": "Kling 3.0",
+              "url": "https://app.klingai.com",
+              "description": "Reasoning-like intelligence with dramatic quality improvements"
+            },
+            {
+              "title": "Google Veo 3.1 Flow",
+              "url": "https://deepmind.google/models/veo/",
+              "description": "Now live with outpainting and camera control"
+            },
+            {
+              "title": "Kling 01 Elements",
+              "url": "https://app.klingai.com",
+              "description": "Breakthrough workflow with micro-LoRAs and 6-image control"
+            },
+            {
+              "title": "LTX Audio-to-Video",
+              "url": "https://app.ltx.studio/ltx-2-playground/a2v",
+              "description": "Powerful lip-sync with audio input"
+            },
+            {
+              "title": "Runway 4.5 I2V",
+              "url": "https://runwayml.com",
+              "description": "Improved physics and multi-shot sequences"
+            },
+            {
+              "title": "Topaz Video AI",
+              "url": "https://topazlabs.com",
+              "description": "Proteus, Iris, and Astra upscaling models"
+            },
+            {
+              "title": "DorLabs Update",
+              "url": "https://dorlabs.com",
+              "description": "Grid workflows, character toggles, 80% faster filmmaking"
+            },
+            {
+              "title": "Fal Qwen ComfyUI Node",
+              "url": "https://x.com/jtydhr88/status/2009423802640343195?s=20",
+              "description": "Camera control for Qwen with local workflow"
+            },
+            {
+              "title": "Creatify Aurora",
+              "url": "https://creatify.ai/introducing-aurora",
+              "description": "Lip sync tool with audio input"
+            },
+            {
+              "title": "Reve References",
+              "url": "https://www.linkedin.com/posts/reveimage_introducing-references-out-now-in-reve-activity-7415123083767828480-p0mc",
+              "description": "New reference image feature"
+            },
+            {
+              "title": "Chroma Awards Viewing Platform",
+              "url": "https://watch.chromaawards.com/",
+              "description": "New platform for viewing award winners"
+            },
+            {
+              "title": "Grok Images and Video",
+              "url": "https://x.com/mxvdxn/status/2015804969555816519?s=20",
+              "description": "Powerful action generation capabilities"
+            },
+            {
+              "title": "Martin LeBlanc's 3x3 Grid Space",
+              "url": "https://www.freepik.com/pikaso/spaces/a0ef8d09-fa09-4563-9c6c-056f3cf1e31b/invite",
+              "description": "Freepik Space for grid workflow"
+            }
+          ]
+        },
+        {
+          "title": "📰 News & Announcements",
+          "links": [
+            {
+              "title": "Runway AI Summit with Kathleen Kennedy",
+              "url": "https://www.linkedin.com/posts/runwayml_introducing-the-runway-ai-summita-new-daylong-activity-7417215073560993792-oPWL",
+              "description": "Lucasfilm going mainstream with AI"
+            },
+            {
+              "title": "X Originals Creator Program",
+              "url": "https://creatorshq.com/x-originals/",
+              "description": "$500K total funding for 5 creators"
+            },
+            {
+              "title": "Seedance 2.0 / Nano Speculation",
+              "url": "https://x.com/aidenguoai/status/2021547256923787485?s=20",
+              "description": "Discussion on Seedance using Nano technology"
+            },
+            {
+              "title": "Crypto Market Concerns",
+              "url": "https://x.com/milesdeutscher/status/2021487637299855540?s=20",
+              "description": "Miles Deutscher's market analysis"
+            },
+            {
+              "title": "The Seeker Screening at MASSIVE STUDIOS",
+              "url": "https://partiful.com/e/rV01Vj9yY9ByoqpFkoRu?source=share&c=Y1cQdxoe",
+              "description": "LA screening event"
+            },
+            {
+              "title": "1 Billion Summit",
+              "url": "https://www.1billionsummit.com",
+              "description": "$1M prize winner announced"
+            }
+          ]
+        },
+        {
+          "title": "🎓 Tutorials & Resources",
+          "links": [
+            {
+              "title": "ChristianF. - Seedance 2.0 Acting Shots",
+              "url": "https://www.linkedin.com/posts/christian-fleischer-1965a6274_seedance2-bytedance-aifilmmaking-activity-7427204773197701120-yL2C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEMBz4IBpsFqfUBHSm1qxKmxppG9PDvhDSw",
+              "description": "Impressive acting shots with Seedance 2.0"
+            },
+            {
+              "title": "Curious Refuge Time & Cost Breakdown",
+              "url": "https://youtu.be/FiDw4cqVppc?si=dz0s6GxZZPYTADb2",
+              "description": "Production analysis for AI filmmaking"
+            },
+            {
+              "title": "IMDb Tech Specs for Camera Prompting",
+              "url": "https://www.imdb.com",
+              "description": "Research authentic cinematography details"
+            },
+            {
+              "title": "Gabe Michael B-Roll Grid Space",
+              "url": "https://www.freepik.com/pikaso/spaces/a0efba1b-aa21-4cc7-8eac-a5d0d0fb360e/invite",
+              "description": "Alternative grid workflow without quality loss"
+            }
+          ]
+        },
+        {
+          "title": "🎨 Community Work & Showcases",
+          "links": [
+            {
+              "title": "Blvckl!ght - Higgsfield Commentary",
+              "url": "https://x.com/blvcklightai/status/2021604152485552477?s=46",
+              "description": "Pointed critique of Higgsfield UGC practices"
+            },
+            {
+              "title": "Justin Hackney - AI Dreamers Reel",
+              "url": "https://www.instagram.com/reel/DUCPLt6CI-Q/?igsh=MWI4anJndmh2bHZpeA==",
+              "description": "Instagram reel about the RealDreams community"
+            },
+            {
+              "title": "Arthur Chance - Giggs Music Video",
+              "url": "https://www.instagram.com/reel/DTxJgCdjav5/?igsh=aml6d3h5OWtubTc1",
+              "description": "Veo 2 & 3.1, NBP, Gemini with AI ethnographic researcher"
+            },
+            {
+              "title": "Ari kuschnir - Music Video Remake",
+              "url": "https://www.instagram.com/reel/DT-0mC6CbWX/?igsh=NTc4MTIwNjQ2YQ==",
+              "description": "LTX audio-to-video, Kling Motion Control, Runway 4.5"
+            },
+            {
+              "title": "Yonatan Dor brothers - Political Commentary",
+              "url": "https://youtu.be/5eTORQRjCZw?si=RBld9To5ovbQuPwf",
+              "description": "Powerful socio-political piece"
+            },
+            {
+              "title": "Liam - Hat Trick Productions BTS",
+              "url": "https://vimeo.com/1158357842?share=copy&fl=sv&fe=ci",
+              "description": "UK TV industry AI adoption documentary"
+            },
+            {
+              "title": "Linus Ekenstam - Life Advice",
+              "url": "https://www.youtube.com/watch?v=n_nhixh_CpA",
+              "description": "Non-AI life improvement content"
+            },
+            {
+              "title": "Max - Real-Time Editing Demo",
+              "url": "https://www.linkedin.com/posts/maxlarsson-safustudio_crazy-how-fast-this-is-real-time-editing-ugcPost-7421650482227548161-LhNi",
+              "description": "Speed of modern AI-assisted workflows"
+            },
+            {
+              "title": "Edmond Yang - Reaction Video",
+              "url": "https://www.instagram.com/reel/DT5rYBtDHNj/?igsh=dnVhaHNrN2oyMWE0",
+              "description": "Community engagement showcase"
+            }
+          ]
+        },
+        {
+          "title": "💭 Discussions & Insights",
+          "links": [
+            {
+              "title": "PJ Accetturo's Industry Rant",
+              "url": "https://x.com/PJaccetturo/status/2009875385379643693",
+              "description": "Thoughts on AI landscape"
+            },
+            {
+              "title": "Neocept Design Style",
+              "url": "https://x.com/Neocept_Design/status/2015808194828972188?s=20",
+              "description": "Compelling visual style worth following"
+            },
+            {
+              "title": "Justin Hackney Parliament Post",
+              "url": "https://x.com/justinhackney33/status/2016136400043712543?s=46",
+              "description": "RealDreams representation at Parliament"
+            },
+            {
+              "title": "Kimi Moonshot",
+              "url": "https://x.com/kimi_moonshot/status/2016021783833673897?s=46&t=ny3cTkRu7TUZVu8olxOKQQ",
+              "description": "Ongoing AI developments"
+            },
+            {
+              "title": "Sharon Thales Refael - AI Creative Lab",
+              "url": "https://www.linkedin.com/posts/sharon-thales-refael-896319105_an-ai-creative-lab-edit-made-with-artlist-ugcPost-7420834257381560321-icHx",
+              "description": "Creative lab showcase"
+            },
+            {
+              "title": "Hendo AI - Brand Strategy",
+              "url": "https://www.linkedin.com/posts/hendoai_ai-brandstrategy-ugcPost-7421578047528550400-17vZ",
+              "description": "AI brand strategy insights"
+            }
+          ]
+        },
+        {
+          "title": "🎬 Industry & Profiles",
+          "links": [
+            {
+              "title": "Giacomo Mallamaci LinkedIn",
+              "url": "https://www.linkedin.com/in/giacomomallamaci?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+              "description": "New member - Wonder Studios creative"
+            },
+            {
+              "title": "Nigel Watson X Profile",
+              "url": "https://x.com/NigelWatsonTFTC",
+              "description": "Connected via Justin Hackney's introduction"
+            },
+            {
+              "title": "RealDreams HQ Profile Directory",
+              "url": "https://rdhq.manus.space/",
+              "description": "Community member profiles"
+            },
+            {
+              "title": "Hat Trick Productions LinkedIn",
+              "url": "https://www.linkedin.com/posts/activity-7421493560929128448--R--",
+              "description": "UK TV industry AI adoption announcement"
+            },
+            {
+              "title": "Man vs Machine - Head of AI Position",
+              "url": "https://mvsm.com/jobs/head-of-ai",
+              "description": "Job opportunity at major studio"
+            },
+            {
+              "title": "Nem Perez LinkedIn - 3 Month Project",
+              "url": "https://www.linkedin.com/posts/nemperez_over-the-last-three-months-our-team-has-activity-7414822677850431488-weED",
+              "description": "Major project showcase"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
