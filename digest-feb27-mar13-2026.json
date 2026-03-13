@@ -1,0 +1,734 @@
+{
+  "id": "feb27-mar13-2026",
+  "title": "February 27 - March 13, 2026",
+  "date": "March 13, 2026",
+  "dateRange": "February 27 - March 13, 2026",
+  "summary": "The Seedance 2.0 nerfing saga dominates as ByteDance cycles between nerfed and unnerfed states, while the community discovers powerful multiframe techniques and API release targets March 20. Kling 3.0 Omni impresses with character sheet workflows and faster renders. Luma launches its agentic platform reshaping creative workflows, SwitchX emerges as a breakthrough relighting tool, and Higgsfield Soul Cinema dethroning Reve for vibey image generation sparks excitement. The RealDreams Retreat 2026 is officially announced, OpenAI and ACME AI recruit from the community, and members rally around vibe coding with a dedicated sub-group. Netflix acquires AI studio Interpositive, the Supreme Court declines AI copyright, and Nvidia commits $26B to open-source models.",
+  "stats": {
+    "tools": 15,
+    "tutorials": 33,
+    "insights": 14,
+    "links": 52
+  },
+  "keyHighlights": [
+    "Seedance 2.0 nerfing/unnerfing saga continues as community navigates access through Dreamina, BytePlus, and third-party platforms",
+    "Luma launches agentic platform replacing node-based workflows with approve/reject creative control",
+    "SwitchX by Beeble emerges as breakthrough AI relighting foundation model",
+    "Higgsfield Soul Cinema dethroning Reve as most vibey image model for grounded live-action realism",
+    "RealDreams Retreat 2026 officially announced with Retro Future OS RSVP portal",
+    "OpenAI and ACME AI actively recruiting from the RealDreams community"
+  ],
+  "topPosters": [
+    {"name": "Justin Hackney", "count": 139},
+    {"name": "Edmond Yang", "count": 118},
+    {"name": "Billy Boman", "count": 103}
+  ],
+  "sections": [
+    {
+      "title": "\ud83d\ude80 Major Updates & News",
+      "items": [
+        {
+          "title": "\ud83c\udfac Seedance 2.0 - The Nerfing/Unnerfing Saga",
+          "link": "https://console.byteplus.com/ark/region:ark+ap-southeast-1/experience/vision",
+          "description": "<strong>Billy Boman</strong> declared \"Dreamina is BACK!\" after unnerfing, only to report hours later it was \"officially nerfed to hell.\" The cycle repeated multiple times throughout the period. <strong>Brogan Wassell</strong> explained the pattern: \"When China is awake it's slower... when the Chinese are asleep, less workload on their servers, so it gets a lot easier and faster to generate.\" <strong>Tom Paton</strong> confirmed ByteDance is \"planning to release the Seedance 2.0 API around March 20th,\" while <strong>Albert Bozesan</strong> warned US access could be pushed to April. <strong>Issa Sissoko</strong> suspected: \"I think we've been using Seedance 2 Lite for the past week and they just didn't tell us.\"",
+          "posters": ["Billy Boman", "Brogan Wassell", "Tom Paton", "Albert Bozesan", "Issa Sissoko", "Edmond Yang"]
+        },
+        {
+          "title": "\ud83c\udfac Luma Agentic Platform Launch",
+          "link": "https://x.com/PJaccetturo/status/2029656107434795323",
+          "description": "<strong>PJ Accetturo</strong> shared the new Luma agent-based workflow: \"I can't imagine using a node based system after this.\" <strong>Rory Flynn</strong> praised the approve/reject function. <strong>Brogan Wassell</strong> provided context: \"The node system just operates on a level underneath. Gradually just like many other things that will fade for more agentic operations.\" <strong>Luka T</strong> combined Luma agents with Preview.io: \"One and half day of work and I have images for 10 min short vid!\" <strong>Alexia</strong> confirmed Luma now integrates 11Labs music + speech, Claude Opus, Ray3/Sora2/Veo3/Kling.",
+          "posters": ["PJ Accetturo", "Rory Flynn", "Brogan Wassell", "Luka T", "Alexia"]
+        },
+        {
+          "title": "\ud83c\udfac SwitchX by Beeble - AI Relighting Foundation Model",
+          "link": "https://www.linkedin.com/posts/beeble-ai_meet-switchx-our-first-video-to-video-model-activity-7428066622944518144-w-Q0",
+          "description": "<strong>Billy Boman</strong> shared SwitchX calling it a breakthrough: \"best AI tool for relight.\" The foundation model by Beeble enables video-to-video relighting with unprecedented quality, opening new possibilities for post-production lighting control.",
+          "posters": ["Billy Boman"]
+        },
+        {
+          "title": "\ud83c\udfac Higgsfield Soul Cinema - New Image Model",
+          "link": "",
+          "description": "<strong>Billy Boman</strong> declared Higgsfield Soul Cinema has \"dethroned Reve as the most vibey Image model\" for grounded live-action realism. The model impressed the community with its ability to generate photorealistic, atmospheric imagery that feels cinematic rather than synthetic.",
+          "posters": ["Billy Boman"]
+        },
+        {
+          "title": "\ud83c\udfac Kling 3.0 Omni - Character Sheet Workflows",
+          "link": "https://x.com/martinleblanc/status/2030303624304234906",
+          "description": "<strong>Martin LeBlanc</strong> demonstrated character sheet workflows with Kling 3.0 Omni. <strong>Blvckl!ght</strong> noted \"omni reference gens were faster than the start frame gens.\" <strong>Edmond Yang</strong> outlined a pipeline: render closeups and rigs in C4D, make character sheets, then use Kling 3 Omni or Seedance Omni to animate. The model showed improved speed on 3/4 with faster render times.",
+          "posters": ["Martin LeBlanc", "Blvckl!ght", "Edmond Yang"]
+        },
+        {
+          "title": "\ud83c\udfac Netflix Acquires Interpositive AI Studio",
+          "link": "https://www.linkedin.com/posts/netflix_today-netflix-announced-the-acquisition-activity-7435357845249744896-pok8",
+          "description": "<strong>Edmond Yang</strong> shared the news of Netflix acquiring Interpositive, an AI-focused studio. <strong>Billy Boman</strong> noted the significance: \"Netflix is going all in.\" The acquisition signals major studio investment in AI-native production pipelines. <strong>ComfyUI</strong> also highlighted their connection to Interpositive's workflow.",
+          "posters": ["Edmond Yang", "Billy Boman"]
+        },
+        {
+          "title": "\ud83c\udfac Supreme Court Declines AI Copyright Case",
+          "link": "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/",
+          "description": "<strong>Billy Boman</strong> shared the Reuters article: \"AI slop without human touch can't be copyrighted.\" The Supreme Court declined to hear the dispute, effectively maintaining the position that AI-generated material without significant human creative input cannot receive copyright protection.",
+          "posters": ["Billy Boman"]
+        },
+        {
+          "title": "\ud83c\udfac P-Video Model for Music Performance",
+          "link": "https://www.youtube.com/watch?v=rXSMtUm1XjQ",
+          "description": "<strong>ChristianF.</strong> shared his P-Video music video result: \"P-Video Model is better in music performance than Seedance 2, stays true to the music input and is very expressive.\" He noted the 1080p output \"looks a bit waxy, so needs a lot of grain to get detail back in.\" The model by Pruna excels at generating synchronized music performance videos.",
+          "posters": ["ChristianF."]
+        },
+        {
+          "title": "\ud83c\udfac CorridorKey - Open Source by Niko Pueringer",
+          "link": "https://github.com/nikopueringer/CorridorKey",
+          "description": "<strong>Alex</strong> shared CorridorKey, calling it \"cr\u00e8me de la cr\u00e8me\" for green screen replacement. The open-source tool by Corridor Digital's Niko Pueringer provides advanced keying capabilities. <strong>Blair</strong> had asked about best tools for replacing green screen backdrops for interviews, and Alex recommended this alongside SwitchX.",
+          "posters": ["Alex", "Blair"]
+        },
+        {
+          "title": "\ud83c\udfac Codex by OpenAI - Agent Coding Platform",
+          "link": "",
+          "description": "<strong>Alex</strong> raved about Codex: \"insanely good\" and \"cold, efficient.\" <strong>Rory Flynn</strong> used it for building local video downloader pipelines and bulk video summarization. The tool sparked massive interest in vibe coding within the community, leading to the creation of a dedicated sub-group.",
+          "posters": ["Alex", "Rory Flynn"]
+        },
+        {
+          "title": "\ud83c\udfac Nvidia Commits $26B to Open-Source Models",
+          "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+          "description": "<strong>Ramon Guthrie</strong> shared the Wired article about Nvidia's massive investment. While critical of Nvidia's consumer GPU VRAM limitations, he acknowledged \"this move might redeem him slightly.\" <strong>Alex</strong> noted it's \"a great way to sell more cards\" and hoped for \"unnerfed, customizable models.\"",
+          "posters": ["Ramon Guthrie", "Alex"]
+        },
+        {
+          "title": "\ud83c\udfac Facebook Acquires Moltbook",
+          "link": "https://www.bbc.co.uk/news/articles/cvg1x788dreo",
+          "description": "<strong>Aaron Bhugobaun</strong> shared the BBC article about Facebook buying Moltbook, a \"social media network for AI.\" <strong>Sultan</strong> called it the \"weirdest acquirement ever.\" <strong>Alex</strong> revealed: \"A guy created one million accounts because the project was vibe coded and there was no rate limit.\" Aaron theorized it was a reaction to OpenAI's acquisitions.",
+          "posters": ["Aaron Bhugobaun", "Sultan", "Alex"]
+        },
+        {
+          "title": "\ud83c\udfac Runway Characters Feature",
+          "link": "https://x.com/andymac3d/status/2031112582577160259",
+          "description": "<strong>Andy Mc</strong> demonstrated Runway's new interactive characters feature with \"Benny Smalls,\" showcasing AI-driven character interaction capabilities. The feature represents Runway's push into interactive AI character experiences.",
+          "posters": ["Andy Mc"]
+        },
+        {
+          "title": "\ud83c\udfac RealDreams Retreat 2026 Announced",
+          "link": "https://realdreams-os-98.vercel.app/",
+          "description": "<strong>Justin Hackney</strong> officially announced the RealDreams Retreat 2026 with a Retro Future OS-themed RSVP portal. The announcement generated massive excitement with members from London, LA, NYC, Toronto, and Vancouver expressing interest. <strong>Wonder</strong> also hosted its first offsite in the English countryside, with Justin sharing: \"Absolutely mental to see everyone truly together for the first time.\"",
+          "posters": ["Justin Hackney"]
+        },
+        {
+          "title": "\ud83c\udfac DorLabs Grid Features Update",
+          "link": "",
+          "description": "<strong>Yonatan Dor brothers</strong> shared updates to DorLabs including grid splitting and extracting features, continuing development of the creative tools platform.",
+          "posters": ["Yonatan Dor brothers"]
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udcda Tutorials & Techniques",
+      "items": [
+        {
+          "title": "\ud83c\udfac Seedance 2.0 - First Frame vs Multiframe Strategy",
+          "overview": "<strong>Billy Boman</strong>, <strong>Rory Flynn</strong>, and <strong>Blvckl!ght</strong> debate optimal generation modes.",
+          "posters": ["Billy Boman", "Rory Flynn", "Blvckl!ght"],
+          "tutorial": {
+            "first_frame_approach": "*Billy Boman: 'First frame - I've found multiframe and omni too morphy thus far.' Single start frame gives the most controlled, least distorted results.*",
+            "multiframe_sweet_spot": "*Rory Flynn: 'Multi frame is awesome with lower clip times. 3-4 seconds is the sweet spot.' Shorter clips reduce morphing artifacts while maintaining dynamic motion.*",
+            "multiframe_structure": "*Blvckl!ght: 'I do multiframe but the first one is 1 sec long, and then add 3 more. The outputs tend to be more dynamic than my single start frame.' This staggered approach creates more energetic results.*",
+            "key_insight": "*The choice between first frame and multiframe depends on your priority: first frame for control and consistency, multiframe for dynamism and energy. Experiment with clip length to find the balance.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Seedance 2.0 - Prompting Like Veo2 for Multiframe",
+          "overview": "<strong>Rory Flynn</strong> shares a cross-model prompting technique for Seedance multiframe.",
+          "posters": ["Rory Flynn"],
+          "tutorial": {
+            "technique": "*'If you treat the multi-cut prompts like the veo2 t2v type prompting you get awesome stuff.' Apply Veo2's text-to-video prompting style when writing multiframe prompts for Seedance 2.0.*",
+            "key_insight": "*Veo2 prompting emphasizes cinematic language, camera movements, and scene descriptions. Applying this style to Seedance multiframe prompts produces more coherent, cinematic results.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Seedance 2.0 - Nerfing Workarounds & Access Methods",
+          "overview": "<strong>Billy Boman</strong> and <strong>Brogan Wassell</strong> share strategies for navigating the nerfing cycles.",
+          "posters": ["Billy Boman", "Brogan Wassell", "Edmond Yang"],
+          "tutorial": {
+            "dreamina_access": "*Primary platform for Seedance 2.0. CPP (Creative Partners Program) access provides the best experience. Billy: 'Just nag! It took them a while to whitelist me for SD 2 after formal acceptance.'*",
+            "byteplus_console": "*BytePlus Console: https://console.byteplus.com/ark/region:ark+ap-southeast-1/experience/vision - Works without VPN when the model is available.*",
+            "timing_strategy": "*Brogan Wassell: 'When China is awake it's a lot slower for obvious reasons. But when the Chinese are asleep... less workload on their servers, so it gets a lot easier and faster to generate.'*",
+            "nerfing_pattern": "*The model cycles between nerfed and unnerfed states. Billy observed: 'Dreamina is BACK!' followed by 'officially nerfed to hell' within hours. Generate aggressively during unnerfed windows.*",
+            "alternative_platforms": "*Martini Art and Octo also provide Seedance 2.0 access. Gabe Michael: 'Finally got access to Seedance 2.0 via Octo!'*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Seedance 2.0 - API Release Timeline",
+          "overview": "<strong>Tom Paton</strong> confirms official API release plans.",
+          "posters": ["Tom Paton", "Albert Bozesan", "Edmond Yang"],
+          "tutorial": {
+            "timeline": "*Tom Paton confirmed ByteDance is 'planning to release the Seedance 2.0 API around March 20th.' Edmond Yang heard 'end of month' from BytePlus directly.*",
+            "regional_rollout": "*Albert Bozesan: 'Lat Am first, then Europe, then US. They're so scared of legal in the US.' US access could potentially be pushed to April.*",
+            "vpn_option": "*Sultan speculated: 'I think it gonna work with VPN tho' for accessing the API from restricted regions.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Seedance 2.0 - CPP Access & Credits Strategy",
+          "overview": "<strong>Edmond Yang</strong> and <strong>Issa Sissoko</strong> discuss the Creative Partners Program.",
+          "posters": ["Edmond Yang", "Issa Sissoko", "Brogan Wassell", "Seb Ungrad"],
+          "tutorial": {
+            "cpp_access": "*Edmond Yang received a CPP email partnership for credits. The program provides dedicated credits for content creators.*",
+            "follower_requirements": "*Issa Sissoko: 'They're definitely looking at followers now. Clout.' He tried to get 5 creator friends in and only 1 got in because he has 300K+ on IG.*",
+            "nagging_works": "*Both Edmond Yang and Billy Boman confirm persistent follow-up works: 'I nagged' and 'I almost went to his home.' Don't give up after initial silence.*",
+            "events_path": "*Brogan Wassell: 'Another good way to get into their CPP was their events which they had several last year. I'd try to see if you could get into any of them.'*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Seedance 2.0 - Generation Speed & Reliability",
+          "overview": "<strong>Brogan Wassell</strong> shares practical tips on generation timing and reliability.",
+          "posters": ["Brogan Wassell", "Sultan"],
+          "tutorial": {
+            "speed_range": "*Brogan Wassell: 'Roughly 4-6 minutes at fastest. 7-15 at longest. Shorter clips go faster.'*",
+            "server_patterns": "*'They also have up times and down times. Usually I'll know because then suddenly none of the generations are working. But other times it's like heaven and you'll get like 10 in a row.'*",
+            "best_times": "*Generate during off-peak hours (when China is sleeping) for fastest results and highest success rates.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Kling 3.0 Omni - Character Sheet Workflow",
+          "overview": "<strong>Martin LeBlanc</strong> and <strong>Edmond Yang</strong> share character sheet techniques for Kling 3.0 Omni.",
+          "posters": ["Martin LeBlanc", "Edmond Yang", "Blvckl!ght"],
+          "tutorial": {
+            "workflow": "*Create character sheets with multiple angles and expressions, then feed them into Kling 3.0 Omni for consistent character animation. Martin LeBlanc demonstrated this with impressive results.*",
+            "3d_pipeline": "*Edmond Yang's pipeline: Render closeups and rigs in Cinema 4D, create character sheets from the renders, then use Kling 3 Omni or Seedance Omni to animate the characters.*",
+            "speed_tip": "*Blvckl!ght: 'Omni reference gens were faster than the start frame gens.' Use omni reference mode for faster generation times.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Kling 3.0 - Freepik Integration Tips",
+          "overview": "<strong>Luka T</strong> and <strong>Jordan Daniel Chesney</strong> discuss Kling 3.0 on Freepik.",
+          "posters": ["Luka T", "Jordan Daniel Chesney", "Martin LeBlanc"],
+          "tutorial": {
+            "speed_issue": "*Luka T: 'Why is Kling 3.0 so freaking slow on Freepik?' and 'I can't work like this.' Expect longer wait times on the Freepik platform.*",
+            "quality_tradeoff": "*Luka T: 'But the results I'm getting are aaalmost worth the wait.' Despite speed issues, the output quality remains high.*",
+            "split_grid_bug": "*Jordan reported the split grid feature missing. Martin confirmed it should be there - check your interface version if features appear missing.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Luma Agents - Replacing Node-Based Workflows",
+          "overview": "<strong>PJ Accetturo</strong> and <strong>Brogan Wassell</strong> explain the paradigm shift from nodes to agents.",
+          "posters": ["PJ Accetturo", "Brogan Wassell", "Rory Flynn"],
+          "tutorial": {
+            "paradigm_shift": "*PJ Accetturo: 'I can't imagine using a node based system after this.' The agentic approach replaces manual node connections with AI-driven creative decisions.*",
+            "approve_reject": "*Rory Flynn: 'I like the approve/reject function.' The agent generates options and you approve or reject each step, maintaining creative control without manual wiring.*",
+            "future_direction": "*Brogan Wassell: 'The node system just operates on a level underneath. Gradually just like many other things that will fade for more agentic operations.' Nodes won't disappear but will become the backend layer.*",
+            "full_integration": "*Alexia confirmed Luma now integrates: 11Labs music + speech, Claude Opus, Ray3/Sora2/Veo3/Kling - all accessible through the agentic interface.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Luma Agents + Preview.io Combo Workflow",
+          "overview": "<strong>Luka T</strong> shares a powerful production pipeline combining Luma agents with Preview.io.",
+          "posters": ["Luka T", "Gabe Michael"],
+          "tutorial": {
+            "workflow": "*Generate images and scenes using Luma's agentic platform, then organize and storyboard them in Preview.io for efficient short film production.*",
+            "speed": "*Luka T: 'One and half day of work and I have images for 10 min short vid!' The combination dramatically accelerates pre-production.*",
+            "use_case": "*Ideal for creating storyboards, b-rolls, dialogue shots, and scenery shots for narrative projects. Luka used it for an Israel/Palestine themed short.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Lipsync Tool Comparison Guide",
+          "overview": "<strong>Alex</strong>, <strong>Henry</strong>, and others compare lipsync solutions across platforms.",
+          "posters": ["Alex", "Henry", "Edmond Yang", "ChristianF."],
+          "tutorial": {
+            "hedra": "*Alex: 'Hedra is underrated. Saved me a few times.' Good for quick lipsync needs.*",
+            "heyGen": "*Alex: 'I've seen people using HeyGen in French and Japanese.' Best option for foreign language lipsync with multi-language support.*",
+            "kling_lipsync": "*Kling's built-in lipsync discussed but with mixed results depending on the complexity of the scene.*",
+            "krea_fabric": "*Krea with Fabric mentioned as another option in the lipsync toolkit.*",
+            "recommendation": "*For English: Hedra for quick fixes, Kling for integrated workflow. For foreign languages: HeyGen leads. For green screen replacement: CorridorKey or SwitchX.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac P-Video Model - Music Performance Generation",
+          "overview": "<strong>ChristianF.</strong> shares detailed tips for the P-Video music performance model.",
+          "posters": ["ChristianF."],
+          "tutorial": {
+            "strength": "*'P-Video Model is better in music performance than Seedance 2, stays true to the music input and is very expressive.' The model excels at synchronized music performance videos.*",
+            "grain_fix": "*'1080p output looks a bit waxy, so needs a lot of grain to get detail back in.' Add film grain in post to counteract the waxy look at 1080p.*",
+            "comparison": "*For music videos specifically, P-Video outperforms Seedance 2 in staying true to the musical input and generating expressive performances.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Green Screen Replacement - Tool Recommendations",
+          "overview": "<strong>Alex</strong> and <strong>Blair</strong> discuss best tools for replacing green screen backdrops.",
+          "posters": ["Alex", "Blair", "Rory Flynn"],
+          "tutorial": {
+            "corridorkey": "*Alex: 'Cr\u00e8me de la cr\u00e8me.' CorridorKey by Niko Pueringer is the top recommendation for advanced keying. Open source: https://github.com/nikopueringer/CorridorKey*",
+            "switchx": "*Alex: 'Or SwitchX if it's too heavy?' SwitchX by Beeble provides AI-powered relighting as a lighter alternative.*",
+            "runway_limitation": "*Blair noted Runway isn't getting lip sync right for interview green screen replacement. Consider CorridorKey or SwitchX instead.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Nano Banana Pro - NYC Location Prompting",
+          "overview": "<strong>Rory Flynn</strong> shares specific prompting techniques for New York City scenes.",
+          "posters": ["Rory Flynn"],
+          "tutorial": {
+            "technique": "*'Be specific in prompting areas of the city within NBP2 (ex West Village, Soho, Harlem, FiDi). If not you get very generic NYC mid-town.' Naming specific neighborhoods produces dramatically more authentic results.*",
+            "key_insight": "*Generic 'New York City' prompts default to Times Square/Midtown aesthetics. Specifying neighborhoods like West Village, Soho, Harlem, or FiDi unlocks the model's knowledge of distinct architectural and atmospheric qualities.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Nano Banana Pro - 'Show Me' Technique",
+          "overview": "<strong>Jordan Daniel Chesney</strong> and <strong>Henry</strong> confirm the 'Show Me' prompting technique.",
+          "posters": ["Jordan Daniel Chesney", "Henry"],
+          "tutorial": {
+            "technique": "*Jordan asked if the 'Show Me' technique still works with NBP. Henry confirmed it does. Starting prompts with 'Show me...' can produce different results than standard descriptive prompts.*",
+            "google_earth_combo": "*Henry suggests using Google Earth as a base for Manhattan shots, then applying NB Pro on top for enhanced realism and detail.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Video Summarization - Multi-Tool Approach",
+          "overview": "<strong>Rory Flynn</strong>, <strong>Gary Palmer</strong>, and <strong>jboogxcreative</strong> share different approaches to video summarization.",
+          "posters": ["Rory Flynn", "Gary Palmer", "jboogxcreative", "Edmond Yang"],
+          "tutorial": {
+            "gemini_approach": "*jboogxcreative: 'Give the video urls to Gemini and ask it to summarize.' Quick and easy for individual videos.*",
+            "electric_sheep": "*Gary Palmer: 'Upload your mp4s, wait for it to finish analysing, then ask the agent.' Electric Sheep (edit.electricsheep.tv) provides deep video analysis.*",
+            "codex_bulk": "*Rory Flynn: 'I've been doing it with mp4 files locally' using Codex. Best for bulk processing multiple videos at once.*",
+            "notebookLM": "*Edmond Yang suggested NotebookLM as another option for video summarization and analysis.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Vibe Coding - Getting Started Guide",
+          "overview": "<strong>Rory Flynn</strong> launches a vibe coding movement within the community.",
+          "posters": ["Rory Flynn", "Alex", "K\u0113k\u0101"],
+          "tutorial": {
+            "what_is_it": "*Vibe coding uses AI agents (Codex, Claude Code) to write code through natural language instructions. No traditional programming knowledge required.*",
+            "codex_recommendation": "*Rory Flynn: 'Codex is the move.' Alex called it 'insanely good' and 'cold, efficient.' The OpenAI tool excels at building functional applications from descriptions.*",
+            "use_cases": "*Building local video downloader pipelines, video summarization tools, custom creative tools. Rory built a YouTube downloader when Cobalt stopped working.*",
+            "sub_group": "*Rory created a dedicated WhatsApp group for vibe coding: https://chat.whatsapp.com/HmSXbB6viHB4nnsr7YN9gy - massive interest from the community.*",
+            "agent_chat_room": "*K\u0113k\u0101 built a realtime chat room where AI agents (Perplexity, Claude Code, Sonar) communicate with each other - pushing the boundaries of agentic workflows.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Higgsfield Soul Cinema - Vibey Image Generation",
+          "overview": "<strong>Billy Boman</strong> declares a new champion for atmospheric image generation.",
+          "posters": ["Billy Boman"],
+          "tutorial": {
+            "verdict": "*Billy Boman: 'Dethroned Reve as the most vibey Image model.' Higgsfield Soul Cinema excels at grounded, live-action realism with atmospheric quality.*",
+            "strength": "*The model produces images that feel cinematic and lived-in rather than synthetic. Best for photorealistic, atmospheric scenes with natural lighting.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Style LoRA Discussion - Commercial Viability",
+          "overview": "<strong>Billy Boman</strong> discusses the limitations of Style LoRAs for professional work.",
+          "posters": ["Billy Boman"],
+          "tutorial": {
+            "assessment": "*Billy Boman: 'Never dabbled much in Style LoRAs' because open-source models are 'too unintelligent' for commercial production work.*",
+            "key_insight": "*For commercial and professional production, closed-source frontier models still outperform LoRA-customized open-source alternatives in terms of intelligence and consistency.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Google Cloud Vertex - AI Indemnification for Studios",
+          "overview": "<strong>Aaron Bhugobaun</strong> explains enterprise AI adoption through Google Cloud.",
+          "posters": ["Aaron Bhugobaun", "Billy Boman", "Henry"],
+          "tutorial": {
+            "indemnification": "*Aaron: 'If you go through Google Cloud you will be indemnified as Google wants enterprise adoption.' Studios want this legal protection.*",
+            "synth_id_caveat": "*Aaron: 'Synth ID is just their watermark tech. But it falls down when you do encoding or put it through Topaz.' The watermark can be stripped through post-processing.*",
+            "open_question": "*'Are you still indemnified if you put your content through Topaz and your SynthID watermark is wiped out?' Aaron committed to investigating this with Google.*",
+            "enterprise_contact": "*Henry offered to connect Billy with the person in charge of enterprise adoption at Google. It's on Vertex.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Content Strategy for AI Creators",
+          "overview": "<strong>Rory Flynn</strong> shares a framework for AI content creation strategy.",
+          "posters": ["Rory Flynn"],
+          "tutorial": {
+            "framework": "*'Basics = impressions. Advanced = jobs.' Simple showcase content drives visibility and followers, while advanced technique demonstrations attract professional opportunities.*",
+            "key_insight": "*Focus your public content on impressive visuals to build audience, but develop deep technical skills privately to land paid work.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Pricing AI Commissions",
+          "overview": "<strong>Jordan Daniel Chesney</strong> and <strong>Alex</strong> share their approach to pricing AI creative work.",
+          "posters": ["Jordan Daniel Chesney", "Alex"],
+          "tutorial": {
+            "approach": "*Both Jordan and Alex use a day rate for everything, regardless of the medium. Jordan: 'I just go with my day rate for everything, regardless of the medium.'*",
+            "key_insight": "*Don't discount your rate because AI makes production faster. Your creative expertise, direction, and curation are the value - not the hours spent generating.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac YouTube Video Download Solutions",
+          "overview": "<strong>Rory Flynn</strong> shares alternatives after Cobalt stopped working for YouTube.",
+          "posters": ["Rory Flynn", "Chris First"],
+          "tutorial": {
+            "tool_recommendation": "*Rory Flynn: 'You can do it with Codex/Claude Code... but this one is also super easy: https://www.4kdownload.com/products/videodownloader-42'*",
+            "vibe_code_option": "*For a custom solution, use Codex or Claude Code to build a local video downloader pipeline - a perfect vibe coding starter project.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Invideo Vision - Storyboard Generation",
+          "overview": "<strong>Perpetual</strong> shares Invideo's capabilities for creative pre-production.",
+          "posters": ["Perpetual"],
+          "tutorial": {
+            "technique": "*Use Invideo Vision for generating storyboards and exploring different camera angles. The tool helps visualize scenes before committing to full generation.*",
+            "workflow": "*Feed your script or scene descriptions into Invideo Vision to get multiple angle options, then select the best compositions for your final generation pipeline.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Luma CPP Access Strategy",
+          "overview": "<strong>Brogan Wassell</strong> and <strong>Luka T</strong> discuss getting into Luma's Creative Partners Program.",
+          "posters": ["Brogan Wassell", "Luka T", "Edmond Yang"],
+          "tutorial": {
+            "difficulty": "*Brogan: 'Their CPP is very difficult to get into. They kicked off like 80% of their CPP a few months ago.'*",
+            "contacts": "*Brogan: 'Talk to Jieyi or Jake. They might be able to help you.' Find them on Discord or Machine Cinema.*",
+            "internal_contacts": "*Edmond suggested reaching out to Verena (who works at Luma). Gabe Michael confirmed Alexia is also at Luma now.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Dead Internet Theory & Proof-of-Human",
+          "overview": "<strong>Linus</strong> raises concerns about AI-generated content flooding platforms.",
+          "posters": ["Linus", "Billy Boman"],
+          "tutorial": {
+            "concern": "*Linus observed agents creating automated pipelines of posts, raising dead internet theory concerns. The need for 'proof-of-human' verification is growing.*",
+            "implication": "*As AI content generation becomes trivial, human curation and authentic creative voice become the differentiator. Build your personal brand around genuine creative vision.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Billboard-to-Ad Workflow",
+          "overview": "<strong>Luka T</strong> demonstrates creating an ad from a billboard photo.",
+          "posters": ["Luka T"],
+          "tutorial": {
+            "workflow": "*'Seen a billboard on the morning stroll and asked myself, can I create an ad just from the billboard photo? Yes.' Photograph real-world advertising, then use AI to generate a complete ad campaign from the reference.*",
+            "link": "*Full walkthrough: https://www.linkedin.com/posts/luka-tisler_i-went-for-a-morning-stroll-spotted-this-activity-7437885186693963778-3Io_*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac A1111 / Forge / ComfyUI - State of Local Generation",
+          "overview": "<strong>Luka T</strong>, <strong>Albert Bozesan</strong>, and <strong>Noah</strong> discuss the current state of local AI tools.",
+          "posters": ["Luka T", "Albert Bozesan", "Noah", "Edmond Yang"],
+          "tutorial": {
+            "a1111_status": "*Luka T: 'It's not doing. Last time it was updated was in Aug 24 I think.' A1111 is effectively abandoned.*",
+            "forge_status": "*Albert: 'Forge overtook them a while back, but it's basically the same on the surface.' Luka T: 'Even Forge is outdated.'*",
+            "comfyui_winner": "*Albert: 'All the casual users went onto online solutions and the others went to Comfy.' ComfyUI is the surviving local generation platform.*",
+            "fooocus": "*Albert: 'Same with Fooocus which was a truly great idea' - another local tool that has faded.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Electric Sheep - Video Analysis Tool",
+          "overview": "<strong>Gary Palmer</strong> shares his video analysis platform.",
+          "posters": ["Gary Palmer"],
+          "tutorial": {
+            "how_to_use": "*'Upload your mp4s, wait for it to finish analysing, then ask the agent.' The tool at edit.electricsheep.tv provides AI-powered video analysis and summarization.*",
+            "best_for": "*Deep video analysis where you need to query specific aspects of video content. More thorough than simple summarization tools.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac SwitchX - AI Relighting for Video",
+          "overview": "<strong>Billy Boman</strong> highlights SwitchX as the best AI relighting tool.",
+          "posters": ["Billy Boman", "Alex"],
+          "tutorial": {
+            "capability": "*SwitchX by Beeble is a foundation model for video-to-video relighting. Billy called it the 'best AI tool for relight.'*",
+            "use_case": "*Ideal for post-production lighting control, changing lighting conditions in existing footage, and as an alternative to green screen for interview backdrop replacement.*",
+            "lighter_option": "*Alex suggested SwitchX as a lighter alternative to CorridorKey for simpler relighting needs.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Freepik Courses & Learning Resources",
+          "overview": "<strong>Freepik</strong> launches educational content for their AI tools.",
+          "posters": ["Freepik"],
+          "tutorial": {
+            "resource": "*Freepik released courses covering their AI tools and workflows: https://x.com/freepik/status/2028432957384323230*",
+            "lighthouse": "*Luka T mentioned Lighthouse Academy sessions with ElevenLabs and Suno integration, expanding the learning ecosystem.*"
+          }
+        },
+        {
+          "title": "\ud83c\udfac Google Earth + NB Pro Compositing",
+          "overview": "<strong>Henry</strong> suggests a hybrid approach for location-based scenes.",
+          "posters": ["Henry"],
+          "tutorial": {
+            "technique": "*Use Google Earth as a base layer for establishing shots (e.g., Manhattan skyline), then apply Nano Banana Pro on top for enhanced realism and cinematic quality.*",
+            "benefit": "*This gives you geographically accurate compositions with AI-enhanced visual quality, avoiding the generic look of pure text-to-image generation.*"
+          }
+        }
+      ]
+    },
+    {
+      "title": "\ud83c\udfa8 Community Showcases & Projects",
+      "items": [
+        {
+          "title": "\ud83c\udfac ChristianF. - P-Video Music Performance",
+          "link": "https://www.youtube.com/watch?v=rXSMtUm1XjQ",
+          "description": "<strong>ChristianF.</strong> shared his P-Video music video demonstrating the model's expressive music performance capabilities, declaring it superior to Seedance 2 for music-synced content.",
+          "posters": ["ChristianF."]
+        },
+        {
+          "title": "\ud83c\udfac Tom Furse / Hot Chip - AI Music Video",
+          "link": "https://youtu.be/oocL0ujuMNo",
+          "description": "<strong>Tom Furse</strong> of Hot Chip shared their AI-generated music video, showcasing how established musicians are integrating AI into their visual output.",
+          "posters": ["Tom Furse"]
+        },
+        {
+          "title": "\ud83c\udfac Henry - Pilot Episode Near Completion",
+          "link": "https://x.com/henrydaubrez/status/2028595342644785607",
+          "description": "<strong>Henry</strong> shared progress on his pilot episode: \"2 scenes to go and will be done with this pilot episode. Should be around 6 or 7 minutes.\" He noted that \"consistency in omnireference with more complex action is still a challenge sometimes. Does hallucinate a lot.\"",
+          "posters": ["Henry"]
+        },
+        {
+          "title": "\ud83c\udfac Seb Ungrad - Doug Project Development",
+          "link": "https://www.linkedin.com/posts/sebastian-ungrad-b9381ba1_ive-been-developing-the-script-for-doug-activity-7434860027296858113-9dU9",
+          "description": "<strong>Seb Ungrad</strong> shared development progress on his \"Doug\" project, continuing to develop the script and visual direction for the AI-driven narrative.",
+          "posters": ["Seb Ungrad"]
+        },
+        {
+          "title": "\ud83c\udfac Brogan Wassell - Opera Short",
+          "link": "https://youtube.com/shorts/qASHGFFKKh4",
+          "description": "<strong>Brogan Wassell</strong> shared an opera-themed short film, demonstrating creative genre exploration with AI video generation tools.",
+          "posters": ["Brogan Wassell"]
+        },
+        {
+          "title": "\ud83c\udfac Winston Mayo - Seedance 2 Fight Scene",
+          "link": "https://www.linkedin.com/posts/winston-mayo-4524537_there-is-nothing-more-frustrating-than-having-activity-7437309741007233025-qi7D",
+          "description": "<strong>Winston Mayo</strong> shared a fight scene made over 30 days on Seedance 2, demonstrating the dedication required for complex action sequences with current AI tools.",
+          "posters": ["Winston Mayo"]
+        },
+        {
+          "title": "\ud83c\udfac Javi - Spanish Cinema AI Short",
+          "link": "https://x.com/javilopen/status/2031753520571888012",
+          "description": "<strong>Javi</strong> announced his AI short coming soon to Spanish cinemas: \"Lot of hours editing. Not easy to make a 10 minutes AI short.\" His wife <strong>Anna</strong> also shared her first AI video on Instagram.",
+          "posters": ["Javi"]
+        },
+        {
+          "title": "\ud83c\udfac Edmond Yang - JCVD Project",
+          "link": "",
+          "description": "<strong>Edmond Yang</strong> revealed he's working on a project for Jean-Claude Van Damme: \"It's crazy I'm doing this for JCVD!\" The project represents a major milestone for AI-generated content reaching mainstream entertainment figures.",
+          "posters": ["Edmond Yang"]
+        },
+        {
+          "title": "\ud83c\udfac Josh Mellor - New Venture Launch",
+          "link": "https://www.instagram.com/reel/DVscDpxjIY0/",
+          "description": "<strong>Justin Hackney</strong> highlighted <strong>Josh Mellor</strong>'s new venture: \"Our boy Josh Mellor is embarking on something that's going to seriously kick off.\" Josh credited his conversation with Justin in India as a \"huge catalyst.\"",
+          "posters": ["Josh Mellor", "Justin Hackney"]
+        },
+        {
+          "title": "\ud83c\udfac Luka T - Billboard-to-Ad Campaign",
+          "link": "https://www.linkedin.com/posts/luka-tisler_i-went-for-a-morning-stroll-spotted-this-activity-7437885186693963778-3Io_",
+          "description": "<strong>Luka T</strong> demonstrated creating a complete ad from a billboard photo spotted on a morning walk, showcasing the speed of AI-powered advertising creation.",
+          "posters": ["Luka T"]
+        },
+        {
+          "title": "\ud83c\udfac Albert Bozesan - Unvarnished Talent Platform",
+          "link": "https://unvarnishedtalent.com",
+          "description": "<strong>Albert Bozesan</strong> shared his Unvarnished Talent platform, connecting creative talent with opportunities in the AI-enhanced production space.",
+          "posters": ["Albert Bozesan"]
+        },
+        {
+          "title": "\ud83c\udfac Ari Kuschnir - Seedance 2.0 Omni Showcase",
+          "link": "https://www.instagram.com/reel/DVeyz3LgbPW/",
+          "description": "<strong>Ari Kuschnir</strong> shared impressive Seedance 2.0 Omni results on Instagram, demonstrating the model's capabilities with reference-based generation.",
+          "posters": ["Ari Kuschnir"]
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udc4b New Members",
+      "items": [
+        {
+          "title": "\ud83c\udfac Perpetual (Perpetual Gomes) - Creative Head at Invideo",
+          "link": "https://www.linkedin.com/in/perpetual-gomes-b5514755",
+          "overview": "<strong>Justin Hackney</strong> introduced Perpetual Gomes on March 4th, highlighting her role as creative head and partnership connector at Invideo.",
+          "description": "<strong>Perpetual</strong> brings deep experience in creative direction and partnership development from her work at Invideo. Her portfolio at <a href='https://pepzart.com'>pepzart.com</a> showcases her creative range. She quickly became an active and warm presence in the group, welcoming other new members and engaging in discussions about AI tools and creative workflows.",
+          "posters": ["Justin Hackney", "Perpetual"]
+        },
+        {
+          "title": "\ud83c\udfac Simon Meyer - AI Creative Director",
+          "link": "https://www.instagram.com/simonmeyer_director",
+          "overview": "<strong>Chrissie</strong> added Simon Meyer on March 11th, introducing him as \"the legendary, one and only, GOAT AI creative.\"",
+          "description": "<strong>Simon Meyer</strong> was welcomed with an outpouring of enthusiasm from the community. <strong>Chrissie</strong> introduced him: \"Here he is everyone. The legendary, one and only, GOAT AI creative: Simon Meyer. Please give the man a big round of applause.\" <strong>Billy Boman</strong> added: \"Welcome to the dreamers my man! Great to finally see you here as well!\" <strong>Ryan Phillips</strong> praised his work on the Kling launch. Simon responded humbly: \"I try my best to contribute some (hopefully) value here.\" His addition was long overdue according to multiple members.",
+          "posters": ["Chrissie", "Simon Meyer", "Billy Boman", "Ryan Phillips"]
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udcad Community Insights & Discussions",
+      "items": [
+        {
+          "title": "\ud83c\udfac Nodes vs Agents - The Future of Creative Workflows",
+          "link": "",
+          "overview": "Community debates whether agentic workflows will replace node-based systems.",
+          "description": "<strong>PJ Accetturo</strong> declared he can't imagine going back to nodes after using Luma's agents. <strong>Brogan Wassell</strong> provided nuance: \"The node system just operates on a level underneath. Gradually just like many other things that will fade for more agentic operations.\" The consensus emerged that nodes will become the backend infrastructure while agents handle the creative interface.",
+          "posters": ["PJ Accetturo", "Brogan Wassell", "Rory Flynn"]
+        },
+        {
+          "title": "\ud83c\udfac EU vs US AI Innovation Gap",
+          "link": "https://www.winssolutions.org/european-union-technological-innovation/",
+          "overview": "Heated debate on Europe's position in the AI race.",
+          "description": "<strong>Billy Boman</strong> shared extensive data: \"Europe hosts only 7 frontier AI models compared to 109 in the US and 20 in China.\" He cited EU funding gaps and regulatory fragmentation. <strong>Albert Bozesan</strong> countered by listing European AI companies: HuggingFace, Lovable, Black Forest Labs, Mistral, ElevenLabs, Synthesia. Billy acknowledged exceptions but maintained: \"The EU as the bureaucratic monster it is, is killing most AI innovation.\"",
+          "posters": ["Billy Boman", "Albert Bozesan"]
+        },
+        {
+          "title": "\ud83c\udfac Dead Internet Theory & Content Authenticity",
+          "link": "",
+          "overview": "Discussion on AI-generated content flooding and proof-of-human needs.",
+          "description": "<strong>Linus</strong> raised concerns about agents creating automated content pipelines, echoing dead internet theory. The discussion highlighted the growing need for proof-of-human verification as AI content generation becomes trivial. The community agreed that authentic creative voice and human curation will become the key differentiator.",
+          "posters": ["Linus", "Billy Boman"]
+        },
+        {
+          "title": "\ud83c\udfac AI Copyright - Supreme Court Decision",
+          "link": "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/",
+          "overview": "Supreme Court declines to hear AI copyright case.",
+          "description": "<strong>Billy Boman</strong> shared the landmark decision: \"AI slop without human touch can't be copyrighted.\" The ruling maintains the position that AI-generated material without significant human creative input cannot receive copyright protection, reinforcing the importance of human creative direction in AI-assisted work.",
+          "posters": ["Billy Boman"]
+        },
+        {
+          "title": "\ud83c\udfac Vibe Coding Movement",
+          "link": "https://chat.whatsapp.com/HmSXbB6viHB4nnsr7YN9gy",
+          "overview": "Massive community interest in AI-assisted coding sparks dedicated sub-group.",
+          "description": "<strong>Rory Flynn</strong> started a vibe coding WhatsApp group that attracted massive interest from the community. <strong>Alex</strong> called Codex \"insanely good\" and \"cold, efficient.\" <strong>K\u0113k\u0101</strong> pushed boundaries by building a realtime chat room where AI agents communicate with each other. The movement represents a significant expansion of the community's creative toolkit beyond visual generation.",
+          "posters": ["Rory Flynn", "Alex", "K\u0113k\u0101"]
+        },
+        {
+          "title": "\ud83c\udfac OpenAI R&D Team Recruiting from RealDreams",
+          "link": "",
+          "overview": "Chad Nelson recruits for OpenAI's prototype team directly from the community.",
+          "description": "<strong>Chad Nelson</strong> announced openings on OpenAI's R&D prototype team: \"We are growing a new team for this type of research -> prototypes. 'Art of the Possible.'\" He described the ideal candidate as \"a passionate tinkerer who loves the bleeding edge.\" Positions are in SF, NYC, or London. He warned: \"We'll likely get 1000 CVs in the first day... you have to get into the system fast.\"",
+          "posters": ["Chad Nelson"]
+        },
+        {
+          "title": "\ud83c\udfac ACME AI Hiring - Killing Satoshi Studio Expands",
+          "link": "",
+          "overview": "ACME AI recruits senior artists and creative technologists.",
+          "description": "<strong>Ben</strong> announced ACME AI (the studio behind Killing Satoshi) is expanding: \"We're currently looking for Senior Artists with deep expertise in ComfyUI, Mid-Level Artists experienced across today's leading GenAI image and video models, and Creative Technologists focused on building and engineering tools across the production pipeline.\" Positions prefer London/Europe but LA is also possible.",
+          "posters": ["Ben"]
+        },
+        {
+          "title": "\ud83c\udfac Wonder Offsite & Community Building",
+          "link": "",
+          "overview": "Justin Hackney hosts Wonder's first team offsite in the English countryside.",
+          "description": "<strong>Justin Hackney</strong> shared: \"Just hosted our first Wonder offsite in the English countryside. Absolutely mental to see everyone truly together for the first time... Made it all feel a bit more real.\" The event highlighted the transition of AI creative communities from online to in-person collaboration. Members from Toronto, Vancouver, London, LA, and NYC discussed potential meetups.",
+          "posters": ["Justin Hackney", "Blair", "Dale", "Ryan Phillips"]
+        },
+        {
+          "title": "\ud83c\udfac Google Cloud Indemnification for AI Content",
+          "link": "",
+          "overview": "Discussion on enterprise AI adoption and legal protection through Google Cloud.",
+          "description": "<strong>Aaron Bhugobaun</strong> explained that Google Cloud provides indemnification for AI-generated content to encourage enterprise adoption. However, he raised a critical question: \"Are you still indemnified if you put your content through Topaz and your SynthID watermark is wiped out?\" <strong>Henry</strong> offered to connect members with Google's enterprise adoption team.",
+          "posters": ["Aaron Bhugobaun", "Billy Boman", "Henry"]
+        },
+        {
+          "title": "\ud83c\udfac Netflix Acquires Interpositive - Industry Signal",
+          "link": "https://www.linkedin.com/posts/netflix_today-netflix-announced-the-acquisition-activity-7435357845249744896-pok8",
+          "overview": "Netflix's AI studio acquisition signals major industry shift.",
+          "description": "<strong>Edmond Yang</strong> shared Netflix's acquisition of Interpositive, an AI-focused production studio. The move signals that major streaming platforms are investing directly in AI-native production capabilities rather than just using AI as a supplementary tool.",
+          "posters": ["Edmond Yang", "Billy Boman"]
+        },
+        {
+          "title": "\ud83c\udfac AI Bubble Debate",
+          "link": "https://www.linkedin.com/posts/stevenbartlett-123_i-saw-this-visualisation-last-week-and-it-activity-7434541861111005184-oYnf",
+          "overview": "Steven Bartlett's AI bubble visualization sparks community discussion.",
+          "description": "<strong>Billy Boman</strong> shared Steven Bartlett's LinkedIn post with a visualization comparing AI to previous tech bubbles. The community debated whether AI represents a genuine paradigm shift or follows historical bubble patterns, with most members arguing the creative applications prove real utility.",
+          "posters": ["Billy Boman"]
+        },
+        {
+          "title": "\ud83c\udfac Soulscape 2026 & SXSW Connections",
+          "link": "https://www.linkedin.com/posts/keithzhangsde_soulscape-2026-global-summit-activity-7437905597494104065-fbKh",
+          "overview": "Community members connect around upcoming AI events.",
+          "description": "<strong>Jordan Daniel Chesney</strong> connected the community with Keith Zhang running Soulscape, an AI short film hackathon in SF. <strong>Xavier Collins</strong> praised the networking: \"You guys are legends.\" Multiple members discussed attending SXSW and planning meetups in Miami, with <strong>Rory Flynn</strong> speaking at a conference in South Beach.",
+          "posters": ["Jordan Daniel Chesney", "Xavier Collins", "Rory Flynn", "Aaron Bhugobaun"]
+        },
+        {
+          "title": "\ud83c\udfac Black Forest Labs & Industry Hiring",
+          "link": "https://job-boards.greenhouse.io/blackforestlabs/jobs/5125427008",
+          "overview": "Multiple AI companies recruiting creative technologists.",
+          "description": "<strong>Lovis Odin</strong> shared a Black Forest Labs creative technologist position in SF. Combined with Chad Nelson's OpenAI posting and Ben's ACME AI roles, the period saw unprecedented direct recruitment from the RealDreams community, validating the group's position at the intersection of AI and creative production.",
+          "posters": ["Lovis Odin", "Xavier Collins"]
+        },
+        {
+          "title": "\ud83c\udfac Julien Vall\u00e9e - Artist Recruitment Call",
+          "link": "",
+          "overview": "Producer seeks experienced AI artists for a specific model project.",
+          "description": "<strong>Julien Vall\u00e9e</strong> posted a call for 6-7 artists: \"The project is super focused on the craft and ensuring that the imagery feels deliberate and artful. So we need experienced designers, art directors, photographers, etc. that are well versed in working with AI.\" The project runs from mid-March through end of April.",
+          "posters": ["Julien Vall\u00e9e"]
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udd17 Key Links & Resources",
+      "categories": [
+        {
+          "title": "\ud83d\udee0\ufe0f Tool Releases & Updates",
+          "links": [
+            {"title": "Seedance 2.0 (BytePlus Console)", "url": "https://console.byteplus.com/ark/region:ark+ap-southeast-1/experience/vision", "description": "Primary access point for Seedance 2.0 generation"},
+            {"title": "SwitchX by Beeble - AI Relighting", "url": "https://www.linkedin.com/posts/beeble-ai_meet-switchx-our-first-video-to-video-model-activity-7428066622944518144-w-Q0", "description": "Foundation model for video-to-video relighting"},
+            {"title": "CorridorKey (Open Source)", "url": "https://github.com/nikopueringer/CorridorKey", "description": "Advanced keying tool by Niko Pueringer of Corridor Digital"},
+            {"title": "Luma Agentic Platform", "url": "https://x.com/PJaccetturo/status/2029656107434795323", "description": "Agent-based creative workflow replacing node systems"},
+            {"title": "Runway Characters Feature", "url": "https://x.com/andymac3d/status/2031112582577160259", "description": "Interactive AI character experiences"},
+            {"title": "Framer Update", "url": "https://x.com/framer_x/status/2031394175913177092", "description": "New features for the web design platform"},
+            {"title": "Electric Sheep Video Analysis", "url": "https://edit.electricsheep.tv", "description": "AI-powered video analysis and summarization tool"},
+            {"title": "4K Download - Video Downloader", "url": "https://www.4kdownload.com/products/videodownloader-42", "description": "YouTube video download solution"},
+            {"title": "Kling 3.0 Omni Character Sheet Demo", "url": "https://x.com/martinleblanc/status/2030303624304234906", "description": "Character sheet workflow demonstration"},
+            {"title": "Qwen3-RTL-14B Model", "url": "https://huggingface.co/CiroN2022/Qwen3-RTL-14B", "description": "Open-source language model on HuggingFace"}
+          ]
+        },
+        {
+          "title": "\ud83d\udcf0 News & Announcements",
+          "links": [
+            {"title": "Supreme Court AI Copyright Decision", "url": "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/", "description": "Court declines to hear AI copyright dispute"},
+            {"title": "Netflix Acquires Interpositive", "url": "https://www.linkedin.com/posts/netflix_today-netflix-announced-the-acquisition-activity-7435357845249744896-pok8", "description": "Netflix acquires AI-focused production studio"},
+            {"title": "Facebook Acquires Moltbook", "url": "https://www.bbc.co.uk/news/articles/cvg1x788dreo", "description": "Meta buys social media network for AI"},
+            {"title": "Nvidia $26B Open-Source Investment", "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/", "description": "Nvidia commits massive investment to open-source AI models"},
+            {"title": "Steven Bartlett AI Bubble Analysis", "url": "https://www.linkedin.com/posts/stevenbartlett-123_i-saw-this-visualisation-last-week-and-it-activity-7434541861111005184-oYnf", "description": "Visualization comparing AI to previous tech bubbles"},
+            {"title": "ComfyUI x Interpositive", "url": "https://www.linkedin.com/posts/comfyui_comfyui-aifilmmaking-interpositive-activity-7435454757605085184--8Xa", "description": "ComfyUI highlights connection to Interpositive workflow"},
+            {"title": "EU AI Innovation Gap Analysis", "url": "https://www.winssolutions.org/european-union-technological-innovation/", "description": "Europe hosts only 7 frontier AI models vs 109 in US"},
+            {"title": "EU AI Funding Gap (Euronews)", "url": "https://www.euronews.com/my-europe/2026/01/27/the-ai-race-can-europe-catch-up-to-the-us-and-china", "description": "European AI startups raise 35% less than US counterparts"},
+            {"title": "Black Forest Labs Hiring", "url": "https://job-boards.greenhouse.io/blackforestlabs/jobs/5125427008", "description": "Creative technologist position in San Francisco"},
+            {"title": "Paul Trillo on Film Production", "url": "https://www.linkedin.com/posts/paul-trillo-544b268_film-production-is-about-to-change-weve-ugcPost-7437636134341414912-PDrv", "description": "Film production is about to change"},
+            {"title": "Google AI Patent (Torment Nexus)", "url": "https://patents.google.com/patent/US12513102B2", "description": "Controversial AI patent shared by Gary Palmer"}
+          ]
+        },
+        {
+          "title": "\ud83c\udfa8 Community Work & Showcases",
+          "links": [
+            {"title": "ChristianF. - P-Video Music Performance", "url": "https://www.youtube.com/watch?v=rXSMtUm1XjQ", "description": "P-Video model music video demonstration"},
+            {"title": "Tom Furse / Hot Chip - AI Music Video", "url": "https://youtu.be/oocL0ujuMNo", "description": "AI-generated music video by Hot Chip member"},
+            {"title": "Henry - Sequence Showcase", "url": "https://x.com/henrydaubrez/status/2028595342644785607", "description": "Pilot episode progress and sequence work"},
+            {"title": "Seb Ungrad - Doug Project", "url": "https://www.linkedin.com/posts/sebastian-ungrad-b9381ba1_ive-been-developing-the-script-for-doug-activity-7434860027296858113-9dU9", "description": "Script development for AI narrative project"},
+            {"title": "Brogan Wassell - Opera Short", "url": "https://youtube.com/shorts/qASHGFFKKh4", "description": "Opera-themed AI short film"},
+            {"title": "Winston Mayo - Seedance 2 Fight Scene", "url": "https://www.linkedin.com/posts/winston-mayo-4524537_there-is-nothing-more-frustrating-than-having-activity-7437309741007233025-qi7D", "description": "30-day fight scene project on Seedance 2"},
+            {"title": "Javi - Spanish Cinema AI Short", "url": "https://x.com/javilopen/status/2031753520571888012", "description": "AI short coming to Spanish cinemas"},
+            {"title": "Josh Mellor - New Venture", "url": "https://www.instagram.com/reel/DVscDpxjIY0/", "description": "New creative venture launch"},
+            {"title": "Luka T - Billboard-to-Ad Campaign", "url": "https://www.linkedin.com/posts/luka-tisler_i-went-for-a-morning-stroll-spotted-this-activity-7437885186693963778-3Io_", "description": "Creating an ad from a billboard photo"},
+            {"title": "Albert Bozesan - Unvarnished Talent", "url": "https://unvarnishedtalent.com", "description": "Creative talent platform"},
+            {"title": "Ari Kuschnir - Seedance 2.0 Omni", "url": "https://www.instagram.com/reel/DVeyz3LgbPW/", "description": "Seedance 2.0 Omni reference-based generation"},
+            {"title": "Javi's Wife Anna - First AI Video", "url": "https://www.instagram.com/reel/DVgjJGdCmnr/", "description": "First AI video creation"},
+            {"title": "JB - Obi-Wan DMT", "url": "https://youtu.be/OxJu1SU5z9A", "description": "Creative AI video project"},
+            {"title": "Odair - Portfolio", "url": "https://ai.ofaleco.xyz/", "description": "AI creative portfolio showcase"}
+          ]
+        },
+        {
+          "title": "\ud83d\udcad Discussions & Insights",
+          "links": [
+            {"title": "Jordan - Future Without AI", "url": "https://x.com/rwemael/status/2027620017118802052", "description": "Thought-provoking perspective on AI's role"},
+            {"title": "Charlie Curran Share", "url": "https://x.com/charliebcurran/status/2028217112100307187", "description": "Industry perspective on AI creative tools"},
+            {"title": "LOTR Open World Concept", "url": "https://x.com/marmaduke091/status/2028222186511581512", "description": "AI-generated Lord of the Rings open world concept"},
+            {"title": "Kavan Share", "url": "https://x.com/i/status/2029731537164669346", "description": "Creative AI showcase"},
+            {"title": "Heavy Pulp", "url": "https://x.com/heavypulp/status/2031716527901225372", "description": "Impressive AI creative work - community wants to recruit"},
+            {"title": "Rory Flynn Job Posting", "url": "https://x.com/jameygannon/status/2027229128068346230", "description": "AI creative position"}
+          ]
+        },
+        {
+          "title": "\ud83c\udf93 Events & Opportunities",
+          "links": [
+            {"title": "RealDreams Retreat 2026 RSVP", "url": "https://realdreams-os-98.vercel.app/", "description": "Official RSVP portal for the RealDreams Retreat"},
+            {"title": "Soulscape 2026 Global Summit", "url": "https://www.linkedin.com/posts/keithzhangsde_soulscape-2026-global-summit-activity-7437905597494104065-fbKh", "description": "AI short film hackathon in San Francisco"},
+            {"title": "Freepik Courses", "url": "https://x.com/freepik/status/2028432957384323230", "description": "Educational content for Freepik AI tools"},
+            {"title": "StreamTV Denver", "url": "https://www.streamtvshow.com/", "description": "Streaming industry conference"},
+            {"title": "Altera Film Festival", "url": "https://filmfreeway.com/alterafestival", "description": "AI film festival accepting submissions"},
+            {"title": "Vibe Coding Sub-Group", "url": "https://chat.whatsapp.com/HmSXbB6viHB4nnsr7YN9gy", "description": "Dedicated WhatsApp group for AI-assisted coding"},
+            {"title": "Alexia - Luma Podcast Series", "url": "https://youtube.com/playlist?list=PLs18hw3X0NC7Zd1FdjfhXTPFksPoMYkfK", "description": "Luma creative podcast playlist"}
+          ]
+        },
+        {
+          "title": "\ud83c\udfac Industry & Profiles",
+          "links": [
+            {"title": "Perpetual Gomes LinkedIn", "url": "https://www.linkedin.com/in/perpetual-gomes-b5514755", "description": "New member - Creative Head at Invideo"},
+            {"title": "Perpetual Portfolio (Pepzart)", "url": "https://pepzart.com", "description": "Creative portfolio of new member Perpetual"},
+            {"title": "Simon Meyer Instagram", "url": "https://www.instagram.com/simonmeyer_director", "description": "New member - GOAT AI creative director"},
+            {"title": "Xavier Collins - Spotify Track", "url": "https://open.spotify.com/track/43tIOt5tlrPV2Gd5BPmUqc", "description": "Music by RealDreams member"},
+            {"title": "Justin Hackney - Wonder Dreamers", "url": "https://www.instagram.com/reel/DVrFpNWjI1p/?igsh=MTg3a3E4bzVlaTMyOA==", "description": "Wonder community highlight reel"},
+            {"title": "Billy Boman - AI Food Showcase", "url": "https://www.instagram.com/reel/DVtddRKEkDt/?igsh=bDVwMXZhNzkyZXJu", "description": "Photorealistic AI food generation"}
+          ]
+        }
+      ]
+    }
+  ]
+}
