@@ -1,0 +1,1356 @@
+{
+  "id": "mar14-apr3-2026",
+  "title": "March 14 - April 3, 2026",
+  "date": "2026-04-03",
+  "dateRange": "March 14 - April 3, 2026",
+  "summary": "Seedance 2.0 arrives in Europe while the US waits, sparking a global scramble for access via Dreamina, Freepik Enterprise, and third-party platforms. The community develops ingenious face-bypass workarounds as ByteDance guardrails tighten. Topaz launches Starlight Precise 2.5, Suno drops V5.5, Netflix open-sources Void Model, and OpenAI acquires the TBPN podcast. Billy Boman goes viral on KTLA, David Clark keynotes the Runway AI Summit, and Olly Ginelli's AI short qualifies for BAFTA. The Gennie Studio team joins en masse, Solly Solomou (LADbible founder) enters the chat, and SharkNinja's CEO offers $1M in AI workflow prizes after Rory Flynn's training program.",
+  "stats": {
+    "tools": 20,
+    "tutorials": 31,
+    "insights": 12,
+    "links": 61
+  },
+  "keyHighlights": [
+    "Seedance 2.0 launches in Europe via Dreamina while US access remains restricted — enterprise deals of $100K-$1M/year discussed",
+    "Community develops multiple face-bypass workarounds for SD2 guardrails including photogrid, character sheets, VPN, and illustration conversion",
+    "Topaz Starlight Precise 2.5 launches alongside multi-step upscaling pipelines combining Topaz, Magnific, and Astra",
+    "SharkNinja CEO offers $1M in prizes for AI workflow development after Rory Flynn trains 200+ employees",
+    "Billy Boman featured on KTLA and goes viral with Hollywood sign, OpenAI acquires TBPN podcast he appeared on",
+    "Gennie Studio team (4 members) and LADbible founder Solly Solomou join RealDreams"
+  ],
+  "topPosters": [
+    {
+      "name": "Billy Boman",
+      "count": 136
+    },
+    {
+      "name": "Edmond Yang",
+      "count": 119
+    },
+    {
+      "name": "jboogxcreative",
+      "count": 90
+    }
+  ],
+  "sections": [
+    {
+      "title": "🚀 Major Updates & News",
+      "items": [
+        {
+          "title": "🎬 Seedance 2.0 European Launch",
+          "link": "https://www.instagram.com/reel/DWeceeeDfyx/",
+          "description": "<strong>ChristianF.</strong> discovered SD2 showing up on Dreamina in Germany: \"Oh wow! It really is showing up in Dreamina here in Germany now! Was this some kind of silent release?\" <strong>Arthur Chance</strong> confirmed UK access: \"SD 2.0 on Dreamina in UK is active, first impressions — wow. One-shotting content in a very unprecedented way.\" <strong>Ryan Phillips</strong> demonstrated faces working with real selfies as prompt images. Meanwhile, <strong>jboogxcreative</strong> reported hearing SD2 will NOT be released in the US, though <strong>PJ Accetturo</strong> later confirmed it should arrive \"next week\" as of April 2.",
+          "posters": [
+            "ChristianF.",
+            "Arthur Chance",
+            "Ryan Phillips",
+            "jboogxcreative",
+            "PJ Accetturo"
+          ]
+        },
+        {
+          "title": "🎬 Seedance 2.0 Enterprise Pricing Revealed",
+          "link": "",
+          "description": "<strong>Billy Boman</strong>, <strong>Aaron Bhugobaun</strong>, and <strong>PJ Accetturo</strong> shared details of ByteDance enterprise deals. The top tier is $1M/year with 10% upfront for full whitelisted access. A $100K/year deal offers a \"slower restricted version\" with 10% upfront. <strong>Billy Boman</strong> reported being told he'd get whitelisted for \"off-peak usage\" at $10K/month: \"Early Mid-April for the off-peak deal.\" <strong>Brogan Wassell</strong> expressed willingness to negotiate: \"Would be 100% willing to have a conversation about that.\"",
+          "posters": [
+            "Billy Boman",
+            "Aaron Bhugobaun",
+            "PJ Accetturo",
+            "Brogan Wassell"
+          ]
+        },
+        {
+          "title": "🎬 Seedance 2.0 Face Restrictions Tighten",
+          "link": "",
+          "description": "<strong>Henry</strong> reported all realistic faces blocked on Dreamina in the US, even with character sheets and omni-ref. <strong>Billy Boman</strong> and <strong>Seb Ungrad</strong> confirmed faces still work in Europe. <strong>Rory Flynn</strong> found success using VPN set to London from NYC. <strong>Alex</strong> shared a workaround: convert realistic images to illustrations before uploading. <strong>Martin LeBlanc</strong> (Freepik) confirmed: \"We are working with ByteDance on getting more images through. This has full focus now.\"",
+          "posters": [
+            "Henry",
+            "Billy Boman",
+            "Seb Ungrad",
+            "Rory Flynn",
+            "Alex",
+            "Martin LeBlanc"
+          ]
+        },
+        {
+          "title": "🎬 Topaz Starlight Precise 2.5 Launch",
+          "link": "https://x.com/topazlabs/status/2037550293370478735",
+          "description": "<strong>Monji Topaz</strong> announced the launch of Starlight Precise 2.5, sharing a 1-minute explainer video. <strong>Tom Furse</strong> celebrated: \"Topaz 4 Eva.\" <strong>Martin LeBlanc</strong> noted Proteus gives a more realistic look while Astra tends to over-sharpen edges. The community debated optimal upscaling pipelines combining Topaz, Magnific, and Astra for different use cases.",
+          "posters": [
+            "Monji Topaz",
+            "Tom Furse",
+            "Martin LeBlanc"
+          ]
+        },
+        {
+          "title": "🎬 Suno V5.5 Music Generation Update",
+          "link": "https://suno.com/s/yTm5NNnVx3AOtMy9",
+          "description": "<strong>ChristianF.</strong> praised the update: \"Suno got a crazy good update with V5.5!\" sharing a sample track demonstrating the improved quality. The update represents a significant leap in AI music generation capabilities.",
+          "posters": [
+            "ChristianF."
+          ]
+        },
+        {
+          "title": "🎬 OpenAI Acquires TBPN Podcast",
+          "link": "https://openai.com/index/openai-acquires-tbpn/",
+          "description": "<strong>Billy Boman</strong> shared the news that OpenAI acquired the TBPN podcast — the same one he appeared on just a week prior: \"AI companies buying podcasts was not on my bingo card either.\" <strong>Diane Laidlaw</strong> quipped: \"Grok will buy The Rogan Show next.\"",
+          "posters": [
+            "Billy Boman",
+            "Diane Laidlaw"
+          ]
+        },
+        {
+          "title": "🎬 Netflix Void Model Open-Sourced",
+          "link": "https://huggingface.co/netflix/void-model",
+          "description": "<strong>Rory Flynn</strong> spotted Netflix publishing on HuggingFace: \"Netflix on Hugging Face now?\" <strong>Edmond Yang</strong> shared the GitHub repo. <strong>Aaron Bhugobaun</strong> noted: \"They've been on it for a while but no one took them seriously.\"",
+          "posters": [
+            "Rory Flynn",
+            "Edmond Yang",
+            "Aaron Bhugobaun"
+          ]
+        },
+        {
+          "title": "🎬 PixVerse V6 Release",
+          "link": "https://youtu.be/JwHv0kWqIyM",
+          "description": "<strong>Diane Laidlaw</strong> tested V6 for a true crime short: \"Not as good as Seedance but it's close when it does good. Sound is appalling though so I had to lean into designing the sound myself.\" <strong>Giacomo Mallamaci</strong> agreed: \"V6 really impressed me, imho is still below Kling and SD2 but it does some stuff better.\" Both noted V6 has fewer content filters than SD2.",
+          "posters": [
+            "Diane Laidlaw",
+            "Giacomo Mallamaci"
+          ]
+        },
+        {
+          "title": "🎬 Google Acquires Producer AI (Riffusion)",
+          "link": "",
+          "description": "<strong>PJ Accetturo</strong> shared that Google acquired Riffusion (now Producer AI) and is seeking feedback from AI filmmakers: \"Post-Google I/O, I want to start engaging with AI filmmakers... who might be interested in using Producer AI for their creative workflows.\" <strong>Brogan Wassell</strong>, <strong>Aaron Bhugobaun</strong>, and <strong>Tom Furse</strong> all expressed interest in participating.",
+          "posters": [
+            "PJ Accetturo",
+            "Brogan Wassell",
+            "Aaron Bhugobaun",
+            "Tom Furse"
+          ]
+        },
+        {
+          "title": "🎬 Magnific Precision Video Upscaler Updates",
+          "link": "",
+          "description": "<strong>D B</strong> provided detailed feedback on Magnific: Creative vs Precise modes, 4K noticeably better than 2K, works great for animation but fabric textures can look \"too plastic.\" <strong>Javi</strong> confirmed the frame limit: \"Limitation on both platforms is 7200 frames: 4min if 30fps.\" He also granted additional tokens to RealDreams members for testing.",
+          "posters": [
+            "D B",
+            "Javi",
+            "Marco"
+          ]
+        },
+        {
+          "title": "🎬 Wan 2.1 Updates from Alibaba",
+          "link": "https://x.com/Alibaba_Wan/status/2039329029241872767",
+          "description": "<strong>Rory Flynn</strong> shared Alibaba's latest Wan model updates. <strong>Luka T</strong> noted that open-source video models are \"way behind proprietary models\" with the exception of \"VFX work with Wan 2.1, still beats the shit out of other models.\"",
+          "posters": [
+            "Rory Flynn",
+            "Luka T"
+          ]
+        },
+        {
+          "title": "🎬 ComfyUI Stability Crisis",
+          "link": "https://www.reddit.com/r/comfyui/s/ZbfDAqAs60",
+          "description": "<strong>Ramon Guthrie</strong> shared a Reddit thread acknowledging ComfyUI's issues: \"The subgraph implementations and changes have been a shit-show lately, so currently I can't recommend ComfyUI to part-time existing and new users!\" <strong>Luka T</strong> agreed: \"Fixing issues vs creative work has gone from 30:70 to 70:30.\" He shared <strong>Mellon</strong> by cubiq as an alternative node-based UI.",
+          "posters": [
+            "Ramon Guthrie",
+            "Luka T"
+          ]
+        },
+        {
+          "title": "🎬 Mellon UI - ComfyUI Alternative",
+          "link": "https://github.com/cubiq/Mellon/",
+          "description": "<strong>Luka T</strong> shared Mellon, a new node-based UI alternative to ComfyUI by Matteo (cubiq): \"I'm gonna check out the new Matteo's Mellon UI. Still love to work with nodes!\" <strong>Ramon Guthrie</strong> added it to his evaluation list alongside his own VFX and UGC node pack development.",
+          "posters": [
+            "Luka T",
+            "Ramon Guthrie"
+          ]
+        },
+        {
+          "title": "🎬 Higgsfield / Cinema Studio 2.5 Exposed as Wrapper",
+          "link": "",
+          "description": "<strong>Edmond Yang</strong> questioned whether Cinema Studio 2.5 is \"only a Kling wrapper with some fancy prompting on top.\" <strong>jboogxcreative</strong> agreed: \"I'm almost positive it's just Nano and Kling with prompts baked in.\" <strong>Giacomo Mallamaci</strong> argued the 2.5 version uses LTX underneath, while the upcoming 3.0 appears to use Seedance 2. <strong>Yasuhiro Takagi</strong> confirmed: \"It's SD2 because it only outputs 720p and doesn't accept faces.\"",
+          "posters": [
+            "Edmond Yang",
+            "jboogxcreative",
+            "Giacomo Mallamaci",
+            "Yasuhiro Takagi"
+          ]
+        },
+        {
+          "title": "🎬 Freepik Enterprise SD2 Face Blocking",
+          "link": "",
+          "description": "<strong>Billy Boman</strong> confirmed: \"All faces seem to be blocked on Freepik Enterprise which is a shame. No brand logos, no famous faces — just some soccer players (made up AI ones).\" <strong>Martin LeBlanc</strong> responded: \"We are working with ByteDance on getting the filters adjusted. This has full focus now and I can't imagine it will take long to get it fixed.\"",
+          "posters": [
+            "Billy Boman",
+            "Martin LeBlanc"
+          ]
+        },
+        {
+          "title": "🎬 Seedance 2.0 on OpenArt & InVideo",
+          "link": "https://openart.ai/suite/create-video/byte-plus-seedance-2",
+          "description": "<strong>Chloe Fang</strong> announced: \"Seedance 2.0 is 60% off on OpenArt.\" <strong>Perpetual</strong> shared that InVideo also offers SD2 access with business verification. <strong>Dola App</strong> claimed free SD2 access, though the community was skeptical.",
+          "posters": [
+            "Chloe Fang",
+            "Perpetual"
+          ]
+        },
+        {
+          "title": "🎬 Quiver AI & Figma Draw for Vectorization",
+          "link": "https://app.quiver.ai/",
+          "description": "<strong>Benny</strong> asked about the best image vectorization tools. <strong>Oli</strong> recommended Figma's built-in tool (Figma Draw) and Quiver AI for simple logo-type vectorization.",
+          "posters": [
+            "Benny",
+            "Oli"
+          ]
+        },
+        {
+          "title": "🎬 Town.com AI Assistant",
+          "link": "",
+          "description": "<strong>Max</strong> recommended Town.com after 48 hours of use: \"It's basically out of the box open Claude, (hopefully) with security baked in because the founder is the ex CTO of Plaid (bank infrastructure). It's been delightful!\" Currently in free early access.",
+          "posters": [
+            "Max"
+          ]
+        },
+        {
+          "title": "🎬 Freepik Plan Reset Bug",
+          "link": "",
+          "description": "<strong>Sebastian Kamph</strong> reported a recurring Freepik issue: \"Do you guys have issues with Freepik resetting the plan every once in a while so it thinks it's on free plan again?\" <strong>Chris First</strong> confirmed: \"Just had this happen to a friend too.\"",
+          "posters": [
+            "Sebastian Kamph",
+            "Chris First"
+          ]
+        },
+        {
+          "title": "🎬 Dola-Seed-2.0 Pro on BytePlus",
+          "link": "",
+          "description": "<strong>ChristianF.</strong> spotted a new image and video analyze model on BytePlus: \"Still no SD2 API on BytePlus, but a new image and video analyze model: Dola-Seed-2.0 Pro.\" The community continues to wait for the full SD2 API release.",
+          "posters": [
+            "ChristianF."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "📚 Tutorials & Techniques",
+      "items": [
+        {
+          "title": "🎬 Seedance 2.0 - Rourke's Cinematic Prompt Structure",
+          "overview": "<strong>Rourke</strong> shares a detailed prompt framework for Seedance 2.0, designed to work with Claude for generating cinematic sequences.",
+          "posters": [
+            "Rourke"
+          ],
+          "tutorial": {
+            "camera_setup": "*Rourke: 'Camera Simulation: 65mm IMAX film, Panavision anamorphic lens. Strong film grain. Anamorphic lens flares from studio LED lighting.' Start with specific camera and lens specs for cinematic quality.*",
+            "lighting_design": "*Define moody studio lighting with specific color temperatures: 'Cool purple and teal LED ambient light from behind and above. Equipment racks glow warm orange on the left.' Multiple light sources create depth and visual interest.*",
+            "timestamp_structure": "*Break the shot into precise timestamp segments: '00:00-00:01.5 The Throw', '00:01.5-00:03.5 The Spin', '00:03.5-00:05.5 The Orbit', '00:05.5-00:07 The Return'. Each segment gets detailed action, speed percentage, and camera movement descriptions.*",
+            "speed_control": "*Use percentage-based speed notation: 'Speed approximately 60%' for normal motion, 'Speed decelerates to approximately 5%' for bullet time. This gives SD2 precise motion guidance.*",
+            "detail_descriptions": "*Include micro-detail descriptions within slow-motion segments: 'The fabric texture — woven cotton, stitching lines, the slight curve of the brim. The underside of the brim rolls into view — a different colour, clean and smooth.' This level of detail drives SD2's rendering.*",
+            "key_insight": "*Use this structure with Claude to generate prompts. The timestamp-based approach with speed percentages and detailed physical descriptions gives Seedance 2.0 the most precise control over cinematic sequences.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Henry's Full Breakdown Thread",
+          "overview": "<strong>Henry</strong> shares a comprehensive Seedance 2.0 breakdown with tips and examples.",
+          "posters": [
+            "Henry"
+          ],
+          "tutorial": {
+            "thread_link": "*Henry: 'Some new stuff with a full breakdown. Hope it helps for anyone using Seedance these days.' Full thread: <a href='https://x.com/henrydaubrez/status/2037554776809050359'>x.com/henrydaubrez</a>*",
+            "key_insight": "*Henry's breakdowns are consistently among the most detailed in the community, covering prompt structure, generation settings, and post-processing workflows specific to Seedance 2.0.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - jboogxcreative's Photogrid Face Bypass",
+          "overview": "<strong>jboogxcreative</strong> shares a technique to bypass Seedance 2.0's face detection filters using composite image grids.",
+          "posters": [
+            "jboogxcreative",
+            "Simon"
+          ],
+          "tutorial": {
+            "grid_construction": "*jboogxcreative: 'Make an image like this. Stack a character shot with your face images. Make sure the face images have backgrounds while the character shot is on white.' The key is creating a composite grid image.*",
+            "background_trick": "*'Bonus point for different backgrounds on the face images.' Varied backgrounds on the reference faces help the model distinguish between the character and reference material, reducing filter triggers.*",
+            "white_background": "*The character shot should be on a white/clean background. This separation between character (white bg) and face references (varied bg) helps bypass the detection system.*",
+            "limitations": "*Simon reported: 'Yes I tried it! Not working! When there is a face it gets blocked.' Results vary by region — this technique works better in Europe than the US.*",
+            "key_insight": "*This photogrid approach works by presenting faces as reference material rather than direct uploads. Success depends on regional restrictions and account status.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Rory Flynn's Omni-Ref Scene Method",
+          "overview": "<strong>Rory Flynn</strong> discovers a method to use faces in Seedance via omni-ref with full scene context.",
+          "posters": [
+            "Rory Flynn",
+            "Henry"
+          ],
+          "tutorial": {
+            "scene_setup": "*Rory Flynn: 'I basically gave it the entire scene and connected it with the prompt.' Instead of just uploading a face, provide the complete scene context with the character embedded.*",
+            "character_sheet_approach": "*'Only works for me now on omni — if I use a character sheet and supporting images of the scene.' Combine a character sheet with supporting scene images in omni-ref mode.*",
+            "vpn_trick": "*Rory Flynn: 'I'm in NYC — but I've been setting my VPN to London.' Using a VPN to European locations can bypass US-specific face restrictions.*",
+            "iteration_required": "*'It took me like 100 tries to figure out something that worked.' This is not a guaranteed method — expect significant trial and error.*",
+            "key_insight": "*The key is providing full scene context rather than isolated faces. Omni-ref with character sheets and scene images gives the model enough context to process faces without triggering filters.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Alex's Illustration Conversion Workaround",
+          "overview": "<strong>Alex</strong> shares a reliable face workaround by converting realistic images to illustrations before uploading.",
+          "posters": [
+            "Alex",
+            "Martin LeBlanc"
+          ],
+          "tutorial": {
+            "step_1": "*'Render your realistic image as always and save a description of it using an LLM.' Use ChatGPT or Claude to generate a detailed text description of your realistic image.*",
+            "step_2": "*'Turn the realistic image into an illustration.' Convert the realistic image to an illustrated/stylized version using any image-to-image tool.*",
+            "step_3": "*'In SD2, upload the illustration, request a realistic style, use stored description of realistic image.' The illustration bypasses face detection while the description guides SD2 to produce realistic output.*",
+            "martin_response": "*Martin LeBlanc (Freepik): 'I'll share that with the team. TBH it's all about collaboration with ByteDance to get the filters adjusted.' This workaround could potentially be implemented at the platform level.*",
+            "key_insight": "*This three-step process — describe, illustrate, regenerate — is the most reliable face workaround for US-based users where direct face uploads are consistently blocked.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - David Clark's Lighting-Based Face Tips",
+          "overview": "<strong>David Clark</strong> shares techniques for getting faces through by using camera angles and lighting.",
+          "posters": [
+            "David Clark"
+          ],
+          "tutorial": {
+            "profile_views": "*David Clark: 'Try with faces from profile view or obscured by moodier lighting — that was working for me.' Avoid direct front-facing shots to reduce filter triggers.*",
+            "moody_lighting": "*Darker, moodier lighting obscures enough facial detail to bypass detection while still maintaining recognizable character features in the output.*",
+            "location_advantage": "*David Clark: 'I'm uploading all the faces on Dreamina. Taking advantage of being in Belize.' Geographic location affects filter strictness — some regions have more relaxed restrictions.*",
+            "key_insight": "*Profile views and moody lighting are the simplest face bypass techniques — no composite images or multi-step workflows required.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - PJ Accetturo's Ad Framework",
+          "overview": "<strong>PJ Accetturo</strong> shares his complete framework for making ads with Seedance 2.0.",
+          "posters": [
+            "PJ Accetturo"
+          ],
+          "tutorial": {
+            "guide_link": "*PJ Accetturo: 'I've made a super quick to understand guide in how to use Seedance 2.0 and my entire framework for making ads.' Full guide: <a href='https://x.com/PJaccetturo/status/2039747485263176156'>x.com/PJaccetturo</a>*",
+            "key_insight": "*PJ's framework covers the complete ad production pipeline with Seedance 2.0, from concept to final output. Designed for commercial creators looking to integrate SD2 into client work.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Self-Watermark & Food Video Technique",
+          "overview": "<strong>jboogxcreative</strong> demonstrates using himself as a watermark and bringing real food videos into Seedance.",
+          "posters": [
+            "jboogxcreative"
+          ],
+          "tutorial": {
+            "technique": "*jboogxcreative: 'Using myself as the watermark and bringing my food videos into Seedance.' This technique embeds your personal brand directly into AI-generated content while using real footage as reference.*",
+            "key_insight": "*Combining real footage with SD2 generation creates a hybrid approach that maintains authenticity while leveraging AI for creative enhancement.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Regional Access & First Frame Tips",
+          "overview": "<strong>Billy Boman</strong> shares tips on face usage and first frame approach in Europe.",
+          "posters": [
+            "Billy Boman",
+            "Seb Ungrad"
+          ],
+          "tutorial": {
+            "europe_access": "*Billy Boman: 'Could this be a US based thing? Seems to work for us in Europe.' Seb Ungrad confirmed: 'For me it works on Dreamina.' European users have significantly fewer face restrictions.*",
+            "first_frame_method": "*Billy Boman: 'Worked great for me today with face in first frame. Worked for me in the regular one not omni.' The standard first-frame upload (not omni-ref) may have fewer restrictions for European accounts.*",
+            "key_insight": "*European users should use the standard first-frame approach rather than omni-ref for face uploads. US users need workarounds or VPN to European servers.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Pricing Breakdown",
+          "overview": "<strong>Pierre Zandrowicz</strong> and <strong>Chris (SyntaxDiffusion)</strong> break down Seedance 2.0 costs across subscription tiers.",
+          "posters": [
+            "Pierre Zandrowicz",
+            "Chris (SyntaxDiffusion)",
+            "jboogxcreative"
+          ],
+          "tutorial": {
+            "base_cost": "*Pierre Zandrowicz: '$0.44 per 15-second video with the advanced subscription.' This is the base I2V cost on Dreamina.*",
+            "omni_ref_cost": "*Chris (SyntaxDiffusion): 'If I continue off a 15 sec video with a reference frame it's just over 600 credits.' Omni-ref continuations cost more than standard generations.*",
+            "tier_comparison": "*Chris: 'On standard plan is $1.25 and advanced would be $0.89.' The advanced subscription offers significant savings for heavy users.*",
+            "key_insight": "*The advanced Dreamina subscription is the best value for regular SD2 users. At $0.44-$0.89 per 15-second clip, it's significantly cheaper than most competitors.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Prompter Tools",
+          "overview": "<strong>Winston Mayo</strong>, <strong>Josh Mellor</strong>, and <strong>Rourke</strong> discuss SD2 prompt optimization tools.",
+          "posters": [
+            "Winston Mayo",
+            "Josh Mellor",
+            "Rourke"
+          ],
+          "tutorial": {
+            "jboog_prompter": "*Josh Mellor: 'I've been using something jboogxcreative pulled together. Works really well.' A custom prompter built specifically for Seedance 2.0.*",
+            "rourke_format": "*Rourke: 'I have a format — can use this structure with Claude.' His detailed timestamp-based prompt structure (see separate tutorial) can be used as a template with Claude for generating SD2 prompts.*",
+            "key_insight": "*Use jboogxcreative's prompter for quick generations, or Rourke's detailed timestamp structure with Claude for cinematic sequences.*"
+          }
+        },
+        {
+          "title": "🎬 Upscaling - Multi-Step Pipeline to 4K",
+          "overview": "<strong>ChristianF.</strong> and <strong>MetaPuppet</strong> share optimal multi-step upscaling workflows.",
+          "posters": [
+            "ChristianF.",
+            "MetaPuppet"
+          ],
+          "tutorial": {
+            "christianf_pipeline": "*ChristianF.: 'Upscale with Topaz Video Iris model to 1080p first and then do a final pass to 4K with Astra Precise 2.5. To go to really high quality you need multiple steps, or even some masking or merging different layers.'*",
+            "metapuppet_pipeline": "*MetaPuppet: 'For photoreal, Astra Precise on individual clips to get to 1080p. Topaz on finished video to get to 4K. Still testing Magnific.' Process individual clips first, then upscale the assembled edit.*",
+            "key_insight": "*Two-pass upscaling (1080p then 4K) with different tools at each stage produces significantly better results than a single upscale pass. Match the tool to the content type at each stage.*"
+          }
+        },
+        {
+          "title": "🎬 Upscaling - Billy Boman's Topaz Proteus Settings",
+          "overview": "<strong>Billy Boman</strong> shares specific Topaz settings that preserve texture without over-sharpening.",
+          "posters": [
+            "Billy Boman"
+          ],
+          "tutorial": {
+            "model_selection": "*Billy Boman: 'Topaz AI Video, Proteus model.' Proteus is the recommended model for AI-generated video upscaling.*",
+            "settings": "*'Turn down recover detail, sharpness, improve detail and it usually works.' Reducing these three parameters prevents the over-sharpening and plastic look that plagues AI video upscaling.*",
+            "post_pipeline": "*Billy also uses 'Regular Topaz and DaVinci Studios deflicker' as his standard post-processing pipeline for final output.*",
+            "key_insight": "*The key to natural-looking upscales is restraint — turn DOWN the enhancement settings rather than up. Proteus with reduced settings preserves the original texture better than aggressive enhancement.*"
+          }
+        },
+        {
+          "title": "🎬 Upscaling - Tool Selection by Content Type",
+          "overview": "<strong>Issa Sissoko</strong> and <strong>Ryan Phillips</strong> share model selection guidelines based on content type.",
+          "posters": [
+            "Issa Sissoko",
+            "Ryan Phillips"
+          ],
+          "tutorial": {
+            "animation_pipeline": "*Issa Sissoko: 'Magnific's video upscaler is pretty good with 2D/3D animation + Deflicker.' Use Magnific for stylized and animated content.*",
+            "live_action_pipeline": "*Issa: 'Topaz's Starlight 2.5 is amazing with live action.' Use Topaz Starlight for photorealistic and live-action content.*",
+            "delicate_textures": "*Ryan Phillips: 'Have you tried Topaz Iris or Magnific Precision with the strength dialed down?' For delicate textures that get destroyed by standard upscaling, reduce strength significantly.*",
+            "key_insight": "*Match your upscaling tool to your content type: Magnific for animation/stylized, Topaz Starlight for live action, and always dial down strength for delicate textures.*"
+          }
+        },
+        {
+          "title": "🎬 Upscaling - D B's Magnific Precision Feedback",
+          "overview": "<strong>D B</strong> provides detailed user feedback on Magnific Precision across different content types.",
+          "posters": [
+            "D B",
+            "Javi"
+          ],
+          "tutorial": {
+            "mode_comparison": "*D B: 'Precise seems to be good for people and text, 4K upscale noticeably better than 2K upscale.' Creative mode works better for stylized content, Precise for realistic.*",
+            "glitch_issue": "*'With both Creative or Precise sometimes the clips kind of glitch, maybe in the backend you are stitching together multiple upscales? Only happens like 10% of the time.' Occasional stitching artifacts appear in longer clips.*",
+            "animation_strength": "*'On my animation styles it worked like a godsend.' Magnific excels particularly with animated/stylized content.*",
+            "fabric_weakness": "*'I didn't like the upscale on the fabrics seen on these shoes, looking a bit too plastic.' Fabric and textile textures can lose their natural quality.*",
+            "frame_limit": "*Javi confirmed: 'Limitation on both platforms is 7200 frames: 4min if 30fps.' Both Magnific site and Freepik support up to 4 minutes of video.*",
+            "key_insight": "*Use Precise mode for people and text, Creative for stylized content. Expect occasional stitching glitches on longer clips. 4K is noticeably better than 2K. Fabric textures remain a weakness.*"
+          }
+        },
+        {
+          "title": "🎬 Upscaling - Beyond 4K Discussion",
+          "overview": "<strong>D B</strong> asks about methods for upscaling beyond 4K resolution.",
+          "posters": [
+            "D B"
+          ],
+          "tutorial": {
+            "question": "*D B: 'Does anyone know the best methods for upscaling beyond 4k?' This remains an open challenge for the community.*",
+            "key_insight": "*Upscaling beyond 4K typically requires multiple passes with different tools and careful attention to artifact accumulation at each stage.*"
+          }
+        },
+        {
+          "title": "🎬 Nano Banana Pro - Quality Preservation Tips",
+          "overview": "<strong>Jovardi</strong> and <strong>Tom Furse</strong> discuss minimizing quality loss when making small adjustments in NB Pro.",
+          "posters": [
+            "Jovardi",
+            "Tom Furse"
+          ],
+          "tutorial": {
+            "unavoidable_loss": "*Jovardi: 'When you only make a small adjustment to an image in NB Pro, how do you avoid losing image quality and sharpness?' Tom Furse: 'I think it's kinda unavoidable.'*",
+            "mitigation_strategies": "*Tom Furse: 'Photoshop or do some post to the image afterwards to remove artifacts. Also gen at a high res.' Generate at the highest resolution possible to minimize degradation from adjustments.*",
+            "humor": "*Tom Furse: 'It's not destructive if you don't look very hard.' Jovardi: 'So much for the non-destructive workflow.'*",
+            "key_insight": "*Quality loss from NB Pro adjustments is inherent to the process. Mitigate by generating at high resolution and doing post-processing cleanup in Photoshop. Accept that each edit introduces some degradation.*"
+          }
+        },
+        {
+          "title": "🎬 Nano Banana Pro - 3D Location Conversion",
+          "overview": "<strong>Martin LeBlanc</strong> shares a technique for getting more consistent backgrounds using 3D conversion.",
+          "posters": [
+            "Martin LeBlanc"
+          ],
+          "tutorial": {
+            "technique": "*Martin LeBlanc: 'If you rely on NB it often gets the structure of the room wrong. When you convert a location to 3D you can get way more consistent reference images for the background and environment.'*",
+            "key_insight": "*Converting locations to 3D before using them as references in NB Pro gives significantly more consistent and structurally accurate backgrounds than relying on NB's native interpretation.*"
+          }
+        },
+        {
+          "title": "🎬 Vibe Coding - Henry's Pinterest Chrome Extension",
+          "overview": "<strong>Henry</strong> vibe-coded a free Chrome extension to download Pinterest boards locally.",
+          "posters": [
+            "Henry"
+          ],
+          "tutorial": {
+            "problem": "*Henry: 'There are plugins but you need to pay for all of them... soooo this is free.' Existing Pinterest download tools all require payment.*",
+            "solution": "*'Vibecoded a small Chrome extension to download your Pinterest boards locally.' Built entirely through vibe coding — no traditional development required.*",
+            "link": "*Full thread and extension: <a href='https://x.com/henrydaubrez/status/2036831560830484922'>x.com/henrydaubrez</a>*",
+            "key_insight": "*Vibe coding enables creators to build custom tools for their specific workflow needs without traditional programming skills. Henry's extension solves a real pain point for visual reference gathering.*"
+          }
+        },
+        {
+          "title": "🎬 Vibe Coding - Seb Ungrad's Gemini Canvas",
+          "overview": "<strong>Seb Ungrad</strong> vibe-coded a canvas interface for Google Gemini.",
+          "posters": [
+            "Seb Ungrad"
+          ],
+          "tutorial": {
+            "motivation": "*Seb Ungrad: 'I was tired of scrolling back and forth through my Gemini chat, so I vibe coded a canvas for Gemini.'*",
+            "access": "*'Free for all (you could buy me a coffee). You need a Gemini API Key.' Available via LinkedIn post: <a href='https://www.linkedin.com/posts/seb-ungrad-b9381ba1_gemini-canvas-v2-activity-7444336557106450433'>LinkedIn</a>*",
+            "key_insight": "*Another example of vibe coding solving personal workflow friction. The canvas interface provides a better UX for Gemini than the default chat interface.*"
+          }
+        },
+        {
+          "title": "🎬 Vibe Coding - Matthieu's Style-Trained Claude Workflow",
+          "overview": "<strong>Matthieu</strong> trained a Markdown file on his personal taste and art direction for Claude to use.",
+          "posters": [
+            "Matthieu"
+          ],
+          "tutorial": {
+            "technique": "*Matthieu: 'Trained a MD file on my taste/AD and Claude can go browsing AI tools on the web to prompt things in my style.' Create a detailed Markdown document describing your aesthetic preferences, then use it as a Claude system prompt.*",
+            "link": "*Full details: <a href='https://www.linkedin.com/posts/matthieugbrt_trained-a-md-file-on-my-tastead-and-claude-ugcPost-7443297920604364801'>LinkedIn</a>*",
+            "key_insight": "*Creating a personal style document for AI assistants enables consistent aesthetic output across different tools and platforms. Claude can then browse and prompt other AI tools in your specific style.*"
+          }
+        },
+        {
+          "title": "🎬 PixVerse V6 - Content Filter Advantage",
+          "overview": "<strong>Diane Laidlaw</strong> and <strong>Giacomo Mallamaci</strong> share insights on PixVerse V6's strengths and limitations.",
+          "posters": [
+            "Diane Laidlaw",
+            "Giacomo Mallamaci"
+          ],
+          "tutorial": {
+            "filter_advantage": "*Diane: 'There is hardly any filter on V6 so you can get away with a bit more than you can with SD2.' PixVerse V6 has significantly fewer content restrictions.*",
+            "sound_limitation": "*Diane: 'Sound is appalling though so I had to lean into designing the sound myself.' Plan for manual sound design when using PixVerse V6.*",
+            "character_consistency": "*Giacomo: 'I still struggle to get good consistency of characters (I miss that element thing from Kling) but I have to say that V6 really impressed me.' Character consistency remains V6's main weakness.*",
+            "complementary_use": "*Giacomo: 'It does some stuff better so the tools work good together.' Use V6 alongside Kling and SD2 as complementary tools rather than replacements.*",
+            "key_insight": "*PixVerse V6 fills a niche for content that requires fewer restrictions. Plan for manual sound design and use alongside other models for character consistency.*"
+          }
+        },
+        {
+          "title": "🎬 Kling - Claude Pipeline for Scene Planning",
+          "overview": "<strong>Matthieu</strong> demonstrates using Claude for scene structure and Kling for final rendering.",
+          "posters": [
+            "Matthieu",
+            "ChristianF."
+          ],
+          "tutorial": {
+            "workflow": "*ChristianF. asked: 'The final AI rendering was also done by Claude?' Matthieu: 'Nop. Kling.' Claude handles scene planning and structure, Kling handles the visual rendering.*",
+            "key_insight": "*Separate the planning (Claude) from the rendering (Kling) for more controlled and intentional results. Use LLMs for scene structure and video models for execution.*"
+          }
+        },
+        {
+          "title": "🎬 ComfyUI - Ramon's VFX & UGC Node Pack",
+          "overview": "<strong>Ramon Guthrie</strong> is developing custom VFX and UGC nodes for ComfyUI.",
+          "posters": [
+            "Ramon Guthrie"
+          ],
+          "tutorial": {
+            "development": "*Ramon: 'It's on my long to-do-list to check after I've finished my VFX and UGC node pack.' Custom node development for specialized VFX and user-generated content workflows.*",
+            "key_insight": "*Despite ComfyUI's stability issues, custom node development continues to push the boundaries of what's possible with node-based AI workflows.*"
+          }
+        },
+        {
+          "title": "🎬 Freepik/Magnific - Video Upscaling Limits",
+          "overview": "<strong>Javi</strong> clarifies the technical limits of Magnific video upscaling on both platforms.",
+          "posters": [
+            "Javi",
+            "D B"
+          ],
+          "tutorial": {
+            "frame_limit": "*Javi: 'Limitation on both platforms is 7200 frames: 4min if 30fps. If it doesn't allow you that, is a bug.' Both Magnific site and Freepik support the same frame limit.*",
+            "chunking": "*D B asked: 'For a 1 minute video will it automatically chunk and stitch together seamlessly?' On Magnific site, D B was limited to 18 seconds and doing it manually. Freepik should handle longer clips automatically.*",
+            "key_insight": "*Use Freepik for longer clips (up to 4 minutes) to avoid manual chunking. If you hit limits below 7200 frames, report it as a bug.*"
+          }
+        },
+        {
+          "title": "🎬 Image Vectorization - Tool Recommendations",
+          "overview": "<strong>Oli</strong> shares the best current tools for image vectorization.",
+          "posters": [
+            "Oli",
+            "Benny"
+          ],
+          "tutorial": {
+            "figma_draw": "*Oli: 'Figma has a good built-in tool for this now. It's part of Figma Draw.' Best for complex images that need manual refinement.*",
+            "quiver_ai": "*Oli: 'If it's a simple logo type thing you want vectorising then this is pretty cool: <a href=\"https://app.quiver.ai/\">app.quiver.ai</a>.' Best for simple logos and icons.*",
+            "key_insight": "*Use Figma Draw for complex vectorization with manual control, Quiver AI for quick logo/icon vectorization.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Sketch-to-Realistic Workaround",
+          "overview": "<strong>Henry</strong> shares a workaround for face restrictions by converting characters to sketches first.",
+          "posters": [
+            "Henry"
+          ],
+          "tutorial": {
+            "technique": "*Henry: 'I had ONE workaround — it's to convert character to sketch before running it and ask for realistic.' Convert your character image to a sketch/line drawing, then upload to SD2 with a prompt requesting realistic output.*",
+            "key_insight": "*Sketch conversion strips enough facial detail to bypass detection while retaining enough structural information for SD2 to reconstruct a realistic face.*"
+          }
+        },
+        {
+          "title": "🎬 Seedance 2.0 - Guardrail Behavior Patterns",
+          "overview": "<strong>Billy Boman</strong> and <strong>Brogan Wassell</strong> explain the inconsistent guardrail behavior.",
+          "posters": [
+            "Billy Boman",
+            "Brogan Wassell",
+            "Giacomo Mallamaci"
+          ],
+          "tutorial": {
+            "wave_pattern": "*Billy Boman: 'It comes in waves sometimes, at some point a week ago every single image upload was blocked but then few days later same images worked.' Guardrails are not static — they fluctuate.*",
+            "logo_sensitivity": "*Brogan Wassell: 'One week I was trying to make stuff with cars. Had no problem. Then it would have a logo (any logo even fake) and spaz out.' Logo detection is particularly inconsistent.*",
+            "server_load_theory": "*Giacomo Mallamaci: 'It's common when models get released, servers get clogged and there is a massive degradation in quality because of the limited compute power.' Quality and restrictions correlate with server load.*",
+            "account_variation": "*Seb Ungrad: 'Maybe they change the guardrails per account.' Different accounts may have different restriction levels.*",
+            "key_insight": "*Guardrails are dynamic and vary by region, account, server load, and time of day. If something is blocked, try again later or from a different access point.*"
+          }
+        },
+        {
+          "title": "🎬 Topaz - Astra vs Proteus Comparison",
+          "overview": "<strong>Martin LeBlanc</strong> and <strong>Andy Mc</strong> compare Topaz upscaling models.",
+          "posters": [
+            "Martin LeBlanc",
+            "Andy Mc"
+          ],
+          "tutorial": {
+            "astra_characteristics": "*Martin LeBlanc: 'I find it tends to sharpen edges too much.' Astra Precise can over-process edges, creating an artificial look.*",
+            "proteus_advantage": "*Martin: 'Proteus gives a more realistic look imo.' Proteus preserves natural texture better than Astra for most content.*",
+            "testing_approach": "*Andy Mc: 'Paying for Astra as part of my sub, so worth seeing if I can get some mileage out of that.' Run comparative tests across models to find what works for your specific content.*",
+            "key_insight": "*Proteus generally produces more natural-looking results than Astra. Use Astra for content that benefits from edge sharpening (text, graphics), Proteus for organic/realistic content.*"
+          }
+        },
+        {
+          "title": "🎬 AI Glasses Animation",
+          "overview": "<strong>PJ Accetturo</strong> and <strong>Jorge</strong> discuss animating characters wearing glasses.",
+          "posters": [
+            "PJ Accetturo",
+            "Jorge",
+            "Brogan Wassell"
+          ],
+          "tutorial": {
+            "question": "*PJ Accetturo: 'Can AI do glasses? How does it animate? Like reading glasses on a main character for most of the film.'*",
+            "answer": "*Jorge: 'Yep haven't had issues with this!' Brogan Wassell: 'If an object is on a face it usually can do it because it tracks WITH the head object.' Glasses work because they're attached to the face and move with head tracking.*",
+            "key_insight": "*Face-attached accessories like glasses generally animate well in AI video because they track with the head object. This applies to most face-worn items.*"
+          }
+        },
+        {
+          "title": "🎬 HeyGen - Long-Term AI Avatar Setup",
+          "overview": "<strong>BasvdE</strong> asks about running custom AI avatars for extended client engagements.",
+          "posters": [
+            "BasvdE"
+          ],
+          "tutorial": {
+            "question": "*BasvdE: 'Does anyone have experience with serving a client a longer time with a custom AI-Avatar from HeyGen? Like setting up an Avatar that runs over the full course of a year?'*",
+            "key_insight": "*Long-term AI avatar deployments for client work is an emerging use case. Consider consistency, licensing, and ongoing costs when planning year-long avatar engagements.*"
+          }
+        }
+      ]
+    },
+    {
+      "title": "🎨 Community Showcases & Projects",
+      "items": [
+        {
+          "title": "🎬 Olly Ginelli - BAFTA-Qualifying AI Short",
+          "link": "https://www.instagram.com/reel/DWbMDUYtPCB/",
+          "description": "<strong>Olly Ginelli</strong> proudly announced: \"EXTREMELY PROUD TO ANNOUNCE — our short can now apply for a BAFTA!\" A landmark moment for AI filmmaking, with the short qualifying for one of the most prestigious awards in film.",
+          "posters": [
+            "Olly Ginelli"
+          ]
+        },
+        {
+          "title": "🎬 David Clark - Runway AI Summit Keynote",
+          "link": "https://x.com/promise_ai/status/2039809944904671625",
+          "description": "<strong>David Clark</strong> delivered a keynote at the Runway AI Summit in NYC, presenting the hybrid production BTS created for Paramount. <strong>Gabe Michael</strong> shared photos: \"David Clark killing it with the Keynote at Runway AI Summit.\"",
+          "posters": [
+            "David Clark",
+            "Gabe Michael"
+          ]
+        },
+        {
+          "title": "🎬 Billy Boman - KTLA Feature & Hollywood Sign",
+          "link": "https://x.com/ktla/status/2036590494227345816",
+          "description": "<strong>Rory Flynn</strong> shared: \"Hearing about Billy Boman on local US network television is amazing.\" <strong>Billy</strong> was featured on KTLA and had a 30-foot Hollywood sign with his name. <strong>Edmond Yang</strong> created memes, and <strong>Aaron Bhugobaun</strong> suggested: \"We could make Billy into a legend and make up random stories about him.\"",
+          "posters": [
+            "Billy Boman",
+            "Rory Flynn",
+            "Edmond Yang",
+            "Aaron Bhugobaun"
+          ]
+        },
+        {
+          "title": "🎬 Yonatan Dor Brothers - Official Dreamina Launch Trailer",
+          "link": "https://x.com/i/status/2039749667865448641",
+          "description": "<strong>Yonatan Dor Brothers</strong> announced: \"It was an honor to create the official launch trailer for Dreamina's Seedance 2 model!\" The trailer showcases SD2's capabilities at the highest level.",
+          "posters": [
+            "Yonatan Dor Brothers"
+          ]
+        },
+        {
+          "title": "🎬 Edmond Yang - LOL Network Deal",
+          "link": "https://www.instagram.com/reel/DWeXuT_jAXL/",
+          "description": "<strong>Edmond Yang</strong> shared: \"Just made this for LOL Network. Signing a deal too for more.\" A significant commercial milestone demonstrating AI content's growing market value.",
+          "posters": [
+            "Edmond Yang"
+          ]
+        },
+        {
+          "title": "🎬 Mark Wachholz - 'The Interview' (SD2 Test)",
+          "link": "https://youtu.be/BGo578sWCGw",
+          "description": "<strong>Mark Wachholz</strong> shared his first Seedance 2.0 test: \"I was especially interested to test more low-key, realistic, and character-centered cinematic scenes.\" <strong>Diane Laidlaw</strong> praised the lighting changes, <strong>Aaron Bhugobaun</strong> highlighted the push-in shot, and <strong>Brogan Wassell</strong> called the audio \"insane — so subtle and yet perfectly imperfect.\"",
+          "posters": [
+            "Mark Wachholz",
+            "Diane Laidlaw",
+            "Aaron Bhugobaun",
+            "Brogan Wassell"
+          ]
+        },
+        {
+          "title": "🎬 Filipa Kinomoto - Luma Dream Brief Submissions",
+          "link": "https://youtu.be/DDDaMH6BFAs",
+          "description": "<strong>Filipa Kinomoto</strong> submitted two versions for the Luma brief: \"We were not happy with one so we made the second — same characters and concept, different ending and no dialogue.\" She also announced hosting the FIRST Seedance event in Europe.",
+          "posters": [
+            "Filipa Kinomoto"
+          ]
+        },
+        {
+          "title": "🎬 Diane Laidlaw - PixVerse V6 True Crime Short",
+          "link": "https://youtu.be/JwHv0kWqIyM",
+          "description": "<strong>Diane Laidlaw (Afro Futcha)</strong> released a short using PixVerse V6 for her true crime series focused on black serial killers. <strong>Mark Wachholz</strong> praised: \"Strong, touching concept. And the intercuts are amazing.\"",
+          "posters": [
+            "Diane Laidlaw",
+            "Mark Wachholz"
+          ]
+        },
+        {
+          "title": "🎬 Ryan Patterson - 20-Minute AI Film",
+          "link": "https://youtu.be/ToEfIA2ffco",
+          "description": "<strong>Ryan Patterson</strong> released a 20-minute AI film: \"Because we all have time for 20 min AI films. Thanks for the inspiration Dreamers.\"",
+          "posters": [
+            "Ryan Patterson"
+          ]
+        },
+        {
+          "title": "🎬 Andy Mc - Runway Big Ad Contest Entry",
+          "link": "https://x.com/andymac3d/status/2039539043298312511",
+          "description": "<strong>Andy Mc</strong> submitted a Runway Big Ad Contest entry: \"Really fun to do (but a few rough edges) — homage to everyone who is doing a road trip with their annoying kids this Easter!\"",
+          "posters": [
+            "Andy Mc"
+          ]
+        },
+        {
+          "title": "🎬 Simon Meyer - Runway Big Ad Contest Entry",
+          "link": "https://www.linkedin.com/posts/simon-meyer-976339160_runwaybigadcontest-runwaybigadcontest-activity-7445273032794734592",
+          "description": "<strong>Simon Meyer</strong> shared his Runway Big Ad Contest submission: \"I'm proud to compete with this one in the Runway competition! Would love to hear if anyone else here in this group competes.\"",
+          "posters": [
+            "Simon"
+          ]
+        },
+        {
+          "title": "🎬 Kirill Karnovich-Valua - Webby Award Nomination",
+          "link": "https://davincis.digital/rbyba",
+          "description": "<strong>Kirill Karnovich-Valua</strong> announced his experimental AI project (made with Freepik and Kling) was nominated for the Webby Awards in Art & Experimental category. <strong>ESHAP</strong> was also nominated for Best Thought Leadership.",
+          "posters": [
+            "Kirill Karnovich-Valua",
+            "ESHAP"
+          ]
+        },
+        {
+          "title": "🎬 Marco - Magnific 4K Upscale Showcase",
+          "link": "",
+          "description": "<strong>Marco</strong> shared stunning before/after Magnific 4K upscale comparisons that <strong>Javi</strong> called \"SO CRISP! Amazing.\" <strong>Justin Hackney</strong> reacted: \"Brooooooo this is mental.\" The results demonstrated Magnific Precision's capabilities at their best.",
+          "posters": [
+            "Marco",
+            "Javi",
+            "Justin Hackney"
+          ]
+        },
+        {
+          "title": "🎬 Ari Kuschnir - Trump Library AI Parody",
+          "link": "https://www.instagram.com/arikuschnir/reel/DWmzKPQAcuA/",
+          "description": "<strong>Ari Kuschnir</strong> created an AI parody: \"I was inspired by Eric Trump's AI video of Trump's Library/Museum/Hotel so decided to make my own version!\"",
+          "posters": [
+            "Ari Kuschnir"
+          ]
+        },
+        {
+          "title": "🎬 Rory Flynn x SharkNinja - Enterprise AI Training",
+          "link": "",
+          "description": "<strong>Rory Flynn</strong> shared a milestone: \"I've been working with SharkNinja for like 9 months... spent 2 days training another 200 people. The CEO is offering $1M in prizes this year — weekly $10K payouts for anyone developing wild workflows with AI.\" He spotted Weavy workflows on meeting room monitors throughout the organization.",
+          "posters": [
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🎬 Max (Wonder) - Creative Team Expansion",
+          "link": "https://www.linkedin.com/posts/maxlarsson-safustudio_the-wonder-creative-team-just-got-even-stronger-activity-7445417616107765760",
+          "description": "<strong>Max</strong> announced the Wonder creative team expansion. <strong>Justin Hackney</strong> responded: \"Gang gang! So honoured.\" <strong>Xavier Collins</strong> added: \"Booooom!\"",
+          "posters": [
+            "Max",
+            "Justin Hackney",
+            "Xavier Collins"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "👋 New Members",
+      "items": [
+        {
+          "title": "🎬 Zack - Filmmaker Behind 'Woodnuts'",
+          "link": "",
+          "overview": "<strong>Justin Hackney</strong> introduced Zack on March 24th, with the community rallying to welcome him.",
+          "description": "<strong>Zack</strong> is the filmmaker behind 'Woodnuts,' praised by <strong>Mark Wachholz</strong> as \"one of the best recent AI movies in my book! It just has the VIBE!\" <strong>Kēkā</strong> added: \"Always love ruffling my IG followers with reposts of your series.\" Zack shared he has another short releasing soon: \"Five months in the making.\" He quickly became an active contributor, asking technical questions about SD2 upscaling and sharing insights on model quality.",
+          "posters": [
+            "Justin Hackney",
+            "Zack",
+            "Mark Wachholz",
+            "Kēkā"
+          ]
+        },
+        {
+          "title": "🎬 Solly Solomou - Founder of LADbible",
+          "link": "",
+          "overview": "<strong>Justin Hackney</strong> introduced Solly Solomou on March 25th with a heartfelt tribute.",
+          "description": "<strong>Solly Solomou</strong> is the mind behind LADbible, described by <strong>Justin Hackney</strong> as \"one of the most dominant attention engines on the planet.\" Justin praised him as \"genuinely one of the nicest blokes I've met\" who \"saw the wave and built an ark before people even knew what was coming.\" Solly responded warmly: \"An honour to be added to this group. You guys are pioneering the way. Been brilliant getting to know the three musketeers that are Rourke, Justin and Rory.\"",
+          "posters": [
+            "Justin Hackney",
+            "Solly"
+          ]
+        },
+        {
+          "title": "🎬 James",
+          "link": "",
+          "overview": "<strong>Justin Hackney</strong> added James on March 28th.",
+          "description": "<strong>James</strong> was added to the group by <strong>Justin Hackney</strong> on March 28th.",
+          "posters": [
+            "Justin Hackney"
+          ]
+        },
+        {
+          "title": "🎬 Chloe Fang - Head of Partnerships at OpenArt",
+          "link": "",
+          "overview": "<strong>Xavier Collins</strong> introduced Chloe Fang on March 30th.",
+          "description": "<strong>Chloe Fang</strong> is the head of partnerships at OpenArt, president of the MIT AI Club, and producer of the Bot House. <strong>Xavier Collins</strong> introduced her as an \"all around guru.\" She quickly contributed by sharing OpenArt's 60% discount on Seedance 2.0 access. She responded: \"Very honored to join the coolest party (and also see some great friends here!)\"",
+          "posters": [
+            "Xavier Collins",
+            "Chloe Fang"
+          ]
+        },
+        {
+          "title": "🎬 Max Simonson - Award-Winning Creative Director",
+          "link": "",
+          "overview": "<strong>Xavier Collins</strong> introduced Max Simonson on March 30th.",
+          "description": "<strong>Max Simonson</strong> is an award-winning creative director and fellow Antipodean (like Xavier), who made one of the first micro dramas in the US. <strong>Brogan Wassell</strong> reacted: \"Max hahaha awesome seeing you in here.\" Max responded: \"Great to be here! Excited to be a part of this space!\"",
+          "posters": [
+            "Xavier Collins",
+            "Max Simonson",
+            "Brogan Wassell"
+          ]
+        },
+        {
+          "title": "🎬 Gennie Studio Team - Max Einhorn, Tejas Shah, Chelsea Durgin & AlchemAIst (Matt Wenhardt)",
+          "link": "https://www.gennie-studio.com/",
+          "overview": "<strong>Aaron Bhugobaun</strong> introduced the full Gennie Studio team on March 30th with a detailed breakdown.",
+          "description": "<strong>Aaron Bhugobaun</strong> announced: \"A quadruple Dreamers alert!\" introducing the Gennie Studio team. <strong>Max Einhorn</strong> (CEO, former SVP at FilmRise), <strong>Tejas Shah</strong> (CBO, Bloomberg/PepsiCo/JP Morgan background), <strong>Chelsea Durgin</strong> (CCO, former Head of 360 Projects at Viral Nation), and <strong>AlchemAIst/Matt Wenhardt</strong> (Head of Production, ESPN/ABC/Sony). Aaron described them as \"a new kind of studio model: AI-enabled, creator-driven, and built from the ground up for how content is actually made today.\"",
+          "posters": [
+            "Aaron Bhugobaun",
+            "Max Einhorn",
+            "Tejas Shah",
+            "Chelsea Durgin",
+            "AlchemAIst"
+          ]
+        },
+        {
+          "title": "🎬 Zoey & Yifei",
+          "link": "",
+          "overview": "<strong>Verena</strong> welcomed Zoey and Yifei on April 1st.",
+          "description": "<strong>Verena</strong> welcomed both new members: \"Welcome Zoey and Yifei, great to see you here!\"",
+          "posters": [
+            "Verena"
+          ]
+        },
+        {
+          "title": "🎬 Diane Laidlaw (Afro Futcha) - AI Filmmaker & TED AI Speaker",
+          "link": "https://www.linkedin.com/in/dianelaidlaw",
+          "overview": "<strong>Aaron Bhugobaun</strong> introduced Diane Laidlaw on April 2nd.",
+          "description": "<strong>Diane Laidlaw (Afro Futcha)</strong> is a UK-based AI filmmaker featured by BBC and invited to speak at TED AI Vienna. <strong>Aaron Bhugobaun</strong> described her as \"building a new cinematic language, one where AI doesn't replace emotion, but amplifies it.\" She immediately became an active voice, sharing her PixVerse V6 true crime short and engaging in technical discussions about model comparisons. She quipped about testing the group's temperature: \"I have to test the temperature of the group before I start with my foolishness.\"",
+          "posters": [
+            "Aaron Bhugobaun",
+            "Diane Laidlaw"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "💭 Community Insights & Discussions",
+      "items": [
+        {
+          "title": "🎬 The AI Backlash - Handling Hate from Traditional VFX/Animation",
+          "link": "https://www.linkedin.com/posts/ryan-phillips-3269307_ai-animation-is-going-to-enable-people-to-activity-7443225813463945217",
+          "overview": "Extended community discussion on handling negativity from traditional VFX and animation professionals.",
+          "description": "<strong>Ryan Phillips</strong> shared his most negative LinkedIn post experience. <strong>Billy Boman</strong> called it \"copium sniffing disguised as righteousness.\" <strong>Brogan Wassell</strong> provided perspective: \"They are in some level in the stages of grief... so many were told 'get really great at these tools and you'll never lose your job' and now that isn't true.\" <strong>Henry</strong> shared that a lead Fortnite animator at Epic Games reached out via DM for a genuine conversation. <strong>MetaPuppet</strong> advised: \"When people go out of their way to hate something, I try to look at it as, this is the best this person has to offer right now.\" <strong>Blair</strong> added: \"We're in another technological transition with AI... if we had social media throughout our past, we'd have seen the same attacks then.\"",
+          "posters": [
+            "Ryan Phillips",
+            "Billy Boman",
+            "Brogan Wassell",
+            "Henry",
+            "MetaPuppet",
+            "Blair",
+            "Tom Furse",
+            "Giacomo Mallamaci",
+            "Andy Mc",
+            "Chad Nelson"
+          ]
+        },
+        {
+          "title": "🎬 SharkNinja's $1M AI Prize Program",
+          "link": "",
+          "overview": "Rory Flynn reveals massive corporate AI adoption success at SharkNinja.",
+          "description": "<strong>Rory Flynn</strong> shared: \"I've been working with SharkNinja for like 9 months... spent 2 days training another 200 people. It's gone so viral in the org that the CEO is offering $1M in prizes this year — weekly $10K payouts for anyone developing wild workflows with AI.\" He spotted Weavy workflows on meeting room monitors: \"Crazy just walking by random meeting rooms seeing Weavy workflows on the monitor.\" This represents one of the most significant enterprise AI adoption stories from the community.",
+          "posters": [
+            "Rory Flynn"
+          ]
+        },
+        {
+          "title": "🎬 Disney's AI Tool Usage Revealed",
+          "link": "",
+          "overview": "Rourke shares insider knowledge about Disney's AI tool adoption.",
+          "description": "<strong>Rourke</strong> revealed: \"Disney uses FreePik in their creative lab. I know that much and I know they use Adobe Firefly but I am not sure what else is actually pushed in the company. I have a few friends who work there and it seems very limited right now, other than their experimental lab.\" This confirms major studios are experimenting with AI tools but adoption remains cautious.",
+          "posters": [
+            "Rourke"
+          ]
+        },
+        {
+          "title": "🎬 AI Industry Consolidation Prediction",
+          "link": "",
+          "overview": "Chad Nelson predicts rapid consolidation of AI companies.",
+          "description": "<strong>Chad Nelson</strong> predicted: \"AI will be much like the early 20th century automobile manufacturing — going from dozens and dozens of companies to only 'the big three' in 2 decades. Except this will be 4X-5X faster.\" On Runway specifically: \"Personally... I wouldn't bet on Runway (if I was a VC).\" <strong>Zack</strong> agreed: \"Gen 4.5 was outdated within like 30 minutes of release.\"",
+          "posters": [
+            "Chad Nelson",
+            "Zack"
+          ]
+        },
+        {
+          "title": "🎬 ByteDance Enterprise Negotiations",
+          "link": "",
+          "overview": "Multiple members negotiate directly with ByteDance for enterprise SD2 access.",
+          "description": "<strong>Billy Boman</strong>, <strong>Aaron Bhugobaun</strong>, and <strong>PJ Accetturo</strong> are all in direct talks with ByteDance. Pricing tiers discussed: $1M/year full access, $100K/year restricted, $10K/month off-peak. <strong>Aaron</strong> noted: \"Trying to understand what they want, they deal with Enterprise and API.\" <strong>Billy</strong> reported: \"Early Mid-April for the off-peak deal.\" The negotiations reveal ByteDance's serious push into the Western enterprise market.",
+          "posters": [
+            "Billy Boman",
+            "Aaron Bhugobaun",
+            "PJ Accetturo"
+          ]
+        },
+        {
+          "title": "🎬 Aaron at UK AI Governance Panel & BAFTA",
+          "link": "https://www.linkedin.com/posts/aaronbhugobaun_were-excited-to-welcome-aaron-activity-7445579112863240192",
+          "overview": "Aaron Bhugobaun represents the community at high-level policy and industry events.",
+          "description": "<strong>Aaron Bhugobaun</strong> spoke at a UK AI governance roundtable on agentic AI, attended BAFTA, and announced forming a Creative Working Group: \"Going to start making Creative Working Group to push these industry conversations forward.\" His growing influence bridges the RealDreams community with institutional policy-making.",
+          "posters": [
+            "Aaron Bhugobaun"
+          ]
+        },
+        {
+          "title": "🎬 Webby Awards - Double RealDreams Nominations",
+          "link": "https://vote.webbyawards.com/PublicVoting#/2026/video-film/general-video-film/art-experimental",
+          "overview": "Two RealDreams members nominated for Webby Awards.",
+          "description": "<strong>Kirill Karnovich-Valua</strong> was nominated in Art & Experimental for his project made with Freepik and Kling. <strong>ESHAP</strong> was nominated for Best Thought Leadership. The community rallied to vote for both, with members cross-promoting each other's nominations.",
+          "posters": [
+            "Kirill Karnovich-Valua",
+            "ESHAP"
+          ]
+        },
+        {
+          "title": "🎬 Gallery View vs Open Canvas - Community Poll",
+          "link": "",
+          "overview": "Simon polls the community on preferred AI generation interfaces.",
+          "description": "<strong>Simon</strong> asked: \"Do you guys prefer generating images and videos on an open canvas (like Weavy, Spaces, Flora etc.) or in a Gallery View like Higgsfield etc.?\" Gallery View won decisively with 13 votes vs 6 for Open Canvas, suggesting the community prefers organized output review over freeform canvas workflows.",
+          "posters": [
+            "Simon"
+          ]
+        },
+        {
+          "title": "🎬 Budapest AI Smartfest & Upscale London",
+          "link": "",
+          "overview": "RealDreams members connect at multiple international events.",
+          "description": "<strong>Kirill Karnovich-Valua</strong> and <strong>Odair</strong> met in person at Budapest AI Smartfest. <strong>Paula Vivas</strong> reported the Upscale London event was \"fully packed, crazy energy. One of the best ones we've done so far!\" with <strong>Ikenna</strong> performing on stage. Paula teased: \"SF in June and it's going to be BIG!\"",
+          "posters": [
+            "Kirill Karnovich-Valua",
+            "Odair",
+            "Paula Vivas"
+          ]
+        },
+        {
+          "title": "🎬 Seedance 2.0 US Availability Debate",
+          "link": "",
+          "overview": "Community debates whether Seedance 2.0 will ever launch in the US.",
+          "description": "<strong>jboogxcreative</strong> reported: \"I heard through the grapevine that SD 2.0 will NOT be released in the US, period.\" <strong>Edmond Yang</strong> questioned the CPP logic: \"Would it make sense for CPP to have CPP in the US if they're not gonna launch it?\" <strong>Simon</strong> noted the irony: \"This feels the opposite of when Veo came out for the world but not for Europe.\" <strong>PJ Accetturo</strong> later provided hope: \"Seedance 2.0 should be available in the US next week.\"",
+          "posters": [
+            "jboogxcreative",
+            "Edmond Yang",
+            "Simon",
+            "PJ Accetturo"
+          ]
+        },
+        {
+          "title": "🎬 The Grok Debate - Overrated vs Underrated",
+          "link": "",
+          "overview": "Community splits on Grok's value as a video generation model.",
+          "description": "<strong>Alex</strong> declared: \"Grok is the most underrated model.\" <strong>Giacomo Mallamaci</strong> countered: \"I actually think it's the most overrated.\" <strong>Diane Laidlaw</strong> sided with optimism: \"Grok is fantastic. VEO 4 should be cool and I'm holding out for Grok as well.\" The debate reflects the community's diverse tool preferences and workflows.",
+          "posters": [
+            "Alex",
+            "Giacomo Mallamaci",
+            "Diane Laidlaw"
+          ]
+        },
+        {
+          "title": "🎬 Hollywood Reporter - Curious Refuge AI Film School",
+          "link": "https://www.hollywoodreporter.com/movies/movie-features/curious-refuge-ai-film-school-hollywood-1236546505/",
+          "overview": "David Clark shares Hollywood Reporter coverage of AI in filmmaking.",
+          "description": "<strong>David Clark</strong> shared the article: \"AI in filmmaking is still very strong my brethren and sisteren.\" The Hollywood Reporter piece covers Curious Refuge's AI film school and its growing influence in Hollywood, validating the community's work.",
+          "posters": [
+            "David Clark"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🔗 Key Links & Resources",
+      "items": [],
+      "categories": [
+        {
+          "title": "🛠️ Tool Releases & Updates",
+          "links": [
+            {
+              "title": "Topaz Starlight Precise 2.5",
+              "url": "https://x.com/topazlabs/status/2037550293370478735",
+              "description": "New AI video upscaling model launch"
+            },
+            {
+              "title": "Suno V5.5 Music Generation",
+              "url": "https://suno.com/s/yTm5NNnVx3AOtMy9",
+              "description": "Major music generation update"
+            },
+            {
+              "title": "Mellon UI (ComfyUI Alternative)",
+              "url": "https://github.com/cubiq/Mellon/",
+              "description": "New node-based UI by cubiq"
+            },
+            {
+              "title": "Quiver AI (Image Vectorization)",
+              "url": "https://app.quiver.ai/",
+              "description": "AI-powered image vectorization tool"
+            },
+            {
+              "title": "Wan 2.1 (Alibaba)",
+              "url": "https://x.com/Alibaba_Wan/status/2039329029241872767",
+              "description": "Alibaba's latest video model updates"
+            },
+            {
+              "title": "Netflix Void Model (HuggingFace)",
+              "url": "https://huggingface.co/netflix/void-model",
+              "description": "Netflix open-source model release"
+            },
+            {
+              "title": "Netflix Void Model (GitHub)",
+              "url": "https://github.com/Netflix/void-model",
+              "description": "Netflix model source code"
+            },
+            {
+              "title": "Seedance 2.0 on OpenArt (60% Off)",
+              "url": "https://openart.ai/suite/create-video/byte-plus-seedance-2",
+              "description": "Discounted SD2 access via OpenArt"
+            },
+            {
+              "title": "InVideo Models Pricing",
+              "url": "https://invideo.io/models-pricing/",
+              "description": "InVideo's AI model pricing page"
+            },
+            {
+              "title": "PocketScreen AI",
+              "url": "https://x.com/PocketScreenAI/status/2039734884240101553",
+              "description": "AI screen generation tool"
+            }
+          ]
+        },
+        {
+          "title": "📰 News & Announcements",
+          "links": [
+            {
+              "title": "OpenAI Acquires TBPN Podcast",
+              "url": "https://openai.com/index/openai-acquires-tbpn/",
+              "description": "OpenAI buys podcast Billy Boman appeared on"
+            },
+            {
+              "title": "Hollywood Reporter - AI Film School",
+              "url": "https://www.hollywoodreporter.com/movies/movie-features/curious-refuge-ai-film-school-hollywood-1236546505/",
+              "description": "Curious Refuge AI filmmaking coverage"
+            },
+            {
+              "title": "Billy Boman on KTLA",
+              "url": "https://x.com/ktla/status/2036590494227345816",
+              "description": "Billy featured on US network television"
+            },
+            {
+              "title": "Billy Boman on TBPN Podcast",
+              "url": "https://x.com/tbpn/status/2037644032462197085",
+              "description": "Billy's podcast appearance"
+            },
+            {
+              "title": "SimilarWeb AI Video Traffic Chart",
+              "url": "https://x.com/similarweb/status/2037175238983622791",
+              "description": "AI video platform traffic comparison"
+            },
+            {
+              "title": "NVIDIA Studio Collaboration",
+              "url": "https://x.com/NVIDIAStudio/status/2036593932654539142",
+              "description": "NVIDIA Studio partnership announcement"
+            },
+            {
+              "title": "ComfyUI Stability Issues (Reddit)",
+              "url": "https://www.reddit.com/r/comfyui/s/ZbfDAqAs60",
+              "description": "Community discussion on ComfyUI problems"
+            },
+            {
+              "title": "Seedance 2.0 News Account",
+              "url": "https://x.com/seedance2_news/status/2038584486498099567",
+              "description": "Unofficial SD2 news and updates"
+            },
+            {
+              "title": "ChatGPT Cures Dog's Cancer",
+              "url": "https://x.com/paul_conyngham/status/2036940410363535823",
+              "description": "Viral story of AI-assisted veterinary diagnosis"
+            },
+            {
+              "title": "Billy Boman Meme Goes Viral",
+              "url": "https://x.com/ixitimmyixi/status/2039703987826373081",
+              "description": "Community meme about Billy's growing fame"
+            },
+            {
+              "title": "Runway Announcement",
+              "url": "https://x.com/runwayml/status/2037170118669500537",
+              "description": "Latest Runway platform update"
+            }
+          ]
+        },
+        {
+          "title": "🎨 Community Work & Showcases",
+          "links": [
+            {
+              "title": "Olly Ginelli - BAFTA-Qualifying Short",
+              "url": "https://www.instagram.com/reel/DWbMDUYtPCB/",
+              "description": "AI short that can apply for BAFTA"
+            },
+            {
+              "title": "Arthur Chance - SD2 First Impressions",
+              "url": "https://www.instagram.com/reel/DWeceeeDfyx/",
+              "description": "One-shotting content with Seedance 2.0"
+            },
+            {
+              "title": "Edmond Yang - LOL Network",
+              "url": "https://www.instagram.com/reel/DWeXuT_jAXL/",
+              "description": "Commercial AI content for LOL Network"
+            },
+            {
+              "title": "Mark Wachholz - 'The Interview'",
+              "url": "https://youtu.be/BGo578sWCGw",
+              "description": "Low-key realistic SD2 character test"
+            },
+            {
+              "title": "Filipa Kinomoto - Luma Brief v1",
+              "url": "https://youtu.be/YV_a7ZarUUQ",
+              "description": "First Luma dream brief submission"
+            },
+            {
+              "title": "Filipa Kinomoto - Luma Brief v2",
+              "url": "https://youtu.be/DDDaMH6BFAs",
+              "description": "Second Luma brief — no dialogue version"
+            },
+            {
+              "title": "Diane Laidlaw - PixVerse V6 Short",
+              "url": "https://youtu.be/JwHv0kWqIyM",
+              "description": "True crime series using PixVerse V6"
+            },
+            {
+              "title": "Ryan Patterson - 20-Min AI Film",
+              "url": "https://youtu.be/ToEfIA2ffco",
+              "description": "Full-length AI film"
+            },
+            {
+              "title": "Andy Mc - Runway Big Ad Contest",
+              "url": "https://x.com/andymac3d/status/2039539043298312511",
+              "description": "Easter road trip ad contest entry"
+            },
+            {
+              "title": "Simon Meyer - Runway Big Ad Contest",
+              "url": "https://www.linkedin.com/posts/simon-meyer-976339160_runwaybigadcontest-runwaybigadcontest-activity-7445273032794734592",
+              "description": "Runway ad contest submission"
+            },
+            {
+              "title": "Yonatan - Dreamina Launch Trailer",
+              "url": "https://x.com/i/status/2039749667865448641",
+              "description": "Official Dreamina Seedance 2 launch trailer"
+            },
+            {
+              "title": "Ari Kuschnir - Trump Library Parody",
+              "url": "https://www.instagram.com/arikuschnir/reel/DWmzKPQAcuA/",
+              "description": "AI parody of Trump's library video"
+            },
+            {
+              "title": "Kirill - Webby-Nominated Project",
+              "url": "https://davincis.digital/rbyba",
+              "description": "Da Vinci's Digital - Freepik + Kling"
+            },
+            {
+              "title": "Ryan Phillips - AI Animation Post",
+              "url": "https://www.linkedin.com/posts/ryan-phillips-3269307_ai-animation-is-going-to-enable-people-to-activity-7443225813463945217",
+              "description": "LinkedIn post sparking AI backlash discussion"
+            },
+            {
+              "title": "Perpetual - SD2 Showcase",
+              "url": "https://www.instagram.com/reel/DWnMPv_pTG-/",
+              "description": "Seedance 2.0 generation showcase"
+            },
+            {
+              "title": "David Clark - Runway Summit BTS",
+              "url": "https://x.com/promise_ai/status/2039809944904671625",
+              "description": "Paramount hybrid production behind the scenes"
+            },
+            {
+              "title": "Max - Wonder Team Expansion",
+              "url": "https://www.linkedin.com/posts/maxlarsson-safustudio_the-wonder-creative-team-just-got-even-stronger-activity-7445417616107765760",
+              "description": "Wonder creative team announcement"
+            },
+            {
+              "title": "OpenArt - SD2 Coverage",
+              "url": "https://www.linkedin.com/posts/openart-ai_the-ai-video-model-the-internet-couldnt-activity-7445317892633587713",
+              "description": "OpenArt's Seedance 2.0 feature"
+            }
+          ]
+        },
+        {
+          "title": "💭 Discussions & Insights",
+          "links": [
+            {
+              "title": "Brogan Wassell - Moneyball 'First Through the Wall'",
+              "url": "https://youtu.be/Ofkb_7EnunM",
+              "description": "Moneyball scene referenced in AI backlash discussion"
+            },
+            {
+              "title": "Dana Brunetti Tweet",
+              "url": "https://x.com/champrds/status/2038096221819052188",
+              "description": "Industry figure's take that 'made David Clark's year'"
+            },
+            {
+              "title": "VFX Outsourcing Discussion",
+              "url": "https://www.instagram.com/reel/DWRxk26jIpZ/",
+              "description": "How VFX/animation can survive outsourcing"
+            },
+            {
+              "title": "Topaz vs Magnific Comparison",
+              "url": "https://www.instagram.com/p/DWW2ObjDpzc/",
+              "description": "Simon's comparison of upscaling tools"
+            },
+            {
+              "title": "Ludovic - Interesting Workflow",
+              "url": "https://x.com/aimikoda/status/2037802249703813190",
+              "description": "Creative AI workflow shared by Ludovic"
+            }
+          ]
+        },
+        {
+          "title": "🎓 Events & Opportunities",
+          "links": [
+            {
+              "title": "Filipa - First Seedance Event in Europe",
+              "url": "https://luma.com/w3ph1765",
+              "description": "First European Seedance community event"
+            },
+            {
+              "title": "Kirill - Webby Awards Vote (Art & Experimental)",
+              "url": "https://vote.webbyawards.com/PublicVoting#/2026/video-film/general-video-film/art-experimental",
+              "description": "Vote for Kirill's Webby nomination"
+            },
+            {
+              "title": "ESHAP - Webby Awards Vote (Thought Leadership)",
+              "url": "https://vote.webbyawards.com/PublicVoting#/2026/creators/creator-excellence/best-thought-leadership",
+              "description": "Vote for ESHAP's Webby nomination"
+            },
+            {
+              "title": "Wonder Studios - Free Foundation Membership",
+              "url": "https://app.wonderstudios.com/join?invitation_token=f506055d91d8e12a0b88f73879e1b6df0d744be8-9468f789-43e2-4818-9bd1-e2eaeecd482c",
+              "description": "Free membership for RealDreams members"
+            },
+            {
+              "title": "Wonder Studios - Editor/Motion Graphics Job",
+              "url": "https://app.wonderstudios.com/c/jobs/contract-editor-motion-graphics-designer-for-a-social-media-project",
+              "description": "Contract position with Wonder Studios VC"
+            },
+            {
+              "title": "Aaron - Creative Working Group",
+              "url": "https://www.linkedin.com/posts/aaronbhugobaun_were-excited-to-welcome-aaron-activity-7445579112863240192",
+              "description": "New industry creative working group"
+            },
+            {
+              "title": "Luka T - LinkedIn Live Event",
+              "url": "https://linkedin.com/events/7443337546476199936/",
+              "description": "Luka T's upcoming LinkedIn Live"
+            },
+            {
+              "title": "Junie - Xavier's Congrats",
+              "url": "https://www.instagram.com/p/DWoVNm9CH0r/",
+              "description": "Celebrating Junie's achievement"
+            }
+          ]
+        },
+        {
+          "title": "🎬 Industry & Profiles",
+          "links": [
+            {
+              "title": "Gennie Studio",
+              "url": "https://www.gennie-studio.com/",
+              "description": "New member studio — AI-enabled, creator-driven"
+            },
+            {
+              "title": "Diane Laidlaw (Afro Futcha) LinkedIn",
+              "url": "https://www.linkedin.com/in/dianelaidlaw",
+              "description": "New member — AI filmmaker, BBC featured, TED AI speaker"
+            },
+            {
+              "title": "Henry's Pinterest Extension",
+              "url": "https://x.com/henrydaubrez/status/2036831560830484922",
+              "description": "Free vibe-coded Chrome extension"
+            },
+            {
+              "title": "Henry's Seedance Breakdown",
+              "url": "https://x.com/henrydaubrez/status/2037554776809050359",
+              "description": "Comprehensive SD2 tips and breakdown"
+            },
+            {
+              "title": "PJ Accetturo's SD2 Ad Framework",
+              "url": "https://x.com/PJaccetturo/status/2039747485263176156",
+              "description": "Complete guide for making ads with SD2"
+            },
+            {
+              "title": "Matthieu's Style-Trained Claude",
+              "url": "https://www.linkedin.com/posts/matthieugbrt_trained-a-md-file-on-my-tastead-and-claude-ugcPost-7443297920604364801",
+              "description": "Training Claude on personal art direction"
+            },
+            {
+              "title": "Seb Ungrad's Gemini Canvas",
+              "url": "https://www.linkedin.com/posts/seb-ungrad-b9381ba1_gemini-canvas-v2-activity-7444336557106450433",
+              "description": "Free vibe-coded Gemini canvas interface"
+            },
+            {
+              "title": "Huson Design",
+              "url": "https://huson.wtf/",
+              "description": "Designer recommended by Filipa for branding"
+            },
+            {
+              "title": "Ryan Phillips - Seedance Action",
+              "url": "https://www.linkedin.com/posts/ryan-phillips-3269307_cinematic-action-has-arrived-in-ai-filmmaking-ugcPost-7444896565531447296",
+              "description": "Seedance 2.0 action showcase"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
